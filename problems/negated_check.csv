@@ -1,0 +1,331 @@
+situationId,sitTerm,findingId,finTerm,Nsit
+274826007,Nystagmus absent (situation),563001,Nystagmus (disorder),1
+302064001,No lymphangitis (situation),1415005,Lymphangitis (disorder),1
+846726003,No gallop rhythm (situation),2170000,Gallop rhythm (finding),1
+162264002,No consciousness disturbance (situation),3006004,Disturbance of consciousness (finding),1
+276451003,No dental plaque (situation),4522001,Dental plaque (disorder),1
+721103006,Diabetic retinopathy of eye not detected (situation),4855003,Retinopathy due to diabetes mellitus (disorder),3
+860707009,No disorder of retina of right eye due to diabetes mellitus (situation),4855003,Retinopathy due to diabetes mellitus (disorder),3
+860706000,No disorder of retina of left eye due to diabetes mellitus (situation),4855003,Retinopathy due to diabetes mellitus (disorder),3
+134420004,No suicidal thoughts (situation),6471006,Suicidal thoughts (finding),1
+301125003,Pericardial friction rub absent (situation),7036007,Pericardial friction rub (finding),1
+102905003,Absence of guilt (situation),7571003,Feeling guilt (finding),1
+162154003,No urethral discharge (situation),9957009,Urethral discharge (finding),1
+169450001,No contraceptive precautions (situation),13197004,Contraception (finding),1
+733740006,Ischemic ulcer absent (situation),13954005,Ischemic ulcer (disorder),1
+162357001,No earache (situation),16001004,Otalgia (finding),1
+70790008,Absence of nausea and vomiting (situation),16932000,Nausea and vomiting (disorder),1
+440565004,Not fasting (situation),16985007,Fasting (finding),1
+15011000119104,History of pregnancy loss in non-pregnant woman (situation),17369002,Miscarriage (disorder),1
+34189007,Absence of aura (situation),18618006,Aura (finding),1
+299316003,Trendelenburg sign negative (situation),19693008,Trendelenburg sign (finding),1
+289805000,No cervical discharge (situation),20036005,Cervical discharge (finding),1
+281633000,Tinel's sign negative (situation),20995005,Tinel's sign (finding),1
+162037008,No abdominal pain (situation),21522001,Abdominal pain (finding),1
+298291002,Skeletal muscle non-tender (situation),22166009,Skeletal muscle tender (finding),1
+81765008,No pain (situation),22253000,Pain (finding),1
+298320009,Dysdiadochokinesis absent (situation),23133003,Dysdiadochokinesis (finding),1
+371622005,Elevated blood pressure reading without diagnosis of hypertension (situation),24184005,Finding of increased blood pressure (finding),1
+162298006,No headache (situation),25064002,Headache (finding),1
+274547000,Visual agnosia absent (situation),25762009,Visual agnosia (disorder),1
+225438003,No problems with thinking (situation),26628009,Disturbance in thinking (finding),1
+299052005,Froment's sign negative (situation),26680000,Froment's sign (finding),1
+473143003,Chronic disease absent (situation),27624003,Chronic disease (disorder),1
+846723006,No disease of retina of eye (situation),29555009,Retinal disorder (disorder),1
+161971004,Chest pain not present (situation),29857009,Chest pain (finding),1
+274621000,Lymphadenopathy absent (situation),30746006,Lymphadenopathy (disorder),1
+707199000,Finger clubbing absent (situation),30760008,Finger clubbing (disorder),1
+274831009,Arterial bruit absent (situation),30846001,Arterial bruit (finding),1
+28281004,No bacterial antibody present (situation),33779007,Bacterial antibody present (finding),1
+860981000,No dehydration (situation),34095006,Dehydration (disorder),1
+300434009,Cullen's sign negative (situation),35187000,Cullen's sign (finding),1
+274810006,Rebound tenderness absent (situation),35611005,Rebound tenderness (finding),1
+274823004,Clonus absent (situation),36649002,Clonus (finding),1
+371622005,Elevated blood pressure reading without diagnosis of hypertension (situation),38341003,"Hypertensive disorder, systemic arterial (disorder)",1
+299730006,Kernig's sign negative (situation),39051003,Kernig's sign (finding),1
+299883008,Ankle clonus absent (situation),39055007,Ankle clonus (finding),1
+708167009,No cutaneous papillomatosis (situation),39843000,Cutaneous papillomatosis (disorder),1
+397680002,Absence of signs and symptoms of infection (situation),40733004,Infectious disease (disorder),1
+315213009,Not a passive smoker (situation),43381005,Passive smoker (finding),1
+247079003,Red reflex absent (situation),43408002,Red reflex (finding),1
+297125009,Abdominal tenderness absent (situation),43478001,Abdominal tenderness (finding),1
+846715009,No paralysis (situation),44695005,Paralysis (finding),1
+298297003,Chvostek sign negative (situation),44717005,Chvostek sign (finding),1
+846719003,No ulcer of skin (situation),46742003,Skin ulcer (disorder),1
+278683009,No malocclusion (situation),47944004,Malocclusion of teeth (disorder),1
+161922009,No cough (situation),49727002,Cough (finding),1
+298322001,Past pointing absent (situation),49768006,Past pointing (finding),1
+846755006,No hernia of abdominal cavity (situation),52515009,Hernia of abdominal cavity (disorder),1
+300353003,Murphy's sign negative (situation),53566005,Murphy's sign (finding),1
+473146006,Coronary arteriosclerosis excluded (situation),53741008,Coronary arteriosclerosis (disorder),1
+846754005,No adventitious breath sounds (situation),53972003,Added respiratory sounds (finding),1
+299887009,Patellar clonus absent (situation),54360005,Patellar clonus (finding),1
+290081003,Breast non-tender (situation),55222007,Breast tenderness (finding),1
+310436000,Wheeze absent (situation),56018004,Wheezing (finding),1
+394926003,Heart disease excluded (situation),56265001,Heart disease (disorder),1
+162069004,Abdomen not distended (situation),60728008,Swollen abdomen (finding),1
+162350004,No tinnitus present (situation),60862001,Tinnitus (finding),1
+162104009,Diarrhea not present (situation),62315008,Diarrhea (finding),1
+161928008,Night cough absent (situation),62548007,Nocturnal cough (finding),1
+285341004,Not knocked out (situation),62564004,Concussion with loss of consciousness (disorder),1
+300432008,Grey Turner's sign negative (situation),62988009,Grey Turner's sign (finding),1
+274807004,Nasal discharge absent (situation),64531003,Nasal discharge (finding),1
+315215002,Disorder excluded (situation),64572001,Disease (disorder),3
+707289003,No abnormality detected by assessment of physical health (situation),64572001,Disease (disorder),3
+707290007,No abnormality detected by mental health assessment (situation),64572001,Disease (disorder),3
+300890009,Swelling absent (situation),65124004,Swelling (finding),1
+161953006,No hiccough (situation),65958008,Hiccoughs (finding),1
+871480003,No psychosis present (situation),69322001,Psychotic disorder (disorder),1
+846728002,No scarring of skin (situation),70582006,Scar of skin (disorder),1
+473136009,Lipodystrophy absent (situation),71325002,Lipodystrophy (disorder),1
+274832002,Abdominal rigidity absent (situation),72300008,Abdominal rigidity (finding),1
+162376004,Does not snore (situation),72863001,Snoring (finding),1
+315216001,Diabetes mellitus excluded (situation),73211009,Diabetes mellitus (disorder),1
+304242000,No experience of bereavement (situation),74506000,Bereavement due to life event (finding),1
+401268007,No evidence of mental illness (situation),74732009,Mental disorder (disorder),2
+78241000119105,Suspected mental condition not found (situation),74732009,Mental disorder (disorder),2
+162368001,Does not sneeze (situation),76067001,Sneezing (finding),1
+15011000119104,History of pregnancy loss in non-pregnant woman (situation),77386006,Pregnant (finding),1
+248553004,No obstruction of airway (situation),79688008,Respiratory obstruction (disorder),1
+161966006,No palpitations (situation),80313002,Palpitations (finding),1
+700424009,Aortic bruit absent (situation),82184000,Aortic bruit (finding),1
+299731005,Brudzinski's sign negative (situation),82345001,Brudzinski's sign (finding),1
+301281001,Coin sign absent (situation),82400004,Coin sign (finding),1
+394927007,Heart failure excluded (situation),84114007,Heart failure (disorder),2
+313389004,No cardiac failure (situation),84114007,Heart failure (disorder),2
+846725004,No stiffness of joint (situation),84445001,Joint stiffness (finding),1
+298295006,Gowers sign absent (situation),85905009,Gowers sign (finding),1
+733827009,Euphoria absent (situation),85949006,Euphoria (finding),1
+314641006,No testicular lump present (situation),87860000,Mass of testicle (finding),1
+82120007,Bacterial growth absent (situation),88458008,Bacterial growth present (finding),1
+301131000,Heart murmur absent (situation),88610006,Heart murmur (finding),1
+162161004,No breast lump (situation),89164003,Breast lump (finding),1
+860636001,No seizure seen (situation),91175000,Seizure (finding),1
+846753004,No nodule of skin present (situation),95319004,Skin nodule (finding),1
+846727007,No fissure in skin (situation),95321009,Fissure in skin (disorder),1
+846732008,No lesion of skin (situation),95324001,Skin lesion (disorder),1
+846729005,No pain in liver (situation),102626001,Liver pain (finding),1
+300334008,Liver non-tender (situation),102627005,Liver tender (finding),1
+860944004,No trophic change of skin (situation),106076001,Skin finding (finding),1
+309580001,Immunology finding absent (situation),106182000,Immune system finding (finding),1
+309582009,Cytology finding absent (situation),107674006,Cytologic finding (finding),1
+298252007,Joint non-tender (situation),110288007,Tenderness of joint (finding),1
+298296007,Trousseau sign negative (situation),112099006,Trousseau sign (finding),1
+860717004,No abnormality of joint (situation),118952005,Joint finding (finding),1
+860716008,No abnormality of bone (situation),118953000,Bone finding (finding),1
+425426005,Absence of open wound (situation),125643001,Open wound (disorder),1
+473140000,Contusion absent (situation),125667009,Contusion (disorder),1
+874908001,No evidence of disorder of kidney due to diabetes mellitus (situation),127013003,Disorder of kidney due to diabetes mellitus (disorder),1
+707312001,No varicose veins (situation),128060009,Venous varices (disorder),1
+395172009,No evidence of left ventricular systolic dysfunction (situation),134401001,Left ventricular systolic dysfunction (disorder),1
+161881004,No stiff neck (situation),161882006,Stiff neck (finding),1
+161890006,No backache (situation),161891005,Backache (finding),1
+313185002,No recurrence of problem (situation),161917009,Recurrence of problem (finding),1
+161962008,No respiratory symptoms (situation),161920001,Respiratory symptom (finding),1
+162019007,No problem chewing (situation),162020001,Difficulty chewing (finding),1
+162075008,No excessive upper gastrointestinal gas (situation),162076009,Excessive upper gastrointestinal gas (finding),1
+162139009,No genitourinary pain (situation),162138001,Genitourinary pain (finding),1
+162275003,No visual symptom (situation),162274004,Visual symptoms (finding),1
+162387007,No sore throat (situation),162397003,Pain in throat (finding),1
+167056009,Carcinoembryonic antigen absent (situation),167057000,Carcinoembryonic antigen present (finding),1
+473384006,Not trying to conceive (situation),169449001,Trying to conceive (finding),1
+170640003,No peak flow meter at home (situation),170639000,Peak flow meter at home (finding),1
+161869003,Not tired (situation),224960004,Tired (finding),1
+13117000,Absence of stress (situation),224974006,Feeling stressed (finding),1
+290117005,Nipple non-tender (situation),225574009,Nipple tenderness (finding),1
+300289009,No gastric reflux (situation),225587003,Gastric reflux (finding),1
+225874001,No thoughts about dying (situation),225875000,Thoughts about dying (finding),1
+228392004,Does not inject drugs (situation),226034001,Injecting drug user (finding),1
+228333007,No undue priority given to drink-related activities (situation),228334001,Undue priority given to drink-related activities (finding),1
+228396001,Does not share drug injection equipment (situation),228395002,Shares drug injecting equipment (finding),1
+228409000,Does not use needle and syringe exchange scheme (situation),228410005,Uses needle and syringe exchange scheme (finding),1
+228416004,No undue priority given to drug-related activities (situation),228417008,Undue priority given to drug-related activities (finding),1
+228426006,Has no routine of drug-related activities (situation),228427002,Has a routine of drug-related activities (finding),1
+228431008,Does not follow drug-related rituals (situation),228430009,Follows drug-related rituals (finding),1
+228439005,No craving for drugs (situation),228438002,Craves for drugs (finding),1
+846757003,No callus of foot (situation),229811005,Foot callus (disorder),1
+698752003,Absence of wound discharge (situation),239164002,Wound discharge (finding),1
+426893008,Absence of spontaneous respiration (situation),241700002,Spontaneous respiration (finding),1
+301909009,No eye discharge (situation),246679005,Discharge from eye (finding),1
+860719001,No scar of retina following laser photocoagulation (situation),247193008,Photocoagulation scars (finding),1
+300190006,Middle ear fistula sign negative (situation),247280008,Fistula sign in middle ear cleft (finding),1
+89777000,Tenderness absent (situation),247348008,Tenderness (finding),1
+846750001,No comedone present (situation),247467008,Comedone (disorder),1
+846730000,No wheal on skin (situation),247472004,Wheal (finding),1
+860718009,No abnormality of soft tissue (situation),248402002,General finding of soft tissue (finding),1
+289446001,Fetal heart sounds absent (situation),249045009,Fetal heart sounds present (finding),1
+249080008,No fontanelles presenting (situation),249079005,Fontanelles presenting (finding),1
+289672003,Absent fluid thrill in uterus (situation),249130004,Fluid thrill in uterus (finding),1
+289225008,No desire to push in labor (situation),249162001,Desire to push in labor (finding),1
+162379006,No nasal symptoms (situation),249307003,Nasal symptom (finding),1
+162372002,Does not have nosebleeds (situation),249366005,Bleeding from nose (finding),1
+301212004,No bleeding from larynx (situation),249467000,Bleeding from larynx (finding),1
+300420009,No abdominal guarding on palpation (situation),249545003,Abdominal guarding (finding),1
+300436006,Puddle sign negative (situation),249557007,Puddle sign (finding),1
+271738005,Spleen not palpable (situation),249572006,Spleen palpable (finding),1
+299054006,Prayer sign negative (situation),249772008,Prayer sign (finding),1
+278036006,Lupus antibody absent (situation),250371001,Lupus antibody present (finding),1
+251705002,No lacrimal regurgitation (situation),251701006,Lacrimal regurgitation (finding),1
+707317007,No hyperkeratosis (situation),254666005,Keratosis (disorder),1
+161915001,No general symptom (situation),267022002,General symptom (finding),1
+161938003,No breathlessness (situation),267036007,Dyspnea (finding),1
+162001003,No cardiovascular symptom (situation),267037003,Cardiovascular symptoms (finding),1
+161980004,No edema present (situation),267038008,Edema (finding),1
+162111008,No gastrointestinal symptom (situation),267045008,Gastrointestinal symptom (finding),1
+162085009,No tenesmus (situation),267053000,Tenesmus (finding),1
+162185007,No genitourinary symptom (situation),267062003,Genitourinary symptoms (finding),1
+274541004,Involuntary movements absent (situation),267078001,Involuntary movement (finding),1
+162235006,No motor symptom (situation),267082004,Motor symptoms (finding),1
+162293002,No speech problem (situation),267095009,Speech problem (finding),1
+162406001,"No ear, nose or throat symptom (situation)",267098006,Ear/nose/throat symptom (finding),1
+161851007,No temperature symptom (situation),271399003,Temperature symptoms (finding),1
+860643007,No postural drop in blood pressure (situation),271648003,Postural drop in blood pressure (finding),1
+274808009,Cardiac thrill absent (situation),271656000,Cardiac thrill (finding),1
+860641009,No intra-abdominal movement (situation),271678007,Intra-abdominal movement (finding),1
+271682009,Gallbladder not palpable (situation),271683004,Gallbladder palpable (finding),1
+846735005,No swelling of scrotum (situation),271687003,Swelling of scrotum (finding),1
+846756007,No raised intracranial pressure (situation),271719001,Raised intracranial pressure (finding),1
+860635002,No anemia present (situation),271737000,Anemia (disorder),1
+846734009,No pustule of skin (situation),271760008,Pustule (disorder),1
+846752009,No scaly skin present (situation),271761007,Scaly skin (finding),1
+846722001,No burrows in skin (situation),271762000,Burrows in skin (disorder),1
+846720009,No crust on skin (situation),271765003,Crust on skin (finding),1
+846751002,No sinus of skin present (situation),271766002,Skin sinus (disorder),1
+274827003,Joint not swollen (situation),271771009,Joint swelling (finding),1
+290000000,Rash absent (situation),271807003,Eruption of skin (disorder),1
+860713000,No mass of abdomen (situation),271860004,Abdominal mass (finding),1
+162157005,Vaginal discharge absent (situation),271939006,Vaginal discharge (finding),1
+302062002,No generalized lymphadenopathy (situation),274741002,Generalized enlarged lymph nodes (disorder),1
+302063007,No localized lymphadenopathy (situation),274744005,Localized enlarged lymph nodes (disorder),1
+846721008,No plaque of skin (situation),276322001,Skin plaque (finding),1
+704240001,Hydrops fetalis not present (situation),276508000,Hydrops fetalis (disorder),1
+300134000,No tenderness in ear canal (situation),277167007,Tenderness in ear canal (finding),1
+866214001,Mastoid non-tender (situation),277210007,Tender mastoid (finding),1
+301214003,Larynx non-tender (situation),277247007,Tender larynx (finding),1
+297973003,Skin non-tender (situation),278999000,Skin tenderness (finding),1
+162258009,No incoordination (situation),281016006,Incoordination (finding),1
+224963002,No bony injury (situation),284003005,Bone injury (disorder),1
+846741003,No cyst of skin (situation),285302001,Cyst of skin (disorder),1
+289424009,No fontanelles palpable vaginally (situation),289410005,Fontanelle palpable vaginally (finding),1
+289432001,Fetal movements absent (situation),289431008,Fetal movements present (finding),1
+289490006,Absent discharge at vulva (situation),289489002,Finding of discharge of vulva (finding),1
+289493008,Vulva non-tender (situation),289492003,Vulva tender (finding),1
+289542001,No vaginal blood loss (situation),289530006,Bleeding from vagina (finding),1
+789554009,Passing no clots vaginally (situation),289532003,Passing clots vaginally (finding),1
+289595003,Vagina non-tender (situation),289594004,Vaginal tenderness (finding),1
+289658007,No uterocervical descent (situation),289649000,Uterocervical descent (finding),1
+289668002,Body of uterus non-tender (situation),289667007,Tender body of uterus (finding),1
+866215000,Scar of gravid uterus non-tender (situation),289695007,Tender scar of gravid uterus (finding),1
+289801009,No cervical bleeding (situation),289799006,Bleeding cervix (finding),1
+289816007,Cervix non-tender (situation),289815006,Cervix tender (finding),1
+289843002,Ovary non-tender (situation),289842007,Ovary tender (finding),1
+290082005,No generalized tenderness of breast (situation),290079000,Generalized tenderness of breast (finding),1
+290083000,No localized tenderness of breast (situation),290080002,Localized tenderness of breast (finding),1
+290105008,No nipple bleeding (situation),290103001,Nipple bleeding (finding),1
+290106009,No bleeding from surface of nipple (situation),290104007,Bleeding of surface of nipple (finding),1
+297124008,Adnexal tenderness absent (situation),297123002,Adnexal tenderness (finding),1
+298730002,Sternum non-tender (situation),298729007,Sternum tender (finding),1
+298741000,Rib non-tender (situation),298740004,Rib tender (finding),1
+299951001,Barber's chair sign negative (situation),299950000,Barber's chair sign (finding),1
+300106007,Pinna non-tender (situation),300103004,Pinna tender (finding),1
+162363005,No ear discharge (situation),300132001,Ear discharge (finding),1
+162005007,No tooth problem (situation),300237004,Tooth problem (finding),1
+162010006,No mouth problem (situation),300255008,Oral cavity problem (finding),1
+271679004,Liver not palpable (situation),300323005,Liver palpable (finding),1
+300349000,Gallbladder non-tender (situation),300348008,Gallbladder tender (finding),1
+300447004,Kidney non-tender (situation),300446008,Kidney tender (finding),1
+300460005,Bladder non-tender (situation),300459000,Bladder tender (finding),1
+866213007,Testes non-tender (situation),300489007,Tender testes (finding),1
+300502003,Epididymis non-tender (situation),300501005,Epididymis tender (finding),1
+300508004,Vas deferens non-tender (situation),300507009,Vas deferens tender (finding),1
+300536009,Prostate non-tender (situation),300535008,Prostate tender (finding),1
+300540000,Sperm absent (situation),300539002,Sperm present (finding),1
+300567006,Spleen non-tender (situation),300566002,Spleen tender (finding),1
+300870000,No mass present (situation),300848003,Mass of body structure (finding),1
+301196008,Nose non-tender (situation),301195007,Nose tender (finding),1
+228367002,Does not misuse drugs (situation),361055000,Misuses drugs (finding),1
+414861001,No evidence of recurrence of cancer (situation),363346000,Malignant neoplastic disease (disorder),2
+395100000,No evidence of cancer found (situation),363346000,Malignant neoplastic disease (disorder),2
+165928001,Lupus erythematosus cells absent (situation),365602000,Finding of Lupus Erythematosus cell level (finding),1
+165768008,Rhesus antibody absent (situation),365647004,Finding of RhD antibody titer (finding),1
+300426003,Shifting abdominal dullness absent (situation),366463006,Shifting abdominal dullness (finding),1
+372284002,Pathology examination findings absent (situation),372286000,Pathology examination findings present (finding),1
+298311000,Romberg's sign negative (situation),373676004,Romberg sign (finding),1
+86699002,Apyrexial (situation),386661006,Fever (finding),1
+860638000,No ascites (situation),389026000,Ascites (disorder),1
+281007007,No fluorescein staining of cornea (situation),392612009,Fluorescein staining of cornea (finding),1
+162395006,No throat symptom (situation),395496008,Throat symptom (finding),1
+413164001,No evidence of left ventricular diastolic dysfunction (situation),395704004,Left ventricular diastolic dysfunction (disorder),1
+162023004,No problem swallowing (situation),399122003,Swallowing problem (finding),1
+401018007,Not wearing seat belt (situation),401116008,Wearing seat belt (finding),1
+401228008,No thoughts of deliberate self harm (situation),401229000,Thoughts of deliberate self harm (finding),1
+473139002,Acanthosis nigricans absent (situation),402599005,Acanthosis nigricans (disorder),1
+373572006,Clinical finding absent (situation),404684003,Clinical finding (finding),9
+397589008,Absence of signs and symptoms of injury caused by extraneous objects (situation),404684003,Clinical finding (finding),9
+397606006,Absence of signs and symptoms of radiation injury (situation),404684003,Clinical finding (finding),9
+397712006,Absence of signs and symptoms of electrical injury (situation),404684003,Clinical finding (finding),9
+397719002,Absence of signs and symptoms of physical injury (situation),404684003,Clinical finding (finding),9
+397601001,Absence of signs and symptoms of positioning injury (situation),404684003,Clinical finding (finding),9
+397687004,Absence of signs and symptoms of laser injury (situation),404684003,Clinical finding (finding),9
+397612001,Absence of signs and symptoms of transfer/transport injury (situation),404684003,Clinical finding (finding),9
+397658000,Absence of signs and symptoms of chemical injury (situation),404684003,Clinical finding (finding),9
+707315004,No lipodermatosclerosis (situation),410016009,Lipodermatosclerosis (disorder),1
+412716005,Cervical smear transformation zone cells absent (situation),412715009,Cervical smear transformation zone cells present (finding),1
+699196002,Coronary artery disease absent (situation),414024009,Disorder of coronary artery (disorder),1
+414862008,No evidence of right ventricular systolic dysfunction (situation),416158002,Right ventricular systolic dysfunction (disorder),1
+401187007,No itch (situation),418290006,Itching (finding),1
+300406002,No abdominal movement (situation),418532000,Abdominal wall movement (finding),1
+162467007,Free of symptoms (situation),418799008,Finding reported by subject or history provider (finding),2
+397680002,Absence of signs and symptoms of infection (situation),418799008,Finding reported by subject or history provider (finding),2
+700427002,Femoral bruit absent (situation),418869005,Femoral bruit (finding),1
+428913001,No loss of consciousness (situation),419045004,Loss of consciousness (finding),1
+700426006,Renal bruit absent (situation),419230002,Renal bruit (finding),1
+700428007,Carotid bruit absent (situation),419642000,Carotid bruit (finding),1
+162062008,No vomiting (situation),422400008,Vomiting (disorder),1
+162056003,No nausea (situation),422587007,Nausea (finding),1
+161886009,Does not bruise easily (situation),424131007,Easy bruising (finding),1
+424825007,Cerebrospinal fluid flow absent (situation),424595005,Free flow of cerebrospinal fluid (finding),1
+473134007,Symptomatic diabetic peripheral neuropathy absent (situation),424736006,Peripheral neuropathy due to diabetes mellitus (disorder),1
+431526005,Transformation zone of uterine cervix not visible (situation),432043003,Transformation zone of uterine cervix visible (finding),1
+274829000,Meningism absent (situation),437986008,Meningism (finding),1
+373140001,No thrombus (situation),439127006,Thrombosis (disorder),1
+441467001,Destot sign absent (situation),441461000,Destot sign (finding),1
+441977006,No cardiac pacemaker in situ (situation),441509002,Cardiac pacemaker in situ (finding),1
+441983009,No radioactive implant in situ (situation),442061005,Radioactive implant in situ (finding),1
+707289003,No abnormality detected by assessment of physical health (situation),442618008,Abnormal finding on evaluation procedure (finding),2
+707290007,No abnormality detected by mental health assessment (situation),442618008,Abnormal finding on evaluation procedure (finding),2
+443494009,Stemmer sign negative (situation),443515009,Stemmer sign (finding),1
+707319005,No lymphorrhea (situation),443903000,Extravasation of lymph onto skin (disorder),1
+707316003,No ankle flare (situation),443904006,Corona phlebectatica (disorder),1
+708021007,No blanching of skin of foot on elevation of foot (situation),444228009,Blanching of skin of foot on elevation (finding),1
+699093007,Unaware of prognosis (situation),444332001,Aware of prognosis (finding),1
+707321000,No hemosiderin pigmentation (situation),445072006,Hemosiderin pigmentation of skin (finding),1
+846733003,No papule of skin (situation),445328000,Papule of skin (finding),1
+707322007,No cutaneous lymphangioma (situation),445492005,Lymphangioma of skin (disorder),1
+698751005,Absence of wound odor (situation),445916002,Wound odor (finding),1
+473361004,Not tolerating normal diet (situation),449894006,Tolerating normal diet (finding),1
+473385007,Not tolerating oral fluid (situation),473358000,Tolerating oral fluid (finding),1
+705106004,No abnormality of fetal heart detected (situation),473383000,Abnormality of fetal heart (disorder),1
+702562003,No evidence of child sexual abuse (situation),700229002,Victim of child sexual abuse (finding),1
+860642002,No neurodevelopmental disorder present (situation),700364009,Neurodevelopmental disorder (disorder),1
+707313006,No skin inflammation (situation),703938007,Inflammatory dermatosis (disorder),1
+722811001,No prosthesis in situ (situation),722810000,Prosthesis in situ (finding),1
+860710002,No disorder of macula of right eye due to diabetes mellitus (situation),769244003,Disorder of right macula due to diabetes mellitus (disorder),1
+860709007,No disorder of macula of left eye due to diabetes mellitus (situation),769245002,Disorder of left macula due to diabetes mellitus (disorder),1
+846738007,No cataract of left eye (situation),816119002,Cataract of left eye (disorder),1
+846739004,No cataract of right eye (situation),816120008,Cataract of right eye (disorder),1
+860945003,No blister of skin (situation),823996003,Blister of skin (disorder),1
+846740002,No vesicle of skin (situation),827008005,Vesicle of skin (finding),1
+860639008,No reactive accommodation reflex (situation),827088007,Reactive accommodation reflex (finding),1
+846714008,No macule of skin (situation),829994007,Macule of skin (finding),1
+846736006,No ulcer of left foot (situation),830071006,Ulcer of left foot (disorder),1
+846737002,No ulcer of right foot (situation),830072004,Ulcer of right foot (disorder),1
+860640005,No pain in abdominal region on palpation (situation),838411007,Pain in abdominal region on palpation (finding),1
+688232241000119100,Disease caused by Severe acute respiratory syndrome coronavirus 2 absent (situation),840539006,Disease caused by Severe acute respiratory syndrome coronavirus 2 (disorder),1
+860714006,No deformity of left foot (situation),840676004,Deformity of left foot (finding),1
+860715007,No deformity of right foot (situation),840677008,Deformity of right foot (finding),1
+860711003,No disorder of macula of bilateral eyes due to diabetes mellitus (situation),860721006,Disorder of macula of bilateral eyes due to diabetes mellitus (disorder),1
+890316000,No erectile dysfunction (situation),860914002,Erectile dysfunction (disorder),1
+865996004,No pain on tooth percussion (situation),865971002,Pain on tooth percussion (finding),1
+1010194003,No safeguarding concern identified (situation),1010196001,Safeguarding concern (finding),1
+736734006,No lesion of endometrium (situation),92461000119101,Lesion of endometrium (disorder),1

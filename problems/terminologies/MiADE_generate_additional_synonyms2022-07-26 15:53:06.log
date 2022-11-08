@@ -1,0 +1,248 @@
+
+Files downloaded from GitHub to /tmp/Rtmp2caiY9/fma/ and CALIBERfma options set.
+
+CALIBERfma_dir_R = /tmp/Rtmp2caiY9/fma/
+CALIBERfma_dir_win = Z:\tmp\Rtmp2caiY9\fma\
+CALIBERfma_command = wine /tmp/Rtmp2caiY9/fma/fma15command.exe
+
+Now you can use the program by calling doAnalysis()
+
+SNOMED CT tables loaded into environment:
+                 NAME      NROW NCOL  MB                                                                      COLS KEY
+1:            CONCEPT   354,448    5  11                       id,effectiveTime,active,moduleId,definitionStatusId    
+2:        DESCRIPTION 1,237,861    9 197               id,effectiveTime,active,moduleId,conceptId,languageCode,...    
+3:        EXTENDEDMAP   138,835   11  14 effectiveTime,active,moduleId,refsetId,referencedComponentId,mapGroup,...    
+4:             REFSET    20,012    5   1              effectiveTime,active,moduleId,refsetId,referencedComponentId    
+5:       RELATIONSHIP 1,178,592   10  90               id,effectiveTime,active,moduleId,sourceId,destinationId,...    
+6:          SIMPLEMAP   505,829    6  51    effectiveTime,active,moduleId,refsetId,referencedComponentId,mapTarget    
+7: STATEDRELATIONSHIP         0   10   0               id,effectiveTime,active,moduleId,sourceId,destinationId,...    
+Total: 364MB
+
+Files downloaded from GitHub to /tmp/Rtmp2caiY9/fma/ and CALIBERfma options set.
+
+CALIBERfma_dir_R = /tmp/Rtmp2caiY9/fma/
+CALIBERfma_dir_win = Z:\tmp\Rtmp2caiY9\fma\
+CALIBERfma_command = wine /tmp/Rtmp2caiY9/fma/fma15command.exe
+
+Now you can use the program by calling doAnalysis()
+
+SNOMED CT tables loaded into environment:
+                 NAME      NROW NCOL  MB                                                                      COLS KEY
+1:            CONCEPT   354,448    5  11                       id,effectiveTime,active,moduleId,definitionStatusId    
+2:        DESCRIPTION 1,237,861    9 197               id,effectiveTime,active,moduleId,conceptId,languageCode,...    
+3:        EXTENDEDMAP   138,835   11  14 effectiveTime,active,moduleId,refsetId,referencedComponentId,mapGroup,...    
+4:             REFSET    20,012    5   1              effectiveTime,active,moduleId,refsetId,referencedComponentId    
+5:       RELATIONSHIP 1,178,592   10  90               id,effectiveTime,active,moduleId,sourceId,destinationId,...    
+6:          SIMPLEMAP   505,829    6  51    effectiveTime,active,moduleId,refsetId,referencedComponentId,mapTarget    
+7: STATEDRELATIONSHIP         0   10   0               id,effectiveTime,active,moduleId,sourceId,destinationId,...    
+Total: 364MB
+
+DONE
+
+Files downloaded from GitHub to /tmp/Rtmp2caiY9/fma/ and CALIBERfma options set.
+
+CALIBERfma_dir_R = /tmp/Rtmp2caiY9/fma/
+CALIBERfma_dir_win = Z:\tmp\Rtmp2caiY9\fma\
+CALIBERfma_command = wine /tmp/Rtmp2caiY9/fma/fma15command.exe
+
+Now you can use the program by calling doAnalysis()
+
+SNOMED CT tables loaded into environment:
+                 NAME      NROW NCOL  MB                                                                      COLS KEY
+1:            CONCEPT   354,448    5  11                       id,effectiveTime,active,moduleId,definitionStatusId    
+2:        DESCRIPTION 1,237,861    9 197               id,effectiveTime,active,moduleId,conceptId,languageCode,...    
+3:        EXTENDEDMAP   138,835   11  14 effectiveTime,active,moduleId,refsetId,referencedComponentId,mapGroup,...    
+4:             REFSET    20,012    5   1              effectiveTime,active,moduleId,refsetId,referencedComponentId    
+5:       RELATIONSHIP 1,178,592   10  90               id,effectiveTime,active,moduleId,sourceId,destinationId,...    
+6:          SIMPLEMAP   505,829    6  51    effectiveTime,active,moduleId,refsetId,referencedComponentId,mapTarget    
+7: STATEDRELATIONSHIP         0   10   0               id,effectiveTime,active,moduleId,sourceId,destinationId,...    
+Total: 364MB
+
+Files downloaded from GitHub to /tmp/Rtmp2caiY9/fma/ and CALIBERfma options set.
+
+CALIBERfma_dir_R = /tmp/Rtmp2caiY9/fma/
+CALIBERfma_dir_win = Z:\tmp\Rtmp2caiY9\fma\
+CALIBERfma_command = wine /tmp/Rtmp2caiY9/fma/fma15command.exe
+
+Now you can use the program by calling doAnalysis()
+
+SNOMED CT tables loaded into environment:
+                 NAME      NROW NCOL  MB
+1:            CONCEPT   354,448    5  11
+2:        DESCRIPTION 1,237,861    9 197
+3:        EXTENDEDMAP   138,835   11  14
+4:             REFSET    20,012    5   1
+5:       RELATIONSHIP 1,178,592   10  90
+6:          SIMPLEMAP   505,829    6  51
+7: STATEDRELATIONSHIP         0   10   0
+                                                                        COLS KEY
+1:                       id,effectiveTime,active,moduleId,definitionStatusId    
+2:               id,effectiveTime,active,moduleId,conceptId,languageCode,...    
+3: effectiveTime,active,moduleId,refsetId,referencedComponentId,mapGroup,...    
+4:              effectiveTime,active,moduleId,refsetId,referencedComponentId    
+5:               id,effectiveTime,active,moduleId,sourceId,destinationId,...    
+6:    effectiveTime,active,moduleId,refsetId,referencedComponentId,mapTarget    
+7:               id,effectiveTime,active,moduleId,sourceId,destinationId,...    
+Total: 364MB
+
+Files downloaded from GitHub to /tmp/Rtmp2caiY9/fma/ and CALIBERfma options set.
+
+CALIBERfma_dir_R = /tmp/Rtmp2caiY9/fma/
+CALIBERfma_dir_win = Z:\tmp\Rtmp2caiY9\fma\
+CALIBERfma_command = wine /tmp/Rtmp2caiY9/fma/fma15command.exe
+
+Now you can use the program by calling doAnalysis()
+
+SNOMED CT tables loaded into environment:
+                 NAME      NROW NCOL  MB
+1:            CONCEPT   354,448    5  11
+2:        DESCRIPTION 1,237,861    9 197
+3:        EXTENDEDMAP   138,835   11  14
+4:             REFSET    20,012    5   1
+5:       RELATIONSHIP 1,178,592   10  90
+6:          SIMPLEMAP   505,829    6  51
+7: STATEDRELATIONSHIP         0   10   0
+                                                                        COLS KEY
+1:                       id,effectiveTime,active,moduleId,definitionStatusId    
+2:               id,effectiveTime,active,moduleId,conceptId,languageCode,...    
+3: effectiveTime,active,moduleId,refsetId,referencedComponentId,mapGroup,...    
+4:              effectiveTime,active,moduleId,refsetId,referencedComponentId    
+5:               id,effectiveTime,active,moduleId,sourceId,destinationId,...    
+6:    effectiveTime,active,moduleId,refsetId,referencedComponentId,mapTarget    
+7:               id,effectiveTime,active,moduleId,sourceId,destinationId,...    
+Total: 364MB
+
+Files downloaded from GitHub to /tmp/Rtmp2caiY9/fma/ and CALIBERfma options set.
+
+CALIBERfma_dir_R = /tmp/Rtmp2caiY9/fma/
+CALIBERfma_dir_win = Z:\tmp\Rtmp2caiY9\fma\
+CALIBERfma_command = wine /tmp/Rtmp2caiY9/fma/fma15command.exe
+
+Now you can use the program by calling doAnalysis()
+
+SNOMED CT tables loaded into environment:
+                 NAME      NROW NCOL  MB
+1:            CONCEPT   354,448    5  11
+2:        DESCRIPTION 1,237,861    9 197
+3:        EXTENDEDMAP   138,835   11  14
+4:             REFSET    20,012    5   1
+5:       RELATIONSHIP 1,178,592   10  90
+6:          SIMPLEMAP   505,829    6  51
+7: STATEDRELATIONSHIP         0   10   0
+                                                                        COLS KEY
+1:                       id,effectiveTime,active,moduleId,definitionStatusId    
+2:               id,effectiveTime,active,moduleId,conceptId,languageCode,...    
+3: effectiveTime,active,moduleId,refsetId,referencedComponentId,mapGroup,...    
+4:              effectiveTime,active,moduleId,refsetId,referencedComponentId    
+5:               id,effectiveTime,active,moduleId,sourceId,destinationId,...    
+6:    effectiveTime,active,moduleId,refsetId,referencedComponentId,mapTarget    
+7:               id,effectiveTime,active,moduleId,sourceId,destinationId,...    
+Total: 364MB
+
+Files downloaded from GitHub to /tmp/Rtmp2caiY9/fma/ and CALIBERfma options set.
+
+CALIBERfma_dir_R = /tmp/Rtmp2caiY9/fma/
+CALIBERfma_dir_win = Z:\tmp\Rtmp2caiY9\fma\
+CALIBERfma_command = wine /tmp/Rtmp2caiY9/fma/fma15command.exe
+
+Now you can use the program by calling doAnalysis()
+
+SNOMED CT tables loaded into environment:
+                 NAME      NROW NCOL  MB
+1:            CONCEPT   354,448    5  11
+2:        DESCRIPTION 1,237,861    9 197
+3:        EXTENDEDMAP   138,835   11  14
+4:             REFSET    20,012    5   1
+5:       RELATIONSHIP 1,178,592   10  90
+6:          SIMPLEMAP   505,829    6  51
+7: STATEDRELATIONSHIP         0   10   0
+                                                                        COLS KEY
+1:                       id,effectiveTime,active,moduleId,definitionStatusId    
+2:               id,effectiveTime,active,moduleId,conceptId,languageCode,...    
+3: effectiveTime,active,moduleId,refsetId,referencedComponentId,mapGroup,...    
+4:              effectiveTime,active,moduleId,refsetId,referencedComponentId    
+5:               id,effectiveTime,active,moduleId,sourceId,destinationId,...    
+6:    effectiveTime,active,moduleId,refsetId,referencedComponentId,mapTarget    
+7:               id,effectiveTime,active,moduleId,sourceId,destinationId,...    
+Total: 364MB
+
+Files downloaded from GitHub to /tmp/Rtmp2caiY9/fma/ and CALIBERfma options set.
+
+CALIBERfma_dir_R = /tmp/Rtmp2caiY9/fma/
+CALIBERfma_dir_win = Z:\tmp\Rtmp2caiY9\fma\
+CALIBERfma_command = wine /tmp/Rtmp2caiY9/fma/fma15command.exe
+
+Now you can use the program by calling doAnalysis()
+
+SNOMED CT tables loaded into environment:
+                 NAME      NROW NCOL  MB
+1:            CONCEPT   354,448    5  11
+2:        DESCRIPTION 1,237,861    9 197
+3:        EXTENDEDMAP   138,835   11  14
+4:             REFSET    20,012    5   1
+5:       RELATIONSHIP 1,178,592   10  90
+6:          SIMPLEMAP   505,829    6  51
+7: STATEDRELATIONSHIP         0   10   0
+                                                                        COLS KEY
+1:                       id,effectiveTime,active,moduleId,definitionStatusId    
+2:               id,effectiveTime,active,moduleId,conceptId,languageCode,...    
+3: effectiveTime,active,moduleId,refsetId,referencedComponentId,mapGroup,...    
+4:              effectiveTime,active,moduleId,refsetId,referencedComponentId    
+5:               id,effectiveTime,active,moduleId,sourceId,destinationId,...    
+6:    effectiveTime,active,moduleId,refsetId,referencedComponentId,mapTarget    
+7:               id,effectiveTime,active,moduleId,sourceId,destinationId,...    
+Total: 364MB
+
+Files downloaded from GitHub to /tmp/Rtmp2caiY9/fma/ and CALIBERfma options set.
+
+CALIBERfma_dir_R = /tmp/Rtmp2caiY9/fma/
+CALIBERfma_dir_win = Z:\tmp\Rtmp2caiY9\fma\
+CALIBERfma_command = wine /tmp/Rtmp2caiY9/fma/fma15command.exe
+
+Now you can use the program by calling doAnalysis()
+
+SNOMED CT tables loaded into environment:
+                 NAME      NROW NCOL  MB
+1:            CONCEPT   354,448    5  11
+2:        DESCRIPTION 1,237,861    9 197
+3:        EXTENDEDMAP   138,835   11  14
+4:             REFSET    20,012    5   1
+5:       RELATIONSHIP 1,178,592   10  90
+6:          SIMPLEMAP   505,829    6  51
+7: STATEDRELATIONSHIP         0   10   0
+                                                                        COLS KEY
+1:                       id,effectiveTime,active,moduleId,definitionStatusId    
+2:               id,effectiveTime,active,moduleId,conceptId,languageCode,...    
+3: effectiveTime,active,moduleId,refsetId,referencedComponentId,mapGroup,...    
+4:              effectiveTime,active,moduleId,refsetId,referencedComponentId    
+5:               id,effectiveTime,active,moduleId,sourceId,destinationId,...    
+6:    effectiveTime,active,moduleId,refsetId,referencedComponentId,mapTarget    
+7:               id,effectiveTime,active,moduleId,sourceId,destinationId,...    
+Total: 364MB
+
+Files downloaded from GitHub to /tmp/Rtmp2caiY9/fma/ and CALIBERfma options set.
+
+CALIBERfma_dir_R = /tmp/Rtmp2caiY9/fma/
+CALIBERfma_dir_win = Z:\tmp\Rtmp2caiY9\fma\
+CALIBERfma_command = wine /tmp/Rtmp2caiY9/fma/fma15command.exe
+
+Now you can use the program by calling doAnalysis()
+
+SNOMED CT tables loaded into environment:
+                 NAME      NROW NCOL  MB
+1:            CONCEPT   354,448    5  11
+2:        DESCRIPTION 1,237,861    9 197
+3:        EXTENDEDMAP   138,835   11  14
+4:             REFSET    20,012    5   1
+5:       RELATIONSHIP 1,178,592   10  90
+6:          SIMPLEMAP   505,829    6  51
+7: STATEDRELATIONSHIP         0   10   0
+                                                                        COLS KEY
+1:                       id,effectiveTime,active,moduleId,definitionStatusId    
+2:               id,effectiveTime,active,moduleId,conceptId,languageCode,...    
+3: effectiveTime,active,moduleId,refsetId,referencedComponentId,mapGroup,...    
+4:              effectiveTime,active,moduleId,refsetId,referencedComponentId    
+5:               id,effectiveTime,active,moduleId,sourceId,destinationId,...    
+6:    effectiveTime,active,moduleId,refsetId,referencedComponentId,mapTarget    
+7:               id,effectiveTime,active,moduleId,sourceId,destinationId,...    
+Total: 364MB

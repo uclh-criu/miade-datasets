@@ -1,0 +1,299 @@
+conceptId,term,origterm,nconcepts,nterms
+15167005,aa,aa - alcohol abuse,3,3
+67362008,aa,aa - aortic aneurysm,3,3
+68225006,aa,aa - alopecia areata,3,3
+238575004,acd,acd - allergic contact dermatitis,2,3
+91867008,acd,acd - adult coeliac disease,2,3
+91867008,acd,acd - adult celiac disease,2,3
+24079001,ad,ad - atopic dermatitis,3,3
+26929004,ad,ad - alzheimer's disease,3,3
+11164009,ad,ad - autosomal dominant,3,3
+88032003,af,af - amaurosis fugax,2,3
+49436004,af,af - atrial fibrillation,2,3
+49436004,af,af,2,3
+78494001,ai,ai - amelogenesis imperfecta,2,2
+60234000,ai,ai - aortic incompetence,2,2
+255143004,ain,ain - anal intraepithelial neoplasia,2,2
+28637003,ain,ain - acute interstitial nephritis,2,2
+91489000,ami,ami - acute mesenteric ischemia,2,3
+91489000,ami,ami - acute mesenteric ischaemia,2,3
+57054005,ami,ami - acute myocardial infarction,2,3
+126949007,an,an - acoustic neuroma,2,2
+56882008,an,an - anorexia nervosa,2,2
+276575001,ant,ant - autoimmune neonatal thrombocytopenia,2,2
+240305000,ant,ant - alloimmune neonatal thrombocytopenia,2,2
+194828000,ap,ap - angina pectoris,3,3
+197456007,ap,ap - acute pancreatitis,3,3
+21522001,ap,ap - abdominal pain,3,3
+60234000,ar,ar - aortic regurgitation,2,2
+61582004,ar,ar - allergic rhinitis,2,2
+79195003,arc,arc - abnormal retinal correspondence,2,2
+866019003,arc,arc - augmented renal clearance,2,2
+14669001,arf,arf - acute renal failure,3,3
+26424001,arf,arf - acute rheumatic fever,3,3
+65710008,arf,arf - acute respiratory failure,3,3
+57207003,bk,bk - bullous keratopathy,2,2
+35055000,bk,bk - band keratopathy,2,2
+302914006,bo,bo - barrett's oesophagus,2,3
+81917002,bo,bo - body odor,2,3
+81917002,bo,bo - body odour,2,3
+254935002,bt,bt - brain tumour,2,3
+254935002,bt,bt - brain tumor,2,3
+36202009,bt,bt - broken tooth,2,3
+52636001,cad,cad - chronic actinic dermatitis,2,3
+53741008,cad,cad - coronary artery disease,2,3
+53741008,cad,cad,2,3
+197284004,cah,cah - chronic active hepatitis,3,4
+197284004,cah,cah - chronic aggressive hepatitis,3,4
+237751000,cah,cah - congenital adrenal hyperplasia,3,4
+93235007,cah,cah - congenital adrenal hypoplasia,3,4
+19311003,cc,cc - collagenous colitis,2,2
+50440006,cc,cc - crohn's colitis,2,2
+42343007,ccf,ccf - congestive cardiac failure,2,3
+302213007,ccf,ccf - carotid cavernous fistula,2,3
+42343007,ccf,ccf,2,3
+34000006,cd,cd - crohn's disease,4,5
+40275004,cd,cd - contact dermatitis,4,5
+44057004,cd,cd - conductive deafness,4,5
+396331005,cd,cd - coeliac disease,4,5
+396331005,cd,cd - celiac disease,4,5
+71961003,cdd,cdd - childhood disintegrative disorder,2,2
+702613006,cdd,cdd - congenital diaphragmatic defect,2,2
+13213009,chd,chd - congenital heart disease,2,3
+53741008,chd,chd - coronary heart disease,2,3
+53741008,chd,chd,2,3
+42343007,chf,chf - congestive heart failure,2,3
+43489008,chf,chf - crimean haemorrhagic fever,2,3
+43489008,chf,chf - crimean hemorrhagic fever,2,3
+194131002,ci,ci - convergence insufficiency,2,2
+17382005,ci,ci - cervical incompetence,2,2
+285636001,cin,cin - cervical intraepithelial neoplasia,4,4
+60926001,cin,cin - chronic interstitial nephritis,4,4
+418134006,cin,cin - conjunctival intraepithelial neoplasia,4,4
+420835009,cin,cin - corneal intraepithelial neoplasia,4,4
+80281008,cl,cl - cleft lip,2,2
+91554004,cl,cl - condylomata lata,2,2
+250904002,cm,cm - cochlear microphonic,2,2
+276654001,cm,cm - congenital malformation,2,2
+13645005,cold,cold - chronic obstructive lung disease,2,2
+82272006,cold,cold,2,2
+235494005,cp,cp - chronic pancreatitis,4,4
+128188000,cp,cp - cerebral palsy,4,4
+87979003,cp,cp - cleft palate,4,4
+49986002,cp,cp - central pain,4,4
+387800004,cs,cs - cervical spondylosis,2,3
+396331005,cs,cs - coeliac sprue,2,3
+396331005,cs,cs - celiac sprue,2,3
+95922009,csa,csa - child sexual abuse,2,3
+27405005,csa,csa - central sleep apnoea,2,3
+27405005,csa,csa - central sleep apnea,2,3
+196735001,csg,csg - chronic superficial gastritis,2,2
+77075001,csg,csg - chronic simple glaucoma,2,2
+86380000,ct,ct - claw toe,4,4
+71444005,ct,ct - cerebral thrombosis,4,4
+398274000,ct,ct - coronary thrombosis,4,4
+264830009,ct,ct - cover test,4,4
+160670007,dd,dd - diabetic diet,3,3
+58561002,dd,dd - diastrophic dysplasia,3,3
+397881000,dd,dd - diverticular disease,3,3
+15771004,di,di - diabetes insipidus,2,2
+786496006,di,di - detrusor instability,2,2
+73211009,dm,dm - diabetes mellitus,3,4
+30782001,dm,dm - diastolic murmur,3,4
+77956009,dm,dm - dystrophia myotonica,3,4
+73211009,dm,dm,3,4
+69254008,ds,ds - denture stomatitis,2,2
+24700007,ds,ds - disseminated sclerosis,2,2
+251786004,ef,ef - eccentric fixation,3,5
+40278002,ef,ef - essential fructosaemia,3,5
+40278002,ef,ef - essential fructosemia,3,5
+387705004,ef,ef - erythroblastosis foetalis,3,5
+387705004,ef,ef - erythroblastosis fetalis,3,5
+28192008,em,em - enteroviral meningitis,2,2
+36715001,em,em - erythema multiforme,2,2
+111508004,emd,emd - emery-dreifuss muscular dystrophy,3,3
+234172002,emd,emd,3,3
+414173003,emd,emd - exudative macular degeneration,3,3
+34801009,ep,ep - ectopic pregnancy,2,2
+367542003,ep,ep - eosinophilic pneumonia,2,2
+237885008,fhh,fhh - familial hypocalciuric hypercalcemia,2,4
+237885008,fhh,fhh - familial hypocalciuric hypercalcaemia,2,4
+249045009,fhh,fhh - fetal heart heard,2,4
+249045009,fhh,fhh - foetal heart heard,2,4
+30169000,fhl,fhl - functional hearing loss,2,3
+398250003,fhl,fhl - familial haemophagocytic lymphohistiocytosis,2,3
+398250003,fhl,fhl - familial hemophagocytic lymphohistiocytosis,2,3
+268470003,fmf,fmf - fetal movements felt,2,3
+12579009,fmf,fmf - familial mediterranean fever,2,3
+268470003,fmf,fmf - foetal movements felt,2,3
+235671002,gf,gf - gastric fistula,2,2
+271558008,gf,gf - glandular fever,2,2
+204739008,hd,hd - hirschsprung's disease,3,3
+47850008,hd,hd - heloma durum,3,3
+118599009,hd,hd - hodgkin's disease,3,3
+191169008,he,he - hereditary elliptocytosis,2,2
+13920009,he,he - hepatic encephalopathy,2,2
+276508000,hf,hf - hydrops fetalis,2,4
+84114007,hf,hf - heart failure,2,4
+276508000,hf,hf - hydrops foetalis,2,4
+84114007,hf,hf,2,4
+235873001,hh,hh - halothane hepatitis,3,3
+34063005,hh,hh - homonymous hemianopia,3,3
+84089009,hh,hh - hiatus hernia,3,3
+15188001,hi,hi - hearing impairment,2,2
+82271004,hi,hi - head injury,2,2
+197834003,ic,ic - interstitial cystitis,3,3
+10743008,ic,ic - irritable colon,3,3
+63491006,ic,ic - intermittent claudication,3,3
+226034001,idu,idu - injecting drug user,2,2
+228388006,idu,idu - intravenous drug user,2,2
+233850007,ie,ie - infective endocarditis,2,2
+285777008,ie,ie - idiopathic erythrocytosis,2,2
+237688008,ighd,ighd - idiopathic growth hormone deficiency,2,2
+2109003,ighd,ighd - isolated growth hormone deficiency,2,2
+40468003,ih,ih - infectious hepatitis,2,2
+396232000,ih,ih - inguinal hernia,2,2
+271558008,im,im - infective mononucleosis,3,4
+271558008,im,im - infectious mononucleosis,3,4
+41775005,im,im,3,4
+416669000,im,im - invasive mole,3,4
+52231000,ip,ip - idiopathic proctitis,2,2
+367520004,ip,ip - incontinentia pigmenti,2,2
+246998009,kp,kp - keratic precipitates,2,2
+5132005,kp,kp - keratosis pilaris,2,2
+161129001,ld,ld - learning difficulties,4,5
+182924003,ld,ld - light diet,4,5
+235856003,ld,ld - liver disease,4,5
+3577000,ld,ld - lattice degeneration,4,5
+161129001,ld,ld,4,5
+260296003,lp,lp - light perception,2,2
+4776004,lp,lp - lichen planus,2,2
+240839006,ls,ls - leopard skin,2,2
+398032003,ls,ls - loose stools,2,2
+16607004,ma,ma - missed abortion,2,2
+23063005,ma,ma - mitral atresia,2,2
+237296008,map,map - morbidly adherent placenta,3,3
+400171002,map,map - malignant atrophic papulosis,3,3
+423471004,map,map - myh associated polyposis,3,3
+37373007,md,md - meckel's diverticulum,3,3
+73297009,md,md - muscular dystrophy,3,3
+75934005,md,md - metabolic disorders,3,3
+47437004,mh,mh - mental handicap,2,2
+405501007,mh,mh - malignant hyperpyrexia,2,2
+48724000,mi,mi - mitral incompetence,2,3
+22298006,mi,mi - myocardial infarction,2,3
+22298006,mi,mi,2,3
+24700007,ms,ms - multiple sclerosis,2,3
+79619009,ms,ms - mitral stenosis,2,3
+24700007,ms,ms,2,3
+127348004,mva,mva,2,2
+418399005,mva,mva - motor vehicle accident,2,2
+224226001,nfa,nfa - no fixed abode,2,3
+786836003,nfa,nfa - near fatal asthma,2,3
+224226001,nfa,nfa,2,3
+232209000,no,no - nasal obstruction,2,2
+235628006,no,no - nutcracker oesophagus,2,2
+161882006,ns,ns - neck stiffness,4,3
+53889007,ns,ns - nuclear sclerosis,4,3
+52254009,ns,ns - nephrotic syndrome,4,3
+373414000,ns,ns - nuclear sclerosis,4,3
+26399002,oa,oa - ocular albinism,3,3
+76976005,oa,oa - optic atrophy,3,3
+26179002,oa,oa - oesophageal atresia,3,3
+82969005,os,os,2,3
+79962008,os,os - oesophageal spasm,2,3
+82969005,os,os - opening snap,2,3
+284470004,pac,pac - premature atrial contraction,2,2
+1111561000000108,pac,pac - primary angle closure,2,2
+274643008,pale,pale,2,2
+773275000,pale,pale - post-transplant acute limbic encephalitis,2,2
+230187000,pam,pam - primary amoebic meningoencephalitis,2,3
+230187000,pam,pam - primary amebic meningoencephalitis,2,3
+87153008,pam,pam - pulmonary alveolar microlithiasis,2,3
+250439007,pc,pc - pus cells,2,2
+419728003,pc,pc - portal cirrhosis,2,2
+49049000,pd,pd - parkinson's disease,2,2
+60700002,pd,pd - perceptive deafness,2,2
+365723003,ph,ph,2,2
+58008004,ph,ph - peliosis hepatis,2,2
+69927002,phpv,phpv,2,2
+314270008,phpv,phpv - persistent hyperplastic primary vitreous,2,2
+198130006,pid,pid - pelvic inflammatory disease,2,3
+73589001,pid,pid - prolapsed intervertebral disc,2,3
+198130006,pid,pid,2,3
+254901000,pin,pin - prostatic intraepithelial neoplasia,2,2
+255148008,pin,pin - penile intraepithelial neoplasia,2,2
+253631001,pps,pps - peripheral pulmonary stenosis,2,2
+39402007,pps,pps - pelvic pain syndrome,2,2
+236026001,ppv,ppv - patent processus vaginalis,2,2
+277491009,ppv,ppv - peripheral positional vertigo,2,2
+77252004,pr,pr - pityriasis rosea,2,2
+91434003,pr,pr - pulmonary regurgitation,2,2
+197441003,psc,psc - primary sclerosing cholangitis,2,2
+315353005,psc,psc - posterior subcapsular cataract,2,2
+77889005,psp,psp - paralytic shellfish poisoning,2,3
+192976002,psp,psp - progressive supranuclear palsy,2,3
+192976002,psp,psp,2,3
+444133002,pss,pss - progressive systemic sclerosis,2,2
+772085001,pss,pss - proportionate short stature,2,2
+49420001,pv,pv - pemphigus vulgaris,2,2
+56454009,pv,pv - pityriasis versicolor,2,2
+247081001,pvd,pvd - posterior vitreous detachment,3,3
+76267008,pvd,pvd - pulmonary valve disease,3,3
+400047006,pvd,pvd - peripheral vascular disease,3,3
+24473007,pvs,pvs - persistent vegetative state,2,2
+56786000,pvs,pvs - pulmonary valve stenosis,2,2
+109996008,ra,ra - refractory anemia,3,4
+109996008,ra,ra - refractory anaemia,3,4
+51921000,ra,ra - retrograde amnesia,3,4
+69896004,ra,ra - rheumatoid arthritis,3,4
+232122003,rapd,rapd - relative afferent pupillary defect,2,2
+247015002,rapd,rapd - relative afferent pupil defect,2,2
+42059000,rd,rd - retinal detachment,2,2
+359649009,rd,rd - reducing diet,2,2
+50112006,re,re - retrograde ejaculation,2,2
+34000006,re,re - regional enteritis,2,2
+224166006,rich,rich,2,3
+703294004,rich,rich - rapidly involuting congenital hemangioma,2,3
+703294004,rich,rich - rapidly involuting congenital haemangioma,2,3
+36547009,rop,rop - right occipitoposterior position,2,2
+415297005,rop,rop - retinopathy of prematurity,2,2
+57773001,rp,rp - rectal prolapse,3,3
+28835009,rp,rp - retinitis pigmentosa,3,3
+52598005,rp,rp - rest pain,3,3
+281255004,sbo,sbo - small bowel obstruction,2,2
+76916001,sbo,sbo - spina bifida occulta,2,2
+254751002,sex,sex - solitary eruptive xanthogranuloma,2,2
+70256003,sex,sex,2,2
+262521009,si,si - spinal injury,3,3
+22220005,si,si - stress incontinence,3,3
+70256003,si,si - sexual intercourse,3,3
+55464009,sle,sle - systemic lupus erythematosus,2,2
+417607009,sle,sle - saint louis encephalitis,2,2
+361055000,sm,sm - substance misuser,2,2
+31574009,sm,sm - systolic murmur,2,2
+241700002,sr,sr - spontaneous respiration,3,3
+251150006,sr,sr - sinus rhythm,3,3
+66889002,sr,sr - schatzki ring,3,3
+89155008,ss,ss - systemic sclerosis,3,3
+76107001,ss,ss - spinal stenosis,3,3
+237836003,ss,ss - short stature,3,3
+282026002,sti,sti - soft tissue injury,2,2
+8098009,sti,sti - sexually transmitted infection,2,2
+226219004,td,td - test diet,3,3
+29352008,td,td - thanatophoric dwarfism,3,3
+102449007,td,td - tardive dyskinesia,3,3
+38804009,ts,ts - turner's syndrome,4,4
+47384003,ts,ts - tropical sprue,4,4
+49915006,ts,ts - tricuspid stenosis,4,4
+7199000,ts,ts - tuberous sclerosis,4,4
+21906008,vf,vf - vocal fremitus,2,3
+71908006,vf,vf - ventricular fibrillation,2,3
+71908006,vf,vf,2,3
+3738000,vh,vh - viral hepatitis,2,3
+31341008,vh,vh - vitreous haemorrhage,2,3
+31341008,vh,vh - vitreous hemorrhage,2,3
+58275005,vp,vp - variegate porphyria,2,2
+63440008,vp,vp - verrucae pedis,2,2
+88518009,wd,wd - wilson's disease,2,2
+41545003,wd,wd - whipple's disease,2,2
