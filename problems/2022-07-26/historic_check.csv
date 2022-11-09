@@ -1,0 +1,953 @@
+situationId,sitTerm,findingId,finTerm,Nsit
+16535531000119108,History of nystagmus (situation),563001,Nystagmus (disorder),1
+15912951000119101,History of episcleritis (situation),815008,Episcleritis (disorder),1
+267004000,History of musculoskeletal disease (situation),928000,Disorder of musculoskeletal system (disorder),1
+16864911000119103,History of intracranial hemorrhage (situation),1386000,Intracranial hemorrhage (disorder),1
+115451000119100,History of endophthalmitis (situation),1847009,Endophthalmitis (disorder),1
+428942009,History of fall (situation),1912002,Fall (event),1
+161449003,History of nutritional disorder (situation),2492009,Nutritional disorder (disorder),1
+275529004,History of congenital disease of hip (situation),2749000,Congenital deformity of hip joint (disorder),1
+15628411000119103,History of emergence delirium (situation),2776000,Delirium (disorder),2
+16535771000119101,History of delirium (situation),2776000,Delirium (disorder),2
+441511006,History of immune thrombocytopenia (situation),2897005,Immune thrombocytopenia (disorder),1
+161539004,History of melena (situation),2901004,Melena (disorder),1
+161556007,History of male infertility (situation),2904007,Male infertility (disorder),1
+934589301000119108,History of otitis externa (situation),3135009,Otitis externa (disorder),1
+285741000119105,History of pericarditis (situation),3238004,Pericarditis (disorder),1
+275554004,History of arthritis (situation),3723001,Arthritis (disorder),1
+473117004,History of viral hepatitis (situation),3738000,Viral hepatitis (disorder),1
+16468501000119108,History of Zika virus infection (situation),3928002,Zika virus disease (disorder),1
+473123009,History of bronchiolitis (situation),4120002,Bronchiolitis (disorder),1
+608837004,History of migraine with aura (situation),4473006,Migraine with aura (disorder),1
+691501000119103,History of gastritis (situation),4556007,Gastritis (disorder),1
+681221000119108,History of herpes zoster (situation),4740000,Herpes zoster (disorder),1
+94001000119104,History of typhoid (situation),4834000,Typhoid fever (disorder),1
+161584002,History of perinatal cerebral irritability (situation),4952001,Cerebral irritability in newborn (disorder),1
+428076002,History of atrial flutter (situation),5370000,Atrial flutter (disorder),1
+275553005,History of male sex function problem (situation),5413009,Abnormal male sexual function (finding),1
+161772002,History of oral contraceptive usage (situation),5935008,Oral contraception (finding),1
+407613009,Born by breech delivery (situation),6096002,Breech presentation (finding),1
+13016311000119104,History of retinal edema (situation),6141006,Retinal edema (disorder),1
+789775004,History of influenza (situation),6142004,Influenza (disorder),1
+725943008,History of second degree perineal laceration (situation),6234006,Second degree perineal laceration (disorder),1
+441493008,History of premature labor (situation),6383007,Premature labor (finding),1
+161798008,History of female infertility (situation),6738008,Female infertility (disorder),1
+161478002,History of meningitis (situation),7180009,Meningitis (disorder),1
+161466001,History of alcoholism (situation),7200002,Alcoholism (disorder),1
+275881005,History of sexually transmitted disease (situation),8098009,Sexually transmitted infectious disease (disorder),1
+161538007,History of hematemesis (situation),8765009,Hematemesis (disorder),1
+161562002,History of psoriasis (situation),9014002,Psoriasis (disorder),1
+16475471000119100,History of herpes simplex keratitis (situation),9389005,Herpes simplex keratitis (disorder),1
+681201000119104,History of prostatitis (situation),9713002,Prostatitis (disorder),1
+136611000119100,History of sepsis (situation),10001005,Bacterial sepsis (disorder),1
+725941005,History of third degree perineal laceration (situation),10217006,Third degree perineal laceration (disorder),1
+70871000119100,History of irritable bowel syndrome (situation),10743008,Irritable bowel syndrome (disorder),1
+161555006,History of prostatism (situation),11441004,Prostatism (disorder),1
+472971004,History of gestational diabetes mellitus (situation),11687002,Gestational diabetes mellitus (disorder),1
+16880931000119102,History of eyelid ptosis (situation),11934000,Ptosis of eyelid (disorder),1
+428934008,History of inactive tuberculosis (situation),11999007,Inactive tuberculosis (disorder),1
+16885661000119108,History of rectal bleeding (situation),12063002,Rectal hemorrhage (disorder),1
+315604002,Missed contraceptive pill (situation),13197004,Contraception (finding),2
+420209000,History of contraceptive usage (situation),13197004,Contraception (finding),2
+266998003,History of peptic ulcer (situation),13200003,Peptic ulcer (disorder),1
+161573009,History of cardiac anomaly (situation),13213009,Congenital heart disease (disorder),1
+433845004,History of aneurysm of iliac artery (situation),13290008,Aneurysm of iliac artery (disorder),1
+275542004,History of Ménière's disease (situation),13445001,Ménière's disease (disorder),1
+414416008,History of hypercholesterolemia (situation),13644009,Hypercholesterolemia (disorder),1
+270473001,History of chronic obstructive airway disease (situation),13645005,Chronic obstructive lung disease (disorder),1
+400998002,History of manic depressive disorder (situation),13746004,Bipolar disorder (disorder),1
+161419000,History of measles (situation),14189004,Measles (disorder),1
+161780009,History of amenorrhea (situation),14302001,Amenorrhea (finding),1
+275536003,History of thyroid disorder (situation),14304000,Disorder of thyroid gland (disorder),1
+137971000119104,History of acute renal failure (situation),14669001,Acute renal failure syndrome (disorder),1
+428863007,History of vitreous floater (situation),15013002,Vitreous floaters (disorder),1
+439589003,History of peritonsillar abscess (situation),15033003,Peritonsillar abscess (disorder),1
+371434005,History of alcohol abuse (situation),15167005,Alcohol abuse (disorder),1
+472955004,History of hearing loss (situation),15188001,Hearing loss (disorder),1
+161806007,History of eclampsia (situation),15938005,Eclampsia (disorder),1
+16089211000119108,History of gastrojejunal ulcer (situation),16121001,Gastrojejunal ulcer (disorder),1
+441494002,History of splenomegaly (situation),16294009,Splenomegaly (disorder),1
+70561000119109,History of heartburn (situation),16331000,Heartburn (finding),1
+16098821000119109,History of choroiditis (situation),16553002,Choroiditis (disorder),1
+691491000119105,History of esophagitis (situation),16761005,Esophagitis (disorder),1
+93961000119100,History of pneumococcal infection (situation),16814004,Pneumococcal infectious disease (disorder),1
+10988171000119101,History of parasitic disease (situation),17322007,Disease caused by parasite (disorder),1
+161752007,History of six miscarriages (situation),17369002,Miscarriage (disorder),8
+161747002,History of one miscarriage (situation),17369002,Miscarriage (disorder),8
+161744009,History of miscarriage (situation),17369002,Miscarriage (disorder),8
+161748007,History of two miscarriages (situation),17369002,Miscarriage (disorder),8
+161749004,History of three miscarriages (situation),17369002,Miscarriage (disorder),8
+161750004,History of four miscarriages (situation),17369002,Miscarriage (disorder),8
+161751000,History of five miscarriages (situation),17369002,Miscarriage (disorder),8
+15011000119104,History of pregnancy loss in non-pregnant woman (situation),17369002,Miscarriage (disorder),8
+161536006,History of jaundice (situation),18165001,Jaundice (finding),1
+726623007,History of postpartum psychosis (situation),18260003,Postpartum psychosis (disorder),1
+161563007,History of chronic skin ulcer (situation),19429009,Chronic ulcer of skin (disorder),1
+472956003,History of disorder of soft tissue (situation),19660004,Disorder of soft tissue (disorder),1
+16915541000119100,History of acalculous cholecystitis (situation),19968009,Cholecystitis without calculus (disorder),1
+137961000119105,History of ureteral obstruction (situation),20018005,Occlusion of ureter (disorder),1
+433807000,History of occlusion of cerebral artery without cerebral infarction (situation),20059004,Occlusion of cerebral artery (disorder),2
+431310008,History of occlusion of cerebral artery (situation),20059004,Occlusion of cerebral artery (disorder),2
+267015005,History of full term delivery (situation),21243004,Term birth of newborn (finding),1
+161515009,History of subarachnoid hemorrhage (situation),21454007,Subarachnoid intracranial hemorrhage (disorder),1
+161524000,History of hay fever (situation),21719001,Allergic rhinitis caused by pollen (disorder),1
+733899004,Past history of baby with fetal growth restriction (situation),22033007,Fetal growth retardation (disorder),1
+16535691000119106,History of strabismus (situation),22066006,Strabismus (disorder),1
+161794005,History of stress incontinence (situation),22220005,Genuine stress incontinence (finding),1
+161503005,History of myocardial infarct at age greater than sixty (situation),22298006,Myocardial infarction (disorder),6
+161502000,History of myocardial infarct at age less than sixty (situation),22298006,Myocardial infarction (disorder),6
+308065005,History of myocardial infarction in last year (situation),22298006,Myocardial infarction (disorder),6
+399211009,History of myocardial infarction (situation),22298006,Myocardial infarction (disorder),6
+461000119108,History of myocardial infarction in last eight weeks (situation),22298006,Myocardial infarction (disorder),6
+103011000119106,Coronary arteriosclerosis in patient with history of previous myocardial infarction (situation),22298006,Myocardial infarction (disorder),6
+16089131000119108,History of pyloric channel ulcer (situation),22620000,Prepyloric ulcer (disorder),1
+428951001,History of hemorrhage into ventricle of brain (situation),23276006,Ventricular hemorrhage (disorder),1
+429423007,History of Lyme disease (situation),23502006,Lyme disease (disorder),1
+266993007,History of central nervous system disorder (situation),23853001,Disorder of the central nervous system (disorder),1
+161488001,History of glaucoma (situation),23986001,Glaucoma (disorder),1
+608844008,History of inflammatory bowel disease (situation),24526004,Inflammatory bowel disease (disorder),1
+427902001,History of branch retinal vein occlusion (situation),24596005,Venous retinal branch occlusion (disorder),1
+425978000,History of headache (situation),25064002,Headache (finding),1
+161494009,History of ear disorder (situation),25906001,Disorder of ear (disorder),1
+371435006,History of drug abuse (situation),26416006,Drug abuse (disorder),1
+726596004,History of uterine inversion (situation),27215002,Uterine inversion (disorder),1
+59801000119102,History of small vessel disease due to diabetes mellitus (situation),27550009,Disorder of blood vessel (disorder),1
+161422003,History of pertussis (situation),27836007,Pertussis (disorder),1
+275571003,History of female sexual problem (situation),28154007,Abnormal female sexual function (finding),1
+161581005,History of birth asphyxia (situation),28314004,"Asphyxia, in liveborn infant (disorder)",1
+16093661000119105,History of esophageal varices (situation),28670008,Esophageal varices (disorder),1
+16535611000119102,History of retinitis pigmentosa (situation),28835009,Retinitis pigmentosa (disorder),1
+16535441000119100,History of retinal hemorrhage (situation),28998008,Retinal hemorrhage (disorder),1
+473110002,History of proteinuria (situation),29738008,Proteinuria (finding),1
+16089411000119109,History of chest pain (situation),29857009,Chest pain (finding),1
+161417003,History of scarlatina (situation),30242009,Scarlet fever (disorder),1
+473118009,History of ventricular septal defect (situation),30288003,Ventricular septal defect (disorder),1
+441586006,History of Fanconi anemia (situation),30575002,Fanconi's anemia (disorder),1
+1099621000119102,History of ischemic colitis (situation),30588004,Ischemic colitis (disorder),1
+429125006,History of lymphadenopathy (situation),30746006,Lymphadenopathy (disorder),1
+16089091000119106,History of esophageal ulcer (situation),30811009,Ulcer of esophagus (disorder),1
+137401000119102,History of listeria meningitis (situation),31568009,Listeria meningitis (disorder),1
+161482000,History of trigeminal neuralgia (situation),31681005,Trigeminal neuralgia (disorder),1
+1098861000119103,History of torsades de pointes (situation),31722008,Torsades de pointes (disorder),1
+472974007,History of vasculitis (situation),31996006,Vasculitis (disorder),1
+275528007,History of bronchitis (situation),32398004,Bronchitis (disorder),1
+397942001,History of anesthesia problem (situation),33211000,Complication of anesthesia (disorder),1
+112561000119108,History of Crohns disease (situation),34000006,Crohn's disease (disorder),1
+161424002,History of viral illness (situation),34014006,Viral disease (disorder),1
+161550001,History of hematuria (situation),34436003,Blood in urine (finding),1
+161442007,History of hyperthyroidism (situation),34486009,Hyperthyroidism (disorder),1
+59701000119109,History of portal hypertension (situation),34742003,Portal hypertension (disorder),1
+161763005,History of ectopic pregnancy (situation),34801009,Ectopic pregnancy (disorder),1
+161804005,History of antepartum hemorrhage (situation),34842007,Antepartum hemorrhage (disorder),1
+427762006,History of iron deficiency (situation),35240004,Iron deficiency (disorder),1
+161469008,History of depression (situation),35489007,Depressive disorder (disorder),1
+472957007,History of pain of multiple joints (situation),35678005,Multiple joint pain (finding),1
+117881000119103,History of sick sinus syndrome (situation),36083008,Sick sinus syndrome (disorder),1
+161528002,History of pneumothorax (situation),36118008,Pneumothorax (disorder),1
+49231000119106,History of primary hyperparathyroidism (situation),36348003,Primary hyperparathyroidism (disorder),1
+161421005,History of rubella (situation),36653000,Rubella (disorder),1
+725924008,History of placenta previa (situation),36813001,Placenta previa (disorder),1
+161420006,History of mumps (situation),36989005,Mumps (disorder),1
+312489007,History of upper gastrointestinal tract hemorrhage (situation),37372002,Upper gastrointestinal hemorrhage (disorder),1
+161481007,History of migraine (situation),37796009,Migraine (disorder),1
+161501007,History of hypertension (situation),38341003,"Hypertensive disorder, systemic arterial (disorder)",1
+97131000119103,History of open head injury (situation),38354005,Open wound of head (disorder),1
+432160005,History of occlusion of central retinal artery (situation),38742007,Central retinal artery occlusion (disorder),1
+161423008,History of chickenpox (situation),38907003,Varicella (disorder),1
+763017007,History of female infertility due to tubal factor (situation),39446004,Female infertility of tubal origin (disorder),1
+10839421000119104,History of anaphylaxis (situation),39579001,Anaphylaxis (disorder),1
+275550008,History of gallbladder disease (situation),39621005,Disorder of gallbladder (disorder),1
+428030001,History of hepatitis A (situation),40468003,"Viral hepatitis, type A (disorder)",1
+161413004,History of infectious disease (situation),40733004,Infectious disease (disorder),1
+16916101000119104,History of dysphagia (situation),40739000,Dysphagia (disorder),1
+161443002,History of hypothyroidism (situation),40930008,Hypothyroidism (disorder),1
+128731000119101,History of Guillain Barre syndrome (situation),40956001,Guillain-Barré syndrome (disorder),1
+394705009,History of febrile convulsions (situation),41497008,Febrile convulsion (finding),1
+161487006,History of retinal detachment (situation),42059000,Retinal detachment (disorder),1
+414417004,History of renal failure (situation),42399005,Renal failure syndrome (disorder),1
+12618061000119101,History of hydronephrosis (situation),43064006,Hydronephrosis (disorder),1
+161561009,History of eczema (situation),43116000,Eczema (disorder),1
+472969004,History of diabetes mellitus type 2 (situation),44054006,Diabetes mellitus type 2 (disorder),1
+472960000,History of hypotension (situation),45007003,Low blood pressure (disorder),1
+161479005,History of encephalitis (situation),45170000,Encephalitis (disorder),1
+429124005,History of mood disorder (situation),46206005,Mood disorder (disorder),1
+472970003,History of diabetes mellitus type 1 (situation),46635009,Diabetes mellitus type 1 (disorder),1
+420697001,History of skin ulcer (situation),46742003,Skin ulcer (disorder),1
+161807003,History of severe pre-eclampsia (situation),46764007,Severe pre-eclampsia (disorder),1
+49081000119101,History of Cushing syndrome (situation),47270006,Hypercortisolism (disorder),1
+161809000,History of postpartum hemorrhage (situation),47821001,Postpartum hemorrhage (disorder),1
+709881001,History of gestational hypertension (situation),48194001,Pregnancy-induced hypertension (disorder),1
+161577005,History of congenital dislocation of hip (situation),48334007,Congenital dislocation of hip (disorder),1
+690461000119106,History of bradycardia (situation),48867003,Bradycardia (finding),1
+161786003,History of postcoital bleeding (situation),48880000,Postcoital bleeding (finding),1
+312442005,History of atrial fibrillation (situation),49436004,Atrial fibrillation (disorder),1
+161457000,History of anemia vitamin B12 deficient (situation),49472006,Megaloblastic anemia due to vitamin B>12< deficiency (disorder),1
+266995000,History of cardiovascular disease (situation),49601007,Disorder of cardiovascular system (disorder),1
+161523006,History of respiratory disease (situation),50043002,Disorder of respiratory system (disorder),1
+391094005,History of vertebral fracture (situation),50448004,Fracture of vertebral column (disorder),3
+137751000119105,History of pathological vertebral fracture (situation),50448004,Fracture of vertebral column (disorder),3
+137731000119104,History of traumatic vertebral fracture (situation),50448004,Fracture of vertebral column (disorder),3
+93871000119101,History of hepatitis C (situation),50711007,Viral hepatitis type C (disorder),1
+15647891000119108,History of corneal erosion (situation),50792001,Corneal erosion (disorder),1
+16279641000119107,History of occlusion of branch retinal artery (situation),50821009,Arterial retinal branch occlusion (disorder),1
+681211000119101,History of myocarditis (situation),50920009,Myocarditis (disorder),1
+275547005,History of duodenal ulcer (situation),51868009,Ulcer of duodenum (disorder),1
+472975008,History of arteritis (situation),52089001,Arteritis (disorder),1
+90171000119101,History of nephrotic syndrome (situation),52254009,Nephrotic syndrome (disorder),1
+161465002,History of dementia (situation),52448006,Dementia (disorder),1
+161533003,History of abdominal hernia (situation),52515009,Hernia of abdominal cavity (disorder),1
+161781008,History of polymenorrhea (situation),52754008,Polymenorrhea (finding),1
+161546008,History of nephritis (situation),52845002,Nephritis (disorder),1
+161810005,History of prolonged labor (situation),53443007,Prolonged labor (disorder),1
+736726000,History of disorder of digestive system (situation),53619000,Disorder of digestive system (disorder),1
+103011000119106,Coronary arteriosclerosis in patient with history of previous myocardial infarction (situation),53741008,Coronary arteriosclerosis (disorder),1
+16089171000119106,History of rectal ulcer (situation),54609002,Ulcer of rectum (disorder),1
+10824251000119108,History of artery embolism (situation),54687002,Arterial embolism (disorder),1
+275904003,History of neoplasm (situation),55342001,Neoplastic disease (disorder),1
+390867000,History of repeated overdose (situation),55680006,Drug overdose (disorder),1
+161580006,History of birth trauma (situation),56110009,Birth trauma of fetus (disorder),1
+275544003,History of heart disorder (situation),56265001,Heart disease (disorder),1
+161414005,History of tuberculosis (situation),56717001,Tuberculosis (disorder),1
+428287001,History of endocarditis (situation),56819008,Endocarditis (disorder),1
+161471008,History of anorexia nervosa (situation),56882008,Anorexia nervosa (disorder),1
+267003006,History of sexual function problem (situation),56925008,Abnormal sexual function (finding),1
+726625000,History of first degree perineal laceration (situation),57759005,First degree perineal laceration (disorder),1
+275905002,History of myocardial problem (situation),57809008,Myocardial disease (disorder),1
+161468000,History of schizophrenia (situation),58214004,Schizophrenia (disorder),1
+161500008,History of rheumatic fever (situation),58718002,Rheumatic fever (disorder),1
+16890881000119106,History of proliferative retinopathy due to diabetes mellitus (situation),59276001,Proliferative retinopathy due to diabetes mellitus (disorder),1
+161512007,History of pulmonary embolus (situation),59282003,Pulmonary embolism (disorder),1
+700236001,History of pleural effusion (situation),60046008,Pleural effusion (disorder),1
+473108004,History of osteomyelitis (situation),60168000,Osteomyelitis (disorder),1
+350391000119105,History of perforated tympanic membrane (situation),60442001,Perforation of tympanic membrane (disorder),1
+699010009,History of inhalant intoxication (situation),60901005,Inhalant intoxication (disorder),1
+10995991000119109,History of combat and operational stress reaction (situation),61157009,Combat fatigue (disorder),1
+161458005,History of hemolytic anemia (situation),61261009,Hemolytic anemia (disorder),1
+161416007,History of malaria (situation),61462000,Malaria (disorder),1
+413154005,History of phlebitis (situation),61599003,Phlebitis (disorder),1
+308064009,History of cerebrovascular disease (situation),62914000,Cerebrovascular disease (disorder),1
+161490000,History of visual disturbance (situation),63102001,Visual disturbance (disorder),1
+16915451000119104,History of stricture of esophagus (situation),63305008,Stricture of esophagus (disorder),1
+430545008,History of claudication (situation),63491006,Intermittent claudication (finding),1
+275907005,History of procidentia (situation),63871009,Third degree uterine prolapse (disorder),1
+430080003,History of thrombophlebitis (situation),64156001,Thrombophlebitis (disorder),1
+266999006,History of colitis (situation),64226004,Colitis (disorder),1
+161554005,History of male genital disorder (situation),64557000,Disorder of male genital organ (disorder),1
+312850006,History of disorder (situation),64572001,Disease (disorder),1
+789642001,History of stenosis of carotid artery (situation),64586002,Carotid artery stenosis (disorder),1
+275549008,History of ulcerative colitis (situation),64766004,Ulcerative colitis (disorder),1
+161460007,History of coagulation defect (situation),64779008,Blood coagulation disorder (disorder),1
+473120007,History of osteoporosis (situation),64859006,Osteoporosis (disorder),2
+473342003,History of osteoporosis resolved (situation),64859006,Osteoporosis (disorder),2
+427040000,History of testicular disorder (situation),64910008,Disorder of testis (disorder),1
+310479003,History of iritis (situation),65074000,Iritis (disorder),1
+16833281000119106,History of arterial thrombosis (situation),65198009,Arterial thrombosis (disorder),1
+473113000,History of polymyalgia rheumatica (situation),65323003,Polymyalgia rheumatica (disorder),1
+427836008,History of otitis media (situation),65363002,Otitis media (disorder),1
+927778271000119101,History of langerhans cell histiocytosis (situation),65399007,Langerhans cell histiocytosis (disorder),1
+16775141000119108,History of acute respiratory failure (situation),65710008,Acute respiratory failure (disorder),1
+429721005,History of hepatitis B (situation),66071002,Viral hepatitis type B (disorder),2
+59851000119103,History of hepatitis B conferring immunity (situation),66071002,Viral hepatitis type B (disorder),2
+161572004,History of congenital anomaly (situation),66091009,Congenital disease (disorder),1
+371422002,History of substance abuse (situation),66214007,Substance abuse (disorder),1
+13016271000119104,History of optic neuritis (situation),66760008,Optic neuritis (disorder),1
+16475431000119103,History of terminal esophageal web (situation),66889002,Terminal esophageal web (disorder),1
+285731000119101,History of paroxysmal supraventricular tachycardia (situation),67198005,Paroxysmal supraventricular tachycardia (disorder),1
+161514008,History of aortic aneurysm (situation),67362008,Aortic aneurysm (disorder),2
+430168009,History of stable aneurysm of abdominal aorta (situation),67362008,Aortic aneurysm (disorder),2
+94671000119102,History of adult respiratory distress syndrome (situation),67782005,Acute respiratory distress syndrome (disorder),1
+16235071000119108,History of idiopathic intracranial hypertension (situation),68267002,Benign intracranial hypertension (disorder),1
+432006000,History of occlusion of central retinal vein (situation),68478007,Central retinal vein occlusion (disorder),1
+428283002,History of polyp of colon (situation),68496003,Polyp of colon (disorder),1
+1201000119107,History of urinary tract infection (situation),68566005,Urinary tract infectious disease (disorder),1
+161567008,History of rheumatoid arthritis (situation),69896004,Rheumatoid arthritis (disorder),1
+725950007,History of placenta accreta (situation),70129008,Placenta accreta (disorder),1
+16851191000119103,History of hemorrhoid (situation),70153002,Hemorrhoids (disorder),1
+80541000119104,History of nutritional deficiency (situation),70241007,Nutritional deficiency disorder (disorder),1
+414371008,History of agoraphobia (situation),70691001,Agoraphobia (disorder),1
+125701000119100,History of urethral cyst (situation),70795003,Cyst of urethra (disorder),1
+161796007,History of dyspareunia (situation),71315007,Dyspareunia (finding),1
+161513002,History of ventricular fibrillation (situation),71908006,Ventricular fibrillation (disorder),1
+126131000119101,History of eating disorder (situation),72366004,Eating disorder (disorder),1
+16279601000119105,History of gastroschisis (situation),72951007,Gastroschisis (disorder),1
+161445009,History of diabetes mellitus (situation),73211009,Diabetes mellitus (disorder),1
+472967002,History of dysplasia of cervix (situation),73391008,Dysplasia of cervix (disorder),1
+125731000119107,History of congenital absence of germinal epithelium of testes (situation),73465006,Congenital absence of germinal epithelium of testes (disorder),1
+267018007,History of genital prolapse (situation),73998008,Prolapse of female genital organs (disorder),1
+48811000119106,History of acromegaly (situation),74107003,Acromegaly (disorder),1
+161532008,History of appendicitis (situation),74400008,Appendicitis (disorder),1
+275551007,History of gastrointestinal bleed (situation),74474003,Gastrointestinal hemorrhage (disorder),1
+161472001,History of psychological trauma (situation),74732009,Mental disorder (disorder),2
+161464003,History of psychiatric disorder (situation),74732009,Mental disorder (disorder),2
+16360861000119103,History of acute febrile mucocutaneous lymph node syndrome (situation),75053002,Acute febrile mucocutaneous lymph node syndrome (disorder),1
+15627801000119104,History of hyphema (situation),75229002,Hyphema (disorder),1
+161589007,History of poisoning (situation),75478009,Poisoning (disorder),1
+85921000119107,History of pancreatitis (situation),75694006,Pancreatitis (disorder),1
+266991009,History of metabolic disorder (situation),75934005,Metabolic disease (disorder),1
+93911000119103,History of histoplasmosis (situation),76255006,Infection caused by Histoplasma capsulatum (disorder),1
+1087151000119108,History of syphilis (situation),76272004,Syphilis (disorder),1
+97681000119106,History of hypercoagulable state (situation),76612001,Hypercoagulability state (finding),1
+161551002,History of urethral stricture (situation),76618002,Urethral stricture (disorder),1
+161788002,History of postmenopausal bleeding (situation),76742009,Postmenopausal bleeding (finding),1
+16535321000119101,History of optic atrophy (situation),76976005,Optic atrophy (disorder),1
+161743003,History of stillbirth (situation),77386006,Pregnant (finding),13
+161763005,History of ectopic pregnancy (situation),77386006,Pregnant (finding),13
+161765003,History of premature delivery (situation),77386006,Pregnant (finding),13
+161804005,History of antepartum hemorrhage (situation),77386006,Pregnant (finding),13
+161810005,History of prolonged labor (situation),77386006,Pregnant (finding),13
+267015005,History of full term delivery (situation),77386006,Pregnant (finding),13
+271903000,History of pregnancy (situation),77386006,Pregnant (finding),13
+441493008,History of premature labor (situation),77386006,Pregnant (finding),13
+726001007,History of live birth (situation),77386006,Pregnant (finding),13
+32271000119102,History of delivery of macrosomal infant (situation),77386006,Pregnant (finding),13
+16216731000119106,History of intrauterine fetal death (situation),77386006,Pregnant (finding),13
+726565008,Past history of small for gestational age baby (situation),77386006,Pregnant (finding),13
+15011000119104,History of pregnancy loss in non-pregnant woman (situation),77386006,Pregnant (finding),13
+126151000119107,History of bulimia nervosa (situation),78004001,Bulimia nervosa (disorder),1
+1099001000119103,History of dysthymia (situation),78667006,Dysthymia (disorder),1
+161575002,History of cleft lip (situation),80281008,Cleft lip (disorder),1
+473122004,History of palpitations (situation),80313002,Palpitations (finding),1
+152711000119105,History of skin and/or subcutaneous tissue disease (situation),80659006,Disorder of skin and/or subcutaneous tissue (disorder),1
+328021000119108,History of bowel obstruction (situation),81060008,Intestinal obstruction (disorder),1
+440706004,Full renal function recovered (situation),81141003,Normal renal function (finding),1
+275540007,History of brain disorder (situation),81308009,Disorder of brain (disorder),1
+161587009,History of head injury (situation),82271004,Injury of head (disorder),1
+161474000,History of attempted suicide (situation),82313006,Suicide attempt (event),1
+7831000175106,History of reaction to blood transfusion (situation),82545002,Blood transfusion reaction (disorder),1
+473390005,History of attempted weight loss (situation),83421005,Failure to lose weight (finding),1
+309634009,History of heart failure in last year (situation),84114007,Heart failure (disorder),2
+161505003,History of heart failure (situation),84114007,Heart failure (disorder),2
+726597008,History of spontaneous onset of labor (situation),84457005,Spontaneous onset of labor (finding),1
+161480008,History of epilepsy (situation),84757009,Epilepsy (disorder),1
+690491000119104,History of cardiomyopathy (situation),85898001,Cardiomyopathy (disorder),1
+161583008,History of perinatal convulsion (situation),87476004,Convulsions in the newborn (disorder),1
+16540531000119103,History of ocular zoster (situation),87513003,Herpes zoster ophthalmicus (disorder),1
+161456009,History of iron deficiency anemia (situation),87522002,Iron deficiency anemia (disorder),1
+119981000119101,History of bacterial infection (situation),87628006,Bacterial infectious disease (disorder),1
+293771000119100,History of lower gastrointestinal bleed (situation),87763006,Lower gastrointestinal hemorrhage (disorder),1
+161574003,History of cleft palate (situation),87979003,Cleft palate (disorder),1
+13016361000119101,History of amaurosis fugax (situation),88032003,Amaurosis fugax (disorder),1
+429406003,History of aldosteronism (situation),88213004,Aldosteronism (disorder),1
+125711000119102,History of hypospermatogenesis (situation),88311004,Oligozoospermia (finding),1
+441638006,History of Diamond-Blackfan anemia (situation),88854002,Congenital hypoplastic anemia (disorder),1
+816150000,History of shoulder dystocia (situation),89700002,Shoulder girdle dystocia (disorder),1
+439142009,History of recurrent tonsillitis (situation),90176007,Tonsillitis (disorder),2
+472958002,History of tonsillitis (situation),90176007,Tonsillitis (disorder),2
+161451004,History of gout (situation),90560007,Inflammatory disorder due to increased blood urate level (disorder),1
+60681000119105,History of spinal cord injury (situation),90584004,Spinal cord injury (disorder),1
+275552000,History of kidney disease (situation),90708001,Kidney disease (disorder),1
+161491001,History of corneal ulcer (situation),91514001,Corneal ulcer (disorder),1
+79081000119100,History of acute myeloid leukemia (situation),91861009,"Acute myeloid leukemia, disease (disorder)",1
+432218001,History of asymptomatic human immunodeficiency virus infection (situation),91947003,Asymptomatic human immunodeficiency virus infection (disorder),1
+1099381000119109,History of benign neoplasm of bone (situation),92027006,Benign neoplasm of bone (disorder),1
+428323002,History of benign neoplasm of brain (situation),92030004,Benign neoplasm of brain (disorder),1
+347941000119102,History of benign meningioma of brain (situation),92051001,Benign neoplasm of cerebral meninges (disorder),1
+122421000119106,History of benign neoplasm of larynx (situation),92175003,Benign neoplasm of larynx (disorder),1
+144101000119103,History of benign neoplasm of spinal cord (situation),92405007,Benign neoplasm of spinal cord (disorder),1
+10738811000119103,History of carcinoma in situ of uterine cervix (situation),92564006,Carcinoma in situ of uterine cervix (disorder),1
+690651000119106,History of carcinoma in situ of vulva (situation),92802003,Carcinoma in situ of vulva (disorder),1
+63581000119104,History of chronic lymphocytic leukemia (situation),92814006,"Chronic lymphoid leukemia, disease (disorder)",1
+161436008,History of leukemia (situation),93143009,"Leukemia, disease (disorder)",1
+16900351000119101,History of lipoma (situation),93163002,Lipoma (disorder),1
+321000119108,History of malignant melanoma of the skin (situation),93655004,Malignant melanoma of skin (disorder),1
+16848701000119101,History of primary malignant neoplasm of anterior wall of urinary bladder (situation),93675008,Primary malignant neoplasm of anterior wall of urinary bladder (disorder),1
+16894981000119106,History of primary malignant neoplasm of base of tongue (situation),93687001,Primary malignant neoplasm of base of tongue (disorder),1
+415086001,Personal history of primary malignant neoplasm of urinary bladder (situation),93689003,Primary malignant neoplasm of bladder (disorder),1
+415077006,Personal history of primary malignant neoplasm of bronchus (situation),93734005,Primary malignant neoplasm of bronchus (disorder),1
+73791000119103,History of malignant neoplasm of common bile duct (situation),93763008,Primary malignant neoplasm of common bile duct (disorder),1
+415079009,Personal history of primary malignant neoplasm of female genital organ (situation),93797001,Primary malignant neoplasm of female genital organ (disorder),1
+415081006,Personal history of primary malignant neoplasm of kidney (situation),93849006,Primary malignant neoplasm of kidney (disorder),1
+16848901000119103,History of primary malignant neoplasm of lateral wall of urinary bladder (situation),93863000,Primary malignant neoplasm of lateral wall of urinary bladder (disorder),1
+473067009,History of malignant neoplasm of liver (situation),93870000,Malignant neoplasm of liver (disorder),1
+415082004,Personal history of primary malignant neoplasm of lung (situation),93880001,Primary malignant neoplasm of lung (disorder),1
+415083009,Personal history of primary malignant neoplasm of male genital organ (situation),93885006,Primary malignant neoplasm of male genital organ (disorder),1
+1311000119102,History of primary malignant neoplasm of oropharynx (situation),93933005,Primary malignant neoplasm of oropharynx (disorder),1
+16848861000119109,History of primary malignant neoplasm of posterior wall of urinary bladder (situation),93972009,Primary malignant neoplasm of posterior wall of urinary bladder (disorder),1
+765378003,History of primary malignant neoplasm of skin (situation),94047004,Primary malignant neoplasm of skin (disorder),1
+1301000119100,History of primary malignant neoplasm of testis (situation),94087009,Primary malignant neoplasm of testis (disorder),1
+415085002,Personal history of primary malignant neoplasm of trachea (situation),94104001,Primary malignant neoplasm of trachea (disorder),1
+16849021000119100,History of primary malignant neoplasm of trigone of urinary bladder (situation),94109006,Primary malignant neoplasm of trigone of urinary bladder (disorder),1
+16848821000119104,History of primary malignant neoplasm of urachus (situation),94120006,Primary malignant neoplasm of urachus (disorder),1
+16848741000119104,History of primary malignant neoplasm of ureteric orifice (situation),94122003,Primary malignant neoplasm of ureteric orifice of urinary bladder (disorder),1
+16848941000119101,History of primary malignant neoplasm of neck of urinary bladder (situation),94124002,Primary malignant neoplasm of urinary bladder neck (disorder),1
+415087005,Personal history of primary malignant neoplasm of urinary system (situation),94125001,Primary malignant neoplasm of urinary system (disorder),1
+1099291000119102,History of cancer metastatic to bone (situation),94222008,Secondary malignant neoplasm of bone (disorder),1
+1098971000119104,History of cancer metastatic to brain (situation),94225005,Secondary malignant neoplasm of brain (disorder),1
+1098951000119108,History of cancer metastatic to liver (situation),94381002,Secondary malignant neoplasm of liver (disorder),1
+1098961000119105,History of cancer metastatic to lung (situation),94391008,Secondary malignant neoplasm of lung (disorder),1
+1098931000119102,History of cancer metastatic to lymph nodes (situation),94392001,Secondary malignant neoplasm of lymph node (disorder),1
+1098941000119106,History of cancer metastatic to skin (situation),94579000,Secondary malignant neoplasm of skin (disorder),1
+161560005,History of skin disorder (situation),95320005,Disorder of skin (disorder),1
+59641000119101,History of tracheoesophageal fistula (situation),95435007,Tracheoesophageal fistula (disorder),1
+428275008,History of subdural hematoma (situation),95453001,Subdural intracranial hematoma (disorder),1
+161548009,History of urinary stone (situation),95566004,Urolithiasis (disorder),1
+429025008,History of calculus of kidney (situation),95570007,Kidney stone (disorder),1
+726513006,History of hemolysis-elevated liver enzymes-low platelet count syndrome (situation),95605009,Hemolysis-elevated liver enzymes-low platelet count syndrome (disorder),1
+180301000119102,History of disorder of vision (situation),95677002,Disorder of vision (disorder),1
+428984001,History of tear of retina (situation),95690009,Retinal tear (disorder),1
+16300891000119109,History of fracture of orbit (situation),95851007,Fracture of orbit (disorder),1
+288411000119107,History of victim of child sexual abuse (situation),95922009,Child sex abuse (event),1
+161701005,History of respirator dependence (situation),105501005,Dependence on enabling machine or device (finding),2
+161700006,History of machine dependence (situation),105501005,Dependence on enabling machine or device (finding),2
+472954000,History of chlamydial infection (situation),105629000,Chlamydial infection (disorder),1
+472961001,History of disorder of connective tissue (situation),105969002,Disorder of connective tissue (disorder),1
+267000009,History of biliary disease (situation),105997008,Disorder of biliary tract (disorder),1
+161576001,History of urinary anomaly (situation),106098005,Urinary system finding (finding),1
+1251000119106,History of melanoma in situ of skin (situation),109266006,Melanoma in situ of skin (disorder),1
+429144004,History of malignant mesothelioma (situation),109378008,"Mesothelioma (malignant, clinical disorder) (disorder)",1
+428292004,History of Kaposi's sarcoma (situation),109385007,Kaposi's sarcoma (disorder),1
+49111000119106,History of hepatocellular carcinoma (situation),109841003,Liver cell carcinoma (disorder),1
+49101000119108,History of hepatoblastoma (situation),109843000,Hepatoblastoma (disorder),1
+143481000119103,History of lobular carcinoma in situ (situation),109888004,Lobular carcinoma in situ of breast (disorder),1
+88811000119104,History of ductal carcinoma in situ of breast (situation),109889007,Intraductal carcinoma in situ of breast (disorder),1
+725948004,History of retained placenta (situation),109894007,Retained placenta (disorder),1
+427846005,History of B-cell lymphoma (situation),109979007,B-cell lymphoma (disorder),1
+120481000119109,History of multiple myeloma (situation),109989006,Multiple myeloma (disorder),1
+293581000119108,History of penis injury (situation),110015006,Injury of penis (disorder),1
+15663121000119104,History of concussion injury of brain (situation),110030002,Concussion injury of brain (disorder),1
+85931000119105,History of tobacco use in remission less than 12 months (situation),110483000,Tobacco user (finding),1
+725954003,History of induced onset of labor (situation),112070001,Onset of labor induced (finding),1
+428448003,History of atopy (situation),115665000,Atopy (finding),1
+473068004,History of Hodgkin lymphoma (situation),118599009,Hodgkin's disease (disorder),1
+429014004,History of malignant lymphoma (situation),118600007,Malignant lymphoma (disorder),1
+428046009,History of non-Hodgkins lymphoma (situation),118601006,Non-Hodgkin's lymphoma (disorder),1
+10982181000119101,History of neoplasm of uncertain behavior (situation),118616009,Neoplastic disease of uncertain behavior (disorder),1
+681291000119105,History of mycosis fungoides (situation),118618005,Mycosis fungoides (disorder),1
+266997008,History of gastrointestinal disease (situation),119292006,Disorder of gastrointestinal tract (disorder),1
+472966006,History of cellulitis of skin (situation),123951002,Cellulitis of skin (disorder),1
+161450003,History of raised blood lipids (situation),124042003,Increased lipid (finding),1
+390839009,History of facial injury (situation),125593007,Injury of face (disorder),1
+391095006,History of fracture (situation),125605004,Fracture of bone (disorder),1
+135879003,History of dislocated shoulder (situation),125615005,Traumatic dislocation of shoulder region (disorder),1
+12147341000119108,History of burn (situation),125666000,Burn (disorder),1
+11012891000119106,History of urticaria (situation),126485001,Urticaria (disorder),1
+161542005,History of lower gastrointestinal tract neoplasm (situation),126768004,Neoplasm of gastrointestinal tract (disorder),1
+289917002,History of bladder neoplasm (situation),126885006,Neoplasm of bladder (disorder),1
+138381000119101,History of acoustic neuroma (situation),126949007,Acoustic neuroma (disorder),1
+112101000119101,History of meningioma (situation),126965008,Neoplasm of meninges (disorder),1
+433874008,History of diabetic peripheral angiopathy (situation),127014009,Peripheral angiopathy due to diabetes mellitus (disorder),1
+49201000119104,History of neoplasm of pituitary gland (situation),127024001,Neoplasm of pituitary gland (disorder),1
+144931000119108,History of carotid body neoplasm (situation),127028003,Neoplasm of carotid body (disorder),1
+441482006,History of sickle cell anemia (situation),127040003,Sickle cell-hemoglobin SS disease (disorder),1
+49121000119104,History of histiocytosis (situation),127068004,Histiocytic syndrome (disorder),1
+88611000119100,History of traumatic brain injury (situation),127295002,Traumatic brain injury (disorder),1
+472962008,History of cellulitis (situation),128045006,Cellulitis (disorder),1
+161508001,History of deep vein thrombosis (situation),128053003,Deep venous thrombosis (disorder),1
+161509009,History of varicose veins (situation),128060009,Venous varices (disorder),1
+161582003,History of hemolytic disease (situation),128086004,Hemolytic disorder (disorder),1
+441576005,History of infectious disease of central nervous system (situation),128117002,Infectious disease of central nervous system (disorder),1
+267005004,History of significant knee disorder (situation),128136007,Disorder of knee (disorder),2
+275555003,History of knee problem (situation),128136007,Disorder of knee (disorder),2
+16098861000119104,History of uveitis (situation),128473001,Uveitis (disorder),1
+267002001,History of urinary disease (situation),128606002,Disorder of the urinary system (disorder),1
+16845421000119109,History of cerebral aneurysm (situation),128609009,Intracranial aneurysm (disorder),1
+275531008,History of pacemaker in situ (situation),128926000,Postprocedural state finding (finding),3
+429286003,History of combination internal cardiac defibrillator and pacemaker (situation),128926000,Postprocedural state finding (finding),3
+161692001,History of cardiac pacemaker in situ (situation),128926000,Postprocedural state finding (finding),3
+161496006,History of chronic ear infection (situation),129127001,Infection of ear (disorder),1
+161547004,History of kidney infection (situation),129128006,Infectious disorder of kidney (disorder),1
+473057004,History of noncompliance with medication regimen (situation),129834002,Noncompliance with medication regimen (finding),1
+49241000119102,History of prolactinoma (situation),134209002,Prolactinoma (disorder),1
+772993004,History of being in foster care (situation),160497005,Fostered (finding),1
+428309004,History of RhD negative (situation),165746003,RhD negative (finding),1
+473102003,History of use of progestogen only oral contraceptive (situation),169467008,Progestogen only oral contraceptive (finding),1
+161775000,History of sheath usage (situation),169505001,Uses contraceptive sheath (finding),1
+473097001,History of use of withdrawal method of contraception (situation),169513000,Withdrawal contraception (finding),1
+473096005,History of use of symptothermal method of contraception (situation),169535008,Uses symptothermal contraception (finding),1
+473388009,Born at home (situation),169813005,Home birth (finding),1
+473389001,Born in ambulance (situation),169817006,Ambulance birth (finding),1
+143591000119101,History of toxoplasmosis (situation),187192000,Toxoplasmosis (disorder),1
+73731000119102,History of malignant neoplasm of nasopharynx (situation),187692001,Malignant tumor of nasopharynx (disorder),1
+429089000,History of malignant neoplasm of endometrium (situation),188192002,Malignant neoplasm of endometrium of corpus uteri (disorder),1
+152451000119104,History of lymphosarcoma (situation),188498009,Lymphosarcoma (disorder),1
+473058009,History of lymphoid leukemia (situation),188725004,Lymphoid leukemia (disorder),1
+152861000119104,History of myeloid leukemia (situation),188732008,Myeloid leukemia (disorder),1
+427920005,History of monocytic leukemia (situation),188744006,Monocytic leukemia (disorder),1
+441484007,History of craniopharyngioma (situation),189179009,Craniopharyngioma (disorder),1
+11001921000119108,History of carcinoma in situ of breast (situation),189336000,Carcinoma in situ of breast (disorder),1
+97631000119105,History of squamous cell carcinoma in situ (situation),189565007,Squamous cell carcinoma in situ (disorder),1
+144811000119109,History of benign schwannoma (situation),189948006,Schwannoma (disorder),1
+49071000119104,History of pituitary dependent hypercortisolism (situation),190502001,Pituitary-dependent Cushing's disease (disorder),1
+161467005,History of drug dependency (situation),191816009,Drug dependence (disorder),1
+161483005,History of Bell's palsy (situation),193093009,Bell's palsy (disorder),1
+161489009,History of cataract (situation),193570009,Cataract (disorder),1
+161504004,History of angina pectoris (situation),194828000,Angina (disorder),2
+308066006,History of angina in last year (situation),194828000,Angina (disorder),2
+131461000119105,History of paroxysmal atrial tachycardia (situation),195069001,Paroxysmal atrial tachycardia (disorder),1
+472959005,History of acute lower respiratory tract infection (situation),195742007,Acute lower respiratory tract infection (disorder),1
+161527007,History of asthma (situation),195967001,Asthma (disorder),1
+429032004,History of vesicoureteric reflux (situation),197811007,Vesicoureteric reflux (disorder),1
+161549001,History of recurrent cystitis (situation),197853008,Recurrent cystitis (disorder),1
+473116008,History of recurrent urinary tract infection (situation),197927001,Recurrent urinary tract infection (disorder),1
+441547007,History of chronic urinary tract infection (situation),197928006,Chronic urinary tract infection (disorder),1
+771412001,History of pelvic inflammatory disease (situation),198130006,Female pelvic inflammatory disease (disorder),1
+161470009,History of anxiety state (situation),198288003,Anxiety state (finding),1
+726565008,Past history of small for gestational age baby (situation),199612005,Small-for-dates baby (disorder),1
+1361000119104,History of actinic keratosis (situation),201101007,Actinic keratosis (disorder),1
+137721000119102,History of vertebral stress fracture (situation),202831001,Fatigue fracture of vertebra (disorder),1
+267017002,History of pelvic infection (situation),203230004,Infection of pelvis (disorder),1
+690711000119103,History of acquired spondylolisthesis (situation),203681002,Acquired spondylolisthesis (disorder),1
+313216003,History of sexual abuse (situation),213017001,Sexual abuse (event),1
+161633009,History of radiation exposure (situation),218190002,Exposure to radiation (event),1
+772995006,History of sleeping out (situation),224229008,Sleeping out (finding),1
+16464661000119103,History of intravenous drug abuse (situation),228388006,Intravenous drug user (finding),1
+428900007,History of headache after dural puncture (situation),230479008,Post dural puncture headache (disorder),1
+308067002,History of stroke in last year (situation),230690007,Cerebrovascular accident (disorder),16
+275526006,History of cerebrovascular accident (situation),230690007,Cerebrovascular accident (disorder),16
+429993008,History of cerebrovascular accident without residual deficits (situation),230690007,Cerebrovascular accident (disorder),16
+440140008,History of cerebrovascular accident with residual deficit (situation),230690007,Cerebrovascular accident (disorder),16
+140701000119108,History of hemorrhagic stroke with hemiparesis (situation),230690007,Cerebrovascular accident (disorder),16
+118971000119107,History of embolic stroke without deficits (situation),230690007,Cerebrovascular accident (disorder),16
+141831000119101,History of embolic stroke with deficits (situation),230690007,Cerebrovascular accident (disorder),16
+140711000119106,History of hemorrhagic stroke with hemiplegia (situation),230690007,Cerebrovascular accident (disorder),16
+97531000119106,History of parietal cerebrovascular accident (situation),230690007,Cerebrovascular accident (disorder),16
+118951000119103,History of thrombotic stroke without residual deficits (situation),230690007,Cerebrovascular accident (disorder),16
+99051000119101,History of lacunar cerebrovascular accident (situation),230690007,Cerebrovascular accident (disorder),16
+699429007,History of cerebrovascular accident in last eight weeks (situation),230690007,Cerebrovascular accident (disorder),16
+690051000119100,History of cerebellar stroke (situation),230690007,Cerebrovascular accident (disorder),16
+141821000119104,History of ischemic cerebrovascular accident with residual deficit (situation),230690007,Cerebrovascular accident (disorder),16
+118961000119101,History of hemorrhagic cerebrovascular accident without residual deficits (situation),230690007,Cerebrovascular accident (disorder),16
+141811000119106,History of hemorrhagic cerebrovascular accident with residual deficit (situation),230690007,Cerebrovascular accident (disorder),16
+102191000119109,History of injury of globe of eye (situation),231794000,Injury of globe of eye (disorder),1
+69411000119107,History of basal cell carcinoma of eyelid (situation),231832009,Basal cell carcinoma of eyelid (disorder),1
+161525004,History of pneumonia (situation),233604007,Pneumonia (disorder),1
+328001000119104,History of atrial myxoma (situation),233854003,Atrial myxoma (disorder),1
+117871000119101,History of heart block (situation),233916004,Heart block (disorder),1
+440700005,History of aortoiliac atherosclerosis (situation),233956002,Aortoiliac atherosclerosis (disorder),1
+789544005,History of peripheral ischemia (situation),233958001,Peripheral ischemia (disorder),1
+59721000119100,History of thoracoabdominal aortic aneurysm (situation),233984007,Thoracoabdominal aortic aneurysm (disorder),1
+441882000,History of thrombophilia (situation),234467004,Thrombophilia (disorder),1
+472973001,History of immunodeficiency disorder (situation),234532001,Immunodeficiency disorder (disorder),1
+70861000119106,History of gastroesophageal reflux disease (situation),235595009,Gastroesophageal reflux disease (disorder),1
+161535005,History of liver disease (situation),235856003,Disorder of liver (disorder),1
+16912131000119107,History of alcoholic hepatitis (situation),235875008,Alcoholic hepatitis (disorder),1
+16216781000119107,History of cholestasis in pregnancy (situation),235888006,Cholestasis of pregnancy (disorder),1
+407637009,History of gallstones (situation),235919008,Gallbladder calculus (disorder),1
+440706004,Full renal function recovered (situation),236423003,Renal impairment (disorder),1
+125961000119101,History of urethrocutaneous fistula (situation),236698009,Urethral fistula to skin (disorder),1
+141961000119102,History of sex cord stromal tumor of ovary (situation),237058000,Sex cord tumor of ovary (disorder),1
+130591000119108,History of endometrial hyperplasia (situation),237072009,Endometrial hyperplasia (disorder),1
+427956008,History of normal menopause (situation),237123000,Normal menopause (finding),1
+161787007,History of inter-menstrual bleeding (situation),237130006,Bleeding between periods (finding),1
+161743003,History of stillbirth (situation),237364002,Stillbirth (finding),1
+309636006,History of hospital admission in last year for hyperglycemic disorder (situation),237598005,Hyperglycemic disorder (disorder),1
+142881000119105,History of nocturnal hypoglycemia (situation),237635002,Nocturnal hypoglycemia due to diabetes mellitus (disorder),1
+125771000119105,History of congenital adrenal hyperplasia (situation),237751000,Congenital adrenal hyperplasia (disorder),1
+472968007,History of autoimmune disorder of endocrine system (situation),237822008,Autoimmune endocrine disease (disorder),1
+16916751000119101,History of injury of tendon (situation),240037007,Tendon injury (disorder),1
+123351000119101,History of stress fracture (situation),240197007,Stress fracture (disorder),1
+293201000119102,History of human papillomavirus infection (situation),240532009,Human papillomavirus infection (disorder),1
+118501000119105,History of drug-induced anaphylaxis (situation),241937000,Drug-induced anaphylaxis (disorder),1
+16615741000119105,History of posterior vitreous detachment (situation),247081001,Posterior vitreous detachment (disorder),1
+439124004,History of deliberate self neglect (situation),248054003,Self-neglect (finding),1
+735934008,History of poor personal hygiene (situation),248056001,Neglect of personal hygiene (finding),1
+314550003,History of deliberate self harm (situation),248062006,Self-injurious behavior (finding),1
+162271007,Felt faint (situation),248223005,Feeling faint (finding),1
+138141000119108,History of merkel cell carcinoma (situation),253001006,Merkel cell carcinoma (disorder),1
+161541003,History of upper gastrointestinal tract neoplasm (situation),254533000,"Tumor of esophagus, stomach and/or duodenum (disorder)",1
+619792361000119102,History of primary small cell carcinoma of lung (situation),254632001,Small cell carcinoma of lung (disorder),1
+429226001,History of non-small cell malignant neoplasm of lung (situation),254637007,Non-small cell lung cancer (disorder),4
+16848141000119103,History of primary non-small cell carcinoma of right lung (situation),254637007,Non-small cell lung cancer (disorder),4
+16848181000119108,History of primary non-small cell carcinoma of left lung (situation),254637007,Non-small cell lung cancer (disorder),4
+16848221000119100,History of primary non-small cell carcinoma of bilateral lungs (situation),254637007,Non-small cell lung cancer (disorder),4
+432007009,History of malignant mesothelioma of pleura (situation),254645002,Malignant mesothelioma of pleura (disorder),1
+429024007,History of squamous cell carcinoma of skin (situation),254651007,Squamous cell carcinoma of skin (disorder),1
+1351000119101,History of atypical nevus (situation),254818000,Dysplastic nevus of skin (disorder),1
+429087003,History of malignant neoplasm of breast (situation),254837009,Malignant neoplasm of breast (disorder),3
+473062003,History of recurrent malignant neoplasm of breast (situation),254837009,Malignant neoplasm of breast (disorder),3
+48901000119103,History of invasive malignant neoplasm of breast (situation),254837009,Malignant neoplasm of breast (disorder),3
+141951000119104,History of malignant germ cell neoplasm of ovary (situation),254869000,Malignant germ cell tumor of ovary (disorder),1
+142461000119104,History of vaginal intraepithelial neoplasia (situation),254894004,Vaginal intraepithelial neoplasia (disorder),1
+142021000119102,History of Paget disease of vulva (situation),254898001,Paget's disease of vulva (disorder),1
+73831000119109,History of astrocytoma of brain (situation),254938000,Astrocytoma of brain (disorder),1
+73851000119103,History of ependymoma of brain (situation),254939008,Ependymoma of brain (disorder),1
+106821000119101,History of oligodendroglioma of brain (situation),254940005,Oligodendroglioma of brain (disorder),1
+691191000119103,History of pituitary adenoma (situation),254956000,Pituitary adenoma (disorder),1
+428064002,History of follicular adenocarcinoma of thyroid (situation),255028004,Follicular thyroid carcinoma (disorder),1
+429255009,History of papillary adenocarcinoma of thyroid (situation),255029007,Papillary thyroid carcinoma (disorder),1
+429016002,History of medullary carcinoma of thyroid (situation),255032005,Medullary thyroid carcinoma (disorder),1
+691201000119100,History of adrenal adenoma (situation),255036008,Adrenal adenoma (disorder),1
+134461000119108,History of neuroendocrine malignant neoplasm (situation),255046005,Neuroendocrine tumor (disorder),1
+73891000119108,History of cancer of unknown primary site (situation),255052006,Malignant neoplasm of unknown origin (disorder),1
+431573004,History of malignant neoplasm of head and/or neck (situation),255056009,Malignant tumor of head and/or neck (disorder),1
+73741000119106,History of malignant neoplasm of salivary gland (situation),255072001,Malignant tumor of salivary gland (disorder),1
+10995641000119109,History of malignant neoplasm of digestive organ (situation),255077007,Malignant tumor of digestive organ (disorder),1
+10743431000119102,History of benign neoplasm of salivary gland (situation),255154009,Benign tumor of salivary gland (disorder),1
+391093004,History of hip fracture (situation),263225007,Fracture of proximal end of femur (disorder),3
+137771000119101,History of pathological hip fracture (situation),263225007,Fracture of proximal end of femur (disorder),3
+137761000119107,History of fracture of hip due to traumatic event (situation),263225007,Fracture of proximal end of femur (disorder),3
+709313000,History of methicillin resistant Staphylococcus aureus infection (situation),266096002,Methicillin resistant Staphylococcus aureus infection (disorder),1
+161511000,History of transient ischemic attack (situation),266257000,Transient ischemic attack (disorder),1
+161783006,History of dysmenorrhea (situation),266599000,Dysmenorrhea (disorder),1
+391092009,History of fragility fracture (situation),268029009,Pathological fracture (disorder),4
+137771000119101,History of pathological hip fracture (situation),268029009,Pathological fracture (disorder),4
+123361000119104,History of pathological fracture (situation),268029009,Pathological fracture (disorder),4
+137751000119105,History of pathological vertebral fracture (situation),268029009,Pathological fracture (disorder),4
+99021000119109,History of undescended testes (situation),268228006,Undescended testes - bilateral (disorder),1
+473103008,History of use of postcoital contraception (situation),268463003,Postcoital contraception (finding),1
+473093002,History of use of depot contraception (situation),268464009,Depot contraception (finding),1
+161769009,History of being infant bottle fed (situation),268472006,Infant bottle fed (finding),1
+699005005,History of malignant hematologic neoplasm (situation),269475001,"Malignant tumor of lymphoid, hemopoietic AND/OR related tissue (disorder)",1
+82991000119104,History of negative cervical Papanicolaou smear performed within last 12 months (situation),269958004,Cervical smear - negative (finding),1
+59851000119103,History of hepatitis B conferring immunity (situation),271511000,Hepatitis B immune (finding),1
+407553003,History of glandular fever (situation),271558008,Infectious mononucleosis (disorder),1
+674191000119109,History of syncope (situation),271594007,Syncope (disorder),1
+275538002,History of anemia (situation),271737000,Anemia (disorder),1
+270891002,Had a collapse (situation),271787007,Collapse (finding),1
+161792009,History of recurrent vaginal discharge (situation),271939006,Vaginal discharge (finding),1
+115561000119102,History of malignant melanoma of eye (situation),274087000,Malignant melanoma of eye (disorder),1
+428267002,History of cerebral hemorrhage (situation),274100004,Cerebral hemorrhage (disorder),1
+37251000119108,History of low birth weight (situation),276610007,Low birth weight infant (disorder),1
+10995681000119104,History of malignant neoplasm of external ear (situation),277156006,Malignant tumor of external ear (disorder),1
+161473006,History of behavior problem (situation),277843001,Problem behavior (finding),1
+309635005,History of admission in last year for diabetes foot problem (situation),280137006,Diabetic foot (disorder),1
+16093761000119102,History of facial palsy (situation),280816001,Facial palsy (disorder),1
+726001007,History of live birth (situation),281050002,Livebirth (finding),1
+360679851000119101,History of large bowel obstruction (situation),281254000,Large bowel obstruction (disorder),1
+311030311000119106,History of small bowel obstruction (situation),281255004,Small bowel obstruction (disorder),1
+161765003,History of premature delivery (situation),282020008,Premature delivery (finding),1
+16535651000119101,History of injury of eye region (situation),282752000,Injury of eye region (disorder),1
+15758941000119102,History of perineal laceration (situation),283380005,Laceration of perineum (disorder),1
+783680006,History of uterine laceration (situation),283963001,Laceration of uterus (disorder),1
+439627005,History of threatening violent behavior toward others (situation),284614009,Threatening behavior (finding),1
+161797003,History of breast problem (situation),290085007,Breast problem (finding),1
+16093531000119101,History of adult obesity (situation),296526005,Adult-onset obesity (disorder),1
+161497002,History of hearing problem (situation),300228004,Hearing problem (finding),1
+766035009,History of difficult venous access (situation),301179007,Poor venous access (finding),1
+789474004,History of aneurysm of artery of trunk (situation),301433005,Aneurysm of artery of trunk (disorder),1
+49341000119108,History of thrombocytopenia (situation),302215000,Thrombocytopenic disorder (disorder),1
+161570007,History of back problem (situation),302258001,Back problem (finding),1
+49221000119108,History of pheochromocytoma (situation),302835009,Pheochromocytoma (disorder),1
+73881000119105,History of rhabdomyosarcoma (situation),302847003,Rhabdomyosarcoma (disorder),1
+429105007,History of nephroblastoma (situation),302849000,Nephroblastoma (disorder),1
+16093611000119107,History of Barrett's esophagus (situation),302914006,Barrett's esophagus (disorder),1
+49191000119102,History of neutropenia (situation),303011007,Neutropenic disorder (disorder),1
+429208004,History of aplastic anemia (situation),306058006,Aplastic anemia (disorder),1
+118361000119100,History of diverticulitis (situation),307496006,Diverticulitis (disorder),1
+428052005,History of osteosarcoma (situation),307576001,Osteosarcoma of bone (disorder),1
+138741000119107,History of sebaceous adenoma (situation),307598005,Sebaceous adenoma of skin (disorder),1
+138731000119103,History of sebaceous carcinoma (situation),307599002,Sebaceous adenocarcinoma (disorder),1
+429023001,History of Ewings sarcoma (situation),307608006,Ewing's sarcoma of bone (disorder),1
+161656000,History of regular medication (situation),309298003,Drug therapy finding (finding),1
+128131000119102,"History of low birth weight status, 2-2.5kg (situation)",310538001,Baby birth weight 2.0-2.5kg (finding),1
+271902005,History of gynecological disorder (situation),310789003,Disorder of female genital tract (disorder),1
+161773007,History of intrauterine contraceptive device usage (situation),312081001,Intrauterine device contraception (finding),1
+73711000119107,History of cholangiocarcinoma (situation),312104005,Cholangiocarcinoma of biliary tract (disorder),1
+473337006,History of osteopenia resolved (situation),312894000,Osteopenia (disorder),2
+473442002,History of osteopenia (situation),312894000,Osteopenia (disorder),2
+10691841000119107,History of central serous retinopathy (situation),312956001,Central serous chorioretinopathy (disorder),1
+108951000119100,History of preterm premature rupture of membranes (situation),312974005,Preterm premature rupture of membranes (disorder),1
+473111003,History of microalbuminuria (situation),312975006,Microalbuminuria (finding),1
+267016006,History of abnormal uterine bleeding (situation),312984006,Abnormal uterine bleeding unrelated to menstrual cycle (disorder),1
+681341000119108,History of cornea graft failure (situation),314760005,Corneal graft failure (disorder),1
+137871000119109,History of Graves' disease (situation),353295004,Graves' disease (disorder),1
+266990005,History of endocrine disorder (situation),362969004,Disorder of endocrine system (disorder),1
+266987004,History of malignant neoplasm (situation),363346000,Malignant neoplastic disease (disorder),2
+134461000119108,History of neuroendocrine malignant neoplasm (situation),363346000,Malignant neoplastic disease (disorder),2
+10939931000119100,History of malignant neoplasm of lip (situation),363348004,Malignant tumor of lip (disorder),1
+473061005,History of malignant neoplasm of stomach (situation),363349007,Malignant tumor of stomach (disorder),1
+429084005,History of malignant neoplasm of rectum (situation),363351006,Malignant tumor of rectum (disorder),1
+73751000119108,History of cancer of gall bladder (situation),363353009,Malignant tumor of gallbladder (disorder),1
+429484003,History of malignant neoplasm of cervix (situation),363354003,Malignant tumor of cervix (disorder),1
+698298001,History of malignant neoplasm of adrenal gland (situation),363355002,Malignant tumor of adrenal gland (disorder),1
+10981871000119102,History of malignant neoplasm of middle ear (situation),363359008,Malignant tumor of middle ear (disorder),1
+429635001,History of malignant neoplasm of vulva (situation),363367000,Malignant tumor of vulva (disorder),1
+429409005,History of malignant neoplasm of tongue (situation),363375006,Malignant tumor of tongue (disorder),1
+691371000119102,History of malignant neoplasm of parotid gland (situation),363379000,Malignant tumor of parotid gland (disorder),1
+88851000119103,History of malignant neoplasm of gum (situation),363382005,Malignant tumor of gum (disorder),1
+88831000119109,History of cancer of floor of mouth (situation),363385007,Malignant tumor of floor of mouth (disorder),1
+88801000119102,History of malignant neoplasm of tonsil (situation),363393007,Malignant tumor of tonsil (disorder),1
+73721000119100,History of malignant neoplasm of hypopharynx (situation),363399006,Malignant tumor of hypopharynx (disorder),1
+429410000,History of malignant neoplasm of esophagus (situation),363402007,Malignant tumor of esophagus (disorder),1
+139611000119108,History of malignant neoplasm of duodenum (situation),363403002,Malignant tumor of duodenum (disorder),1
+429699009,History of malignant neoplasm of colon (situation),363406005,Malignant neoplasm of colon (disorder),1
+73781000119101,History of malignant neoplasm of appendix (situation),363411007,Malignant tumor of appendix (disorder),1
+10987871000119109,History of malignant neoplasm of rectosigmoid junction (situation),363414004,Malignant tumor of rectosigmoid junction (disorder),1
+73771000119104,History of cancer of ampulla of duodenum (situation),363417006,Malignant tumor of ampulla of Vater (disorder),1
+73761000119105,History of malignant neoplasm of pancreas (situation),363418001,Malignant tumor of pancreas (disorder),1
+88621000119107,History of malignant neoplasm of retroperitoneum (situation),363420003,Malignant retroperitoneal tumor (disorder),1
+10981911000119104,History of malignant neoplasm of nasal cavity (situation),363422006,Malignant tumor of nasal cavity (disorder),1
+473064002,History of malignant neoplasm of larynx (situation),363429002,Malignant tumor of larynx (disorder),1
+429355006,History of malignant neoplasm of pleura (situation),363433009,Malignant tumor of pleura (disorder),1
+427918007,History of malignant neoplasm of thymus (situation),363434003,Malignant tumor of thymus (disorder),1
+429090009,History of malignant neoplasm of ovary (situation),363443007,Malignant tumor of ovary (disorder),1
+124361000119101,History of malignant neoplasm of fallopian tube (situation),363444001,Malignant tumor of fallopian tube (disorder),1
+427844008,History of malignant neoplasm of vagina (situation),363445000,Malignant tumor of vagina (disorder),1
+473066000,History of malignant neoplasm of testis (situation),363449006,Malignant tumor of testis (disorder),1
+429357003,History of malignant neoplasm of epididymis (situation),363452003,Malignant tumor of epididymis (disorder),1
+700239008,History of malignant neoplasm of renal pelvis (situation),363457009,Malignant tumor of renal pelvis (disorder),1
+429444007,History of malignant neoplasm of ureter (situation),363458004,Malignant tumor of ureter (disorder),1
+73801000119102,History of cancer of urethra (situation),363459007,Malignant tumor of urethra (disorder),1
+152891000119106,History of malignant neoplasm of eye (situation),363461003,Malignant tumor of eye (disorder),1
+432327003,History of malignant neoplasm of spinal cord (situation),363475005,Malignant tumor of spinal cord (disorder),1
+429254008,History of malignant neoplasm of thyroid (situation),363478007,Malignant tumor of thyroid gland (disorder),1
+434193002,History of malignant neoplasm of neck (situation),363489000,Malignant tumor of neck (disorder),1
+112071000119105,History of malignant neoplasm of anus (situation),363490009,Malignant tumor of anus (disorder),1
+88591000119105,History of malignant neoplasm of peritoneum (situation),363492001,Malignant tumor of peritoneum (disorder),1
+428117004,History of malignant neoplasm of mediastinum (situation),363494000,Malignant tumor of mediastinum (disorder),1
+48951000119104,History of malignant neoplasm of meninges (situation),363497007,Malignant tumor of meninges (disorder),1
+473063008,History of malignant neoplasm of oral cavity (situation),363505006,Malignant tumor of oral cavity (disorder),1
+85851000119107,History of malignant neoplasm of pharynx (situation),363507003,Malignant neoplasm of pharynx (disorder),1
+428833003,History of malignant neoplasm of small intestine (situation),363509000,Malignant tumor of small intestine (disorder),1
+428880006,History of malignant neoplasm of penis (situation),363516004,Malignant tumor of penis (disorder),1
+713651007,History of pregnancy with abortive outcome (situation),363681007,Pregnancy with abortive outcome (disorder),1
+415080007,Personal history of primary malignant neoplasm of gastrointestinal tract (situation),363745004,Primary malignant neoplasm of gastrointestinal tract (disorder),1
+395682006,Born by elective cesarean section (situation),366343003,Finding of birth details (finding),16
+407615002,Born by emergency cesarean section (situation),366343003,Finding of birth details (finding),16
+444966004,Born before arrival of midwife (situation),366343003,Finding of birth details (finding),16
+445087001,Born before arrival to hospital (situation),366343003,Finding of birth details (finding),16
+394699000,Born by cesarean section (situation),366343003,Finding of birth details (finding),16
+394698008,Birth history (situation),366343003,Finding of birth details (finding),16
+407613009,Born by breech delivery (situation),366343003,Finding of birth details (finding),16
+395681004,Born by forceps delivery (situation),366343003,Finding of birth details (finding),16
+407614003,Born by ventouse delivery (situation),366343003,Finding of birth details (finding),16
+445585003,Livebirth born before admission to hospital (situation),366343003,Finding of birth details (finding),16
+169818001,Born before arrival (situation),366343003,Finding of birth details (finding),16
+395683001,Born by normal vaginal delivery (situation),366343003,Finding of birth details (finding),16
+717804008,Singleton liveborn born outside hospital (situation),366343003,Finding of birth details (finding),16
+717805009,Singleton liveborn unspecified as to place of birth (situation),366343003,Finding of birth details (finding),16
+717806005,Twin liveborn born outside hospital (situation),366343003,Finding of birth details (finding),16
+717808006,Multiple liveborn other than twins born outside hospital (situation),366343003,Finding of birth details (finding),16
+442342003,Twin liveborn born in hospital by cesarean section (situation),366344009,Finding of place of birth (finding),10
+442311008,Liveborn born in hospital (situation),366344009,Finding of place of birth (finding),10
+442423001,Single liveborn born in hospital by cesarean section (situation),366344009,Finding of place of birth (finding),10
+442327001,Twin liveborn born in hospital (situation),366344009,Finding of place of birth (finding),10
+442365008,Liveborn born in hospital by cesarean section (situation),366344009,Finding of place of birth (finding),10
+17561000119102,Single liveborn born in hospital by vaginal delivery (situation),366344009,Finding of place of birth (finding),10
+717803002,Singleton liveborn born in hospital (situation),366344009,Finding of place of birth (finding),10
+717807001,Multiple liveborn other than twins born in hospital (situation),366344009,Finding of place of birth (finding),10
+16089691000119102,Multiple liveborn in hospital by vaginal delivery (situation),366344009,Finding of place of birth (finding),10
+16089571000119102,Triplet liveborn in hospital by cesarean section (situation),366344009,Finding of place of birth (finding),10
+143491000119100,History of atypical hyperplasia of breast (situation),369462000,Atypical hyperplasia of breast (disorder),1
+16847701000119100,History of primary malignant neoplasm of left ovary (situation),369522002,Primary malignant neoplasm of left ovary (disorder),1
+16847781000119108,History of primary malignant neoplasm of right ovary (situation),369529006,Primary malignant neoplasm of right ovary (disorder),1
+97641000119101,History of retinoblastoma (situation),370967009,Retinoblastoma (disorder),1
+266996004,History of thromboembolism (situation),371039008,Thromboembolic disorder (disorder),1
+16896851000119101,History of embolic cerebrovascular accident (situation),371041009,Embolic stroke (disorder),1
+10995761000119100,History of diabetic foot ulcer (situation),371087003,Ulcer of foot due to diabetes mellitus (disorder),1
+895699003,History of disorder of eye proper (situation),371405004,Disorder of eye proper (disorder),1
+895701003,History of disorder of eye region (situation),371409005,Disorder of eye region (disorder),1
+16775181000119103,History of coma (situation),371632003,Coma (disorder),1
+429746005,History of domestic abuse (situation),371772001,Domestic abuse (event),1
+313217007,History of emotional abuse (situation),371773006,Emotional abuse (event),1
+288391000119107,History of victim of child physical abuse (situation),371779005,Physical child abuse (event),1
+428941002,History of malignant neoplasm of uterine body (situation),371972005,Malignant neoplasm of body of uterus (disorder),1
+431572009,History of malignant neoplasm of endocrine gland (situation),371982006,Malignant neoplasm of endocrine gland (disorder),1
+1321000119109,History of primary malignant neoplasm of larynx (situation),371995001,Primary malignant neoplasm of larynx (disorder),1
+431691000,History of malignant neoplasm of nervous system (situation),372063002,Malignant neoplasm of nervous system (disorder),1
+16829501000119100,History of gangrenous disorder (situation),372070002,Gangrenous disorder (disorder),1
+429050006,History of malignant neoplasm of skin (situation),372130007,Malignant neoplasm of skin (disorder),2
+443895001,History of malignant neoplasm of skin excluding melanoma (situation),372130007,Malignant neoplasm of skin (disorder),2
+415076002,Personal history of primary malignant neoplasm of breast (situation),372137005,Primary malignant neoplasm of breast (disorder),1
+161432005,History of malignant melanoma (situation),372244006,Malignant melanoma (disorder),1
+108521000119103,History of reticulosarcoma (situation),373168002,Reticulosarcoma (disorder),1
+161782001,History of menorrhagia (situation),386692008,Menorrhagia (finding),1
+161779006,History of menstrual disorder (situation),386804004,Disorder of menstruation (disorder),1
+390933006,History of amblyopia (situation),387742006,Amblyopia (disorder),1
+16542721000119108,History of anoxic brain injury (situation),389098007,Anoxic encephalopathy (disorder),1
+16890921000119104,History of nonproliferative diabetic retinopathy (situation),390834004,Nonproliferative retinopathy due to diabetes mellitus (disorder),1
+161568003,History of osteoarthritis (situation),396275006,Osteoarthritis (disorder),1
+413178000,History of diphtheria (situation),397430003,Diphtheria caused by Corynebacterium diphtheriae (disorder),1
+275548000,History of gastric ulcer (situation),397825006,Gastric ulcer (disorder),1
+161415006,History of poliomyelitis (situation),398102009,Acute poliomyelitis (disorder),1
+105651000119100,History of pre-eclampsia (situation),398254007,Pre-eclampsia (disorder),1
+725942003,History of fourth degree perineal laceration (situation),399031001,Fourth degree perineal laceration (disorder),1
+428262008,History of malignant neoplasm of prostate (situation),399068003,Malignant tumor of prostate (disorder),1
+275543009,History of vertigo (situation),399153001,Vertigo (finding),1
+142471000119105,History of dysplasia of vulva (situation),399382009,Dysplasia of vulva (disorder),1
+421711004,History of pressure ulcer (situation),399912005,Pressure ulcer (disorder),1
+431545001,History of peripheral arterial occlusive disease (situation),399957001,Peripheral arterial occlusive disease (disorder),1
+789395008,History of primary cutaneous lymphoma (situation),400001003,Primary cutaneous lymphoma (disorder),1
+473109007,History of peripheral vascular disease (situation),400047006,Peripheral vascular disease (disorder),1
+122571000119106,History of malignant cutaneous T-cell lymphoma (situation),400122007,Primary cutaneous T-cell lymphoma (disorder),1
+328201000119109,History of giant cell arteritis (situation),400130008,Temporal arteritis (disorder),1
+709046002,History of congenital vascular malformation (situation),400159008,Congenital vascular malformation (disorder),1
+440234007,History of violent behavior toward others (situation),401237008,Violent acts towards others (finding),1
+285721000119104,History of acute ST segment elevation myocardial infarction (situation),401303003,Acute ST segment elevation myocardial infarction (disorder),1
+698593009,History of non-ST segment elevation myocardial infarction (situation),401314000,Acute non-ST segment elevation myocardial infarction (disorder),1
+69551000119109,History of squamous cell carcinoma (situation),402815007,Squamous cell carcinoma (disorder),1
+401172002,History of venous leg ulcer (situation),402863005,Venous stasis ulcer of leg (disorder),1
+59601000119103,History of germ cell tumor (situation),402878003,Germ cell tumor (disorder),1
+16688121000119106,History of anal intraepithelial neoplasia III (situation),403485001,Anal intraepithelial neoplasia (AIN III) (disorder),1
+143351000119104,History of Paget's disease of breast (situation),403946000,Paget's disease of nipple (disorder),1
+412732008,History of domestic violence (situation),404189009,Domestic violence (event),1
+16093711000119100,History of anterior ischemic optic neuropathy (situation),404659001,Anterior ischemic optic neuropathy (disorder),1
+430301009,History of occlusive disease of artery of lower extremity (situation),405557003,Occlusion of lower limb artery (disorder),1
+88701000119109,History of disseminated malignant neoplasm (situation),405843009,Widespread metastatic malignant neoplastic disease (disorder),1
+16410191000119105,History of laryngospasm (situation),406444002,Laryngeal spasm (disorder),1
+10624491000119108,History of infection due to vancomycin resistant enterococcus (situation),406575008,Infection caused by vancomycin resistant enterococcus (disorder),1
+140491000119105,History of transitional cell carcinoma of kidney (situation),408642003,Transitional cell carcinoma of kidney (disorder),1
+125791000119106,History of prostatic cyst (situation),409658007,Cyst of prostate (disorder),1
+429007001,History of cardiac arrest (situation),410429000,Cardiac arrest (disorder),1
+429217004,History of autoimmune hemolytic anemia (situation),413603009,Autoimmune hemolytic anemia (disorder),1
+429235008,History of cardioembolic stroke (situation),413758000,Cardioembolic stroke (disorder),1
+414415007,History of chronic lung disease (situation),413839001,Chronic lung disease (disorder),1
+266992002,History of blood disorder (situation),414022008,Disorder of cellular component of blood (disorder),1
+107921000119107,History of immune disorder (situation),414029004,Disorder of immune function (disorder),1
+275545002,History of embolism (situation),414086009,Embolism (disorder),1
+16880891000119105,History of exudative age-related macular degeneration (situation),414173003,Exudative age-related macular degeneration (disorder),1
+762616007,History of food allergy (situation),414285001,Allergy to food (finding),1
+308068007,History of treatment for ischemic heart disease (situation),414545008,Ischemic heart disease (disorder),1
+414372001,History of neonatal abstinence syndrome (situation),414819007,Neonatal abstinence syndrome (disorder),1
+161453001,History of obesity (situation),414916001,Obesity (disorder),1
+161579008,History of perinatal problem (situation),415073005,Perinatal disorder (disorder),1
+789776003,History of placental abruption (situation),415105001,Placental abruption (disorder),1
+1881000119103,History of plasmacytoma (situation),415112005,Plasmacytoma (disorder),1
+16409881000119106,History of posterior ischemic optic neuropathy (situation),415147002,Posterior ischemic optic neuropathy (disorder),1
+415078001,"Personal history of primary malignant neoplasm of ear, nose AND/OR throat (situation)",415177008,"Primary malignant neoplasm of ear, nose AND/OR throat (disorder)",1
+16519911000119101,History of retinopathy of prematurity (situation),415297005,Retinopathy of prematurity (disorder),1
+108281000119102,History of congenital hypospadias (situation),416010008,Hypospadias (disorder),1
+736725001,History of gestational trophoblastic disease (situation),416402001,Gestational trophoblastic disease (disorder),1
+16216821000119102,History of molar pregnancy (situation),417044008,"Hydatidiform mole, benign (disorder)",1
+161586000,History of injury (situation),417746004,Traumatic injury (disorder),1
+313214000,History of abuse (situation),417928002,Abuse (event),1
+11018891000119108,History of exposure to hazardous bodily fluids (situation),417981005,Exposure to blood and/or body fluid (event),1
+288371000119106,History of victim of child abuse (situation),418189009,Child abuse (event),1
+36511000119106,History of suspected exposure to biological agent (situation),418307001,Exposure to biological agent (event),1
+313215004,History of physical abuse (situation),418506006,Physical abuse (event),1
+161636001,History of isocyanate exposure (situation),418715001,Exposure to potentially harmful entity (event),3
+442029006,History of exposure to lead (situation),418715001,Exposure to potentially harmful entity (event),3
+109211000119102,History of toxic inhalation exposure (situation),418715001,Exposure to potentially harmful entity (event),3
+12481000132103,History of biological substance allergy (situation),419199007,Allergy to substance (finding),1
+140731000119101,History of gastrointestinal stromal neoplasm (situation),420120006,Gastrointestinal stromal tumor (disorder),1
+16535401000119102,History of macular degeneration (situation),422338006,Degenerative disorder of macula (disorder),1
+16896891000119106,History of cerebrovascular accident due to ischemia (situation),422504002,Ischemic stroke (disorder),1
+154081000119108,History of aspiration pneumonia (situation),422588002,Aspiration pneumonia (disorder),1
+161461006,History of purpura (situation),423902002,Purpura (finding),1
+407586004,History of recreational drug use (situation),424848002,Recreational drug user (finding),1
+49291000119105,History of soft tissue sarcoma (situation),424952003,Sarcoma of soft tissue (disorder),1
+429046004,History of sustained ventricular tachycardia (situation),426525004,Sustained ventricular tachycardia (disorder),1
+473114006,History of active tuberculosis (situation),427099000,Active tuberculosis (disorder),1
+429047008,History of adenomatous polyp of colon (situation),428054006,Adenomatous polyp of colon (disorder),1
+473059001,History of malignant neoplasm of brain (situation),428061005,Malignant neoplasm of brain (disorder),1
+428878000,History of malignant neoplasm of thoracic cavity structure (situation),428100006,Malignant neoplasm of thoracic cavity structure (disorder),1
+789064006,History of pain at rest due to peripheral vascular disease (situation),428171009,Pain at rest due to peripheral vascular disease (disorder),1
+429010008,History of epidural hematoma (situation),428268007,Epidural intracranial hematoma (disorder),1
+429247002,History of malignant neoplasm of bone (situation),428281000,Malignant neoplasm of bone (disorder),1
+428944005,History of malignant neoplasm of uterine adnexa (situation),428322007,Malignant neoplasm of uterine adnexa (disorder),1
+428608003,History of positive Toxoplasma gondii antibody (situation),428915008,Toxoplasma gondii antibody positive (finding),1
+428904003,History of thromboembolism of vein (situation),429098002,Thromboembolism of vein (disorder),1
+428053000,History of malignant basal cell neoplasm of skin (situation),429114002,Malignant basal cell neoplasm of skin (disorder),1
+428340006,History of sustained ventricular fibrillation (situation),429243003,Sustained ventricular fibrillation (disorder),1
+16916791000119106,History of rupture of Achilles tendon (situation),429513001,Rupture of Achilles tendon (disorder),1
+429716007,History of recurrent dislocation of hip joint prosthesis (situation),429757000,Recurrent dislocation of hip joint prosthesis (disorder),1
+430305000,History of occlusive disease of artery of upper extremity (situation),431706008,Occlusion of artery of upper extremity (disorder),1
+432250006,History of aneurysm (situation),432119003,Aneurysm (disorder),2
+59741000119106,History of visceral aneurysm (situation),432119003,Aneurysm (disorder),2
+432220003,History of infarction of spinal cord (situation),432249006,Infarction of spinal cord (disorder),1
+432745001,History of neuroblastoma (situation),432328008,Neuroblastoma (disorder),1
+433807000,History of occlusion of cerebral artery without cerebral infarction (situation),432504007,Cerebral infarction (disorder),1
+275546001,History of thrombosis (situation),439127006,Thrombosis (disorder),1
+439956007,History of abnormal cervical Papanicolaou smear (situation),439888000,Abnormal cervical Papanicolaou smear (finding),1
+161692001,History of cardiac pacemaker in situ (situation),441509002,Cardiac pacemaker in situ (finding),1
+59711000119107,History of pseudoaneurysm (situation),443089001,Pseudoaneurysm (disorder),1
+139461000119109,History of osteoporotic fracture (situation),443165006,Pathological fracture due to osteoporosis (disorder),1
+73861000119101,History of medulloblastoma of brain (situation),443333004,Medulloblastoma (disorder),1
+73841000119100,History of glioma of brainstem (situation),444545003,Glioma of brainstem (disorder),1
+43991000119102,History of childhood obesity (situation),444862003,Childhood obesity (disorder),1
+473089008,History of recent air travel (situation),445000002,Recent air travel (event),1
+10988211000119104,History of dysplasia of prostate (situation),445068007,Dysplasia of prostate (disorder),1
+16216731000119106,History of intrauterine fetal death (situation),445548006,Dead fetus in utero (finding),1
+10743471000119104,History of pleomorphic adenoma of salivary gland (situation),447888006,Pleomorphic adenoma of salivary gland (disorder),1
+428978004,History of choriocarcinoma of placenta (situation),448401007,Choriocarcinoma of placenta (disorder),1
+473099003,History of use of hormone releasing intrauterine device contraception (situation),449038007,Uses hormone releasing intrauterine device contraception (finding),1
+16848781000119109,History of primary malignant neoplasm of dome of urinary bladder (situation),449803009,Primary malignant neoplasm of dome of urinary bladder (disorder),1
+161774001,History of contraceptive cap usage (situation),450851004,Uses contraceptive diaphragm (finding),1
+126731000119100,History of cystic dilatation of duct of bulbourethral gland (situation),460951001,Cystic dilatation of duct of bulbourethral gland (disorder),1
+473087005,History of recent cruise travel (situation),473085002,Recent cruise travel (event),1
+473107009,History of difficult fitting of intrauterine contraceptive device (situation),473106000,Difficult fitting of intrauterine contraceptive device (finding),1
+161611007,History of non-drug allergy (situation),609328004,Allergic disposition (finding),2
+161614004,History of multiple allergies (situation),609328004,Allergic disposition (finding),2
+609550002,History of angiotensin converting enzyme inhibitor pseudoallergy (situation),609537003,Non-allergic hypersensitivity to angiotensin-converting enzyme inhibitor (finding),1
+472972006,History of maturity onset diabetes mellitus in young (situation),609561005,Maturity-onset diabetes of the young (disorder),1
+131471000119104,History of cardiac arrhythmia (situation),698247007,Cardiac arrhythmia (disorder),1
+699015004,History of recurrent pneumonia (situation),699014000,Recurrent pneumonia (disorder),1
+699029003,History of primitive neuroectodermal tumor (situation),699028006,Primitive neuroectodermal tumor (disorder),2
+85881000119100,History of non central nervous system primitive neuroectodermal tumor (situation),699028006,Primitive neuroectodermal tumor (disorder),2
+699032000,History of awareness under general anesthesia (situation),699030008,Awareness under general anesthesia (finding),1
+143341000119101,History of stromal sarcoma of endometrium (situation),699356008,Endometrial stromal sarcoma (disorder),1
+442414004,History of neurodevelopmental disorder (situation),700364009,Neurodevelopmental disorder (disorder),1
+672291000119107,History of carcinosarcoma of ovary (situation),702368000,Carcinosarcoma of ovary (disorder),1
+672281000119109,History of carcinosarcoma of uterus (situation),702369008,Carcinosarcoma of uterus (disorder),1
+703151001,History of single seizure (situation),703150000,Single seizure (finding),1
+429286003,History of combination internal cardiac defibrillator and pacemaker (situation),703396000,Combination internal cardiac defibrillator and pacemaker in situ (finding),1
+137741000119108,History of hip stress fracture (situation),704063001,Stress fracture of neck of femur (disorder),1
+705002000,Repeated self-induced vomiting (situation),705001007,Self-induced vomiting to lose weight (disorder),1
+720729008,History of dissection of internal carotid artery (situation),705066004,Dissection of internal carotid artery (disorder),1
+472953006,History of chronic renal impairment (situation),709044004,Chronic kidney disease (disorder),1
+93931000119108,History of Haemophilus influenzae type b infection (situation),709410003,Haemophilus influenzae type b infection (disorder),1
+286781000119109,History of malignant carcinoid tumor of small intestine (situation),709517003,Malignant carcinoid tumor of small intestine (disorder),1
+10987961000119105,History of malignant carcinoid tumor of stomach (situation),709830006,Malignant carcinoid tumor of stomach (disorder),1
+141911000119100,History of recurrent deep vein thrombosis (situation),710167004,Recurrent deep vein thrombosis (disorder),1
+128161000119105,"History of low birth weight status, less than 500 grams (situation)",710168009,Birth weight less than 500g (finding),1
+140221000119109,History of transient ischemic attack due to embolism (situation),710575003,Transient ischemic attack due to embolism (disorder),1
+116351000119103,History of lower extremity skin ulcer (situation),711168000,Ulcer of skin of lower extremity (disorder),1
+763016003,History of infertility due to endometriosis (situation),712584009,Female infertility due to endometriosis (disorder),1
+713031009,History of chronic dissection of thoracic aorta (situation),713030005,Chronic dissection of thoracic aorta (disorder),1
+10761511000119101,History of pulmonary embolism on long-term anticoagulation therapy (situation),713078005,Pulmonary embolism on long-term anticoagulation therapy (disorder),1
+690071000119109,History of nontraumatic ruptured cerebral aneurysm (situation),713265001,Nontraumatic ruptured cerebral aneurysm (disorder),1
+1099061000119102,History of odontogenic keratocyst (situation),713277006,Odontogenic keratocyst (disorder),1
+139621000119101,History of malignant ameloblastoma of mandible (situation),713290004,Malignant ameloblastoma of mandible (disorder),1
+139281000119104,History of malignant germ cell neoplasm of mediastinum (situation),713293002,Malignant germ cell neoplasm of mediastinum (disorder),1
+347931000119106,History of malignant meningioma of meninges of brain (situation),713327005,Malignant meningioma of meninges of brain (disorder),1
+286791000119107,History of malignant carcinoid tumor of rectum (situation),713573006,Malignant carcinoid tumor of rectum (disorder),1
+10987721000119102,History of malignant carcinoid tumor of kidney (situation),713574000,Malignant carcinoid tumor of kidney (disorder),1
+139271000119102,History of malignant germ cell neoplasm of testis (situation),713577007,Germ cell tumor of testis (disorder),1
+715200006,History of novel psychoactive substance misuse (situation),713775002,Novel psychoactive substance misuse (disorder),1
+11003051000119102,History of benign carcinoid neoplasm (situation),714810002,Benign carcinoid tumor (disorder),1
+59651000119104,History of benign carcinoid neoplasm of gastrointestinal tract (situation),714811003,Benign carcinoid tumor of gastrointestinal tract (disorder),1
+427958009,History of difficult intubation (situation),718447001,Difficult tracheal intubation (finding),1
+720428004,History of domestic emotional abuse (situation),720025009,Domestic emotional abuse (event),1
+16094781000119108,History of benign phyllodes neoplasm of breast (situation),720344007,Benign phyllodes neoplasm of breast (disorder),1
+720741001,History of domestic sexual abuse (situation),720595008,Domestic sexual abuse (event),1
+690481000119102,History of dissection of carotid artery (situation),720626009,Dissection of carotid artery (disorder),1
+720411002,History of domestic physical abuse (situation),720684005,Domestic physical abuse (event),1
+720810005,History of dissection of external carotid artery (situation),720809000,Dissection of external carotid artery (disorder),1
+15627741000119108,History of Helicobacter pylori infection (situation),721730009,Infection caused by Helicobacter pylori (disorder),1
+134481000119104,History of being under immunized (situation),722187008,Under immunized (finding),1
+275903009,History of carcinoma (situation),722688002,Malignant epithelial neoplasm (disorder),1
+73901000119107,History of renal insufficiency (situation),723188008,Renal insufficiency (disorder),1
+112031000119107,History of severe nausea and vomiting following administration of anesthetic agent (situation),723975009,Nausea and vomiting following administration of anesthetic agent (disorder),1
+690731000119108,History of torsades de pointe caused by drug (situation),725060001,Torsades de pointe caused by drug (disorder),1
+141281000119101,History of ischemic stroke without residual deficits (situation),725132001,Ischemic stroke without residual deficits (disorder),1
+10981821000119103,History of malignant carcinoid tumor of thymus (situation),726652005,Malignant carcinoid tumor of thymus (disorder),1
+10995411000119108,History of malignant carcinoid tumor of bronchus (situation),726653000,Malignant carcinoid tumor of bronchus (disorder),1
+286771000119106,History of malignant carcinoid tumor of colon (situation),726654006,Malignant carcinoid tumor of colon (disorder),1
+762615006,History of food hypersensitivity (situation),735449006,Hypersensitivity reaction caused by food (disorder),1
+109201000119100,History of exposure to fenfluramine (situation),740757008,Exposure to fenfluramine (event),1
+138091000119101,History of prematurity (situation),771299009,Prematurity of infant (disorder),1
+16524331000119104,History of rhabdomyolysis due to statin (situation),787206005,Rhabdomyolysis due to statin (disorder),1
+293611000119101,History of domestic physical abuse of adult (situation),787209003,Domestic physical abuse of adult (event),1
+292508471000119105,History of disease caused by Severe acute respiratory syndrome coronavirus 2 (situation),840539006,Disease caused by Severe acute respiratory syndrome coronavirus 2 (disorder),1
+429031006,History of male erectile disorder (situation),860914002,Erectile dysfunction (disorder),1
+16848061000119103,History of primary malignant neoplasm of left lung (situation),890528009,Primary malignant neoplasm of left lung (disorder),1
+16848101000119100,History of primary malignant neoplasm of right lung (situation),890529001,Primary malignant neoplasm of right lung (disorder),1
+16848261000119105,History of primary malignant neoplasm of bilateral lungs (situation),890534002,Primary malignant neoplasm of bilateral lungs (disorder),1
+16848021000119108,History of primary malignant neoplasm of bilateral kidneys (situation),895345000,Primary malignant neoplasm of bilateral kidneys (disorder),1
+16848341000119100,History of primary malignant neoplasm of left ureter (situation),895354002,Primary malignant neoplasm of left ureter (disorder),1
+16848301000119102,History of primary malignant neoplasm of right ureter (situation),895355001,Primary malignant neoplasm of right ureter (disorder),1
+16848381000119105,History of primary malignant neoplasm of bilateral ureters (situation),895356000,Primary malignant neoplasm of bilateral ureters (disorder),1
+16848421000119101,History of primary malignant neoplasm of left testis (situation),895358004,Primary malignant neoplasm of left testis (disorder),1
+16848461000119106,History of primary malignant neoplasm of right testis (situation),895359007,Primary malignant neoplasm of right testis (disorder),1
+16848501000119106,History of primary malignant neoplasm of bilateral testes (situation),895361003,Primary malignant neoplasm of bilateral testes (disorder),1
+97121000119101,History of closed head injury (situation),451000119106,Closed injury of head (disorder),1
+789475003,History of aneurysm of peripheral artery (situation),29721000119101,Aneurysm of peripheral artery (disorder),1
+11012931000119103,History of neoplasm of low malignant potential behavior of ovary (situation),33521000119105,Neoplasm of low malignant potential behavior of ovary (disorder),1
+16916061000119102,History of postpartum gestational hypertension (situation),40521000119100,Postpartum pregnancy-induced hypertension (disorder),1
+715477006,History of female genital mutilation (situation),95041000119101,Female genital mutilation (disorder),1
+125781000119108,History of febrile urinary tract infection (situation),99631000119101,Febrile urinary tract infection (disorder),1
+350351000119100,History of inverted papilloma (situation),104081000119103,Benign inverted papilloma (disorder),1
+125981000119105,History of urethral parameatal cyst (situation),125991000119108,Urethral parameatal cyst (disorder),1
+16847981000119105,History of primary malignant neoplasm of left kidney (situation),354351000119105,Primary malignant neoplasm of left kidney (disorder),1
+16847821000119103,History of primary malignant neoplasm of right kidney (situation),354361000119107,Primary malignant neoplasm of right kidney (disorder),1
+429258006,History of aspirin exacerbated respiratory disease (situation),10692681000119108,Aspirin exacerbated respiratory disease (disorder),1
+413141003,History of needle stick injury (situation),10850741000119108,Accidental needle stick injury (disorder),1
+16915501000119102,History of infection following procedure (situation),12246311000119109,Infection following procedure (disorder),1
+16847741000119103,History of primary malignant neoplasm of bilateral ovaries (situation),15635721000119108,Primary malignant neoplasm of both ovaries (disorder),1
+15647781000119101,History of villous adenoma of duodenum (situation),15641141000119100,Villous adenoma of duodenum (disorder),1
+16847941000119100,History of primary transitional cell carcinoma of left kidney (situation),15959061000119101,Transitional cell carcinoma of left kidney (disorder),1
+16847901000119102,History of primary transitional cell carcinoma of right kidney (situation),15959101000119103,Transitional cell carcinoma of right kidney (disorder),1
+762296001,History of exposure to tobacco smoke in perinatal period (situation),16090371000119103,Exposure to second hand tobacco smoke (event),1
+16524291000119105,History of myalgia caused by statin (situation),16462851000119106,Myalgia caused by statin (finding),1
+776219771000119107,History of myocardial infarction due to demand ischemia (situation),16837681000119104,Myocardial infarction due to demand ischemia (disorder),1
+387785661000119105,History of myocardial infarction due to atherothrombotic coronary artery disease (situation),726499301000119105,Myocardial infarction due to atherothrombotic coronary artery disease (disorder),1

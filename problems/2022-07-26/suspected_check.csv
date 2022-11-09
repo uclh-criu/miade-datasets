@@ -1,0 +1,181 @@
+situationId,sitTerm,findingId,finTerm,Nsit
+431956005,Suspected inflammatory arthritis (situation),3723001,Arthritis (disorder),1
+772165002,Meningococcal septicemia suspected (situation),4089001,Meningococcemia (disorder),1
+413241009,Suspicion of gastritis (situation),4556007,Gastritis (disorder),1
+772154007,Typhoid fever suspected (situation),4834000,Typhoid fever (disorder),1
+428655008,Suspected phenylketonuria (situation),7573000,Classical phenylketonuria (disorder),1
+162594009,Suspected deafness (situation),8531006,Complete deafness (disorder),1
+722545003,Suspected rabies (situation),14168008,Rabies (disorder),1
+772152006,Measles suspected (situation),14189004,Measles (disorder),1
+787772009,Suspected ingestion of foreign body (situation),14448006,Swallowed foreign body (disorder),1
+415685003,Suspected alcohol abuse (situation),15167005,Alcohol abuse (disorder),1
+428485006,Suspected sickle cell trait (situation),16402000,Sickle cell trait (disorder),1
+772162004,Yellow fever suspected (situation),16541001,Yellow fever (disorder),1
+717781006,Suspected renal osteodystrophy (situation),16726004,Renal osteodystrophy (disorder),1
+714327004,Suspected Lyme disease (situation),23502006,Lyme disease (disorder),1
+700409000,Suspected multiple sclerosis (situation),24700007,Multiple sclerosis (disorder),1
+162591001,Suspected drug abuse (situation),26416006,Drug abuse (disorder),3
+162593003,Suspected abuse hard drugs (situation),26416006,Drug abuse (disorder),3
+162592008,Suspected abuse soft drugs (situation),26416006,Drug abuse (disorder),3
+772146005,Pertussis suspected (situation),27836007,Pertussis (disorder),1
+772157000,Scarlet fever suspected (situation),30242009,Scarlet fever (disorder),1
+700102000,Suspected hereditary disease (situation),32895009,Hereditary disease (disorder),1
+473126001,Suspected depressive disorder (situation),35489007,Depressive disorder (disorder),1
+1081901000112109,Glomerulonephritis suspected (situation),36171008,Glomerulonephritis (disorder),1
+772212002,Rubella suspected (situation),36653000,Rubella (disorder),1
+772145009,Mumps suspected (situation),36989005,Mumps (disorder),1
+707860005,Suspected Ebola virus disease (situation),37109004,Ebola virus disease (disorder),1
+417312002,Suspected hypertension (situation),38341003,"Hypertensive disorder, systemic arterial (disorder)",1
+418429061000132101,Suspected dengue (situation),38362002,Dengue (disorder),1
+473130003,Suspected infectious disease (situation),40733004,Infectious disease (disorder),1
+473124003,Suspected hypothyroidism (situation),40930008,Hypothyroidism (disorder),1
+415683005,Suspect trisomy 21 fetus (situation),41040004,Complete trisomy 21 syndrome (disorder),2
+408338009,Suspected Downs syndrome (situation),41040004,Complete trisomy 21 syndrome (disorder),2
+394966004,Suspected respiratory disease (situation),50043002,Disorder of respiratory system (disorder),1
+697959002,Suspected wandering (situation),50239007,Wandering (finding),1
+439597005,Suspected infectious enteritis (situation),55184003,Infectious enteritis (disorder),1
+473128000,Suspected drug overdose (situation),55680006,Drug overdose (disorder),1
+394886001,Suspected heart disease (situation),56265001,Heart disease (disorder),1
+772170009,Tuberculosis suspected (situation),56717001,Tuberculosis (disorder),1
+772161006,Plague suspected (situation),58750007,Plague (disorder),1
+871484007,Pulmonary aspiration of food suspected (situation),58849003,Aspiration of food (finding),1
+417113001,Suspected pulmonary embolism (situation),59282003,Pulmonary embolism (disorder),1
+772168000,Malaria suspected (situation),61462000,Malaria (disorder),1
+772160007,Cholera suspected (situation),63650001,Cholera (disorder),1
+41769001,Disease suspected (situation),64572001,Disease (disorder),2
+717781006,Suspected renal osteodystrophy (situation),64572001,Disease (disorder),2
+772159002,Smallpox suspected (situation),67924001,Smallpox (disorder),1
+314940005,Suspected urinary tract infection (situation),68566005,Urinary tract infectious disease (disorder),1
+718311001,Suspected erythema chronica migrans (situation),69588003,Erythema chronica migrans (disorder),1
+609415007,Suspected fetal disorder (situation),70591005,Fetal disorder (disorder),4
+609418009,Suspected fetal damage from maternal alcohol (situation),70591005,Fetal disorder (disorder),4
+609423009,Suspected fetal damage from environmental toxin (situation),70591005,Fetal disorder (disorder),4
+609424003,Suspected fetal damage from maternal alcohol addiction (situation),70591005,Fetal disorder (disorder),4
+866224009,Pulmonary hypertension suspected (situation),70995007,Pulmonary hypertension (disorder),1
+473127005,Suspected diabetes mellitus (situation),73211009,Diabetes mellitus (disorder),1
+408337004,Suspected chromosome abnormality (situation),74345006,Congenital disorder due to abnormality of chromosome number OR structure (disorder),1
+428300000,Suspected congenital hypothyroidism (situation),75065003,Endemic cretinism (disorder),1
+394988004,Suspected food poisoning (situation),75258004,Food poisoning (disorder),1
+406136005,Suspected poisoning (situation),75478009,Poisoning (disorder),1
+772163009,Brucellosis suspected (situation),75702008,Brucellosis (disorder),1
+371397000,Syphilis suspected on epidemiological grounds (situation),76272004,Syphilis (disorder),1
+772153001,Tetanus suspected (situation),76902006,Tetanus (disorder),1
+772148006,Leprosy suspected (situation),81004002,Leprosy (disorder),1
+394887005,Suspected heart failure (situation),84114007,Heart failure (disorder),1
+407625007,Suspected epilepsy (situation),84757009,Epilepsy (disorder),1
+772164003,Paratyphoid fever suspected (situation),85904008,Paratyphoid fever (disorder),1
+697956009,Suspected tobacco abuse (situation),89765005,Tobacco dependence syndrome (disorder),1
+315262009,Suspected leukemia (situation),93143009,"Leukemia, disease (disorder)",1
+315271000,Suspected urothelial cancer (situation),94125001,Primary malignant neoplasm of urinary system (disorder),2
+836340003,Suspected high-grade urothelial carcinoma found on urine cytology (situation),94125001,Primary malignant neoplasm of urinary system (disorder),2
+697957000,Suspected elderly person maltreatment (situation),95921002,Elderly person maltreatment (event),1
+700254002,Suspected victim of child sexual abuse (situation),95922009,Child sex abuse (event),1
+240592007,Chlamydia trachomatis infection suspected on epidemiological grounds (situation),105629000,Chlamydial infection (disorder),1
+772169008,Hemolytic uremic syndrome suspected (situation),111407006,Hemolytic uremic syndrome (disorder),1
+315264005,Suspected lymphoma (situation),118600007,Malignant lymphoma (disorder),1
+407624006,Suspected neurological disease (situation),118940003,Disorder of nervous system (disorder),1
+787771002,Suspected foreign body (situation),125670008,Foreign body (disorder),1
+315263004,Suspected brain tumor (situation),126952004,Neoplasm of brain (disorder),1
+427261003,Suspected cervical spine disease (situation),128049000,Disorder of cervical spine (disorder),1
+432805000,Suspected deep vein thrombosis (situation),128053003,Deep venous thrombosis (disorder),1
+429244009,Suspected medium-chain acyl-coenzyme A dehydrogenase deficiency (situation),128596003,Medium-chain acyl-coenzyme A dehydrogenase deficiency (disorder),1
+734930006,Suspected viral infection of skin (situation),128937004,Viral infection of skin (disorder),1
+697958005,Suspected noncompliance with therapeutic regimen (situation),129836000,Noncompliance with therapeutic regimen (finding),1
+700255001,Suspected non-accidental injury to child (situation),158094009,Non-accidental injury to child (disorder),1
+700217006,Suspected coronavirus infection (situation),186747009,Coronavirus infection (disorder),1
+315267003,Suspected endometrial cancer (situation),188192002,Malignant neoplasm of endometrium of corpus uteri (disorder),1
+428301001,Suspected cystic fibrosis (situation),190905008,Cystic fibrosis (disorder),1
+782387008,Cauda equina syndrome suspected (situation),192970008,Cauda equina syndrome (disorder),1
+772166001,Legionella pneumonia suspected (situation),195889001,Legionella pneumonia (disorder),1
+394967008,Suspected asthma (situation),195967001,Asthma (disorder),1
+609425002,Suspected fetal damage from maternal drug use (situation),199547006,Fetus with drug damage (disorder),1
+609422004,Suspected fetal damage from radiation (situation),199553006,Fetus with radiation damage (disorder),1
+609421006,Suspected fetal damage from intrauterine contraceptive device (situation),199558002,Fetus with damage due to intrauterine contraceptive device (disorder),1
+309738002,Suspected fetal macrosomia (situation),199616008,Large-for-dates fetus (disorder),1
+430187003,Suspected cervical spine instability (situation),202821008,Cervical spine instability (finding),1
+609418009,Suspected fetal damage from maternal alcohol (situation),205791004,Fetal or neonatal effect of maternal use of alcohol (disorder),1
+771385008,Suspected victim of bullying (situation),225820007,Victim of bullying (finding),1
+697949003,Suspected victim of physical abuse (situation),225824003,Victim of physical abuse (finding),1
+702579009,Suspected victim of sexual abuse (situation),225826001,Victim of sexual abuse (finding),1
+390926006,Suspected gallstones (situation),235919008,Gallbladder calculus (disorder),1
+698600006,Suspected heterozygous familial hypercholesterolemia (situation),238079002,Familial hypercholesterolemia - heterozygous (disorder),1
+772158005,Viral hemorrhagic fever suspected (situation),240523007,Viral hemorrhagic fever (disorder),1
+772211009,Typhus suspected (situation),240613006,Typhus group rickettsial disease (disorder),1
+702954001,Suspected victim of child abandonment (situation),242037000,Child abandonment (event),1
+12242911000119107,Suspected victim of elder physical abuse (situation),242040000,Physical abuse of elderly person (event),1
+12399531000119102,Suspected victim of elder emotional abuse (situation),242041001,Emotional abuse of elderly person (event),1
+134405005,Suspected breast cancer (situation),254837009,Malignant neoplasm of breast (disorder),1
+315277001,Suspected head and neck cancer (situation),255056009,Malignant tumor of head and/or neck (disorder),1
+315273002,Suspected upper gastrointestinal cancer (situation),255078002,"Malignant tumor of esophagus, stomach and duodenum (disorder)",1
+787773004,Suspected foreign body in respiratory tract (situation),262599003,Foreign body in respiratory tract (disorder),1
+126421000119107,Suspected carrier of methicillin resistant staphylococcus aureus (situation),266096002,Methicillin resistant Staphylococcus aureus infection (disorder),1
+473129008,Suspected transient ischemic attack (situation),266257000,Transient ischemic attack (disorder),1
+609427005,Suspected fetal damage from viral disease in mother (situation),267254000,Fetus with viral damage via mother (disorder),1
+315275009,Suspected hematological malignancy (situation),269475001,"Malignant tumor of lymphoid, hemopoietic AND/OR related tissue (disorder)",1
+315265006,Suspected neuroblastoma (situation),281560004,Neuroblastoma of brain (disorder),1
+773116000,Infective encephalitis suspected (situation),312215006,Infective encephalitis (disorder),1
+773112003,Infective meningitis suspected (situation),312216007,Infective meningitis (disorder),1
+162572001,Suspected malignancy (situation),363346000,Malignant neoplastic disease (disorder),3
+397715008,Suspected children's cancer (situation),363346000,Malignant neoplastic disease (disorder),3
+315274008,Suspected lower gastrointestinal cancer (situation),363346000,Malignant neoplastic disease (disorder),3
+315266007,Suspected cervical cancer (situation),363354003,Malignant tumor of cervix (disorder),1
+162573006,Suspected lung cancer (situation),363358000,Malignant tumor of lung (disorder),1
+762996008,Suspected vulva cancer (situation),363367000,Malignant tumor of vulva (disorder),1
+762997004,Suspected ovarian cancer (situation),363443007,Malignant tumor of ovary (disorder),1
+315272007,Suspected testicular cancer (situation),363449006,Malignant tumor of testis (disorder),1
+762999001,Suspected bowel cancer (situation),363508008,Malignant tumor of intestine (disorder),1
+397682005,Suspected gynecological cancer (situation),363514001,Malignant tumor of female genital organ (disorder),1
+315270004,Suspected kidney cancer (situation),363518003,Malignant tumor of kidney (disorder),1
+697950003,Suspected domestic abuse (situation),371772001,Domestic abuse (event),1
+12399331000119107,Suspected victim of adult emotional abuse (situation),371774000,Emotional abuse of adult (event),1
+12399131000119105,Suspected victim of child emotional abuse (situation),371775004,Emotional abuse of child (event),1
+12399371000119105,Suspected victim of adult physical abuse (situation),371778002,Physical abuse of adult (event),1
+12242871000119109,Suspected victim of child physical abuse (situation),371779005,Physical child abuse (event),1
+397614000,Suspected central nervous system cancer (situation),372062007,Malignant neoplasm of central nervous system (disorder),1
+315276005,Suspected skin cancer (situation),372130007,Malignant neoplasm of skin (disorder),1
+734936000,Suspected malignant pigmented skin lesion (situation),372244006,Malignant melanoma (disorder),1
+772150003,Diphtheria suspected (situation),397430003,Diphtheria caused by Corynebacterium diphtheriae (disorder),1
+772155008,Acute poliomyelitis suspected (situation),398102009,Acute poliomyelitis (disorder),1
+12591000132100,Suspected severe acute respiratory syndrome (situation),398447004,Severe acute respiratory syndrome (disorder),1
+315268008,Suspected prostate cancer (situation),399068003,Malignant tumor of prostate (disorder),1
+315269000,Suspected bladder cancer (situation),399326009,Malignant tumor of urinary bladder (disorder),1
+772156009,Invasive group A beta-hemolytic streptococcal disease suspected (situation),406614006,Invasive Group A beta-hemolytic streptococcal disease (disorder),1
+401204006,Suspected autism (situation),408856003,Autistic disorder (disorder),1
+772151004,Anthrax suspected (situation),409498004,Anthrax (disorder),1
+773115001,Hemorrhagic gastroenteritis suspected (situation),409506009,Hemorrhagic gastroenteritis (disorder),1
+772147001,Botulism suspected (situation),414531002,Intoxication with Clostridium botulinum toxin (disorder),1
+473131004,Suspected sickle cell disease (situation),417357006,Sickling disorder due to hemoglobin S (disorder),1
+162596006,Suspected victim of child abuse (situation),418189009,Child abuse (event),1
+702953007,Suspected victim of child neglect (situation),418496002,Child neglect (event),1
+397657005,Suspected urological cancer (situation),419052002,Malignant tumor of urinary system (disorder),1
+697951004,Suspected victim of emotional abuse (situation),419916003,Victim of emotional abuse (finding),2
+12399131000119105,Suspected victim of child emotional abuse (situation),419916003,Victim of emotional abuse (finding),2
+315261002,Suspected sarcoma (situation),424413001,Sarcoma (disorder),1
+868252007,Malignant neoplasm of gastrointestinal tract suspected (situation),428905002,Malignant neoplasm of gastrointestinal tract (disorder),1
+12399411000119106,Suspected victim of adult sexual abuse (situation),444557007,Sexual abuse of adult (event),1
+787774005,Suspected superficial foreign body (situation),447404002,Superficial foreign body (disorder),1
+931000122109,Suspected compulsive personality disorder (situation),473456000,Compulsive personality disorder (disorder),1
+609416008,Suspected fetal anencephaly (situation),609417004,Fetal anencephaly (disorder),1
+609420007,Suspected fetal damage from disease in the mother (situation),609429008,Fetal disorder due to disease in mother (disorder),1
+237149005,Fetus with suspected rubella damage via mother (situation),609434007,Fetal damage from maternal rubella (disorder),1
+609426001,Suspected fetal damage from maternal listeriosis (situation),609435008,Fetal damage from maternal listeriosis (disorder),1
+609419001,Suspected fetal damage from maternal toxoplasmosis (situation),609436009,Fetal damage from maternal toxoplasmosis (disorder),1
+609424003,Suspected fetal damage from maternal alcohol addiction (situation),609438005,Fetal or neonatal effect of maternal alcohol addiction (disorder),1
+700253008,Suspected victim of sexual grooming (situation),700226009,Victim of sexual grooming (finding),1
+702564002,Suspected undeclared drug therapy (situation),702563008,Undeclared drug therapy (finding),1
+702566000,Suspected non-compliance of drug therapy (situation),702565001,Non-compliance of drug therapy (finding),1
+723073000,Suspected pressure injury of deep tissue (situation),723071003,Pressure injury of deep tissue (disorder),1
+725051009,Suspected cystic fibrosis in fetus (situation),725052002,Fetal cystic fibrosis (disorder),1
+123381000119108,Suspected carrier of methicillin susceptible staphylococcus aureus (situation),732291000,Methicillin susceptible staphylococcus aureus carrier (finding),1
+734931005,Suspected benign pigmented skin lesion (situation),734932003,Benign pigmented skin lesion (finding),1
+773114002,Acute hepatitis caused by infection suspected (situation),773113008,Acute hepatitis caused by infection (disorder),1
+237152002,Fetal spina bifida suspected (situation),783724009,Fetal spina bifida (disorder),1
+237153007,Fetal hydrocephalus suspected (situation),783726006,Fetal hydrocephalus (disorder),1
+840544004,Suspected disease caused by Severe acute respiratory coronavirus 2 (situation),840539006,Disease caused by Severe acute respiratory syndrome coronavirus 2 (disorder),1
+16698001000119102,Suspected amblyopia of right eye (situation),336451000119108,Amblyopia of right eye (disorder),2
+16697921000119109,Suspected amblyopia of bilateral eyes (situation),336451000119108,Amblyopia of right eye (disorder),2
+16697961000119104,Suspected amblyopia of left eye (situation),342061000119102,Amblyopia of left eye (disorder),2
+16697921000119109,Suspected amblyopia of bilateral eyes (situation),342061000119102,Amblyopia of left eye (disorder),2
+15912911000119102,Suspected victim of elder neglect (situation),12399011000119104,Neglect of elder (event),1
+12399491000119102,Suspected victim of elder sexual abuse (situation),12399051000119103,Elder sexual abuse (event),1
+12399291000119101,Suspected victim of adult abuse (situation),12399091000119108,Adult abuse (event),1

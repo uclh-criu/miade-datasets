@@ -1,0 +1,5 @@
+Patient name: Ross Baker
+Age of the Patient: 89 years
+Medical Record Number: 208 10 38
+Dr. Nerath attended today an elderly man who has been hospitalized for one week because of severe and worsening Parkinson’s disease. He is found in bed tachypnoeic, tachycardic and responsive only to painful stimuli. Pulmonary examination reveals diffuse wheezes and crackles in the right lung field posteriorly and absent breath sounds in the left lung field.
+The doctor arranged a x-ray chest, ECG and Echo.

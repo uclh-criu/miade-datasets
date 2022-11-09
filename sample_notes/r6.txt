@@ -1,0 +1,12 @@
+Internal Medicine Admission Note 
+Patient: Joiner, Caitlin 
+Medical Record Number: 304 10 38 
+Room: M270T 
+Date of Admission: 3/07/72 
+Attending Physician: Yan Ball Admitting Intern: Nathan France Code Status: 
+FULL Source: Patient, Medical Record ID/CC: 56yoF h/o DM w/ peripheral neuropathy, chronic R foot ulcer p/w n/v, osteomyelitis. 
+History of Present Illness: Patient reports that since 2d prior to admission, has had significant nausea, vomiting w/ food content, non bloody emesis. She reports emesis, anorexia. In the past, has had similar symptoms in setting of ketoacidosis; reports blood sugars of 390s (the day before it had been in 190s range, normal for her). Denies early satiety but has had nausea/vomiting related to gastroparesis. Patient reports R ventral ulcer b/w 2nd/3rd metatarsal head since 6/71. 
+She believed wound was healing well; most recently, treating w/ dry dressings changed. Exam was remarkable for R foot ulcer, now draining purulent material. 
+Labs showed normal anion gap, glucose 278, u/a w/ 1+ ketones. X-ray of foot demonstrated destruction of the 2nd metatarsal head on R, compared w/ 1/72. Patient was given vanc/cefepime, reglan for nausea. Review of Systems: Significant R buttock pain, since 2d prior, after lifting heavy groceries, worse w/ straight positions. Chills, anorexia attributed to diuretics for R heart failure. Dry cough. Chronic pruritis. 
+
+Negative straight leg raise while in sitting position. EXT: bilateral legs w/ e/o venous stasis, both warm to touch, w/ mild erythema. Ulcers on R anterior shin, medial shin healing. Excoriations especially on R below knee. Ulcer involving R foot, ventral surface, 1cm diameter, at least 2cm deep (unclear how deep it goes), no purulent drainage, mild erythema of foot but no evidence for cellulitis.
