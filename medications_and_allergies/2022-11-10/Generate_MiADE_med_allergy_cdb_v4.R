@@ -137,6 +137,32 @@ snomed_symptoms <- as.SNOMEDconcept(unique(merge(
 	READ_SYMPTOMS[, .(read2 = readcode)],
 	READMAPS[, .(read2 = unlist(read2_code)), by = conceptId],
 	by = 'read2')$conceptId))
+cat('\nSNOMED symptoms:', length(snomed_symptoms))
+#snomed_symptoms <- union(snomed_symptoms, descendants(snomed_symptoms))
+#cat('SNOMED symptoms with descendants:', length(snomed_symptoms))
+
+# Add specific concepts of interest
+extra <- descendants(SNOMEDconcept(c(
+'Anaphylaxis',
+'Diarrhoea',
+'Constipation',
+'Nausea',
+'Vomiting',
+'Upset stomach',
+'Stomach ache',
+'Indigestion',
+'Dyspepsia',
+'Gastrointestinal bleeding',
+'Rash',
+'Itching',
+'Hives',
+'Shortness of breath',
+'Swelling',
+'Oedema')), include_self = TRUE)
+
+#setdiff(extra, snomed_symptoms)
+snomed_symptoms <- union(snomed_symptoms, extra)
+cat('\nSymptoms with some specific additions:', length(snomed_symptoms))
 
 # Limit to the findings hierarchy, and add adverse reactions and allergic reactions
 findings <- descendants('Clinical finding')
@@ -151,8 +177,10 @@ allergic_reactions <- SNOMEDconcept(SNOMED$RELATIONSHIP[active == TRUE &
 
 # Create a list of symptoms and other allergic reactions
 reaction_concepts <- intersect(snomed_symptoms, findings)
+cat('\nSNOMED symptoms limited to findings:', length(reaction_concepts))
 reaction_concepts <- union(reaction_concepts, adverse_reactions)
 reaction_concepts <- union(reaction_concepts, allergic_reactions)
+cat('\nAfter adding adverse & allergic reactions:', length(reaction_concepts))
 
 # Remove disorders with a 'causative agent'
 CAUSATIVE_AGENT <- SNOMED$RELATIONSHIP[active == TRUE &
@@ -160,6 +188,7 @@ CAUSATIVE_AGENT <- SNOMED$RELATIONSHIP[active == TRUE &
 	.(conceptId = sourceId, substanceId = destinationId)]
 reaction_concepts <- reaction_concepts[!reaction_concepts %in%
 	CAUSATIVE_AGENT$conceptId]
+cat('\nAfter removing causative agents:', length(reaction_concepts))
 
 REACTIONS <- description(reaction_concepts, include_synonyms = TRUE)[
 	type  == 'Synonym', .(conceptId, term, category = 'reaction')]
@@ -220,6 +249,9 @@ M <- M[!duplicated(M)]
 # Select primary concept (the one with the longest and most descriptive name)
 M <- M[order(category, dosecategory, conceptId, -nchar(term))]
 M[, name_status := c('P', rep('A', .N - 1)), by = conceptId]
+
+cat('\nFinal categories:\n')
+print(M[, .N, by = .(category, dosecategory)])
 
 # Output files
 fwrite(description(SUBS$conceptId)[, .(conceptId, term)],
