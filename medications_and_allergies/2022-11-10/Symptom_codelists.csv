@@ -1,0 +1,3190 @@
+readcode,medcode,term,symptom_code
+196..11,1976,Abdominal pain type,Abdominal_pain
+1962.00,7812,Colicky abdominal pain,Abdominal_pain
+1963.00,5691,Non-colicky abdominal pain,Abdominal_pain
+1968.00,2383,Abdominal discomfort,Abdominal_pain
+1969.00,177,Abdominal pain,Abdominal_pain
+1969000,29352,Abdominal wall pain,Abdominal_pain
+197..13,5960,Site of abdominal pain,Abdominal_pain
+197..14,6357,Subcostal pain,Abdominal_pain
+1971.00,4617,Central abdominal pain,Abdominal_pain
+1972.00,290,Epigastric pain,Abdominal_pain
+1973.00,23872,Left subcostal pain,Abdominal_pain
+1974.00,24821,Right subcostal pain,Abdominal_pain
+197A.00,24661,Generalised abdominal pain,Abdominal_pain
+197A.11,11070,General abdominal pain-symptom,Abdominal_pain
+197B.00,3978,Upper abdominal pain,Abdominal_pain
+197C.00,22608,Lower abdominal pain,Abdominal_pain
+25C..00,15180,O/E - abdo. pain on palpation,Abdominal_pain
+25C..11,20640,O/E - epigastric pain on palp.,Abdominal_pain
+25C..14,17636,O/E - umbilical pain on palp.,Abdominal_pain
+25C..15,5782,O/E - abdomen tender,Abdominal_pain
+25C2.00,12639,O/E - abd.pain-R.hypochondrium,Abdominal_pain
+25C3.00,19223,O/E - abd. pain - epigastrium,Abdominal_pain
+25C4.00,37101,O/E - abd.pain-L.hypochondrium,Abdominal_pain
+25C5.00,36558,O/E - abd. pain - R.lumbar,Abdominal_pain
+25C6.00,24627,O/E - abd. pain - umbilical,Abdominal_pain
+25C7.00,25630,O/E - abd. pain - L.lumbar,Abdominal_pain
+25C8.00,11647,O/E - abd. pain - R.iliac,Abdominal_pain
+25C9.00,42211,O/E - abd. pain - hypogastrium,Abdominal_pain
+25CA.00,21583,O/E - abd. pain - L.iliac,Abdominal_pain
+25CZ.00,14916,O/E -abd.pain on palpation NOS,Abdominal_pain
+R090.00,1763,[D]Abdominal pain,Abdominal_pain
+R090100,2056,[D]Abdominal colic,Abdominal_pain
+R090200,1239,[D]Colic NOS,Abdominal_pain
+R090400,716,[D]Abdominal cramps,Abdominal_pain
+R090500,542,[D]Epigastric pain,Abdominal_pain
+R090E00,2234,[D]Recurrent acute abdominal pain,Abdominal_pain
+R090F00,948,[D]Acute abdomen,Abdominal_pain
+R090H00,8436,[D]Upper abdominal pain,Abdominal_pain
+R090N00,19283,[D]Nonspecific abdominal pain,Abdominal_pain
+R090P00,103540,[D]Functional abdominal pain syndrome,Abdominal_pain
+R090y00,31062,[D]Other specified abdominal pain,Abdominal_pain
+R090z00,3338,[D]Abdominal pain NOS,Abdominal_pain
+R096.00,54385,[D]Acute abdomen,Abdominal_pain
+Ryu1000,50662,[X]Pain localized to other parts of lower abdomen,Abdominal_pain
+Ryu1100,52402,[X]Other and unspecified abdominal pain,Abdominal_pain
+14B1.00,9302,H/O: hay fever,Allergies_angioedema
+14M3.00,12239,H/O: multiple allergies,Allergies_angioedema
+16J5.00,8963,Facial swelling,Allergies_angioedema
+1Z42.00,1000518,Ticagrelor allergy,Allergies_angioedema
+1Z43100,1000520,Apixaban allergy,Allergies_angioedema
+2227.11,1243,O/E - allergic rash,Allergies_angioedema
+2525.00,4881,O/E - lip swelling,Allergies_angioedema
+335..11,969,Allergy skin test,Allergies_angioedema
+3359.00,19862,Allergy skin test positive,Allergies_angioedema
+336..00,2805,Allergy testing NOS,Allergies_angioedema
+336..11,17062,Allergy test - not skin,Allergies_angioedema
+3361.00,13384,Allergy testing done,Allergies_angioedema
+3363.00,15038,Allergy testing - no reaction,Allergies_angioedema
+3364.00,21398,Nasal allergy challenge,Allergies_angioedema
+3365.00,22763,Bronchial allergy challenge,Allergies_angioedema
+3366.00,57372,Subconjunct. allergy challenge,Allergies_angioedema
+3367.00,56109,Sublingual allergy challenge,Allergies_angioedema
+3368.00,29458,Allergy test positive,Allergies_angioedema
+336Z.00,50338,Allergy testing NOS,Allergies_angioedema
+43Jj.00,53407,Allergen IgG level,Allergies_angioedema
+43We.00,40203,Allergen specific IgG antibody measurement,Allergies_angioedema
+43Wi.00,105338,Allergen specific IgE antibody level,Allergies_angioedema
+43cB.00,13691,Allergy screening test,Allergies_angioedema
+43ie.00,43997,Inhaled allergen mix RAST test,Allergies_angioedema
+66G..00,7588,Allergic disorder monitoring,Allergies_angioedema
+66G1.00,29331,Allergic dis. initial assessm.,Allergies_angioedema
+66G2.00,27760,Allergic dis. follow-up assess,Allergies_angioedema
+66G3.00,47919,Allergic dis.- symptom change,Allergies_angioedema
+66G5.00,53638,Allergy treatment changed,Allergies_angioedema
+66G5.11,52616,Allergy dis.treatment changed,Allergies_angioedema
+66G6.00,63703,Allergy dis.treatment started,Allergies_angioedema
+66GZ.00,43733,Allergic dis. monitoring NOS,Allergies_angioedema
+8HVK000,106195,Private referral to allergy specialist,Allergies_angioedema
+8Hld.00,104108,Referral to clinical allergy service,Allergies_angioedema
+9NlX.00,104313,Seen by clinical allergy - service,Allergies_angioedema
+9b99.00,90519,Clinical immunology/allergy,Allergies_angioedema
+9b9W.00,103568,Allergy - specialty,Allergies_angioedema
+AB63300,100742,Allergic bronchopulmonary aspergillosis,Allergies_angioedema
+D310.00,16556,Allergic purpura,Allergies_angioedema
+D310000,1459,Henoch-Schonlein purpura,Allergies_angioedema
+D310011,10637,Anaphylactoid purpura,Allergies_angioedema
+D310012,41784,Acute vascular purpura,Allergies_angioedema
+D310z00,35086,Allergic purpura NOS,Allergies_angioedema
+D403300,53414,Allergic eosinophilia,Allergies_angioedema
+F4C0600,2011,Acute atopic conjunctivitis,Allergies_angioedema
+F4C0611,16676,Acute allergic conjunctivitis,Allergies_angioedema
+F4C1400,14688,Other chronic allergic conjunctivitis,Allergies_angioedema
+F4C1411,788,Allergic conjunctivitis,Allergies_angioedema
+F4D3000,29779,Eczematous eyelid dermatitis,Allergies_angioedema
+F4D3100,16832,Contact or allergic eyelid dermatitis,Allergies_angioedema
+F4D3111,16685,Allergic dermatitis - eyelid,Allergies_angioedema
+F4D3112,15879,Contact eczema - eyelids,Allergies_angioedema
+F510400,70788,Acute allergic serous otitis media,Allergies_angioedema
+F510500,104056,Acute allergic mucoid otitis media,Allergies_angioedema
+F510600,63780,Acute allergic sanguinous otitis media,Allergies_angioedema
+F513000,37597,Chronic allergic otitis media,Allergies_angioedema
+F514000,29845,Allergic otitis media NOS,Allergies_angioedema
+G752.00,20509,Hypersensitivity angiitis,Allergies_angioedema
+G752.11,62277,Hypersensitivity arteritis,Allergies_angioedema
+G752z00,23569,Hypersensitivity angiitis NOS,Allergies_angioedema
+H025.00,6274,Allergic pharyngitis,Allergies_angioedema
+H17..00,175,Allergic rhinitis,Allergies_angioedema
+H17..12,18572,Allergic rhinosinusitis,Allergies_angioedema
+H170.00,1838,Allergic rhinitis due to pollens,Allergies_angioedema
+H170.11,121,Hay fever - pollens,Allergies_angioedema
+H170.12,24163,Pollinosis,Allergies_angioedema
+H171.00,2372,Allergic rhinitis due to other allergens,Allergies_angioedema
+H171.14,16134,Hay fever - other allergen,Allergies_angioedema
+H172.00,775,Allergic rhinitis due to unspecified allergen,Allergies_angioedema
+H172.11,3798,Hay fever - unspecified allergen,Allergies_angioedema
+H17z.00,964,Allergic rhinitis NOS,Allergies_angioedema
+H330.00,7146,Extrinsic (atopic) asthma,Allergies_angioedema
+H330.11,2290,Allergic asthma,Allergies_angioedema
+H330.13,15248,Hay fever with asthma,Allergies_angioedema
+H330.14,7731,Pollen asthma,Allergies_angioedema
+H330011,5627,Hay fever with asthma,Allergies_angioedema
+H330111,6707,Extrinsic asthma with asthma attack,Allergies_angioedema
+H330z00,45782,Extrinsic asthma NOS,Allergies_angioedema
+H331.00,5267,Intrinsic asthma,Allergies_angioedema
+H331z00,45073,Intrinsic asthma NOS,Allergies_angioedema
+H33zz12,21232,Allergic asthma NEC,Allergies_angioedema
+H33zz13,18207,Allergic bronchitis NEC,Allergies_angioedema
+H35..00,11312,Extrinsic allergic alveolitis,Allergies_angioedema
+H35..11,103637,Hypersensitivity pneumonitis,Allergies_angioedema
+H35y.00,51858,Other allergic alveolitis,Allergies_angioedema
+H35yz00,55552,Other allergic alveolitis NOS,Allergies_angioedema
+H35z.00,46977,Allergic alveolitis and pneumonitis NOS,Allergies_angioedema
+H35z000,62442,Allergic extrinsic alveolitis NOS,Allergies_angioedema
+H35z100,11833,Hypersensitivity pneumonitis NOS,Allergies_angioedema
+H35zz00,53095,Allergic alveolitis and pneumonitis NOS,Allergies_angioedema
+Hyu2000,72490,[X]Other seasonal allergic rhinitis,Allergies_angioedema
+Hyu2100,47599,[X]Other allergic rhinitis,Allergies_angioedema
+J072000,33959,Allergic parotitis,Allergies_angioedema
+J154000,33820,Allergic gastritis,Allergies_angioedema
+J432.00,12543,Allergic gastroenteritis and colitis,Allergies_angioedema
+J432.11,13387,Allergic diarrhoea,Allergies_angioedema
+J432000,23603,Allergic gastroenteritis,Allergies_angioedema
+J432100,15795,Allergic enteritis,Allergies_angioedema
+J432200,20023,Allergic enterocolitis,Allergies_angioedema
+J432300,6156,Allergic colitis,Allergies_angioedema
+J432z00,3761,Allergic gastroenteritis NOS,Allergies_angioedema
+M11..00,13223,Atopic dermatitis and related conditions,Allergies_angioedema
+M111.00,1741,Atopic dermatitis/eczema,Allergies_angioedema
+M114.00,5869,Allergic (intrinsic) eczema,Allergies_angioedema
+M11z.00,6180,Atopic dermatitis NOS,Allergies_angioedema
+M123000,63353,Contact dermatitis due to arnica,Allergies_angioedema
+M126500,3041,Contact dermatitis due to primrose,Allergies_angioedema
+M128.00,334,Allergic contact dermatitis,Allergies_angioedema
+M12A200,15310,Solar urticaria,Allergies_angioedema
+M280.00,6400,Allergic urticaria,Allergies_angioedema
+M281.00,8948,Idiopathic urticaria,Allergies_angioedema
+M282000,7651,Cold urticaria,Allergies_angioedema
+M285.00,9041,Cholinergic urticaria,Allergies_angioedema
+Myu2300,59742,[X]Allergic contact dermatitis due to other agents,Allergies_angioedema
+N062.00,23806,Allergic arthritis,Allergies_angioedema
+N062000,15335,Allergic arthritis of unspecified site,Allergies_angioedema
+N062100,56249,Allergic arthritis of the shoulder region,Allergies_angioedema
+N062200,1007483,Allergic arthritis of the upper arm,Allergies_angioedema
+N062300,96404,Allergic arthritis of the forearm,Allergies_angioedema
+N062400,65580,Allergic arthritis of the hand,Allergies_angioedema
+N062500,1007484,Allergic arthritis of the pelvic region and thigh,Allergies_angioedema
+N062600,73778,Allergic arthritis of the lower leg,Allergies_angioedema
+N062700,57725,Allergic arthritis of the ankle and foot,Allergies_angioedema
+N062800,73749,Allergic arthritis of other specified site,Allergies_angioedema
+N062900,72240,Allergic arthritis of multiple sites,Allergies_angioedema
+N062z00,29465,Allergic arthritis NOS,Allergies_angioedema
+R042011,744,[D]Swelling face,Allergies_angioedema
+SN51.00,4173,Angioneurotic oedema,Allergies_angioedema
+SN51.11,78446,Angioedema,Allergies_angioedema
+SN53.00,620,"Allergy, unspecified",Allergies_angioedema
+SN53000,1275,Allergic reaction,Allergies_angioedema
+SN5B.00,1009683,Allergy to stainless steel,Allergies_angioedema
+ZL18200,30157,Under care of clinical allergist,Allergies_angioedema
+ZL5A600,18870,Referral to clinical allergist,Allergies_angioedema
+ZL9A200,11306,Seen by clinical allergist,Allergies_angioedema
+ZLE6100,36743,Discharge from clinical allergy service,Allergies_angioedema
+ZV72711,6755,[V]Allergy test,Allergies_angioedema
+1612.00,7608,Appetite loss - anorexia,Anorexia
+1612.11,7744,Anorexia symptom,Anorexia
+1612.12,6607,Loss of appetite - symptom,Anorexia
+1615.00,13081,Reduced appetite,Anorexia
+E275600,22820,Non-organic loss of appetite,Anorexia
+Eu50y12,17203,[X]Psychogenic loss of appetite,Anorexia
+R030.00,912,[D]Anorexia,Anorexia
+R030000,1855,[D]Appetite loss,Anorexia
+R030z00,53746,[D]Anorexia NOS,Anorexia
+1B45.00,25122,Anosmia - loss of smell sense,Anosmia
+1B45.11,7088,C/O - anosmia,Anosmia
+1B45.12,7450,C/O - loss of smell sense,Anosmia
+2BP3.00,25678,O/E - anosmia,Anosmia
+R011.00,10580,[D]Smell and taste disorder,Anosmia
+R011000,1718,[D]Anosmia,Anosmia
+R011z00,15652,[D]Smell or taste disorder NOS,Anosmia
+Ryu5200,109563,[X]Other and unspecified disturbances of smell and taste,Anosmia
+Z7C2411,56698,Unable to recognise smells,Anosmia
+ZV41500,29823,[V]Problem with smell or taste,Anosmia
+1465.00,2716,H/O: depression,Anxiety_depression
+1466.00,3407,H/O: anxiety state,Anxiety_depression
+16ZB100,101422,Feeling low or worried,Anxiety_depression
+173f.00,107410,Anxiety about breathlessness,Anxiety_depression
+1B1..00,3328,General nervous symptoms,Anxiety_depression
+1B12.00,29608,'Nerves' - nervousness,Anxiety_depression
+1B12.11,3586,'Nerves',Anxiety_depression
+1B12.12,514,Tension - nervous,Anxiety_depression
+1B13.00,131,Anxiousness,Anxiety_depression
+1B13.11,5902,Anxiousness - symptom,Anxiety_depression
+1B13.12,93401,Anxious,Anxiety_depression
+1B17.00,1996,Depressed,Anxiety_depression
+1B17.11,4824,C/O - feeling depressed,Anxiety_depression
+1B1U.00,9796,Symptoms of depression,Anxiety_depression
+1B1U.11,10438,Depressive symptoms,Anxiety_depression
+1B1V.00,11890,C/O - panic attack,Anxiety_depression
+1B1Z.00,20089,General nervous symptom NOS,Anxiety_depression
+1BP..00,30740,Loss of interest,Anxiety_depression
+1BP0.00,59869,Loss of interest in previously enjoyable activity,Anxiety_depression
+1BQ..00,25435,Loss of capacity for enjoyment,Anxiety_depression
+1BT..00,10015,Depressed mood,Anxiety_depression
+1BT..11,8928,Low mood,Anxiety_depression
+1BT..12,26028,Sad mood,Anxiety_depression
+2257.00,1908,O/E - depressed,Anxiety_depression
+225J.00,19000,O/E - panic attack,Anxiety_depression
+32E4.00,42104,ECG: S-T depression,Anxiety_depression
+8BK0.00,44848,Depression management programme,Anxiety_depression
+8CAZ000,108107,Patient given advice about management of anxiety,Anxiety_depression
+8CAa.00,30483,Patient given advice about management of depression,Anxiety_depression
+8HHp.00,28925,Referral for guided self-help for anxiety,Anxiety_depression
+8HHq.00,32841,Referral for guided self-help for depression,Anxiety_depression
+8HHq000,1003960,Referral for depression self-help video,Anxiety_depression
+8IH5200,1004067,Referral for guided self-help for depression declined,Anxiety_depression
+8IH5300,1004068,Referral for guided self-help for anxiety declined,Anxiety_depression
+8IH5700,1004070,Referral for psychological management of anxiety declined,Anxiety_depression
+8T23.00,111085,"",Anxiety_depression
+9H90.00,12399,Depression annual review,Anxiety_depression
+9H91.00,12122,Depression medication review,Anxiety_depression
+9H92.00,30405,Depression interim review,Anxiety_depression
+9HA0.00,42931,On depression register,Anxiety_depression
+9Ov..00,51258,Depression monitoring administration,Anxiety_depression
+9Ov0.00,71009,Depression monitoring first letter,Anxiety_depression
+9Ov1.00,72966,Depression monitoring second letter,Anxiety_depression
+9Ov2.00,91105,Depression monitoring third letter,Anxiety_depression
+9Ov3.00,88644,Depression monitoring verbal invite,Anxiety_depression
+9Ov4.00,85852,Depression monitoring telephone invite,Anxiety_depression
+9hC..00,48970,Exception reporting: depression quality indicators,Anxiety_depression
+9hC0.00,28970,Excepted from depression quality indicators: Patient unsuita,Anxiety_depression
+9hC1.00,43239,Excepted from depression quality indicators: Informed dissen,Anxiety_depression
+9k4..00,30583,Depression - enhanced services administration,Anxiety_depression
+9k40.00,65435,Depression - enhanced service completed,Anxiety_depression
+9kQ..00,96995,On full dose long term treatment depression - enh serv admin,Anxiety_depression
+9kQ..11,1004683,On full dose long term treatment for depression,Anxiety_depression
+E001300,27677,Presenile dementia with depression,Anxiety_depression
+E002.00,44674,Senile dementia with depressive or paranoid features,Anxiety_depression
+E002100,21887,Senile dementia with depression,Anxiety_depression
+E002z00,41089,Senile dementia with depressive or paranoid features NOS,Anxiety_depression
+E004300,43292,Arteriosclerotic dementia with depression,Anxiety_depression
+E02y300,46244,Drug-induced depressive state,Anxiety_depression
+E11..12,2560,Depressive psychoses,Anxiety_depression
+E112.00,10610,Single major depressive episode,Anxiety_depression
+E112.11,5879,Agitated depression,Anxiety_depression
+E112.12,6546,Endogenous depression first episode,Anxiety_depression
+E112.13,6950,Endogenous depression first episode,Anxiety_depression
+E112.14,595,Endogenous depression,Anxiety_depression
+E112000,34390,"Single major depressive episode, unspecified",Anxiety_depression
+E112100,16506,"Single major depressive episode, mild",Anxiety_depression
+E112200,15155,"Single major depressive episode, moderate",Anxiety_depression
+E112300,15219,"Single major depressive episode, severe, without psychosis",Anxiety_depression
+E112500,43324,"Single major depressive episode, partial or unspec remission",Anxiety_depression
+E112600,57409,"Single major depressive episode, in full remission",Anxiety_depression
+E112z00,7011,Single major depressive episode NOS,Anxiety_depression
+E113.00,15099,Recurrent major depressive episode,Anxiety_depression
+E113.11,6932,Endogenous depression - recurrent,Anxiety_depression
+E113000,35671,"Recurrent major depressive episodes, unspecified",Anxiety_depression
+E113100,29342,"Recurrent major depressive episodes, mild",Anxiety_depression
+E113200,14709,"Recurrent major depressive episodes, moderate",Anxiety_depression
+E113500,56273,"Recurrent major depressive episodes,partial/unspec remission",Anxiety_depression
+E113600,55384,"Recurrent major depressive episodes, in full remission",Anxiety_depression
+E113700,6482,Recurrent depression,Anxiety_depression
+E113z00,25563,Recurrent major depressive episode NOS,Anxiety_depression
+E115.00,4677,"Bipolar affective disorder, currently depressed",Anxiety_depression
+E115.11,12831,Manic-depressive - now depressed,Anxiety_depression
+E115000,15923,"Bipolar affective disorder, currently depressed, unspecified",Anxiety_depression
+E115z00,37296,"Bipolar affective disorder, currently depressed, NOS",Anxiety_depression
+E118.00,10825,Seasonal affective disorder,Anxiety_depression
+E11y200,27491,Atypical depressive disorder,Anxiety_depression
+E11z200,9183,Masked depression,Anxiety_depression
+E135.00,1055,Agitated depression,Anxiety_depression
+E200.00,636,Anxiety states,Anxiety_depression
+E200000,6939,Anxiety state unspecified,Anxiety_depression
+E200100,4069,Panic disorder,Anxiety_depression
+E200111,462,Panic attack,Anxiety_depression
+E200200,4659,Generalised anxiety disorder,Anxiety_depression
+E200300,655,Anxiety with depression,Anxiety_depression
+E200400,1758,Chronic anxiety,Anxiety_depression
+E200500,4634,Recurrent anxiety,Anxiety_depression
+E200z00,4534,Anxiety state NOS,Anxiety_depression
+E202.00,1907,Phobic disorders,Anxiety_depression
+E202.11,16638,Social phobic disorders,Anxiety_depression
+E202.12,9944,Phobic anxiety,Anxiety_depression
+E202z00,14729,Phobic disorder NOS,Anxiety_depression
+E204.00,1131,Neurotic depression reactive type,Anxiety_depression
+E205.00,3361,Neurasthenia - nervous debility,Anxiety_depression
+E205.11,1582,Nervous exhaustion,Anxiety_depression
+E211200,10455,Depressive personality disorder,Anxiety_depression
+E227200,809,Frigidity,Anxiety_depression
+E274900,2129,Nightmares,Anxiety_depression
+E292000,6221,Separation anxiety disorder,Anxiety_depression
+E292400,56924,Adjustment reaction with anxious mood,Anxiety_depression
+E2B..00,324,Depressive disorder NEC,Anxiety_depression
+E2B0.00,2972,Postviral depression,Anxiety_depression
+E2B1.00,4323,Chronic depression,Anxiety_depression
+Eu02z16,27759,"[X] Senile dementia, depressed or paranoid type",Anxiety_depression
+Eu05400,20773,[X]Organic anxiety disorder,Anxiety_depression
+Eu32.00,4639,[X]Depressive episode,Anxiety_depression
+Eu32.11,9055,[X]Single episode of depressive reaction,Anxiety_depression
+Eu32.12,18510,[X]Single episode of psychogenic depression,Anxiety_depression
+Eu32.13,7604,[X]Single episode of reactive depression,Anxiety_depression
+Eu32000,11717,[X]Mild depressive episode,Anxiety_depression
+Eu32100,9211,[X]Moderate depressive episode,Anxiety_depression
+Eu32200,9667,[X]Severe depressive episode without psychotic symptoms,Anxiety_depression
+Eu32211,41989,[X]Single episode agitated depressn w'out psychotic symptoms,Anxiety_depression
+Eu32212,22806,[X]Single episode major depression w'out psychotic symptoms,Anxiety_depression
+Eu32213,59386,[X]Single episode vital depression w'out psychotic symptoms,Anxiety_depression
+Eu32400,10667,[X]Mild depression,Anxiety_depression
+Eu32500,98346,"[X]Major depression, mild",Anxiety_depression
+Eu32600,98252,"[X]Major depression, moderately severe",Anxiety_depression
+Eu32y00,6854,[X]Other depressive episodes,Anxiety_depression
+Eu32y11,10720,[X]Atypical depression,Anxiety_depression
+Eu32y12,56609,[X]Single episode of masked depression NOS,Anxiety_depression
+Eu32z00,2970,"[X]Depressive episode, unspecified",Anxiety_depression
+Eu32z11,543,[X]Depression NOS,Anxiety_depression
+Eu32z12,3291,[X]Depressive disorder NOS,Anxiety_depression
+Eu32z13,28248,[X]Prolonged single episode of reactive depression,Anxiety_depression
+Eu32z14,5987,[X] Reactive depression NOS,Anxiety_depression
+Eu33.00,3292,[X]Recurrent depressive disorder,Anxiety_depression
+Eu33.11,8851,[X]Recurrent episodes of depressive reaction,Anxiety_depression
+Eu33.12,19696,[X]Recurrent episodes of psychogenic depression,Anxiety_depression
+Eu33.13,8902,[X]Recurrent episodes of reactive depression,Anxiety_depression
+Eu33.14,28756,[X]Seasonal depressive disorder,Anxiety_depression
+Eu33.15,8826,[X]SAD - Seasonal affective disorder,Anxiety_depression
+Eu33000,29784,"[X]Recurrent depressive disorder, current episode mild",Anxiety_depression
+Eu33100,29520,"[X]Recurrent depressive disorder, current episode moderate",Anxiety_depression
+Eu33200,33469,[X]Recurr depress disorder cur epi severe without psyc sympt,Anxiety_depression
+Eu33211,11329,[X]Endogenous depression without psychotic symptoms,Anxiety_depression
+Eu33212,11252,"[X]Major depression, recurrent without psychotic symptoms",Anxiety_depression
+Eu33214,73991,"[X]Vital depression, recurrent without psychotic symptoms",Anxiety_depression
+Eu33400,22116,"[X]Recurrent depressive disorder, currently in remission",Anxiety_depression
+Eu33y00,47731,[X]Other recurrent depressive disorders,Anxiety_depression
+Eu33z00,44300,"[X]Recurrent depressive disorder, unspecified",Anxiety_depression
+Eu33z11,36616,[X]Monopolar depression NOS,Anxiety_depression
+Eu34100,7953,[X]Dysthymia,Anxiety_depression
+Eu34111,8584,[X]Depressive neurosis,Anxiety_depression
+Eu34112,10290,[X]Depressive personality disorder,Anxiety_depression
+Eu34113,7737,[X]Neurotic depression,Anxiety_depression
+Eu34114,15220,[X]Persistant anxiety depression,Anxiety_depression
+Eu3y111,19054,[X]Recurrent brief depressive episodes,Anxiety_depression
+Eu40.00,9386,[X]Phobic anxiety disorders,Anxiety_depression
+Eu40100,11602,[X]Social phobias,Anxiety_depression
+Eu40111,1005946,[X]Anthropophobia,Anxiety_depression
+Eu40112,42788,[X]Social neurosis,Anxiety_depression
+Eu40214,12635,[X]Simple phobia,Anxiety_depression
+Eu40y00,27685,[X]Other phobic anxiety disorders,Anxiety_depression
+Eu40z00,34064,"[X]Phobic anxiety disorder, unspecified",Anxiety_depression
+Eu40z11,7222,[X]Phobia NOS,Anxiety_depression
+Eu40z12,67898,[X]Phobic state NOS,Anxiety_depression
+Eu41.00,5385,[X]Other anxiety disorders,Anxiety_depression
+Eu41000,8205,[X]Panic disorder [episodic paroxysmal anxiety],Anxiety_depression
+Eu41011,6408,[X]Panic attack,Anxiety_depression
+Eu41012,4081,[X]Panic state,Anxiety_depression
+Eu41100,10344,[X]Generalized anxiety disorder,Anxiety_depression
+Eu41111,962,[X]Anxiety neurosis,Anxiety_depression
+Eu41112,35825,[X]Anxiety reaction,Anxiety_depression
+Eu41113,50191,[X]Anxiety state,Anxiety_depression
+Eu41200,11913,[X]Mixed anxiety and depressive disorder,Anxiety_depression
+Eu41211,7749,[X]Mild anxiety depression,Anxiety_depression
+Eu41300,44321,[X]Other mixed anxiety disorders,Anxiety_depression
+Eu41y00,24066,[X]Other specified anxiety disorders,Anxiety_depression
+Eu41y11,28167,[X]Anxiety hysteria,Anxiety_depression
+Eu41z00,23838,"[X]Anxiety disorder, unspecified",Anxiety_depression
+Eu41z11,25638,[X]Anxiety NOS,Anxiety_depression
+Eu46000,16561,[X]Neurasthenia,Anxiety_depression
+Eu51500,44305,[X]Nightmares,Anxiety_depression
+Eu51511,17687,[X]Dream anxiety disorder,Anxiety_depression
+Eu52000,28283,[X]Lack or loss of sexual desire,Anxiety_depression
+Eu52011,48175,[X]Frigidity,Anxiety_depression
+Eu52012,56603,[X]Hypoactive sexual desire disorder,Anxiety_depression
+Eu52100,42056,[X]Sexual aversion and lack of sexual enjoyment,Anxiety_depression
+Eu52111,24483,[X]Anhedonia sexual,Anxiety_depression
+Eu93000,18032,[X]Separation anxiety disorder of childhood,Anxiety_depression
+R2y2.00,2509,[D]Nervousness,Anxiety_depression
+R2y2.11,17853,[D]Nerves,Anxiety_depression
+R2y2.12,10723,[D]Nervous tension,Anxiety_depression
+Z4I7.00,22159,Acknowledging anxiety,Anxiety_depression
+Z4I7100,62935,Recognising anxiety,Anxiety_depression
+Z4I7200,28381,Alleviating anxiety,Anxiety_depression
+Z4I7211,26295,Reducing anxiety,Anxiety_depression
+Z4L1.00,7999,Anxiety counselling,Anxiety_depression
+1B2..00,36027,Involuntary movement symptom,Apraxia
+1B2Z.00,31658,Involuntary movemt.symptom NOS,Apraxia
+1B5..00,20963,Incoordination symptom,Apraxia
+1B5Z.00,37186,Incoordination symptom NOS,Apraxia
+2972.00,16179,O/E - choreiform movement,Apraxia
+2B53.00,30349,O/E - apraxia,Apraxia
+2B53.11,33272,O/E - dyspraxia,Apraxia
+2B54.00,37594,O/E - agraphia,Apraxia
+E2F4.00,9595,Coordination disorder (dyspraxia),Apraxia
+E2F4.11,8718,Clumsiness syndrome,Apraxia
+E2F4.12,6347,Dyspraxia syndrome,Apraxia
+Eu82.00,7299,[X]Specific developmental disorder of motor function,Apraxia
+Eu82.11,20518,[X]Clumsy child syndrome,Apraxia
+Eu82.12,37763,[X]Developmental co - ordination disorder,Apraxia
+Eu82.13,21062,[X]Developmental dyspraxia,Apraxia
+F135.00,6889,Other choreas,Apraxia
+F135000,4108,Hemiballismus,Apraxia
+F483500,34751,Oculomotor apraxia,Apraxia
+F483511,54274,Oculomotor apraxia - Cogan type,Apraxia
+F483512,68515,Oculomotor dyspraxia,Apraxia
+Fyu2600,94540,[X]Other chorea,Apraxia
+R010.00,5412,[D]Abnormal involuntary movements,Apraxia
+R010000,18925,[D]Head movements abnormal,Apraxia
+R010400,20323,"[D]Athetosis, acquired, NOS",Apraxia
+R010z00,15845,[D]Abnormal involuntary movement NOS,Apraxia
+R013.00,21024,[D]Lack of coordination,Apraxia
+R013.11,2003,[D]Dyskinesia,Apraxia
+R013100,37069,[D]Muscular incoordination,Apraxia
+R013200,33916,[D]Dysgraphia,Apraxia
+R013z00,15455,[D]Incoordination NOS,Apraxia
+R046700,20214,[D]Apraxia,Apraxia
+R046800,101745,[D]Verbal apraxia,Apraxia
+R046900,93809,[D]Oral apraxia,Apraxia
+R046911,34446,[D]Oral dyspraxia,Apraxia
+Ryu3000,67936,[X]Other and unspecified abnormal involuntary movements,Apraxia
+Ryu3300,94162,[X]Other and unspecified lack of coordination,Apraxia
+SJ7x000,25824,Neurapraxia,Apraxia
+Z7E2.00,37992,Incoordination,Apraxia
+Z7E2100,47172,Muscular incoordination,Apraxia
+Z7E5100,36667,Apraxia,Apraxia
+Z7E5111,11421,Dyspraxia,Apraxia
+Z7E5200,72636,Gestural apraxia,Apraxia
+Z7E8.00,10806,Coordination problem,Apraxia
+ZR1S.00,1017229,Apraxia battery for adults,Apraxia
+ZS5..00,43892,Speech and language dyspraxias,Apraxia
+ZS51.00,47008,Apraxia of speech,Apraxia
+ZS52.00,48273,Oral dyspraxia,Apraxia
+ZS52.11,98834,Oral apraxia,Apraxia
+ZS53.00,32326,Verbal dyspraxia,Apraxia
+ZS53.11,104383,Verbal apraxia,Apraxia
+ZS54.00,65462,Oral-verbal dyspraxia,Apraxia
+ZS55.00,54303,Articulatory dyspraxia,Apraxia
+ZS55.11,1017518,Articulatory apraxia,Apraxia
+ZS57.00,50159,Dyspraxia of velopharynx,Apraxia
+ZS58.00,1017520,Velar dyspraxia,Apraxia
+ZS59.00,63181,Tongue tip dyspraxia,Apraxia
+Zw05900,52356,[Q] Neuropraxia,Apraxia
+1B5..13,5820,Unsteady symptom,Balance_difficulty
+1B52.00,1512,Unsteadiness present,Balance_difficulty
+1B52.11,7417,Feels off balance,Balance_difficulty
+29L8.00,2042,O/E - generally unsteady,Balance_difficulty
+29L8.11,2555,O/E - generally off balance,Balance_difficulty
+29LB.00,18963,Unable to balance,Balance_difficulty
+29LD.00,93421,Disorder of gait and/or balance present,Balance_difficulty
+29LF.00,103567,Worsening balance,Balance_difficulty
+29LG.00,111287,"",Balance_difficulty
+38A2.00,58144,Berg balance test,Balance_difficulty
+38Gs.00,106702,Tinetti balance and gait scale,Balance_difficulty
+7P12100,57706,Balance assessment,Balance_difficulty
+ZR1C.11,58091,ABS - Affect balance scale,Balance_difficulty
+19A..00,6229,Abdominal distension symptom,Bloating
+19A2.00,29567,Abdomen feels bloated,Bloating
+19A3.00,2657,Abdomen feels distended,Bloating
+19A4.00,36966,Abdomen feels swollen,Bloating
+19AZ.00,41607,Abd. distension symptom NOS,Bloating
+19B..12,5821,Bloating symptom,Bloating
+R073400,5150,[D]Bloating,Bloating
+R093.00,5838,"[D]Swelling, mass or lump within abdomen or pelvis",Bloating
+R093000,4800,[D]Abdominal swelling,Bloating
+R093z00,16370,"[D]Swelling, mass or lump within abdomen or pelvis NOS",Bloating
+1DC8.00,10084,Generalised pain [symptom],Body_ache
+R00z200,2522,"[D]Pain, generalized",Body_ache
+R00z211,1497,[D]General aches and pains,Body_ache
+16F0.00,109624,Functional urinary and faecal incontinence,Bowel_incontinence
+19E2.00,29557,Soiling - encopresis,Bowel_incontinence
+19E2.11,7874,Encopresis symptom,Bowel_incontinence
+19E2000,110231,Functional encopresis,Bowel_incontinence
+19E3.00,3381,Incontinent of faeces,Bowel_incontinence
+19E3.11,6083,Incontinent of faeces symptom,Bowel_incontinence
+19F3.00,21294,Spurious (overflow) diarrhoea,Bowel_incontinence
+3930.00,13426,Bowels: incontinent,Bowel_incontinence
+3931.00,13429,Bowels: occasional accident,Bowel_incontinence
+E264311,10158,Spurious diarrhoea,Bowel_incontinence
+E277.00,3788,Non-organic encopresis,Bowel_incontinence
+E277z00,69256,Non-organic encopresis NOS,Bowel_incontinence
+Eu9y100,6120,[X]Nonorganic encopresis,Bowel_incontinence
+J520100,6364,Chronic constipation with overflow,Bowel_incontinence
+R076.00,1437,[D]Incontinence of faeces,Bowel_incontinence
+R076000,2134,[D]Encopresis NOS,Bowel_incontinence
+R076z00,15555,[D]Incontinence of faeces NOS,Bowel_incontinence
+151N.00,110660,Periods have not started,Changes_to_menstrual_period
+151P.00,110802,Periods have stopped,Changes_to_menstrual_period
+1571.00,16495,H/O: amenorrhoea,Changes_to_menstrual_period
+1572.00,7089,H/O: polymenorrhoea,Changes_to_menstrual_period
+K590.00,9632,Absence of menstruation,Changes_to_menstrual_period
+K590.11,757,Amenorrhoea,Changes_to_menstrual_period
+K590000,3829,Primary amenorrhoea,Changes_to_menstrual_period
+K590100,2086,Secondary amenorrhoea,Changes_to_menstrual_period
+K590111,12295,Post-pill amenorrhoea,Changes_to_menstrual_period
+K590z00,33769,Amenorrhoea NOS,Changes_to_menstrual_period
+K591.11,21729,Infrequent menstruation,Changes_to_menstrual_period
+K591000,15438,Hypomenorrhoea,Changes_to_menstrual_period
+K591100,1153,Oligomenorrhoea,Changes_to_menstrual_period
+K591200,6486,Primary oligomenorrhoea,Changes_to_menstrual_period
+K591300,12100,Secondary oligomenorrhoea,Changes_to_menstrual_period
+K592.00,23935,Excessive or frequent menstruation,Changes_to_menstrual_period
+K592.11,20674,Frequent menses,Changes_to_menstrual_period
+K592100,1077,Polymenorrhoea,Changes_to_menstrual_period
+K592111,5277,Epimenorrhoea,Changes_to_menstrual_period
+K592z00,20190,Excessive or frequent menstruation NOS,Changes_to_menstrual_period
+K594.00,1065,Irregular menstrual cycle,Changes_to_menstrual_period
+K594z00,25355,Irregular menstrual cycle NOS,Changes_to_menstrual_period
+Kyu9C00,52958,[X]Other specified irregular menstruation,Changes_to_menstrual_period
+182..00,374,Chest pain,Chest_pain
+1822.00,7346,Central chest pain,Chest_pain
+1823.00,1865,Precordial pain,Chest_pain
+1824.00,9698,Anterior chest wall pain,Chest_pain
+1825.00,1059,Pleuritic pain,Chest_pain
+1826.00,32612,Parasternal pain,Chest_pain
+1827.00,20490,Painful breathing -pleurodynia,Chest_pain
+1827.11,1283,Pleurodynia,Chest_pain
+1828.00,726,Atypical chest pain,Chest_pain
+1829.00,1228,Retrosternal pain,Chest_pain
+182B.00,2519,Rib pain,Chest_pain
+182B000,8349,Costal margin chest pain,Chest_pain
+182C.00,24704,Chest wall pain,Chest_pain
+182Z.00,10370,Chest pain NOS,Chest_pain
+197..14,6357,Subcostal pain,Chest_pain
+1973.00,23872,Left subcostal pain,Chest_pain
+1974.00,24821,Right subcostal pain,Chest_pain
+1D22000,24321,Chest wall tenderness,Chest_pain
+A741.00,23322,Epidemic pleurodynia,Chest_pain
+A741.11,3161,Bornholm disease,Chest_pain
+A741.12,47459,Devil's grip,Chest_pain
+G311.14,19655,Angina at rest,Chest_pain
+G311200,17307,Angina at rest,Chest_pain
+G330.00,20095,Angina decubitus,Chest_pain
+G330z00,29902,Angina decubitus NOS,Chest_pain
+G37..00,8568,Cardiac syndrome X,Chest_pain
+H501200,44425,Pleural empyema,Chest_pain
+H501300,38052,Lung empyema NOS,Chest_pain
+H501400,49452,Purulent pleurisy,Chest_pain
+H501600,59587,Pyothorax,Chest_pain
+H51..00,978,Pleurisy,Chest_pain
+H510.00,23482,Pleurisy without effusion or active tuberculosis,Chest_pain
+H510000,15024,Adhesion of pleura or lung,Chest_pain
+H510300,19207,Acute dry pleurisy,Chest_pain
+H510400,40819,Diaphragmatic pleurisy,Chest_pain
+H510500,37599,Basal pleurisy,Chest_pain
+H510600,62895,Chronic dry pleurisy,Chest_pain
+H510700,47354,Fibrinous pleurisy,Chest_pain
+H510800,67452,Sterile pleurisy,Chest_pain
+H510z00,31645,Pleurisy without effusion or active tuberculosis NOS,Chest_pain
+H51y000,57092,Encysted pleurisy,Chest_pain
+H51z000,60142,Exudative pleurisy NOS,Chest_pain
+H51z100,68470,Serofibrinous pleurisy NOS,Chest_pain
+H51z200,55211,Serous pleurisy NOS,Chest_pain
+N241011,14969,Intercostal myalgia,Chest_pain
+N30z811,6826,Costochondritis NOS,Chest_pain
+N336.11,2451,Costochondral joint syndrome,Chest_pain
+N33zE00,2222,Costochondritis,Chest_pain
+N33zz11,52915,Costochondritis NOS,Chest_pain
+R065.00,2584,[D]Chest pain,Chest_pain
+R065000,544,"[D]Chest pain, unspecified",Chest_pain
+R065011,29490,[D] Retrosternal chest pain,Chest_pain
+R065100,20481,[D]Precordial pain,Chest_pain
+R065200,14823,[D]Anterior chest wall pain,Chest_pain
+R065300,14819,[D]Painful respiration NOS,Chest_pain
+R065400,18183,[D]Pleuritic pain,Chest_pain
+R065500,24761,[D]Pleurodynia,Chest_pain
+R065600,7878,[D]Chest discomfort,Chest_pain
+R065700,15528,[D]Chest pressure,Chest_pain
+R065800,1270,[D]Chest tightness,Chest_pain
+R065900,19199,[D]Parasternal chest pain,Chest_pain
+R065A00,3518,[D]Musculoskeletal chest pain,Chest_pain
+R065B00,9340,[D]Non cardiac chest pain,Chest_pain
+R065B14,7844,[D]Non-cardiac chest pain,Chest_pain
+R065C00,21082,[D]Retrosternal chest pain,Chest_pain
+R065D00,50477,[D]Central chest pain,Chest_pain
+R065z00,3796,[D]Chest pain NOS,Chest_pain
+Ryu0400,53806,[X]Other chest pain,Chest_pain
+14k..00,106211,H/O: fever,Chills_and_fever
+14k..11,106314,H/O: pyrexia,Chills_and_fever
+165..11,6065,Fever symptoms,Chills_and_fever
+165..12,6086,Pyrexia symptoms,Chills_and_fever
+1652.00,5859,Feels hot/feverish,Chills_and_fever
+1653.00,47246,Fever with sweating,Chills_and_fever
+1654.00,1314,Having rigors,Chills_and_fever
+1654.11,8707,Rigor - symptom,Chills_and_fever
+1655.00,8224,C/O shivering,Chills_and_fever
+1656.00,8950,Feverish cold,Chills_and_fever
+171F.00,18907,Cough with fever,Chills_and_fever
+2E...11,5892,O/E - fever,Chills_and_fever
+2E1..00,14744,O/E - fever - general,Chills_and_fever
+2E13.00,2717,O/E -pyrexia of unknown origin,Chills_and_fever
+2E13.11,7118,O/E - pyrexia - ? cause,Chills_and_fever
+2E1Z.00,35761,O/E - fever - general NOS,Chills_and_fever
+2E3..00,22620,O/E - level of fever,Chills_and_fever
+2E34.00,27231,O/E - temperature elevated,Chills_and_fever
+2E35.00,25311,O/E - hyperpyrexia-> 40.5 oCEL,Chills_and_fever
+2E3Z.00,64688,O/E - level of fever NOS,Chills_and_fever
+2E4..00,51514,O/E - character of fever,Chills_and_fever
+2E4..11,50417,O/E - temperature character,Chills_and_fever
+2E41.00,53952,O/E - fever - acute rise,Chills_and_fever
+2E42.00,73259,O/E - fever - gradual rise,Chills_and_fever
+2E43.00,66310,O/E - fever - continuous,Chills_and_fever
+2E44.00,17722,O/E - fever - remittent,Chills_and_fever
+2E45.00,31412,O/E - fever - intermittent,Chills_and_fever
+2E46.00,1000646,O/E - staircase fever,Chills_and_fever
+2E47.00,107717,O/E - fever - irregular,Chills_and_fever
+2E48.00,1000647,O/E - fever - fast fall-crisis,Chills_and_fever
+2E49.00,1000648,O/E - fever-gradual fall-lysis,Chills_and_fever
+2E4Z.00,111014,O/E - fever character NOS,Chills_and_fever
+2EZ..00,46292,O/E - fever NOS,Chills_and_fever
+2F1E.00,104650,Warm skin,Chills_and_fever
+A782.00,19939,Sweating fever,Chills_and_fever
+A782.11,70858,Miliary fever,Chills_and_fever
+A87..00,21430,Relapsing fever,Chills_and_fever
+A87z.00,111005,Relapsing fever NOS,Chills_and_fever
+Ayu5400,1005056,"[X]Relapsing fever, unspecified",Chills_and_fever
+H00..00,3260,Acute nasopharyngitis,Chills_and_fever
+H00..11,368,Common cold,Chills_and_fever
+H00..12,1246,Coryza - acute,Chills_and_fever
+H00..13,6620,Febrile cold,Chills_and_fever
+H00..15,9093,Pyrexial cold,Chills_and_fever
+H00..16,3821,Rhinitis - acute,Chills_and_fever
+M228.00,9718,Sweet's syndrome,Chills_and_fever
+M228.11,580,Acute febrile neutrophilic dermatosis,Chills_and_fever
+R006.00,2389,[D]Pyrexia of unknown origin,Chills_and_fever
+R006.11,17989,[D]Fever of unknown origin,Chills_and_fever
+R006000,23349,[D]Chills with fever,Chills_and_fever
+R006100,20119,[D]Hyperpyrexia NOS,Chills_and_fever
+R006200,1020,[D]Fever NOS,Chills_and_fever
+R006300,22444,[D]Persistent fever,Chills_and_fever
+R006y00,108544,[D]Other specified fever,Chills_and_fever
+R006z00,20367,[D]Pyrexia of unknown origin NOS,Chills_and_fever
+R00z100,15669,[D]Chill(s) NOS,Chills_and_fever
+13oD.00,1000218,Difficulty understanding single word instructions,Cognitive_problems
+13oH.00,1000222,Difficulty understanding two word instructions,Cognitive_problems
+13oJ.00,1000223,Difficulty understanding more than three word instructions,Cognitive_problems
+13oM.00,1000225,Difficulty understanding three word instructions,Cognitive_problems
+13oR.00,1000229,Difficulty understanding one part instructions,Cognitive_problems
+13oV.00,1000232,Difficulty understanding two part instructions,Cognitive_problems
+13oY.00,1000234,Difficulty understanding more than two part instructions,Cognitive_problems
+1B1A.00,1993,Memory loss - amnesia,Cognitive_problems
+1B1A.11,3639,Amnesia symptom,Cognitive_problems
+1B1A.12,5777,Memory loss symptom,Cognitive_problems
+1B1A.13,2908,Memory disturbance,Cognitive_problems
+1B1A000,27788,Temporary loss of memory,Cognitive_problems
+1B1A100,103453,Short-term memory loss,Cognitive_problems
+1BR..00,10741,Reduced concentration,Cognitive_problems
+1BR0.00,42988,Reduced concentration span,Cognitive_problems
+1BR0.11,28394,Short attention span,Cognitive_problems
+1BV2.00,73264,Difficulty comprehending concept of danger,Cognitive_problems
+1BW..00,10378,Poor concentration,Cognitive_problems
+1BcL.00,1000400,Difficulty understanding verbal language,Cognitive_problems
+1BcN.00,110806,Does not understand verbal language,Cognitive_problems
+1BcX.00,1000407,Difficulty comprehending speech,Cognitive_problems
+1S21.00,67163,Disturbance of memory for order of events,Cognitive_problems
+1S23.00,110307,Memory impairment,Cognitive_problems
+284..00,1694,O/E - disorientated,Cognitive_problems
+2842.00,66271,Disorientated in time,Cognitive_problems
+28D..00,22332,Confabulation,Cognitive_problems
+28E0.00,107282,Mild cognitive impairment,Cognitive_problems
+28E1.00,107482,Moderate cognitive impairment,Cognitive_problems
+3A10.00,52947,Memory: own age not known,Cognitive_problems
+3A20.00,53146,Memory: present time not known,Cognitive_problems
+3A30.00,53014,Memory: present place not knwn,Cognitive_problems
+3A40.00,52948,Memory: present year not known,Cognitive_problems
+3A50.00,53125,Memory: own DOB not known,Cognitive_problems
+3A60.00,52825,Memory: present month not knwn,Cognitive_problems
+3A70.00,52800,Memory: important event not kn,Cognitive_problems
+3A80.00,52801,Memory: import.person not knwn,Cognitive_problems
+3AA1.00,53016,Memory: address recall unsucc.,Cognitive_problems
+8HTY.00,22802,Referral to memory clinic,Cognitive_problems
+E2A1000,6387,Mild memory disturbance,Cognitive_problems
+E2A1100,6061,Organic memory impairment,Cognitive_problems
+E2F0.00,31567,Specific reading disorder,Cognitive_problems
+E2F0000,3009,Reading disorder unspecified,Cognitive_problems
+E2F0z00,62096,Specific reading disorder NOS,Cognitive_problems
+Eu05700,11936,[X]Mild cognitive disorder,Cognitive_problems
+Eu81000,28330,[X]Specific reading disorder,Cognitive_problems
+Eu81011,24104,[X]Backward reading,Cognitive_problems
+Eu81012,24762,[X]Developmental dyslexia,Cognitive_problems
+Eu81013,55406,[X]Specific reading retardation,Cognitive_problems
+Eu90000,6512,[X]Disturbance of activity and attention,Cognitive_problems
+R00z011,7711,[D]Memory deficit,Cognitive_problems
+R00zX00,20683,"[D]Disorientation, unspecified",Cognitive_problems
+R043.00,15651,[D]Aphasia,Cognitive_problems
+R046300,3397,[D]Dyslexia,Cognitive_problems
+Ryu5000,70677,[X]Other amnesia,Cognitive_problems
+Ryu5700,52811,"[X]Disorientation, unspecified",Cognitive_problems
+Z7C5300,38194,Reduced concentration span,Cognitive_problems
+Z7C5311,52439,Reduced attention span,Cognitive_problems
+Z7C5312,22789,Short attention span,Cognitive_problems
+Z7C8200,24972,Unable to read,Cognitive_problems
+Z7C8300,24971,Difficulty reading,Cognitive_problems
+Z7CC300,11735,Disorientated,Cognitive_problems
+Z7CC400,41993,Disorientated in time,Cognitive_problems
+Z7CC500,41994,Disorientated in place,Cognitive_problems
+Z7CC600,66012,Disorientation for person,Cognitive_problems
+Z7CC611,41995,Disorientated in person,Cognitive_problems
+Z7CC700,55460,Spatial disorientation,Cognitive_problems
+Z7CC800,1016079,Right-left disorientation,Cognitive_problems
+Z7CE400,51379,Memory disturbance (& amnesia (& symptom)),Cognitive_problems
+Z7CE412,67838,Memory loss symptom,Cognitive_problems
+Z7CE413,103375,Memory loss - amnesia,Cognitive_problems
+Z7CE414,105538,Memory disturbance,Cognitive_problems
+Z7CE415,102880,Loss of memory,Cognitive_problems
+Z7CE611,10123,Memory loss,Cognitive_problems
+Z7CE612,68230,Memory gone,Cognitive_problems
+Z7CE614,12805,Memory loss - amnesia,Cognitive_problems
+Z7CE615,19297,Loss of memory,Cognitive_problems
+Z7CE616,12277,LOM - Loss of memory,Cognitive_problems
+Z7CEA11,32367,Impairment of working memory,Cognitive_problems
+Z7CEA13,65696,Impairment of primary memory,Cognitive_problems
+Z7CEB11,1016082,Loss of memory for remote events,Cognitive_problems
+Z7CEC11,9786,Loss of memory for recent events,Cognitive_problems
+Z7CEC12,67802,No memory for recent events,Cognitive_problems
+Z7CEF00,67998,Temporary loss of memory,Cognitive_problems
+Z7CEG00,47882,Transient memory loss,Cognitive_problems
+Z7CEH00,10514,Memory impairment,Cognitive_problems
+Z7CEH11,39915,Memory dysfunction,Cognitive_problems
+Z7CEH12,50418,Memory deficit,Cognitive_problems
+Z7CEH14,12057,Memory problem,Cognitive_problems
+Z7CEL00,51724,Mild memory disturbance,Cognitive_problems
+Z7CEN11,64892,Invents experiences to compensate for loss of memory,Cognitive_problems
+Z7CF811,10571,Short-term memory loss,Cognitive_problems
+Z7CFO11,47581,Long-term memory loss,Cognitive_problems
+ZR1X.00,36713,Assessing reading difficulties,Cognitive_problems
+ZS32.11,57256,Specific reading difficulty,Cognitive_problems
+ZT4c511,68908,Difficulty perform social use of conversation,Cognitive_problems
+186..00,7213,C/O cold extremities,Cold_extremities
+186..11,16952,C/O cold peripheries,Cold_extremities
+1860.00,4124,C/O cold hands,Cold_extremities
+1861.00,4474,C/O cold feet,Cold_extremities
+186z.00,36430,C/O cold extremities NOS,Cold_extremities
+2G13.00,17210,O/E - cold extremities,Cold_extremities
+2G13.11,15980,O/E - cold peripheries,Cold_extremities
+19C..00,1028,Constipation,Constipation
+19C..11,2004,Constipation symptom,Constipation
+19C..12,34747,Costive symptom,Constipation
+19C2.00,17652,Constipated,Constipation
+19CZ.00,20450,Constipation NOS,Constipation
+19EC.00,8541,Painful defaecation,Constipation
+2AF2.00,98785,O/E - defaec.ref.abn.-constip.,Constipation
+4745.00,52085,Faeces consistency: hard,Constipation
+8CMW100,105656,Constipation in children clinical pathway,Constipation
+E264500,15939,Psychogenic constipation,Constipation
+J503.00,17436,Impaction of the intestine,Constipation
+J503100,10687,Faecal impaction,Constipation
+J520.00,1709,Constipation - functional,Constipation
+J520000,23641,Acute constipation,Constipation
+J520100,6364,Chronic constipation with overflow,Constipation
+J520200,25797,Chronic constipation without overflow,Constipation
+J520400,99999,Chronic constipation,Constipation
+J520y00,24180,Other specified constipation,Constipation
+J520z00,5803,Constipation NOS,Constipation
+Jyu5100,53778,[X]Other impaction of intestine,Constipation
+R079.00,21618,[D] Defaecation painful,Constipation
+R079.11,25772,[D] Dyschezia,Constipation
+171..00,92,Cough,Cough
+171..11,1273,C/O - cough,Cough
+1712.00,4931,Dry cough,Cough
+1713.00,7706,Productive cough -clear sputum,Cough
+1714.00,7773,Productive cough -green sputum,Cough
+1715.00,7708,Productive cough-yellow sputum,Cough
+1716.00,1234,Productive cough NOS,Cough
+1716.11,3645,Coughing up phlegm,Cough
+1717.00,3068,Night cough present,Cough
+1719.00,292,Chesty cough,Cough
+1719.11,1025,Bronchial cough,Cough
+171A.00,1612,Chronic cough,Cough
+171B.00,3628,Persistent cough,Cough
+171C.00,4070,Morning cough,Cough
+171D.00,29318,Evening cough,Cough
+171E.00,43795,Unexplained cough,Cough
+171F.00,18907,Cough with fever,Cough
+171K.00,90332,Barking cough,Cough
+171L.00,100333,Cough on exercise,Cough
+171Z.00,7707,Cough symptom NOS,Cough
+173B.00,4836,Nocturnal cough / wheeze,Cough
+R062.00,1160,[D]Cough,Cough
+R062100,104163,[D]Episodic dry cough,Cough
+19EE.00,18682,Increased frequency of defaecation,Diarrhoea
+19F..00,5134,Diarrhoea symptoms,Diarrhoea
+19F..11,192,Diarrhoea,Diarrhoea
+19F..12,1695,Loose stools,Diarrhoea
+19F2.00,4343,Diarrhoea,Diarrhoea
+19F3.00,21294,Spurious (overflow) diarrhoea,Diarrhoea
+19F4.00,3689,Toddlers diarrhoea,Diarrhoea
+19F5.00,107076,Time since last episode of diarrhoea,Diarrhoea
+19FZ.00,14695,Diarrhoea symptom NOS,Diarrhoea
+19FZ.11,2182,"Diarrhoea & vomiting, symptom",Diarrhoea
+19G..00,7644,Diarrhoea and vomiting,Diarrhoea
+2AF3.00,58797,O/E -defaec.ref-spurious diar.,Diarrhoea
+4743.00,30684,Faeces consistency: semi-fluid,Diarrhoea
+4744.00,39233,Faeces consistency: fluid,Diarrhoea
+A074011,53739,Diarrhoea due to staphylococcus,Diarrhoea
+A074012,61519,Diarrhoea due to staphylococcal toxin,Diarrhoea
+A074100,54552,Pseudomonas gastrointestinal tract infection,Diarrhoea
+A074111,56957,Diarrhoea due to Pseudomonas pyocyanea,Diarrhoea
+A074300,1200,Campylobacter gastrointestinal tract infection,Diarrhoea
+A074311,6007,Diarrhoea due to Campylobacter jejuni,Diarrhoea
+A074312,7552,Campylobacter enteritis,Diarrhoea
+A076.11,15289,Viral diarrhoea,Diarrhoea
+A076.12,15933,Viral vomiting,Diarrhoea
+A07y000,3107,Viral gastroenteritis,Diarrhoea
+A081200,4798,Gastroenteritis - presumed infectious origin,Diarrhoea
+A082.00,4542,Infectious diarrhoea,Diarrhoea
+A082.11,11155,Travellers' diarrhoea,Diarrhoea
+A082000,2133,Dysenteric diarrhoea,Diarrhoea
+A082100,36613,Epidemic diarrhoea,Diarrhoea
+A082111,20569,Viral gastroenteritis,Diarrhoea
+A082z00,48313,Infectious diarrhoea NOS,Diarrhoea
+A083.00,5090,Diarrhoea of presumed infectious origin,Diarrhoea
+A083.11,14665,Diarrhoea & vomiting -? infect,Diarrhoea
+Ayu0H00,52750,[X]Diarrhoea+gastroenteritis of presumed infectious origin,Diarrhoea
+E264300,15371,Psychogenic diarrhoea,Diarrhoea
+E264311,10158,Spurious diarrhoea,Diarrhoea
+Eu45300,41038,[X]Somatoform autonomic dysfunction,Diarrhoea
+Eu45311,44269,[X]Cardiac neurosis,Diarrhoea
+Eu45312,32632,[X]Da Costa's syndrome,Diarrhoea
+Eu45313,63259,[X]Gastric neurosis,Diarrhoea
+Eu45314,50793,[X]Neurocirculatory asthenia,Diarrhoea
+Eu45316,12715,[X]Psychogenic cough,Diarrhoea
+Eu45317,43316,[X]Psychogenic diarrhoea,Diarrhoea
+Eu45318,16714,[X]Psychogenic dyspepsia,Diarrhoea
+Eu45319,53122,[X]Psychogenic dysuria,Diarrhoea
+Eu45320,47698,[X]Psychogenic flatulence,Diarrhoea
+Eu45321,53737,[X]Psychogenic hiccough,Diarrhoea
+Eu45323,17081,[X]Psychogenic freq micturit,Diarrhoea
+Eu45324,16560,[X]Psychogenic IBS,Diarrhoea
+Eu45325,93067,[X]Psychogenic pylorospasm,Diarrhoea
+J4...13,6016,Noninfective diarrhoea,Diarrhoea
+J43..11,139,Gastroenteritis,Diarrhoea
+J432.11,13387,Allergic diarrhoea,Diarrhoea
+J433.11,17162,Dietetic diarrhoea,Diarrhoea
+J43z.00,20343,Other non-infective gastroenteritis and colitis NOS,Diarrhoea
+J43z.11,6685,Chronic diarrhoea,Diarrhoea
+J4z..11,30321,Presumed noninfectious diarrhoea,Diarrhoea
+J4zz.11,17017,Diarrhoea - presumed non-infectious,Diarrhoea
+J520100,6364,Chronic constipation with overflow,Diarrhoea
+J521000,29835,Irritable bowel syndrome with diarrhoea,Diarrhoea
+J525.00,5036,Functional diarrhoea,Diarrhoea
+J6A..00,104662,Gastroenteritis and colitis of unknown origin,Diarrhoea
+Jyu4200,103290,[X]Other specified noninfective gastroenteritis+colitis,Diarrhoea
+Q46y100,38163,Neonatal diarrhoea,Diarrhoea
+R077100,14881,[D] Stools loose,Diarrhoea
+SLD5.00,99007,Antidiarrhoeal poisoning,Diarrhoea
+SLD5z00,104518,Antidiarrhoeal poisoning NOS,Diarrhoea
+TJD5.00,99714,Adverse reaction to antidiarrhoeal drugs,Diarrhoea
+TJD5z00,94288,Adverse reaction to antidiarrhoeal drugs NOS,Diarrhoea
+U60D600,98948,[X]Antidiarrhoeal drugs caus adverse effects in therap use,Diarrhoea
+U60D611,94773,[X] Adverse reaction to antidiarrhoeal drug,Diarrhoea
+U60D616,1015234,[X] Adverse reaction to antidiarrhoeal drugs NOS,Diarrhoea
+1B72.00,5991,Diplopia/double vision,Diplopia
+1B72.11,1617,Diplopia,Diplopia
+1B72.12,3553,Double vision,Diplopia
+F481E00,34686,Refractive diplopia,Diplopia
+F482.00,18462,Diplopia (double vision),Diplopia
+F48y000,746,Blurred vision NOS,Diplopia
+F48y011,21748,Cloudy vision NOS,Diplopia
+F48y012,40955,Dull vision NOS,Diplopia
+1N03.00,12220,C/O: dry skin,Dry_and_scaly_skin
+2587.12,8587,O/E - abdominal skin dry,Dry_and_scaly_skin
+2F13.00,2359,O/E - dry skin,Dry_and_scaly_skin
+2F15.00,3103,O/E - rough skin,Dry_and_scaly_skin
+2F9..00,7439,O/E - skin scales,Dry_and_scaly_skin
+2F9..11,10361,O/E - scaling on skin,Dry_and_scaly_skin
+2F92.00,47422,O/E - skin scales present,Dry_and_scaly_skin
+2F93.00,61358,O/E - skin - small scales,Dry_and_scaly_skin
+2F94.00,51625,O/E - skin - large scales,Dry_and_scaly_skin
+2F9Z.00,36353,O/E - skin scales NOS,Dry_and_scaly_skin
+M211.12,371,Ichthyosis - acquired,Dry_and_scaly_skin
+M211600,23639,Acquired ichthyosis,Dry_and_scaly_skin
+M26y000,12895,Asteatosis cutis,Dry_and_scaly_skin
+M26y100,24109,Xerosis cutis,Dry_and_scaly_skin
+PH1..00,370,Ichthyosis congenita,Dry_and_scaly_skin
+PH10.00,36468,"Congenital ichthyosis, unspecified",Dry_and_scaly_skin
+PH1y.00,71520,Other specified ichthyosis congenita,Dry_and_scaly_skin
+PH1z.00,64322,Ichthyosis congenita NOS,Dry_and_scaly_skin
+Pyu9000,100661,[X]Other congenital ichthyosis,Dry_and_scaly_skin
+Z1O1300,19034,Drying skin creases,Dry_and_scaly_skin
+1B88.00,5788,Dry eyes,Dry_eye
+F4A3200,23657,Keratoconjunctivitis sicca (excluding Sjogren's syndrome),Dry_eye
+F4F1400,2047,Dry eye syndrome,Dry_eye
+F4F1411,16672,Tear film insufficiency,Dry_eye
+F4F1412,3050,Gritty eye,Dry_eye
+N002.11,1928,Keratoconjunctivitis sicca,Dry_eye
+16S..00,103791,Mucous membrane dryness,Dry_mouth
+1927.00,2774,Dry mouth,Dry_mouth
+2522.00,23909,O/E - dry/cracked lips,Dry_mouth
+2522.11,12456,O/E - cracked lips,Dry_mouth
+2562.00,24928,O/E - dry tongue,Dry_mouth
+J077011,15172,Xerostomia,Dry_mouth
+J077012,11325,Dry mouth,Dry_mouth
+J095.00,49659,Plicated (scrotal) tongue,Dry_mouth
+PA13.00,23769,Fissure of tongue,Dry_mouth
+Ryu7800,52955,"[X]Dry mouth, unspecified",Dry_mouth
+2B48.00,7081,O/E - dysarthria,Dysarthria
+Eu80000,31813,[X]Specific speech articulation disorder,Dysarthria
+Eu80014,62010,[X]Functional speech articulation disorder,Dysarthria
+R045000,4834,[D]Dysarthria,Dysarthria
+R045200,8752,[D]Slurred speech,Dysarthria
+ZS42.00,19124,Dysarthria,Dysarthria
+ZT21400,19053,Slurred speech,Dysarthria
+1924.00,8938,Loss of taste,Dysgeusia
+1924.11,17096,C/O - loss of taste sense,Dysgeusia
+2BK2.00,109476,O/E -taste loss ant.2/3 tongue,Dysgeusia
+2BK3.00,1000624,O/E-taste loss post 1/3 tongue,Dysgeusia
+R011200,4807,[D]Parageusia,Dysgeusia
+ZV41512,7385,[V]Problems with taste,Dysgeusia
+194..00,10360,Swallowing symptoms,Dysphagia
+194..11,1241,Dysphagia,Dysphagia
+1942.00,6300,Difficulty swallowing solids,Dysphagia
+1943.00,26042,Difficulty swallowing liquids,Dysphagia
+1944.00,18878,Painful swallowing,Dysphagia
+1944.11,41885,Odynophagia,Dysphagia
+1946.00,110485,Chokes when swallowing,Dysphagia
+194Z.00,32194,Swallowing symptom NOS,Dysphagia
+25W..00,111089,"",Dysphagia
+25W1.00,1000586,O/E - swallowing abnormality,Dysphagia
+8B3O300,31059,Drug declined by patient - problem swallowing,Dysphagia
+8T0K.00,108145,Referral to feeding and swallowing service,Dysphagia
+9Oq7.00,103094,Dysphagia screening completed,Dysphagia
+R072.00,4281,[D]Dysphagia,Dysphagia
+R072000,727,[D]Difficulty in swallowing,Dysphagia
+R072z00,30955,[D]Dysphagia NOS,Dysphagia
+ZD34.00,45560,Dysphagia therapy regime,Dysphagia
+ZD34100,48678,Protected swallow technique,Dysphagia
+ZD5..00,48764,Swallowing promotion therapy,Dysphagia
+ZRrK.00,51247,Warner dysphagia assessment,Dysphagia
+ZV41600,70256,[V]Problem with swallowing or mastication,Dysphagia
+ZV41612,16693,[V]Problems with swallowing,Dysphagia
+2B4..00,24491,O/E - speech defect,Dysphasia
+2B4..11,7583,O/E - aphasia,Dysphasia
+2B4..12,9007,O/E - dysphasia,Dysphasia
+2B42.00,31406,O/E - motor aphasia,Dysphasia
+2B43.00,29380,O/E - sensory aphasia,Dysphasia
+2B44.00,31611,O/E - aphasia NOS,Dysphasia
+2B45.00,54715,O/E - dysphasia - motor,Dysphasia
+2B45.11,21724,O/E - motor dysphasia,Dysphasia
+2B46.00,69901,O/E - dysphasia - sensory,Dysphasia
+2B46.11,25975,O/E - sensory dysphasia,Dysphasia
+2B47.00,45484,O/E - dysphasia - NOS,Dysphasia
+2B4Z.00,21035,O/E - speech defect NOS,Dysphasia
+8E24.00,42830,Dysphasia training,Dysphasia
+R043.00,15651,[D]Aphasia,Dysphasia
+R045100,3537,[D]Dysphasia,Dysphasia
+ZS78.00,9992,Dysphasia,Dysphasia
+ZS78.11,11598,Aphasia,Dysphasia
+ZS78100,48292,Acquired dysphasias,Dysphasia
+ZS78200,64964,Mixed transcortical dysphasia,Dysphasia
+ZS78212,95596,Isolation dysphasia,Dysphasia
+ZS78400,1017525,Transcortical motor dysphasia,Dysphasia
+ZS78512,56551,Anomic dysphasia,Dysphasia
+ZS78513,35192,Nominal dysphasia,Dysphasia
+ZS78600,101822,Transcortical sensory dysphasia,Dysphasia
+ZS78700,107238,Frontal dynamic dysphasia,Dysphasia
+ZS78800,50602,Global dysphasia,Dysphasia
+ZS78811,63425,Global aphasia,Dysphasia
+ZS78900,52686,Mixed dysphasia,Dysphasia
+ZS78A00,89004,Semantic dysphasia,Dysphasia
+ZS78B00,1017528,Conduction dysphasia,Dysphasia
+ZS78C00,49609,Receptive dysphasia,Dysphasia
+ZS78D00,65074,Wernicke's dysphasia,Dysphasia
+ZS78D12,66978,Jargon dysphasia,Dysphasia
+ZS78E00,64191,Fluent dysphasia,Dysphasia
+ZS78F00,98050,Posterior dysphasia,Dysphasia
+ZS78G00,10110,Expressive dysphasia,Dysphasia
+ZS78G11,28872,Expressive aphasia,Dysphasia
+ZS78H00,48919,Broca's dysphasia,Dysphasia
+ZS78I00,50803,Non-fluent dysphasia,Dysphasia
+ZS78I11,91135,Non-fluent aphasia,Dysphasia
+ZS78J00,1017530,Anterior dysphasia,Dysphasia
+ZS78K00,71374,Efferent motor dysphasia,Dysphasia
+ZS7B300,33998,Word finding difficulty,Dysphasia
+ZT4D200,53393,Unable to find words,Dysphasia
+ZT4D500,54427,Difficulty finding words,Dysphasia
+ZT4E200,1017551,Unable to initiate words,Dysphasia
+ZT4K200,1017569,Unable to use words,Dysphasia
+ZT4d500,109184,Difficulty talking while playing,Dysphasia
+1C3..00,5813,Earache symptoms,Ear_pain
+1C32.00,5831,Unilateral earache,Ear_pain
+1C33.00,6657,Bilateral earache,Ear_pain
+1C3Z.00,16508,Earache symptom NOS,Ear_pain
+2D7..00,5806,O/E - painful ear,Ear_pain
+2D72.00,50825,O/E - ear auricle painful,Ear_pain
+2D7Z.00,37432,O/E - painful ear NOS,Ear_pain
+F587.00,731,Otalgia,Ear_pain
+F587.11,1135,Ear pain,Ear_pain
+F587000,25171,Unspecified otalgia,Ear_pain
+F587200,33549,Referred ear pain,Ear_pain
+F587z00,44481,Otalgia NOS,Ear_pain
+1BX1.00,25211,Excessive sleep,Excessive_sleep
+E274.11,57487,Hypersomnia of non-organic origin,Excessive_sleep
+E274300,36992,Transient hypersomnia,Excessive_sleep
+E274311,10982,Hypersomnia NOS,Excessive_sleep
+E274400,25939,Persistent hypersomnia,Excessive_sleep
+Eu51100,41750,[X]Nonorganic hypersomnia,Excessive_sleep
+R005300,36301,[D]Hypersomnia with sleep apnoea,Excessive_sleep
+R005400,26547,[D]Hypersomnia NOS,Excessive_sleep
+1B84.00,5783,Has eye pain,Eye_pain
+1B84.11,5920,Pain in eye,Eye_pain
+F4Kz100,2098,Eye pain NOS,Eye_pain
+168..00,5794,Tiredness symptom,Fatigue_asthenia
+168..11,6242,Fatigue - symptom,Fatigue_asthenia
+168..12,5583,Lethargy - symptom,Fatigue_asthenia
+168..14,5418,C/O 'Muzzy head',Fatigue_asthenia
+1682.00,1404,Fatigue,Fatigue_asthenia
+1683.00,5751,Tired all the time,Fatigue_asthenia
+1683.11,15516,C/O - 'tired all the time',Fatigue_asthenia
+1684.00,17736,Malaise/lethargy,Fatigue_asthenia
+1686.00,13027,Heavy legs,Fatigue_asthenia
+1687.00,21460,Heavy feeling,Fatigue_asthenia
+1688.00,9220,Exhaustion,Fatigue_asthenia
+168Z.00,29292,Tiredness symptom NOS,Fatigue_asthenia
+1B3..12,6029,Weakness symptoms,Fatigue_asthenia
+1B32.00,2855,Weakness present,Fatigue_asthenia
+1B37.00,42041,Loss of power in limb,Fatigue_asthenia
+43G3200,47915,Smooth muscle antibodies weakly positive,Fatigue_asthenia
+E20..00,5249,Neurotic disorders,Fatigue_asthenia
+E205.00,3361,Neurasthenia - nervous debility,Fatigue_asthenia
+E205.11,1582,Nervous exhaustion,Fatigue_asthenia
+E205.12,7235,Tired all the time,Fatigue_asthenia
+E20y.00,42000,Other neurotic disorders,Fatigue_asthenia
+E20y200,39518,Other occupational neurosis,Fatigue_asthenia
+E20y300,72171,Psychasthenic neurosis,Fatigue_asthenia
+E20yz00,43050,Other neurotic disorder NOS,Fatigue_asthenia
+E20z.00,14780,Neurotic disorder NOS,Fatigue_asthenia
+E20z.11,791,Nervous breakdown,Fatigue_asthenia
+E211200,10455,Depressive personality disorder,Fatigue_asthenia
+E262.00,29448,Psychogenic cardiovascular symptoms,Fatigue_asthenia
+E262000,15292,Cardiac neurosis,Fatigue_asthenia
+E262100,1005897,Cardiovascular neurosis,Fatigue_asthenia
+E262200,15284,Neurocirculatory asthenia,Fatigue_asthenia
+E262300,30961,Psychogenic cardiovascular disorder,Fatigue_asthenia
+Eu34100,7953,[X]Dysthymia,Fatigue_asthenia
+Eu34111,8584,[X]Depressive neurosis,Fatigue_asthenia
+Eu34112,10290,[X]Depressive personality disorder,Fatigue_asthenia
+Eu34113,7737,[X]Neurotic depression,Fatigue_asthenia
+Eu45300,41038,[X]Somatoform autonomic dysfunction,Fatigue_asthenia
+Eu45311,44269,[X]Cardiac neurosis,Fatigue_asthenia
+Eu45312,32632,[X]Da Costa's syndrome,Fatigue_asthenia
+Eu45313,63259,[X]Gastric neurosis,Fatigue_asthenia
+Eu45314,50793,[X]Neurocirculatory asthenia,Fatigue_asthenia
+Eu45316,12715,[X]Psychogenic cough,Fatigue_asthenia
+Eu45317,43316,[X]Psychogenic diarrhoea,Fatigue_asthenia
+Eu45318,16714,[X]Psychogenic dyspepsia,Fatigue_asthenia
+Eu45319,53122,[X]Psychogenic dysuria,Fatigue_asthenia
+Eu45320,47698,[X]Psychogenic flatulence,Fatigue_asthenia
+Eu45321,53737,[X]Psychogenic hiccough,Fatigue_asthenia
+Eu45323,17081,[X]Psychogenic freq micturit,Fatigue_asthenia
+Eu45324,16560,[X]Psychogenic IBS,Fatigue_asthenia
+Eu45325,93067,[X]Psychogenic pylorospasm,Fatigue_asthenia
+Eu46000,16561,[X]Neurasthenia,Fatigue_asthenia
+Eu46011,9656,[X]Fatigue syndrome,Fatigue_asthenia
+Eu46y00,44331,[X]Other specified neurotic disorders,Fatigue_asthenia
+Eu46y11,100116,[X]Briquet's disorder,Fatigue_asthenia
+Eu46y14,61753,[X]Psychasthenia,Fatigue_asthenia
+Eu46y15,90597,[X]Psychasthenia neurosis,Fatigue_asthenia
+Eu46z00,49628,"[X]Neurotic disorder, unspecified",Fatigue_asthenia
+Eu46z11,21431,[X]Neurosis NOS,Fatigue_asthenia
+F03y.12,4364,Myalgic encephalomyelitis,Fatigue_asthenia
+F286.00,4546,Chronic fatigue syndrome,Fatigue_asthenia
+F286.11,7529,CFS - Chronic fatigue syndrome,Fatigue_asthenia
+F286.15,1040,Myalgic encephalomyelitis,Fatigue_asthenia
+F286.16,6552,ME - Myalgic encephalomyelitis,Fatigue_asthenia
+R007.00,44215,[D]Malaise and fatigue,Fatigue_asthenia
+R007100,1688,[D]Fatigue,Fatigue_asthenia
+R007200,5049,[D]Asthenia NOS,Fatigue_asthenia
+R007211,9889,[D]General weakness,Fatigue_asthenia
+R007300,1371,[D]Lethargy,Fatigue_asthenia
+R007500,1147,[D]Tiredness,Fatigue_asthenia
+R007z00,23932,[D]Malaise and fatigue NOS,Fatigue_asthenia
+R007z11,5814,[D]Lassitude,Fatigue_asthenia
+R202.00,43047,[D]Senile asthenia,Fatigue_asthenia
+R203.00,27430,[D]Senile debility,Fatigue_asthenia
+R2y3.00,1900,"[D]Debility, unspecified",Fatigue_asthenia
+SN45.00,17083,Excessive exertion exhaustion,Fatigue_asthenia
+SN45.11,20330,Overexertion,Fatigue_asthenia
+TGBz.00,105282,Overexertion NOS,Fatigue_asthenia
+U1B..00,46888,"[X]Overexertion, travel and privation",Fatigue_asthenia
+1B73.00,927,Flashing lights seen,Flashing_lights
+1B74.00,4106,Floaters seen,Flashing_lights
+F481C00,17670,Photopsia,Flashing_lights
+F4K2900,629,Vitreous floaters,Flashing_lights
+1953.00,33772,Waterbrash,Gastric_reflux
+1953.11,6412,Waterbrash symptom,Gastric_reflux
+1955.00,846,Heartburn,Gastric_reflux
+1955.11,6041,Heartburn symptom,Gastric_reflux
+1957.00,7577,Gastric reflux,Gastric_reflux
+A074313,14928,Helicobacter gastritis,Gastric_reflux
+J101100,2535,Reflux oesophagitis,Gastric_reflux
+J101111,15054,Acid reflux,Gastric_reflux
+J101112,7104,Gastro-oesophageal reflux with oesophagitis,Gastric_reflux
+J101113,16605,Oesophageal reflux with oesophagitis,Gastric_reflux
+J101114,15579,Peptic oesophagitis,Gastric_reflux
+J101115,16450,Regurgitant oesophagitis,Gastric_reflux
+J103400,96109,Peptic stricture of oesophagus,Gastric_reflux
+J10y400,25610,Oesopheal reflux without mention of oesophagitis,Gastric_reflux
+J10y411,1327,Oesophageal reflux,Gastric_reflux
+J10y412,984,Gastro-oesophageal reflux,Gastric_reflux
+J10y413,2281,Acid reflux,Gastric_reflux
+J15..00,3341,Gastritis and duodenitis,Gastric_reflux
+J150.00,5635,Acute gastritis,Gastric_reflux
+J150000,29492,Acute haemorrhagic gastritis,Gastric_reflux
+J151.00,2936,Chronic gastritis,Gastric_reflux
+J151000,15025,Chronic atrophic gastritis,Gastric_reflux
+J151100,11497,Chronic inflammatory gastritis,Gastric_reflux
+J151200,38638,Chronic superficial gastritis,Gastric_reflux
+J151z00,19190,Chronic gastritis NOS,Gastric_reflux
+J152.00,14787,Gastric mucosal hypertrophy,Gastric_reflux
+J153.00,4506,Alcoholic gastritis,Gastric_reflux
+J154.00,5858,Other specified gastritis,Gastric_reflux
+J154200,11519,Irritant gastritis,Gastric_reflux
+J154300,27763,Corrosive gastritis,Gastric_reflux
+J154400,10906,Helicobacter gastritis,Gastric_reflux
+J154z00,18260,Other specified gastritis NOS,Gastric_reflux
+J155.00,1138,Gastritis unspecified,Gastric_reflux
+J156.00,25544,Gastroduodenitis unspecified,Gastric_reflux
+J157.00,376,Duodenitis,Gastric_reflux
+J15z.00,9731,Gastritis and duodenitis NOS,Gastric_reflux
+J433000,8566,Dietetic gastritis,Gastric_reflux
+J4z0.00,6420,Non-infective gastritis NOS,Gastric_reflux
+Jyu1200,73154,[X]Other acute gastritis,Gastric_reflux
+Jyu1300,45769,[X]Other gastritis,Gastric_reflux
+R071.00,4448,[D]Heartburn,Gastric_reflux
+R071000,4927,[D]Pyrosis,Gastric_reflux
+R071100,14849,[D]Waterbrash,Gastric_reflux
+R071z00,25805,[D]Heartburn NOS,Gastric_reflux
+ZV65316,18596,[V]Dietary counselling in gastritis,Gastric_reflux
+172..00,4135,Blood in sputum - haemoptysis,Haemoptysis
+172..11,10013,Blood in sputum - symptom,Haemoptysis
+172..12,1610,Haemoptysis - symptom,Haemoptysis
+1720.00,107548,Massive haemoptysis,Haemoptysis
+R063.00,2244,[D]Haemoptysis,Haemoptysis
+R063000,8239,[D]Cough with haemorrhage,Haemoptysis
+R063100,7285,[D]Pulmonary haemorrhage NOS,Haemoptysis
+R063z00,33742,[D]Haemoptysis NOS,Haemoptysis
+1N02.00,22576,C/O: hair loss,Hair_loss
+22D4.00,36837,O/E - loss of hair,Hair_loss
+22D7.00,15916,O/E - patches of alopecia,Hair_loss
+22D7.11,8110,O/E - alopecia,Hair_loss
+22DA.00,21712,O/E - balding,Hair_loss
+38V8.00,1000810,Severity of Alopecia Tool,Hair_loss
+M240.00,1037,Alopecia,Hair_loss
+M240.11,4624,Thinning of hair,Hair_loss
+M240000,976,Alopecia unspecified,Hair_loss
+M240011,5272,Baldness,Hair_loss
+M240012,1942,Hair loss,Hair_loss
+M240100,685,Alopecia areata,Hair_loss
+M240111,60422,Ophiasis,Hair_loss
+M240200,11217,Male pattern alopecia,Hair_loss
+M240300,31692,Frontal alopecia of women,Hair_loss
+M240400,4305,Premature alopecia,Hair_loss
+M240600,52294,Alopecia senilis,Hair_loss
+M240700,50780,Alopecia febrilis,Hair_loss
+M240800,41612,Alopecia localis,Hair_loss
+M240900,43109,Alopecia disseminata,Hair_loss
+M240A00,16768,Cachectic alopecia,Hair_loss
+M240B00,2449,Alopecia totalis,Hair_loss
+M240C00,48735,Alopecia follicularis,Hair_loss
+M240D00,67626,Marginal alopecia,Hair_loss
+M240E00,59108,Alopecia neurotica,Hair_loss
+M240F00,60760,Peroneal alopecia,Hair_loss
+M240H00,48719,Alopecia seborrhoeica,Hair_loss
+M240K00,2154,Alopecia universalis,Hair_loss
+M240L00,36911,Drug-induced androgenic alopecia,Hair_loss
+M240M00,5898,Telogen effluvium,Hair_loss
+M240N00,51945,Anagen effluvium,Hair_loss
+M240P00,68076,Alopecia mucinosa,Hair_loss
+M240U00,99217,Ophiasis,Hair_loss
+M240V00,21878,Traction alopecia,Hair_loss
+M240z00,9157,Alopecia NOS,Hair_loss
+M245.00,18069,Other specified follicular disorders,Hair_loss
+M24X.00,9290,"Cicatricial alopecia, unspecified",Hair_loss
+M2yF.00,102343,Follicular mucinosis,Hair_loss
+Myu6.00,51300,[X]Disorders of skin appendages,Hair_loss
+Myu6100,52908,[X]Nail disorders in other diseases classified elsewhere,Hair_loss
+Myu6200,53782,[X]Other alopecia areata,Hair_loss
+Myu6300,52957,[X]Other androgenic alopecia,Hair_loss
+Myu6400,105191,[X]Other specified nonscarring hair loss,Hair_loss
+Myu6500,1007339,[X]Other cicatricial alopecia,Hair_loss
+Myu6600,110649,[X]Other hair colour and hair shaft abnormalities,Hair_loss
+Myu6700,104027,[X]Other hypertrichosis,Hair_loss
+Myu6B00,95801,[X]Other specified follicular disorders,Hair_loss
+Myu6C00,100067,[X]Other eccrine sweat disorders,Hair_loss
+Myu6D00,1007340,[X]Other apocrine sweat disorders,Hair_loss
+Myu6E00,111205,"[X]Cicatricial alopecia, unspecified",Hair_loss
+1B1E.00,1914,Hallucinations,Hallucinations
+1B1b.00,19518,Transient hallucinations,Hallucinations
+1B1d.00,86762,Hypnagogic hallucination,Hallucinations
+1B1e.00,85836,Hypnopompic hallucination,Hallucinations
+1S04.00,42292,C/O - illusions seen,Hallucinations
+E104.11,93167,Oneirophrenia,Hallucinations
+Eu23200,11778,[X]Acute schizophrenia-like psychotic disorder,Hallucinations
+Eu23211,59096,[X]Brief schizophreniform disorder,Hallucinations
+Eu23212,70884,[X]Brief schizophrenifrm psych,Hallucinations
+Eu23213,1005944,[X]Oneirophrenia,Hallucinations
+Eu23214,94604,[X]Schizophrenic reaction,Hallucinations
+F481K00,15066,Visual hallucinations,Hallucinations
+R001.00,2455,[D]Hallucinations,Hallucinations
+R001000,12120,"[D]Hallucinations, auditory",Hallucinations
+R001100,53990,"[D]Hallucinations, gustatory",Hallucinations
+R001200,25283,"[D]Hallucinations, olfactory",Hallucinations
+R001300,64131,"[D]Hallucinations, tactile",Hallucinations
+R001400,12064,[D]Visual hallucinations,Hallucinations
+R001z00,19916,[D]Hallucinations NOS,Hallucinations
+Ryu5300,53761,[X]Other hallucinations,Hallucinations
+Z4K3.00,1015739,Interpretation of hallucinations,Hallucinations
+Z4K4.00,1015740,Clarification of hallucinations,Hallucinations
+Z4K4.11,1015741,Analysing hallucinations,Hallucinations
+Z4K5.00,1015742,Avoiding positive reinforcement of hallucinations,Hallucinations
+Z4K6.00,1015744,Allowing patient to talk about hallucinations,Hallucinations
+Z4K7.00,1015745,Allowing patient to explore hallucinations,Hallucinations
+1474.00,5029,H/O: migraine,Headache
+1474000,103451,H/O migraine with aura,Headache
+147E.00,83480,History of headache,Headache
+1B1G.00,129,Headache,Headache
+1B1G.11,5767,C/O - a headache,Headache
+1B1G.12,20800,Cephalgia,Headache
+1B1G000,3716,Sinus headache,Headache
+1B1G100,17011,Viral headache,Headache
+1BA..00,16247,Headache site,Headache
+1BA2.00,9891,Generalised headache,Headache
+1BA3.00,11321,Unilateral headache,Headache
+1BA4.00,21663,Bilateral headache,Headache
+1BA5.00,130,Frontal headache,Headache
+1BA5.11,5754,Pain in sinuses,Headache
+1BA6.00,1788,Occipital headache,Headache
+1BA7.00,9048,Parietal headache,Headache
+1BA8.00,3340,Temporal headache,Headache
+1BA9.00,12017,Sinus headache,Headache
+1BAZ.00,17830,Headache site NOS,Headache
+1BB..00,9915,Headache character,Headache
+1BB1.00,20932,Aching headache,Headache
+1BB2.00,5335,Throbbing headache,Headache
+1BB3.00,42903,Shooting headache,Headache
+1BB4.00,4949,Morning headache,Headache
+1BBZ.00,29394,Headache character NOS,Headache
+721BA00,109781,Removal of weight from upper eyelid,Headache
+7B1BA00,105230,Diag endos exam uret and biop les uret us rigid ureteroscope,Headache
+8B6N.00,11389,Migraine prophylaxis,Headache
+8H4c.00,93476,Referral to headache special interest general practitioner,Headache
+9NiB.00,94517,DNA headache special interest general practitioner clinic,Headache
+9Nl7.00,93673,Seen by general practitioner with special interest headache,Headache
+BBr0400,72310,[M]Aleukaemic leukaemia NOS,Headache
+E278100,191,Tension headache,Headache
+E278111,9999,Muscular headache,Headache
+F26..00,161,Migraine,Headache
+F260.00,3220,Classical migraine,Headache
+F260.11,103502,Migraine with aura,Headache
+F261.00,2424,Common migraine,Headache
+F261.11,103602,Migraine without aura,Headache
+F261000,9633,Atypical migraine,Headache
+F261100,5660,Sick headache,Headache
+F261z00,41497,Common migraine NOS,Headache
+F262.00,5509,Migraine variants,Headache
+F262000,2554,Cluster headache,Headache
+F262100,33362,Horton's (histamine) neuralgia,Headache
+F262200,2861,Abdominal migraine,Headache
+F262300,9004,Basilar migraine,Headache
+F262400,10583,Ophthalmic migraine,Headache
+F262500,321,Periodic migrainous neuralgia,Headache
+F262600,7512,[X] Tension type headache,Headache
+F262700,101339,Chronic paroxysmal hemicrania,Headache
+F262900,103899,Infrequent episodic tension-type headache,Headache
+F262A00,103755,Frequent episodic tension-type headache,Headache
+F262B00,103537,Chronic tension-type headache,Headache
+F262D00,103443,Paroxysmal hemicrania,Headache
+F262z00,23621,Migraine variant NOS,Headache
+F26y.00,28031,Other forms of migraine,Headache
+F26y000,3658,Hemiplegic migraine,Headache
+F26y100,12511,Ophthalmoplegic migraine,Headache
+F26y111,65262,Moebius' ophthalmoplegic migraine,Headache
+F26y200,22685,Status migrainosus,Headache
+F26y300,27930,Complicated migraine,Headache
+F26yz00,28092,Other forms of migraine NOS,Headache
+F26z.00,14700,Migraine NOS,Headache
+F290011,29404,Headache after myelogram,Headache
+Fyu5300,53813,[X]Other migraine,Headache
+Fyu5E00,98205,[X]Chronic headache disorder,Headache
+R040.00,1197,[D]Headache,Headache
+R040z00,5056,[D]Pain in head NOS,Headache
+R090D00,17762,[D]Abdominal migraine,Headache
+7308400,84365,Placement of hearing implant in external ear,Hearing_loss
+7317C00,68636,Placement of hearing implant in middle ear,Hearing_loss
+7319.00,59392,Attachment of bone anchored hearing prosthesis,Hearing_loss
+7319100,89253,Insertion fixtures bone anchored hearing prosthesis Stage 2,Hearing_loss
+7319200,91930,Reduction soft tissue for bone anchored hearing prosthesis,Hearing_loss
+7319300,97761,Attention to fixtures for bone anchored hearing prosthesis,Hearing_loss
+7319400,93278,One stage insert fixtures bone anchored hearing prosthesis,Hearing_loss
+7319500,101755,Fitting external hearing prosthesis bone anchored fixtures,Hearing_loss
+7319600,108029,First stge ins fixtures for bone anchored hearing prosthesis,Hearing_loss
+7319700,108030,Second stage ins fixtures for bone anchored hearing prosth,Hearing_loss
+7319y00,98553,Other specified attachment bone anchored hearing prosthesis,Hearing_loss
+7319z00,98241,Attachment of bone anchored hearing prosthesis NOS,Hearing_loss
+E2F3200,1005904,Articulatory defect due to conductive hearing loss,Hearing_loss
+E2F3211,1005905,Articulatory impairment due to conductive hearing loss,Hearing_loss
+F580100,1752,Presbyacusis,Hearing_loss
+F580111,30208,Senile presbyacusis,Hearing_loss
+F581200,15940,Noise-induced hearing loss,Hearing_loss
+F59..00,412,Hearing loss,Hearing_loss
+F590.00,8941,Conductive hearing loss,Hearing_loss
+F590000,1151,Unspecified conductive hearing loss,Hearing_loss
+F590100,36660,Conductive hearing loss due to disorder of external ear,Hearing_loss
+F590300,31748,Conductive hearing loss due to disorder of middle ear,Hearing_loss
+F590400,94782,Conductive hearing loss due to disorder of inner ear,Hearing_loss
+F590500,18945,"Conductive hearing loss, bilateral",Hearing_loss
+F590y00,62906,Combined conductive hearing loss,Hearing_loss
+F590z00,33583,Conductive hearing loss NOS,Hearing_loss
+F591.00,536,Sensorineural hearing loss,Hearing_loss
+F591.14,12829,Perceptive hearing loss,Hearing_loss
+F591000,2061,Unspecified perceptive hearing loss,Hearing_loss
+F591100,18520,Sensory hearing loss,Hearing_loss
+F591200,6846,Neural hearing loss,Hearing_loss
+F591300,69894,Central hearing loss,Hearing_loss
+F591600,10112,"Sensorineural hearing loss, bilateral",Hearing_loss
+F591900,107364,Bilateral profound sensorineural hearing loss,Hearing_loss
+F591A00,107323,Bilateral congenital sensorineural hearing loss,Hearing_loss
+F591B00,107607,Profound sensorineural hearing loss,Hearing_loss
+F591D00,107265,Mild sensorineural hearing loss,Hearing_loss
+F591E00,107610,Severe sensorineural hearing loss,Hearing_loss
+F591y00,54116,Combined perceptive hearing loss,Hearing_loss
+F591z00,16393,Perceptive hearing loss NOS,Hearing_loss
+F592.11,9882,Mixed hearing loss,Hearing_loss
+F592100,7301,"Mixed conductive and sensorineural hearing loss, bilateral",Hearing_loss
+F597.00,99753,Mild acquired hearing loss,Hearing_loss
+F598.00,100127,Moderate acquired hearing loss,Hearing_loss
+F599.00,100276,Severe acquired hearing loss,Hearing_loss
+F59A.00,100654,Profound acquired hearing loss,Hearing_loss
+F59y.00,38563,Other specified forms of hearing loss,Hearing_loss
+FyuU100,53800,[X]Other specified hearing loss,Hearing_loss
+ZE87.16,12324,HI - Hearing impairment,Hearing_loss
+1D15.00,5784,C/O: itching,Hives_itchy_skin
+1N04.00,99843,Itching of skin lesion,Hives_itchy_skin
+2227.12,4277,O/E - itchy rash,Hives_itchy_skin
+2F8..00,7031,O/E - weals present,Hives_itchy_skin
+2F82.00,39255,O/E - weals present,Hives_itchy_skin
+2F8Z.00,65374,O/E - weals NOS,Hives_itchy_skin
+2FT4.00,22793,Itching of pigmented skin lesion,Hives_itchy_skin
+AC03.00,57434,Cutaneous schistosomiasis,Hives_itchy_skin
+AC03.11,31450,Swimmers' itch,Hives_itchy_skin
+AC6z000,21183,Cutaneous larva migrans NOS,Hives_itchy_skin
+E263000,15959,Psychogenic pruritus,Hives_itchy_skin
+Eu45y13,16679,[X]Psychogenic pruritis,Hives_itchy_skin
+L16E.00,16775,Pregnancy pruritus,Hives_itchy_skin
+M12A200,15310,Solar urticaria,Hives_itchy_skin
+M18..00,1920,Pruritus and related conditions,Hives_itchy_skin
+M182.00,1075,Prurigo,Hives_itchy_skin
+M182300,23789,Prurigo simplex,Hives_itchy_skin
+M182z00,20024,Prurigo NOS,Hives_itchy_skin
+M18y.00,10138,Other specified pruritic conditions,Hives_itchy_skin
+M18y000,98652,Pruritus aestivalis,Hives_itchy_skin
+M18y100,23442,Pruritus hiemalis,Hives_itchy_skin
+M18y200,12134,Pruritus senilis,Hives_itchy_skin
+M18yz00,24633,Other pruritic conditions NOS,Hives_itchy_skin
+M18yz11,9474,Aquagenic pruritis,Hives_itchy_skin
+M18z.00,1829,Pruritus NOS,Hives_itchy_skin
+M18z.12,2311,Itch,Hives_itchy_skin
+M28..00,1272,Urticaria,Hives_itchy_skin
+M280.00,6400,Allergic urticaria,Hives_itchy_skin
+M280.11,38554,Drug induced urticaria,Hives_itchy_skin
+M281.00,8948,Idiopathic urticaria,Hives_itchy_skin
+M282.00,16294,Urticaria due to cold and heat,Hives_itchy_skin
+M282000,7651,Cold urticaria,Hives_itchy_skin
+M282100,30016,Thermal urticaria,Hives_itchy_skin
+M282111,17710,Heat urticaria,Hives_itchy_skin
+M282z00,45386,Urticaria due to cold and heat NOS,Hives_itchy_skin
+M283.00,1594,Dermatographic urticaria,Hives_itchy_skin
+M283.11,43163,Factitial urticaria,Hives_itchy_skin
+M284.00,20919,Vibratory urticaria,Hives_itchy_skin
+M285.00,9041,Cholinergic urticaria,Hives_itchy_skin
+M286.00,6678,Contact urticaria,Hives_itchy_skin
+M287.00,24845,Physical urticaria,Hives_itchy_skin
+M28y.00,1869,Other specified urticaria,Hives_itchy_skin
+M28y.11,11883,Nettle rash,Hives_itchy_skin
+M28y000,20986,Urticaria geographica,Hives_itchy_skin
+M28y100,50836,Menstrual urticaria,Hives_itchy_skin
+M28y200,51725,Urticaria persistans,Hives_itchy_skin
+M28yz00,23645,Other specified urticaria NOS,Hives_itchy_skin
+M28z.00,15138,Urticaria NOS,Hives_itchy_skin
+M28z.11,7244,Hives,Hives_itchy_skin
+Myu2A00,69754,[X]Other prurigo,Hives_itchy_skin
+Myu2B00,52837,[X]Other pruritus,Hives_itchy_skin
+Myu2D00,52818,"[X]Pruritus, unspecified",Hives_itchy_skin
+Myu4.00,70628,[X]Urticaria and erythema,Hives_itchy_skin
+Myu4000,49257,[X]Other urticaria,Hives_itchy_skin
+SN51.00,4173,Angioneurotic oedema,Hives_itchy_skin
+SN51.11,78446,Angioedema,Hives_itchy_skin
+SP35400,50380,Urticaria due to serum,Hives_itchy_skin
+1B96.00,110439,Speech impairment,Hoarse_voice
+1CA..00,6517,Hoarseness symptom,Hoarse_voice
+1CA..11,11627,Hoarseness - throat symptom,Hoarse_voice
+1CA2.00,5936,Hoarse,Hoarse_voice
+1CA2.11,2246,Voice hoarseness,Hoarse_voice
+1CAZ.00,38120,Hoarseness symptom NOS,Hoarse_voice
+2DE4.00,16810,O/E - hoarseness,Hoarse_voice
+2DE5.00,7848,O/E - dysphonia,Hoarse_voice
+2DE6.00,6760,O/E - aphonia,Hoarse_voice
+E201z11,4105,Aphonia - hysterical,Hoarse_voice
+E261500,41615,Psychogenic aphonia,Hoarse_voice
+Eu44400,34978,[X]Dissociative motor disorders,Hoarse_voice
+Eu44411,12147,[X]Psychogenic aphonia,Hoarse_voice
+Eu44412,18801,[X]Psychogenic dysphonia,Hoarse_voice
+Eu80B00,109738,[X]Speech disorder,Hoarse_voice
+R044.00,6423,[D]Voice disturbance,Hoarse_voice
+R044000,2735,"[D]Voice disturbance, unspecified",Hoarse_voice
+R044100,4820,[D]Aphonia,Hoarse_voice
+R044200,3184,[D]Loss of voice,Hoarse_voice
+R044300,5281,[D]Change in voice,Hoarse_voice
+R044400,1412,[D]Dysphonia,Hoarse_voice
+R044500,1921,[D]Hoarseness,Hoarse_voice
+R044z00,48456,[D]Other voice disturbance NOS,Hoarse_voice
+R045.00,18039,[D]Other speech disturbance,Hoarse_voice
+R045z00,5688,[D]Other speech disturbance NOS,Hoarse_voice
+Ryu6000,95670,[X]Other and unspecified speech disturbances,Hoarse_voice
+Ryu6200,97636,[X]Other and unspecified voice disturbances,Hoarse_voice
+ZD31.11,45504,Dysphonia therapy,Hoarse_voice
+ZS2..00,40106,Disorder of voice,Hoarse_voice
+ZS21.00,10277,Dysphonia,Hoarse_voice
+ZS21100,49366,Hyperkinetic dysphonia,Hoarse_voice
+ZS21200,43769,Hypofunctional dysphonia,Hoarse_voice
+ZS21300,22331,Hyperfunctional dysphonia,Hoarse_voice
+ZS22.00,36615,Aphonia,Hoarse_voice
+ZS22100,1017511,Hyperkinetic aphonia,Hoarse_voice
+ZS22200,94084,Hypofunctional aphonia,Hoarse_voice
+ZS22300,99125,Hyperfunctional aphonia,Hoarse_voice
+ZS26.00,18490,Spasmodic dysphonia,Hoarse_voice
+ZS26.11,35056,Spastic dysphonia,Hoarse_voice
+ZS26100,46563,Adductor spasmodic dysphonia,Hoarse_voice
+ZS26111,63535,Adductor spastic dysphonia,Hoarse_voice
+ZS26200,54751,Abductor spasmodic dysphonia,Hoarse_voice
+ZS26211,106145,Abductor spastic dysphonia,Hoarse_voice
+ZS27.00,69141,Breathy voice,Hoarse_voice
+ZS28.11,39933,Weakness of voice,Hoarse_voice
+ZT11.00,12280,Loss of voice,Hoarse_voice
+ZT15.00,19051,Change in voice,Hoarse_voice
+ZV41400,7277,[V]Problem with voice production,Hoarse_voice
+1657.00,11438,Hot flushes,Hot_flushes
+1672.12,28762,Goes red - symptom,Hot_flushes
+K5A2000,9547,Menopausal flushing,Hot_flushes
+K5A2011,814,Hot flushes - menopausal,Hot_flushes
+F584200,8628,Hyperacusis,Hyperacusis
+Z7CLP12,56035,Subjective hyperacusis,Hyperacusis
+Z7CLQ00,106716,Hyperacusis,Hyperacusis
+Z7CLQ11,1016122,Oversensitive hearing,Hyperacusis
+ZED..00,25198,Sensitive hearing,Hyperacusis
+1613.00,16092,Appetite increased,Increased_appetite
+1B1B.00,21305,Cannot sleep - insomnia,Insomnia
+1B1B.11,4537,C/O - insomnia,Insomnia
+1B1B000,3523,Initial insomnia,Insomnia
+1B1B100,5675,Middle insomnia,Insomnia
+1B1B200,4597,Late insomnia,Insomnia
+1BX0.00,42847,Delayed onset of sleep,Insomnia
+1BX3.00,22465,Early morning waking,Insomnia
+8G9B.00,96037,Sleep hygiene behaviour education,Insomnia
+E274.00,7819,Non-organic sleep disorders,Insomnia
+E274.12,26546,Insomnia due to nonorganic sleep disorder,Insomnia
+E274000,16434,Unspecified non-organic sleep disorder,Insomnia
+E274100,15515,Transient insomnia,Insomnia
+E274111,4023,Insomnia NOS,Insomnia
+E274200,16115,Persistent insomnia,Insomnia
+E274D11,19514,Restless sleep,Insomnia
+E274E00,32987,'Short-sleeper',Insomnia
+E274y00,43098,Other non-organic sleep disorder,Insomnia
+E274z00,27649,Non-organic sleep disorder NOS,Insomnia
+Eu51.00,24894,[X]Nonorganic sleep disorders,Insomnia
+Eu51000,30626,[X]Nonorganic insomnia,Insomnia
+Eu51y00,62925,[X]Other nonorganic sleep disorders,Insomnia
+Eu51z00,22819,"[X]Nonorganic sleep disorder, unspecified",Insomnia
+Eu51z11,21032,[X]Emotional sleep disorder NOS,Insomnia
+Fy00.00,5921,Disorders of initiating and maintaining sleep,Insomnia
+R005.00,8084,[D]Sleep disturbances,Insomnia
+R005.11,10349,[D]Insomnia - symptom,Insomnia
+R005000,1244,"[D]Sleep disturbance, unspecified",Insomnia
+R005100,48539,[D]Insomnia with sleep apnoea,Insomnia
+R005200,750,[D]Insomnia NOS,Insomnia
+Z1M1.00,101913,Disturbing sleep,Insomnia
+1B86.00,6385,Has an itchy eye,Itchy_eyes
+1B86.11,4984,Itchy eye symptom,Itchy_eyes
+1M02.00,108855,Shoulder joint painful on movement,Joint_pain
+1M03.00,109347,Shoulder joint painful on external rotation,Joint_pain
+1M10.00,9517,Knee pain,Joint_pain
+2H45.00,36132,O/E - joint movement painful,Joint_pain
+N014800,57894,Arthropathy in Whipple's disease,Joint_pain
+N031200,42865,Arthropathy in Whipple's disease,Joint_pain
+N094.00,5864,Pain in joint - arthralgia,Joint_pain
+N094.11,6058,Ache in joint,Joint_pain
+N094000,202,Arthralgia of unspecified site,Joint_pain
+N094100,15842,Arthralgia of the shoulder region,Joint_pain
+N094111,2397,Shoulder joint pain,Joint_pain
+N094200,16029,Arthralgia of the upper arm,Joint_pain
+N094211,1646,Elbow joint pain,Joint_pain
+N094300,7495,Arthralgia of the forearm,Joint_pain
+N094311,2521,Wrist joint pain,Joint_pain
+N094400,6459,Arthralgia of the hand,Joint_pain
+N094411,29402,Hand joint pain,Joint_pain
+N094500,15146,Arthralgia of the pelvic region and thigh,Joint_pain
+N094511,63664,Coxalgia,Joint_pain
+N094512,1330,Hip joint pain,Joint_pain
+N094600,3812,Arthralgia of the lower leg,Joint_pain
+N094611,554,Knee joint pain,Joint_pain
+N094700,8365,Arthralgia of the ankle and foot,Joint_pain
+N094711,14886,Ankle joint pain,Joint_pain
+N094800,36091,Arthralgia of other specified site,Joint_pain
+N094900,1418,Arthralgia of multiple joints,Joint_pain
+N094A00,17659,Arthralgia of shoulder,Joint_pain
+N094B00,8952,Arthralgia of sternoclavicular joint,Joint_pain
+N094C00,36367,Arthralgia of acromioclavicular joint,Joint_pain
+N094D00,6523,Arthralgia of elbow,Joint_pain
+N094D11,54791,Elbow joint pain,Joint_pain
+N094E00,67170,Arthralgia of distal radio-ulnar joint,Joint_pain
+N094F00,5999,Arthralgia of wrist,Joint_pain
+N094G00,22445,Arthralgia of MCP joint,Joint_pain
+N094H00,29540,Arthralgia of PIP joint of finger,Joint_pain
+N094J00,7676,Arthralgia of DIP joint of finger,Joint_pain
+N094K00,33407,Arthralgia of hip,Joint_pain
+N094K11,8736,Coxalgia,Joint_pain
+N094K12,286,Hip pain,Joint_pain
+N094L00,9883,Arthralgia of sacro-iliac joint,Joint_pain
+N094M00,6044,Arthralgia of knee,Joint_pain
+N094N00,61245,Arthralgia of tibio-fibular joint,Joint_pain
+N094P00,33885,Arthralgia of ankle,Joint_pain
+N094Q00,63058,Arthralgia of subtalar joint,Joint_pain
+N094R00,41510,Arthralgia of talonavicular joint,Joint_pain
+N094S00,59586,Arthralgia of other tarsal joint,Joint_pain
+N094T00,38465,Arthralgia of 1st MTP joint,Joint_pain
+N094U00,45456,Arthralgia of lesser MTP joint,Joint_pain
+N094V00,37136,Arthralgia of IP joint of toe,Joint_pain
+N094z00,29775,Arthralgia NOS,Joint_pain
+N096.12,8309,Musculoskeletal pain - joints,Joint_pain
+N096000,64439,Other joint symptoms of unspecified site,Joint_pain
+N096100,14806,Other joint symptoms of the shoulder region,Joint_pain
+N096700,15897,Other joint symptoms of the ankle and foot,Joint_pain
+N096D00,61902,Other symptoms - elbow,Joint_pain
+N096K00,67331,Other symptoms - hip,Joint_pain
+N14y.11,537,Facet joint syndrome,Joint_pain
+2H6..00,6500,O/E - joint stiffness,Joint_stiffmess
+2H62.00,37257,O/E - joint stiff,Joint_stiffmess
+2H6Z.00,42413,O/E - joint stiffness NOS,Joint_stiffmess
+9mM..00,107340,Rheumatoid arthritis monitoring invitation,Joint_stiffmess
+9mM0.00,107435,Rheumatoid arthritis monitoring invitation first letter,Joint_stiffmess
+9mM1.00,107575,Rheumatoid arthritis monitoring invitation second letter,Joint_stiffmess
+9mM2.00,107676,Rheumatoid arthritis monitoring invitation third letter,Joint_stiffmess
+9mM3.00,107606,Rheumatoid arthritis monitoring verbal invitation,Joint_stiffmess
+9mM4.00,107797,Rheumatoid arthritis monitoring telephone invitation,Joint_stiffmess
+J046011,46311,Stiff temporomandibular joint,Joint_stiffmess
+N095.00,6528,Joint stiffness NEC,Joint_stiffmess
+N095000,44414,"Stiff joint NEC, of unspecified site",Joint_stiffmess
+N095100,10749,"Stiff joint NEC, of the shoulder region",Joint_stiffmess
+N095111,5031,Shoulder stiff,Joint_stiffmess
+N095200,15320,"Stiff joint NEC, of the upper arm",Joint_stiffmess
+N095211,27282,Elbow stiff,Joint_stiffmess
+N095300,56269,"Stiff joint NEC, of the forearm",Joint_stiffmess
+N095311,14859,Wrist stiff,Joint_stiffmess
+N095400,14933,"Stiff joint NEC, of the hand",Joint_stiffmess
+N095411,17055,Hand joint stiff,Joint_stiffmess
+N095500,36520,"Stiff joint NEC, of the pelvic region and thigh",Joint_stiffmess
+N095511,4460,Hip stiff,Joint_stiffmess
+N095600,41620,"Stiff joint NEC, of the lower leg",Joint_stiffmess
+N095611,15060,Knee stiff,Joint_stiffmess
+N095700,42709,"Stiff joint NEC, of the ankle and foot",Joint_stiffmess
+N095711,2499,Ankle stiff,Joint_stiffmess
+N095800,41960,"Stiff joint NEC, of other specified site",Joint_stiffmess
+N095900,20449,Multiple stiff joints,Joint_stiffmess
+N095A00,42108,Stiff shoulder NEC,Joint_stiffmess
+N095B00,57119,Stiff sternoclavicular joint NEC,Joint_stiffmess
+N095C00,72584,Stiff acromioclavicular joint NEC,Joint_stiffmess
+N095D00,39947,Stiff elbow NEC,Joint_stiffmess
+N095E00,1007560,Stiff distal radio-ulnar joint NEC,Joint_stiffmess
+N095F00,48799,Stiff wrist NEC,Joint_stiffmess
+N095G00,27885,Stiff MCP joint NEC,Joint_stiffmess
+N095H00,54626,Stiff PIP joint of finger NEC,Joint_stiffmess
+N095J00,58712,Stiff DIP joint of finger NEC,Joint_stiffmess
+N095K00,42080,Stiff hip NEC,Joint_stiffmess
+N095L00,34851,Stiff sacro-iliac joint NEC,Joint_stiffmess
+N095M00,27535,Stiff knee NEC,Joint_stiffmess
+N095N00,1007561,Stiff tibio-fibular joint NEC,Joint_stiffmess
+N095P00,53837,Stiff ankle NEC,Joint_stiffmess
+N095Q00,52839,Stiff subtalar joint NEC,Joint_stiffmess
+N095R00,111002,Stiff talonavicular joint NEC,Joint_stiffmess
+N095S00,100255,Stiff other tarsal joint NEC,Joint_stiffmess
+N095T00,104694,Stiff 1st MTP joint NEC,Joint_stiffmess
+N095U00,105158,Stiff lesser MTP joint NEC,Joint_stiffmess
+N095V00,63399,Stiff IP joint of toe NEC,Joint_stiffmess
+N095W00,9486,Stiff finger,Joint_stiffmess
+N095z00,44118,"Joint stiffness NEC, NOS",Joint_stiffmess
+SyuKE13,28389,[X] Stiffness following joint replacement,Joint_stiffmess
+16J0.00,12248,Swollen calf,Limb_swelling
+16J7.00,9896,Swollen foot,Limb_swelling
+1832.00,7122,Ankle swelling,Limb_swelling
+1832.11,5889,Ankle swelling symptom,Limb_swelling
+1833.00,15047,Leg swelling,Limb_swelling
+1833.11,5919,Leg swelling symptom,Limb_swelling
+1839.00,98612,Oedema of calf,Limb_swelling
+183A.00,102720,Worsening peripheral oedema,Limb_swelling
+183C.00,103579,Reduction in peripheral oedema,Limb_swelling
+22C2.00,20553,O/E - oedema of ankles,Limb_swelling
+22C2.11,1906,O/E - ankle oedema,Limb_swelling
+22C3.00,1284,O/E - oedema of feet,Limb_swelling
+22C3.11,7106,O/E - foot oedema,Limb_swelling
+22C4.00,19358,O/E - oedema of legs,Limb_swelling
+22C4.11,6585,O/E - leg oedema,Limb_swelling
+22C4000,29264,Unilateral leg oedema,Limb_swelling
+N247000,5601,Swelling of limb,Limb_swelling
+N247011,2033,Swelling of calf,Limb_swelling
+N247012,6199,Swollen lower leg,Limb_swelling
+N247013,387,Swollen legs,Limb_swelling
+R023400,11396,[D]Peripheral oedema,Limb_swelling
+ZR3R.11,47344,CLASP ankle swelling score,Limb_swelling
+1B1K.00,17333,Lonely,Loneliness
+1B1K.11,1693,Loneliness,Loneliness
+1573.00,10531,H/O: menorrhagia,Menorrhagia
+1573.11,6238,H/O: heavy periods,Menorrhagia
+K592.00,23935,Excessive or frequent menstruation,Menorrhagia
+K592.11,20674,Frequent menses,Menorrhagia
+K592.12,35691,Hypermenorrhoea,Menorrhagia
+K592000,128,Menorrhagia,Menorrhagia
+K592011,812,Heavy periods,Menorrhagia
+K592012,100998,Heavy menstrual bleeding,Menorrhagia
+K592z00,20190,Excessive or frequent menstruation NOS,Menorrhagia
+K593.11,8544,Pubertal bleeding and menorrhagia,Menorrhagia
+K598.00,30753,Menometrorrhagia,Menorrhagia
+K5A0.00,15022,Premenopausal menorrhagia,Menorrhagia
+K5A0.11,20795,Climacteric menorrhagia,Menorrhagia
+K5A6.00,93526,Perimenopausal menorrhagia,Menorrhagia
+1BO..00,6021,Mood swings,Mood_swings
+E11z100,3489,Rebound mood swings,Mood_swings
+E215200,3709,Emotionally unstable personality,Mood_swings
+E216.13,19931,Labile personality,Mood_swings
+Eu60300,7745,[X]Emotionally unstable personality disorder,Mood_swings
+Eu60311,20839,[X]Aggressive personality disorder,Mood_swings
+Eu60313,58693,[X]Explosive personality disorder,Mood_swings
+2533.00,9609,O/E - mouth ulcer present,Mouth_ulcer
+2533.11,9434,O/E - mouth ulcer,Mouth_ulcer
+J082.00,3904,Oral aphthae,Mouth_ulcer
+J082.11,1538,Mouth ulcer,Mouth_ulcer
+J082000,17729,Minor aphthous ulceration,Mouth_ulcer
+J082100,37398,Major aphthous ulceration,Mouth_ulcer
+J082200,25569,Recurrent aphthous ulceration,Mouth_ulcer
+J082211,33831,Recurrent mouth ulcers,Mouth_ulcer
+J082300,39702,Herpetic aphthous ulceration,Mouth_ulcer
+J082400,5003,Aphthous stomatitis,Mouth_ulcer
+J082500,64653,Periadenitis mucosa necrotica recurrens,Mouth_ulcer
+J082z00,16580,Oral aphthae NOS,Mouth_ulcer
+1962.00,7812,Colicky abdominal pain,Muscle_cramps
+1B25.00,42434,Has 'spasms',Muscle_cramps
+1B25.11,12657,Spasms - symptom,Muscle_cramps
+1DCG.00,108998,Cramping pain,Muscle_cramps
+22B2.00,23967,O/E - carpopedal spasm,Muscle_cramps
+2974.00,49867,O/E - spasm/tic,Muscle_cramps
+2974.11,12885,O/E - spasm,Muscle_cramps
+2974.12,6081,O/E - tic,Muscle_cramps
+F138000,2829,Blepharospasm,Muscle_cramps
+F138200,2005,Spasmodic torticollis,Muscle_cramps
+F138300,21268,Organic writers' cramp,Muscle_cramps
+F312.00,3342,Clonic hemifacial spasm,Muscle_cramps
+F475200,31314,Spasm of accommodation,Muscle_cramps
+F4Jy100,1006093,Conjugate gaze spasm,Muscle_cramps
+F4Jy500,65404,Convergence spasm,Muscle_cramps
+F4Jy911,4658,Oculogyric crisis,Muscle_cramps
+H1y7311,94535,Laryngismus,Muscle_cramps
+H1y7400,4585,Laryngeal spasm,Muscle_cramps
+H1y7C00,16246,Laryngismus,Muscle_cramps
+J526.00,8240,Anal spasm,Muscle_cramps
+J526000,1644,Proctalgia fugax,Muscle_cramps
+J526z00,15281,Anal spasm NOS,Muscle_cramps
+N23y400,3144,Spasm of muscle,Muscle_cramps
+N23yE00,4680,Spasm of back muscles,Muscle_cramps
+N247100,2043,Leg cramps,Muscle_cramps
+N247111,4766,Night cramps,Muscle_cramps
+N247200,7735,Cramp,Muscle_cramps
+N247z11,17495,Hand cramps,Muscle_cramps
+PH02.11,40816,Meige's disease,Muscle_cramps
+R010200,3684,[D]Spasms NOS,Muscle_cramps
+R017000,16782,[D]Carpopedal spasm,Muscle_cramps
+R090100,2056,[D]Abdominal colic,Muscle_cramps
+R090200,1239,[D]Colic NOS,Muscle_cramps
+R090400,716,[D]Abdominal cramps,Muscle_cramps
+ZS26.00,18490,Spasmodic dysphonia,Muscle_cramps
+ZS26100,46563,Adductor spasmodic dysphonia,Muscle_cramps
+ZS26200,54751,Abductor spasmodic dysphonia,Muscle_cramps
+1DCC.00,12475,Aching muscles,Muscle_pain
+N239.00,4657,Fibromyalgia,Muscle_pain
+N240200,17085,Muscular rheumatism,Muscle_pain
+N241.00,27512,Myalgia and myositis unspecified,Muscle_pain
+N241000,1338,Myalgia unspecified,Muscle_pain
+N241011,14969,Intercostal myalgia,Muscle_pain
+N241012,5440,Muscle pain,Muscle_pain
+N241300,2919,Viral myalgia,Muscle_pain
+N241z00,3649,Myalgia or myositis NOS,Muscle_pain
+N248.00,717,Fibromyalgia,Muscle_pain
+1B22.00,31695,Has a tremor,Muscle_twitch
+1B22.11,5912,Tremor symptom,Muscle_twitch
+1B22.12,2778,Shaking,Muscle_twitch
+2BJ6.00,4886,O/E - twitching eyes,Muscle_twitch
+F131.00,6948,Essential and other specified forms of tremor,Muscle_twitch
+F131z00,34349,Essential and other specified forms of tremor NOS,Muscle_twitch
+F31y000,9001,Facial myokymia,Muscle_twitch
+R010100,10925,[D]Fasciculation,Muscle_twitch
+R010300,2508,[D]Tremor NOS,Muscle_twitch
+1G3..00,108112,Concerned about appearance of fingernails,Nail_changes
+1G4..00,108077,Concerned about appearance of toenails,Nail_changes
+2G28.00,51048,O/E - hands - finger clubbing,Nail_changes
+2G28.11,7575,O/E - finger clubbing,Nail_changes
+2G3..00,7779,O/E - nails,Nail_changes
+2G31.00,31146,O/E - nails - NAD,Nail_changes
+2G32.00,30341,O/E - nails ridged,Nail_changes
+2G33.00,44587,O/E - nails brittle,Nail_changes
+2G34.00,59760,O/E - nails - koilonychia,Nail_changes
+2G34.11,8534,O/E - koilonychia,Nail_changes
+2G35.00,6965,O/E - nails - pitting,Nail_changes
+2G36.00,17445,O/E - nails-splinter haemorrh.,Nail_changes
+2G37.00,40037,Splitting toenail,Nail_changes
+2G38.00,104119,Toenail thickened,Nail_changes
+2G3Z.00,31967,O/E - nails - NOS,Nail_changes
+7L19900,34267,Injection of triamcinolone into nail bed,Nail_changes
+AB01.00,366,Dermatophytosis of nail,Nail_changes
+AB01.12,6927,Tinea unguium,Nail_changes
+M23..00,4120,Diseases of nail,Nail_changes
+M230.00,821,Ingrowing nail,Nail_changes
+M230.11,46109,Unguis incarnatus,Nail_changes
+M230000,5926,Ingrowing great toe nail,Nail_changes
+M230100,16865,Ingrowing toe nail (excluding great toe),Nail_changes
+M230200,17274,Ingrowing thumb nail,Nail_changes
+M230300,27710,Ingrowing finger nail (excluding thumb),Nail_changes
+M230400,20551,Ingrowing nail with infection,Nail_changes
+M230z00,7599,Ingrowing nail NOS,Nail_changes
+M231.00,3021,Nail deformity,Nail_changes
+M232.00,109293,Involuted toenail,Nail_changes
+M23y.00,44806,Other specified nail disease,Nail_changes
+M23y000,4290,Dystrophia unguium,Nail_changes
+M23y100,11278,Hypertrophy of nail,Nail_changes
+M23y111,25162,Horn nail,Nail_changes
+M23y200,5162,Koilonychia,Nail_changes
+M23y300,4100,Eggshell nail,Nail_changes
+M23y400,36014,Hippocratic nail,Nail_changes
+M23y500,33864,Parrot-beak nail,Nail_changes
+M23y600,65540,Racket nail,Nail_changes
+M23y700,39056,Reedy nail,Nail_changes
+M23y800,56501,Turtleback nail,Nail_changes
+M23yB00,20804,Onychauxis,Nail_changes
+M23yC00,3210,Onychogryphosis,Nail_changes
+M23yD00,4913,Onycholysis,Nail_changes
+M23yD11,22667,Separation of nail plate,Nail_changes
+M23yE00,28618,Yellow nail syndrome,Nail_changes
+M23yF00,12488,Beau's lines,Nail_changes
+M23yG00,30453,Clubbed nail pachydermoperiostosis,Nail_changes
+M23yH00,18495,Splitting nail,Nail_changes
+M23yJ00,19331,Nail changes,Nail_changes
+M23yz00,21967,Other specified nail disease NOS,Nail_changes
+M23yz11,8368,Nail(s) brittle,Nail_changes
+M23z.00,3022,Nail disease NOS,Nail_changes
+M245.00,18069,Other specified follicular disorders,Nail_changes
+Myu6.00,51300,[X]Disorders of skin appendages,Nail_changes
+Myu6000,53740,[X]Other nail disorders,Nail_changes
+Myu6100,52908,[X]Nail disorders in other diseases classified elsewhere,Nail_changes
+Myu6500,1007339,[X]Other cicatricial alopecia,Nail_changes
+Myu6600,110649,[X]Other hair colour and hair shaft abnormalities,Nail_changes
+Myu6700,104027,[X]Other hypertrichosis,Nail_changes
+Myu6B00,95801,[X]Other specified follicular disorders,Nail_changes
+Myu6C00,100067,[X]Other eccrine sweat disorders,Nail_changes
+Myu6D00,1007340,[X]Other apocrine sweat disorders,Nail_changes
+PGy3.00,45644,Nail-patella syndrome,Nail_changes
+PGy3.11,16735,Osteo-onychodysostosis,Nail_changes
+PGy3.12,43876,Onycho-osteodysplasia,Nail_changes
+PH5..00,10427,Specified anomalies of nails,Nail_changes
+PH54.11,89466,Enlarged nails,Nail_changes
+PH55.11,38522,Hypertrophic nails,Nail_changes
+PH5z.00,22547,Specified nail anomalies NOS,Nail_changes
+R015.00,14752,[D]Clubbing of fingers,Nail_changes
+SE43.11,7144,Toenail bruise,Nail_changes
+176..00,5765,C/O - catarrh,Nasal_congestion_sneezing
+1C5..00,8520,Sneezing symptoms,Nasal_congestion_sneezing
+1C52.00,15757,Sneezes,Nasal_congestion_sneezing
+1C5Z.00,29456,Sneezing symptom NOS,Nasal_congestion_sneezing
+1C82.00,1824,Nasal obstruction present,Nasal_congestion_sneezing
+1C82.11,6450,C/O nasal congestion,Nasal_congestion_sneezing
+1C83.00,3492,Nasal discharge present,Nasal_congestion_sneezing
+1C83.11,16986,Nose running,Nasal_congestion_sneezing
+1C83.12,25364,Nose dripping,Nasal_congestion_sneezing
+1C83.13,550,Rhinorrhoea,Nasal_congestion_sneezing
+1C84.00,4016,C/O - post nasal drip,Nasal_congestion_sneezing
+1C86.00,11139,Blocked nose,Nasal_congestion_sneezing
+2D2..00,5935,O/E - nasal discharge,Nasal_congestion_sneezing
+2D2..11,20618,O/E - nose discharge,Nasal_congestion_sneezing
+2D21.00,25827,O/E - no nasal discharge,Nasal_congestion_sneezing
+2D22.00,8570,O/E - rhinorrhoea,Nasal_congestion_sneezing
+2D23.00,29637,O/E-nasal discharge-foul smell,Nasal_congestion_sneezing
+2D24.00,25179,O/E -nasal disch.-mucopurulent,Nasal_congestion_sneezing
+2D26.00,21639,Postnasal discharge,Nasal_congestion_sneezing
+2D2Z.00,35633,O/E - nasal discharge NOS,Nasal_congestion_sneezing
+2D36.00,37413,O/E - nasal mucosa oedematous,Nasal_congestion_sneezing
+2D37.00,25674,O/E - nasal mucosa wet/boggy,Nasal_congestion_sneezing
+2D39.00,25929,O/E - nasal mucosa hyperaemic,Nasal_congestion_sneezing
+2DF0.00,37411,O/E - oedema of turbinates,Nasal_congestion_sneezing
+2FH2000,16660,O/E - nose crusting,Nasal_congestion_sneezing
+H00..00,3260,Acute nasopharyngitis,Nasal_congestion_sneezing
+H00..11,368,Common cold,Nasal_congestion_sneezing
+H00..12,1246,Coryza - acute,Nasal_congestion_sneezing
+H00..13,6620,Febrile cold,Nasal_congestion_sneezing
+H00..14,896,Nasal catarrh - acute,Nasal_congestion_sneezing
+H00..15,9093,Pyrexial cold,Nasal_congestion_sneezing
+H00..16,3821,Rhinitis - acute,Nasal_congestion_sneezing
+H033.00,37409,Acute catarrhal tonsillitis,Nasal_congestion_sneezing
+H120100,805,Chronic catarrhal rhinitis,Nasal_congestion_sneezing
+H120111,2769,Catarrhal child,Nasal_congestion_sneezing
+H1y1600,6257,Nasal obstruction,Nasal_congestion_sneezing
+H1y1z11,1401,Nasal obstruction,Nasal_congestion_sneezing
+H1y1z12,3110,Nasal congestion,Nasal_congestion_sneezing
+H1y1z13,9483,Sinus congestion,Nasal_congestion_sneezing
+Hyu2000,72490,[X]Other seasonal allergic rhinitis,Nasal_congestion_sneezing
+R04z300,2256,[D]Sneezing,Nasal_congestion_sneezing
+R04z400,16610,[D]Nasal obstruction,Nasal_congestion_sneezing
+14C8.00,5409,H/O: haematemesis,Nausea_vomiting
+198..00,491,Nausea,Nausea_vomiting
+198..11,28493,C/O - nausea,Nausea_vomiting
+198..12,6402,Nausea symptoms,Nausea_vomiting
+1982.00,5843,Nausea present,Nausea_vomiting
+1983.00,7616,Morning nausea,Nausea_vomiting
+198Z.00,9579,Nausea NOS,Nausea_vomiting
+199..00,5881,Vomiting,Nausea_vomiting
+199..11,12772,C/O - vomiting,Nausea_vomiting
+199..12,22161,Emesis,Nausea_vomiting
+199..14,3992,Vomiting symptoms,Nausea_vomiting
+1992.00,176,Vomiting,Nausea_vomiting
+1992.11,33809,Throwing up,Nausea_vomiting
+1992.12,20168,Bilious attack,Nausea_vomiting
+1993.00,3380,Projectile vomiting,Nausea_vomiting
+1994.00,44489,Vomiting blood - fresh,Nausea_vomiting
+1994.11,16617,Blood in vomit - symptom,Nausea_vomiting
+1995.00,44691,Vomiting blood - coffee ground,Nausea_vomiting
+1996.00,24284,Vomiting - bile stained,Nausea_vomiting
+1997.00,7566,Retching,Nausea_vomiting
+1999.00,107255,Frequency of vomiting,Nausea_vomiting
+199A.00,110268,Time since last episode of vomiting,Nausea_vomiting
+199Z.00,37602,Vomiting NOS,Nausea_vomiting
+4A...00,16621,Vomit examination,Nausea_vomiting
+4A1..00,57038,Vomit examination - general,Nausea_vomiting
+4A1..11,16604,"Vomit - O/E, general",Nausea_vomiting
+4A11.00,92271,Vomit sent for examination,Nausea_vomiting
+4A12.00,55756,Vomit examination normal,Nausea_vomiting
+4A13.00,100905,Vomit examination abnormal,Nausea_vomiting
+4A1Z.00,72676,Vomit exam. general NOS,Nausea_vomiting
+4A2..00,15951,Vomit appearance,Nausea_vomiting
+4A21.00,58104,Vomit appearance - normal,Nausea_vomiting
+4A22.00,15964,Vomit appearance - abnormal,Nausea_vomiting
+4A23.00,53643,Vomit: frank blood present,Nausea_vomiting
+4A23.11,43534,Blood in vomit O/E,Nausea_vomiting
+4A24.00,43288,Vomit: coffee ground,Nausea_vomiting
+4A24.11,8344,Coffee ground vomit,Nausea_vomiting
+4A25.00,40410,Vomit: bilious,Nausea_vomiting
+4A25.11,17600,Bilious vomit O/E,Nausea_vomiting
+4A26.00,28305,Vomit: faeculant,Nausea_vomiting
+4A26.11,30862,Faeculant vomit O/E,Nausea_vomiting
+4A27.00,98827,Vomit: mucous present,Nausea_vomiting
+4A28.00,1001503,Vomit: pus present,Nausea_vomiting
+4A28.11,1001504,Pus in vomit O/E,Nausea_vomiting
+4A29.00,109451,Vomit: undigested food present,Nausea_vomiting
+4A2Z.00,72861,Vomit: appearance NOS,Nausea_vomiting
+4A3..00,58105,Vomit odour,Nausea_vomiting
+4A31.00,1001508,Vomit odour normal,Nausea_vomiting
+4A32.00,1001509,Vomit odour offensive,Nausea_vomiting
+4A33.00,1001510,Vomit odour faeculant,Nausea_vomiting
+4A3Z.00,1001511,Vomit odour NOS,Nausea_vomiting
+4A4..00,57728,Vomit pH,Nausea_vomiting
+4A4..11,48509,pH of vomit,Nausea_vomiting
+4A41.00,1001512,Vomit pH normal,Nausea_vomiting
+4A42.00,37436,Vomit: excessive acidity,Nausea_vomiting
+4A43.00,1001513,Vomit: excessive alkaninity,Nausea_vomiting
+4A4Z.00,35626,Vomit pH NOS,Nausea_vomiting
+4A5..00,60151,Vomit occult blood,Nausea_vomiting
+4A5..11,40165,Occult blood in vomit,Nausea_vomiting
+4A51.00,63244,Vomit occult blood positive,Nausea_vomiting
+4A52.00,101965,Vomit occult blood negative,Nausea_vomiting
+4A5Z.00,71101,Vomit occult blood NOS,Nausea_vomiting
+4A6..00,49507,Vomit toxicology,Nausea_vomiting
+4A61.00,1001514,Vomit sent for toxicology,Nausea_vomiting
+4A62.00,1001515,Vomit toxicology: nil found,Nausea_vomiting
+4A63.00,1001516,Vomit toxicology: positive,Nausea_vomiting
+4A6Z.00,1001517,Vomit toxicology NOS,Nausea_vomiting
+4AZ..00,71930,Vomit examination NOS,Nausea_vomiting
+A0...13,24368,Vomiting - infective,Nausea_vomiting
+E264200,2871,Cyclical vomiting - psychogenic,Nausea_vomiting
+E275400,3422,Psychogenic vomiting NOS,Nausea_vomiting
+Eu50500,16622,[X]Vomiting associated with other psychological disturbances,Nausea_vomiting
+Eu50511,6796,[X]Psychogenic vomiting,Nausea_vomiting
+H470.00,3847,Pneumonitis due to inhalation of food or vomitus,Nausea_vomiting
+H470300,45948,Pneumonitis due to inhalation of vomitus,Nausea_vomiting
+H470311,56385,Vomit inhalation pneumonitis,Nausea_vomiting
+H470312,25054,Aspiration pneumonia due to vomit,Nausea_vomiting
+H470z00,33837,Pneumonitis due to inhalation of food or vomitus NOS,Nausea_vomiting
+J013100,71275,Teeth erosion due to vomiting,Nausea_vomiting
+J162.00,6752,Persistent vomiting,Nausea_vomiting
+J162.11,52239,Emesis - persistent,Nausea_vomiting
+J162000,12383,Cyclical vomiting NOS,Nausea_vomiting
+J162100,49061,Habit vomiting,Nausea_vomiting
+J162z00,35707,Persistent vomiting NOS,Nausea_vomiting
+J16y500,25834,Functional vomiting,Nausea_vomiting
+J680.00,1188,Haematemesis,Nausea_vomiting
+J680.11,2712,Vomiting of blood,Nausea_vomiting
+L130.11,5832,Morning sickness,Nausea_vomiting
+R070.00,3416,[D]Nausea and vomiting,Nausea_vomiting
+R070000,1890,[D]Nausea,Nausea_vomiting
+R070100,5164,[D]Vomiting,Nausea_vomiting
+R070200,15825,[D]Emesis,Nausea_vomiting
+R070400,6101,[D]Projectile vomiting,Nausea_vomiting
+R070z00,15018,[D]Nausea and vomiting NOS,Nausea_vomiting
+R070z12,20434,[D]Retching,Nausea_vomiting
+U143.00,34908,[X]Inhalation of gastric contents,Nausea_vomiting
+U143000,53567,"[X]Inhalation of gastric contents, occurrence at home",Nausea_vomiting
+U143100,72716,[X]Inhalation of gastric contents occurrn resident instit'n,Nausea_vomiting
+U143200,60757,[X]Inhalation gastric content occ sch oth inst/pub adm area,Nausea_vomiting
+U143300,1013693,[X]Inhalation gastric content occurrn at sport/athlet area,Nausea_vomiting
+U143400,1013694,[X]Inhalation of gastric contents occurrn on street/highway,Nausea_vomiting
+U143500,1013695,[X]Inhalation of gastric content occurrn at trade/serv area,Nausea_vomiting
+U143600,105595,[X]Inhalation gastric content occurrn at indust/constr area,Nausea_vomiting
+U143700,1013696,"[X]Inhalation of gastric contents, occurrence on farm",Nausea_vomiting
+U143y00,1013697,[X]Inhalation of gastric content occurrn at oth specif plce,Nausea_vomiting
+U143z00,1013698,[X]Inhalation of gastric contents occurrn at unspecif place,Nausea_vomiting
+1475.00,16481,H/O: trigeminal neuralgia,Neuropathic_pain
+1DC1.00,7254,Burning pain,Neuropathic_pain
+1DCC.00,12475,Aching muscles,Neuropathic_pain
+1M8..00,109760,Diabetic peripheral neuropathic pain,Neuropathic_pain
+A531300,31709,Postherpetic polyneuropathy,Neuropathic_pain
+B7Fy100,3743,Morton neuroma,Neuropathic_pain
+F262000,2554,Cluster headache,Neuropathic_pain
+F262100,33362,Horton's (histamine) neuralgia,Neuropathic_pain
+F262500,321,Periodic migrainous neuralgia,Neuropathic_pain
+F301.00,1541,Other specified trigeminal neuralgia,Neuropathic_pain
+F301000,4912,Tic douloureux,Neuropathic_pain
+F301z00,6581,Trigeminal neuralgia NOS,Neuropathic_pain
+F321.00,16932,Glossopharyngeal neuralgia,Neuropathic_pain
+F356000,2219,Morton's metatarsalgia,Neuropathic_pain
+F356100,6884,Morton's neuralgia,Neuropathic_pain
+N143.00,313,Sciatica,Neuropathic_pain
+N144011,16884,Thoracic nerve root pain,Neuropathic_pain
+N241000,1338,Myalgia unspecified,Neuropathic_pain
+N241012,5440,Muscle pain,Neuropathic_pain
+N242.00,54992,"Neuralgia, neuritis and radiculitis unspecified",Neuropathic_pain
+N242000,2284,Neuralgia unspecified,Neuropathic_pain
+N242300,11544,Neuropathic pain,Neuropathic_pain
+N242z00,23839,"Neuralgia, neuritis or radiculitis NOS",Neuropathic_pain
+1735.00,7683,Breathless - lying flat,Orthopnoea
+1735.11,9089,Orthopnoea symptom,Orthopnoea
+2323.00,37704,O/E - orthopnoea,Orthopnoea
+R060200,11451,[D]Orthopnoea,Orthopnoea
+1B55.00,18564,Dizziness on standing up,Orthostatic_hypotension
+F17z.12,40383,Autonomic failure,Orthostatic_hypotension
+G870.00,8598,Orthostatic hypotension,Orthostatic_hypotension
+G870.11,1821,Postural hypotension,Orthostatic_hypotension
+1475.00,16481,H/O: trigeminal neuralgia,Pain
+15D..00,365,Dyspareunia,Pain
+16C..00,2786,Backache symptom,Pain
+16C2.00,153,Backache,Pain
+16C3.00,8241,Backache with radiation,Pain
+16C4.00,24796,Back pain worse on sneezing,Pain
+16C5.00,3763,C/O - low back pain,Pain
+16C6.00,3324,Back pain without radiation NOS,Pain
+16C7.00,6226,C/O - upper back ache,Pain
+16C8.00,9801,Exacerbation of backache,Pain
+16C9.00,10231,Chronic low back pain,Pain
+16CA.00,12189,Mechanical low back pain,Pain
+16CZ.00,6472,Backache symptom NOS,Pain
+16Z2.00,9196,Growing pains,Pain
+16Z2.11,17079,Growing pains symptom,Pain
+16ZB000,100698,Pain or discomfort,Pain
+16ZC100,1000365,howRthey rating score - pain and/or distress,Pain
+1823.00,1865,Precordial pain,Pain
+1825.00,1059,Pleuritic pain,Pain
+1826.00,32612,Parasternal pain,Pain
+1827.00,20490,Painful breathing -pleurodynia,Pain
+1827.11,1283,Pleurodynia,Pain
+1829.00,1228,Retrosternal pain,Pain
+182B.00,2519,Rib pain,Pain
+1912.00,2293,Toothache,Pain
+1922.00,3207,Sore mouth,Pain
+1922.11,15849,Sore mouth - symptom,Pain
+1923.00,7892,Sore gums,Pain
+1923.11,7283,Sore gums - symptom,Pain
+1944.00,18878,Painful swallowing,Pain
+1944.11,41885,Odynophagia,Pain
+196..00,14989,Type of GIT pain,Pain
+196..12,6395,Type of GIT pain - symptom,Pain
+1964.00,51337,Shoulder pain from abdomen,Pain
+196B.00,11718,Painful rectal bleeding,Pain
+196Z.00,44484,Type of GIT pain NOS,Pain
+197..00,25118,Site of GIT pain,Pain
+197..11,7490,Flank pain,Pain
+197..12,421,Iliac fossa pain,Pain
+197..14,6357,Subcostal pain,Pain
+1973.00,23872,Left subcostal pain,Pain
+1974.00,24821,Right subcostal pain,Pain
+1975.00,701,Left flank pain,Pain
+1976.00,3086,Right flank pain,Pain
+1977.00,1181,Right iliac fossa pain,Pain
+1978.00,2982,Left iliac fossa pain,Pain
+1979.00,7300,Suprapubic pain,Pain
+197C.00,22608,Lower abdominal pain,Pain
+197D.00,9695,Right upper quadrant pain,Pain
+197Z.00,29922,Site of GIT pain NOS,Pain
+19EC.00,8541,Painful defaecation,Pain
+1A5..00,6424,Genitourinary pain,Pain
+1A53.00,6222,Lumbar ache - renal,Pain
+1A53.11,526,C/O - loin pain,Pain
+1A53.12,5899,C/O - lumbar pain,Pain
+1A53.13,2600,C/O - renal pain,Pain
+1A54.12,7014,C/O - ureteric pain,Pain
+1A55.00,532,Dysuria,Pain
+1A56.00,19930,Strangury,Pain
+1A57.00,16078,Pain in testicle,Pain
+1A57.11,14648,Testicular pain,Pain
+1A58.00,14852,Pain in female genitalia,Pain
+1A58.11,39146,Female genital pain,Pain
+1A58000,4756,Vaginal pain,Pain
+1A58100,3000,Vulval pain,Pain
+1A58200,5673,Ovarian pain,Pain
+1A59.00,2781,C/O pelvic pain,Pain
+1A5A.00,29400,C/O perineal pain,Pain
+1A5B.00,5132,Pain in penis,Pain
+1A5C.00,2707,Pain in scrotum,Pain
+1A5D.00,8433,Urethral pain,Pain
+1A5E.00,12774,Pain in vulva,Pain
+1A5Z.00,15435,Genitourinary pain NOS,Pain
+1ABD.00,94815,Painful erection,Pain
+1AJ..00,103190,Adnexal tenderness,Pain
+1AJ0.00,104018,Adnexal tenderness absent,Pain
+1B1G.00,129,Headache,Pain
+1B1G.12,20800,Cephalgia,Pain
+1B1G000,3716,Sinus headache,Pain
+1B84.00,5783,Has eye pain,Pain
+1B84.11,5920,Pain in eye,Pain
+1BA5.11,5754,Pain in sinuses,Pain
+1BA9.00,12017,Sinus headache,Pain
+1C3..00,5813,Earache symptoms,Pain
+1C32.00,5831,Unilateral earache,Pain
+1C33.00,6657,Bilateral earache,Pain
+1C3Z.00,16508,Earache symptom NOS,Pain
+1C9..11,404,Throat soreness,Pain
+1CB3.00,386,Throat pain,Pain
+1CB3.11,7366,Pain in throat,Pain
+1D13.00,5880,C/O: a pain,Pain
+1D13.11,2048,Pain,Pain
+1D13.12,2856,C/O - an ache,Pain
+1D13000,6644,C/O - pain in toes,Pain
+1D13100,9105,C/O - pain in hallux,Pain
+1D13111,6313,C/O - pain in big toe,Pain
+1D18.00,8600,Pain from metastases,Pain
+1D19.00,44783,Pain in lymph nodes after alcohol consumption,Pain
+1DC..00,15234,Pain character,Pain
+1DC1.00,7254,Burning pain,Pain
+1DC2.00,8060,Aching pain,Pain
+1DC3.00,7056,Stabbing pain,Pain
+1DC4.00,55007,Cutting pain,Pain
+1DC5.00,17324,Griping pain,Pain
+1DC6.00,17580,Tightening pain,Pain
+1DC7.00,6112,Pricking pain,Pain
+1DC8.00,10084,Generalised pain [symptom],Pain
+1DC9.00,8599,Shooting pain,Pain
+1DCA.00,18644,Rest pain,Pain
+1DCC.00,12475,Aching muscles,Pain
+1DCD.00,110070,Splitting pain,Pain
+1DCE.00,109741,Heavy pain,Pain
+1DCF.00,110819,Gnawing pain,Pain
+1DCG.00,108998,Cramping pain,Pain
+1DCH.00,109179,Throbbing pain,Pain
+1DCJ.00,109136,Tender pain,Pain
+1DCZ.00,9728,Pain character NOS,Pain
+1L1..00,42783,Pain to call time,Pain
+1M...00,8931,Pain,Pain
+1M0..00,19687,Pain in upper limb,Pain
+1M00.00,11962,Pain in elbow,Pain
+1M00.11,11979,Elbow pain,Pain
+1M01.00,99477,Pain in wrist,Pain
+1M1..00,11609,Pain in lower limb,Pain
+1M10.00,9517,Knee pain,Pain
+1M11.00,17799,Foot pain,Pain
+1M11000,109034,Ischaemic foot pain at rest,Pain
+1M11100,109217,Ischaemic foot pain when walking,Pain
+1M12.00,10389,Anterior knee pain,Pain
+1M13.00,19322,Ankle pain,Pain
+1M2..00,42138,Pain score,Pain
+1M3..00,93398,Pain in face,Pain
+1M4..00,100639,Central post-stroke pain,Pain
+1M5..00,111307,Pattern of pain,Pain
+1M50.00,109209,Constant pain,Pain
+1M51.00,109208,Intermittent pain,Pain
+1M52.00,110496,Chronic pain,Pain
+1M6..00,1000447,Affective dimension of pain,Pain
+1M60.00,110285,Punishing with pain,Pain
+1M61.00,109887,Fearful with pain,Pain
+1M62.00,1000448,Sickening with pain,Pain
+1M63.00,1000449,Tiring with pain,Pain
+2252.00,5908,O/E - in pain,Pain
+22B6.00,16328,O/E - pain influenced posture,Pain
+25C..00,15180,O/E - abdo. pain on palpation,Pain
+25C..12,17223,O/E - iliac pain on palpation,Pain
+25C..13,19020,O/E - lumbar pain on palpation,Pain
+25C..14,17636,O/E - umbilical pain on palp.,Pain
+25C..15,5782,O/E - abdomen tender,Pain
+25C1.00,21574,O/E - no abd.pain on palpation,Pain
+25C2.00,12639,O/E - abd.pain-R.hypochondrium,Pain
+25C4.00,37101,O/E - abd.pain-L.hypochondrium,Pain
+25C5.00,36558,O/E - abd. pain - R.lumbar,Pain
+25C6.00,24627,O/E - abd. pain - umbilical,Pain
+25C7.00,25630,O/E - abd. pain - L.lumbar,Pain
+25C8.00,11647,O/E - abd. pain - R.iliac,Pain
+25C9.00,42211,O/E - abd. pain - hypogastrium,Pain
+25CA.00,21583,O/E - abd. pain - L.iliac,Pain
+25CZ.00,14916,O/E -abd.pain on palpation NOS,Pain
+25E..00,17451,O/E - rebound tenderness,Pain
+25E1.00,29991,O/E - no rebound tenderness,Pain
+25EZ.00,56091,O/E - rebound tenderness NOS,Pain
+25H9.00,92338,O/E - liver tender,Pain
+25Q8.00,17030,O/E - PR - prostate tender,Pain
+2624.00,17029,O/E - renal angle tenderness,Pain
+268B.00,24030,O/E - VE - uterine tenderness,Pain
+26BD.00,17602,Intractable breast pain,Pain
+26BF.00,9117,Persistent mastalgia,Pain
+26BG.00,10530,Unilateral mastalgia,Pain
+26BH.00,11506,Breast tenderness,Pain
+26C3.11,4496,Sore nipple,Pain
+26C3.12,17269,Painful nipple,Pain
+29E..00,6629,O/E - pain sensation,Pain
+29E1.00,40556,O/E - pain sensation normal,Pain
+29E2.00,47797,O/E - pain sensation reduced,Pain
+29E4.00,100447,On examination allodynia,Pain
+29EZ.00,39867,O/E - pain sensation NOS,Pain
+2C46.00,15814,O/E - lymph nodes tender,Pain
+2C55.00,93588,O/E - painful splenomegaly,Pain
+2D7..00,5806,O/E - painful ear,Pain
+2D73.00,15818,O/E - pain over mastoid,Pain
+2D73.11,8016,O/E - mastoid tender,Pain
+2D7Z.00,37432,O/E - painful ear NOS,Pain
+2DA2.00,6386,O/E-maxillary sinus tenderness,Pain
+2DA3.00,12759,O/E - frontal sinus tenderness,Pain
+2FN..00,8564,O/E - tenderness of skin,Pain
+2H23.11,6928,O/E - painful arc,Pain
+2I18.00,15213,O/E - tenderness/pain,Pain
+2I18.11,16546,O/E - pain,Pain
+2I18.12,5804,O/E - tenderness,Pain
+2I18000,18665,O/E - snuff box tenderness,Pain
+2I37.00,93817,O/E - sign attached to organ,Pain
+2IA..00,67672,O/E - sign painful,Pain
+2IA..11,31668,O/E - painful sign,Pain
+2IA2.00,73064,O/E - sign slightly painful,Pain
+2IA3.00,61479,O/E - sign moderately painful,Pain
+2IA4.00,73315,O/E - sign very painful,Pain
+2IAZ.00,67678,O/E - sign painful NOS,Pain
+3880000,103617,Visual analogue pain scale,Pain
+3880011,1000707,VAPS - Visual analogue pain scale,Pain
+389Q.00,109073,Pain assessment tool completed,Pain
+38GJ100,105879,EuroQol five dimension five level pain discomfort score,Pain
+38VG.00,110773,PCS - Pain Catastrophizing Scale,Pain
+38VH.00,1000818,PSEQ - Pain Self-Efficacy Questionnaire,Pain
+38VI.00,1000819,FeverPAIN Score,Pain
+66n..00,106388,Chronic pain review,Pain
+7251311,70217,Arruga string operation for detached retina,Pain
+7P21200,89917,Delivery of rehabilitation for pain syndromes,Pain
+8B3g.00,70440,Pain to thrombolysis time,Pain
+8BAA.00,6831,Pain relief,Pain
+8BAO.00,11017,Pain and symptom management,Pain
+8CC..00,28265,TLC - tender loving care,Pain
+8CMW000,105661,Low back pain clinical pathway,Pain
+8H69.00,1936,Refer to pain clinic,Pain
+8HTH.00,9682,Referral to back pain clinic,Pain
+8HVk.00,107475,Private referral to pain management service,Pain
+9N1k.00,6899,Seen in pain clinic,Pain
+9NNh.00,107428,Under care of pain management specialist,Pain
+9Ok5.00,26076,Cancer pain and symptom management,Pain
+9b8F.00,61911,Pain management (specialty),Pain
+E227700,21253,Psychogenic dyspareunia,Pain
+E278.00,40311,Psychalgia,Pain
+E278000,53766,Psychogenic pain unspecified,Pain
+E278200,45205,Psychogenic backache,Pain
+E278z00,54373,Psychalgia NOS,Pain
+Eu45400,30179,[X]Persistent somatoform pain disorder,Pain
+Eu45411,54382,[X]Psychalgia,Pain
+Eu45412,38521,[X]Psychogenic backache,Pain
+Eu45413,29329,[X]Psychogenic headache,Pain
+Eu45414,36040,[X]Somatoform pain disorder,Pain
+Eu52600,21089,[X]Nonorganic dyspareunia,Pain
+Eu52611,37089,[X]Psychogenic dyspareunia,Pain
+Eu62y11,34881,[X]Chronic pain personality syndrome,Pain
+F100200,53382,Pelizaeus-Merzbacher disease,Pain
+F173.00,10733,Shoulder-hand syndrome,Pain
+F262000,2554,Cluster headache,Pain
+F262100,33362,Horton's (histamine) neuralgia,Pain
+F262500,321,Periodic migrainous neuralgia,Pain
+F262C00,103942,Shortlast unilat neuralgifrm pain+conjunc inject+tearng synd,Pain
+F262E00,103577,Trigeminal autonomic cephalalgia,Pain
+F300.00,7584,Post-herpetic trigeminal neuralgia,Pain
+F301.00,1541,Other specified trigeminal neuralgia,Pain
+F301000,4912,Tic douloureux,Pain
+F301z00,6581,Trigeminal neuralgia NOS,Pain
+F302.00,6747,Atypical face pain,Pain
+F321.00,16932,Glossopharyngeal neuralgia,Pain
+F336000,18016,Phantom limb syndrome with pain,Pain
+F343300,110257,Entrapment of superficial branch of radial nerve,Pain
+F344.00,7915,Causalgia,Pain
+F347.00,93531,Complex regional pain syndrome type II,Pain
+F351.00,4174,Meralgia paraesthetica,Pain
+F356000,2219,Morton's metatarsalgia,Pain
+F356100,6884,Morton's neuralgia,Pain
+F369.00,105257,Complex regional pain syndrome,Pain
+F369.11,105200,Chronic regional pain syndrome,Pain
+F4Kz100,2098,Eye pain NOS,Pain
+F587.00,731,Otalgia,Pain
+F587.11,1135,Ear pain,Pain
+F587000,25171,Unspecified otalgia,Pain
+F587100,15826,Otogenic pain,Pain
+F587z00,44481,Otalgia NOS,Pain
+G73y800,10500,Erythromelalgia,Pain
+G73y811,42611,Erythralgia,Pain
+H02..11,6014,Sore throat NOS,Pain
+H1y1z15,2255,Sore nostril,Pain
+J046400,1457,Temporomandibular joint-pain-dysfunction syndrome,Pain
+J05y.11,16548,Toothache,Pain
+J085412,4300,Sore lip,Pain
+J085500,20254,Cheilodynia,Pain
+J08z200,10400,Denture stomatitis,Pain
+J08zC00,19077,Burning mouth syndrome,Pain
+J096.00,27631,Glossodynia,Pain
+J096.12,1597,Painful tongue,Pain
+J526.00,8240,Anal spasm,Pain
+J526000,1644,Proctalgia fugax,Pain
+J526z00,15281,Anal spasm NOS,Pain
+J574700,3049,Anal pain,Pain
+J574800,2767,Rectal pain,Pain
+J574F00,2866,Anorectal pain,Pain
+K151.00,11585,Chronic interstitial cystitis,Pain
+K151z00,29460,Chronic interstitial cystitis NOS,Pain
+K197100,20357,Painful haematuria,Pain
+K273.11,11906,Erection - painful,Pain
+K28y800,4733,Pain in testis,Pain
+K28y811,5966,Testicular pain,Pain
+K28z.11,1639,Pain in testis,Pain
+K317000,602,Mastodynia - pain in breast,Pain
+K317011,7401,Breast soreness,Pain
+K317600,12195,Cyclical mastalgia,Pain
+K421111,14936,Vulval sores,Pain
+K425.00,2008,Ulceration of vulva,Pain
+K425000,25721,Ulceration of vulva unspecified,Pain
+K425z00,37164,Ulceration of vulva NOS,Pain
+K42y500,29000,Vulval vestibulitis,Pain
+K42y600,100973,Vulvodynia,Pain
+K582.00,4287,Mittelschmerz - ovulation pain,Pain
+K585.00,5578,Pelvic congestion syndrome,Pain
+K585.11,1006561,Taylor's syndrome,Pain
+K58y000,16547,Other pelvic pain - female,Pain
+L463500,29535,Pain on breast feeding,Pain
+M180.12,15029,Sore bottom,Pain
+M181.12,5400,Vulva sore,Pain
+M2y1500,20359,Painful operation scar,Pain
+M2y1z11,2792,Painful scar,Pain
+M2y1z12,12156,Scar painful,Pain
+Mz...11,14827,Sore skin,Pain
+N094.00,5864,Pain in joint - arthralgia,Pain
+N094.11,6058,Ache in joint,Pain
+N094000,202,Arthralgia of unspecified site,Pain
+N094100,15842,Arthralgia of the shoulder region,Pain
+N094111,2397,Shoulder joint pain,Pain
+N094511,63664,Coxalgia,Pain
+N094512,1330,Hip joint pain,Pain
+N094611,554,Knee joint pain,Pain
+N094800,36091,Arthralgia of other specified site,Pain
+N094A00,17659,Arthralgia of shoulder,Pain
+N094F11,96084,Wrist pain,Pain
+N094K00,33407,Arthralgia of hip,Pain
+N094K11,8736,Coxalgia,Pain
+N094K12,286,Hip pain,Pain
+N094M00,6044,Arthralgia of knee,Pain
+N094S00,59586,Arthralgia of other tarsal joint,Pain
+N094W00,6166,Anterior knee pain,Pain
+N094z00,29775,Arthralgia NOS,Pain
+N096.12,8309,Musculoskeletal pain - joints,Pain
+N12..13,5476,Acute back pain - disc,Pain
+N131.00,123,Cervicalgia - pain in neck,Pain
+N131.11,35744,Pain in cervical spine,Pain
+N134.13,17112,Cervical root pain,Pain
+N138.00,96002,Cervicalgia,Pain
+N13y.00,14679,Other cervical syndromes,Pain
+N13yz00,41560,Other cervical syndromes NOS,Pain
+N141.00,4948,Pain in thoracic spine,Pain
+N141.11,5916,Acute back pain - thoracic,Pain
+N142.00,1335,Pain in lumbar spine,Pain
+N142.11,154,Low back pain,Pain
+N142.12,15109,Lumbalgia,Pain
+N142.13,5023,Acute back pain - lumbar,Pain
+N142.14,1720,Lumbago,Pain
+N143.00,313,Sciatica,Pain
+N143.11,5840,Acute back pain with sciatica,Pain
+N144011,16884,Thoracic nerve root pain,Pain
+N145.00,557,"Backache, unspecified",Pain
+N145.11,5923,Acute back pain - unspecified,Pain
+N145.12,6704,"Back pain, unspecified",Pain
+N147200,1212,Coccygodynia,Pain
+N147211,11998,Pain in coccyx,Pain
+N14z.12,18226,Spinal disorder NOS,Pain
+N1y..00,29366,Other specified disorders of vertebral column,Pain
+N1z..00,37349,Vertebral column disorder NOS,Pain
+N211011,4922,Supraspinatus syndrome,Pain
+N211300,4278,Supraspinatus tendinitis,Pain
+N211z11,552,Painful arc syndrome,Pain
+N215700,3546,Trochanteric bursitis,Pain
+N217200,1287,Metatarsalgia NOS,Pain
+N21z216,789,Supraspinatus tendonitis,Pain
+N239.11,18374,Myofascial pain syndrome,Pain
+N240000,1029,Rheumatism unspecified,Pain
+N240300,7294,Rheumatic pain,Pain
+N241000,1338,Myalgia unspecified,Pain
+N241012,5440,Muscle pain,Pain
+N241200,37418,Fibromyositis NOS,Pain
+N242.00,54992,"Neuralgia, neuritis and radiculitis unspecified",Pain
+N242000,2284,Neuralgia unspecified,Pain
+N242300,11544,Neuropathic pain,Pain
+N242z00,23839,"Neuralgia, neuritis or radiculitis NOS",Pain
+N242z11,41736,Policeman's disease,Pain
+N245.00,4544,Pain in limb,Pain
+N245.11,1258,Ankle pain,Pain
+N245.12,822,Arm pain,Pain
+N245.13,855,Foot pain,Pain
+N245.14,2025,Hand pain,Pain
+N245.15,2494,Heel pain,Pain
+N245.16,1219,Leg pain,Pain
+N245.17,198,Shoulder pain,Pain
+N245.18,1866,Thigh pain,Pain
+N245.19,3512,Pain in buttock,Pain
+N245000,6520,Hand pain,Pain
+N245011,1339,Thumb pain,Pain
+N245012,3322,Finger pain,Pain
+N245100,4627,Foot pain,Pain
+N245111,1946,Toe pain,Pain
+N245200,5780,Pain in leg,Pain
+N245300,5762,Pain in arm,Pain
+N245400,2532,Calf pain,Pain
+N245500,4419,Axillary pain,Pain
+N245600,19257,Tender heel pad,Pain
+N245700,5787,Shoulder pain,Pain
+N248000,96966,Myofascial pain syndrome,Pain
+N24z.11,29863,Polyalgia,Pain
+N321113,55857,Pseudocoxalgia,Pain
+N321700,96029,Pseudocoxalgia,Pain
+N337.00,41595,Algoneurodystrophy,Pain
+N337.11,16789,Algodystrophy,Pain
+N337.12,7197,Reflex sympathetic dystrophy,Pain
+N337111,30069,Reflex sympathetic dystrophy,Pain
+N337200,56230,Algodystrophy of hand,Pain
+N337300,57586,Algodystrophy of knee,Pain
+N337400,61889,Algodystrophy of foot,Pain
+N337z00,95745,Algoneurodystrophy NOS,Pain
+N33A.00,917,Bone pain,Pain
+N33A000,4706,Bony pelvic pain,Pain
+N33A100,1274,Clavicle pain,Pain
+N33C.00,95878,Complex regional pain syndrome type I,Pain
+Nyu7A00,94797,[X]Other dorsalgia,Pain
+R00z200,2522,"[D]Pain, generalized",Pain
+R00z211,1497,[D]General aches and pains,Pain
+R00zB00,8029,[D]Acute pain,Pain
+R00zC00,24060,[D]Chronic intractable pain,Pain
+R01z100,35624,[D]Growing pains - limbs,Pain
+R01z200,1455,[D]Musculoskeletal pain,Pain
+R020900,100185,[D]Allodynia,Pain
+R040.00,1197,[D]Headache,Pain
+R040000,3258,[D]Facial pain,Pain
+R040011,3014,[D]Face ache,Pain
+R040z00,5056,[D]Pain in head NOS,Pain
+R040z11,1286,[D]Jaw pain,Pain
+R041.00,15039,[D]Throat pain,Pain
+R041.11,21060,[D]Throat discomfort,Pain
+R065011,29490,[D] Retrosternal chest pain,Pain
+R065100,20481,[D]Precordial pain,Pain
+R065300,14819,[D]Painful respiration NOS,Pain
+R065400,18183,[D]Pleuritic pain,Pain
+R065500,24761,[D]Pleurodynia,Pain
+R065900,19199,[D]Parasternal chest pain,Pain
+R065C00,21082,[D]Retrosternal chest pain,Pain
+R073.00,14807,"[D]Flatulence, eructation and gas pain",Pain
+R073z00,41564,"[D]Flatulence, eructation and gas pain NOS",Pain
+R079.00,21618,[D] Defaecation painful,Pain
+R07A.00,3920,[D]Pain in oesophagus,Pain
+R081.00,5350,[D]Dysuria,Pain
+R081000,4498,[D]Painful urination,Pain
+R081100,45124,[D]Strangury,Pain
+R081z00,15599,[D]Dysuria NOS,Pain
+R08z.11,4704,[D]Prostadynia,Pain
+R08z100,15243,[D]Vesical pain,Pain
+R090600,4771,[D]Umbilical pain,Pain
+R090700,628,[D]Hypochondrial pain,Pain
+R090800,20475,[D]Suprapubic pain,Pain
+R090900,16806,[D]Pain in right iliac fossa,Pain
+R090A00,16868,[D]Pain in left iliac fossa,Pain
+R090B00,1336,[D]Groin pain,Pain
+R090C00,15288,[D]Loin pain,Pain
+R090G00,9920,[D]Pelvic and perineal pain,Pain
+R090G11,9811,[D] Pelvic pain,Pain
+R090G12,7248,[D] Perineal pain,Pain
+R090J00,7726,[D]Right upper quadrant pain,Pain
+R090K00,8362,[D]Left upper quadrant pain,Pain
+R090L00,9061,[D]Left lower quadrant pain,Pain
+R090M00,19360,[D]Right lower quadrant pain,Pain
+Ryu1000,50662,[X]Pain localized to other parts of lower abdomen,Pain
+Ryu4200,52859,"[X]Painful micturition, unspecified",Pain
+Ryu7000,52971,[X]Other chronic pain,Pain
+SP07300,24832,Internal prosthetic device causing pain,Pain
+SP2y200,3297,Postoperative pain,Pain
+SP2y211,5796,Post-operative pain,Pain
+SP3y600,22049,Pain at injection site,Pain
+SyuKE11,37565,[X] Pain due to internal orthopaedic prosthesis,Pain
+Z1G2111,70001,Managing pain,Pain
+Z1H..00,10902,Pain management,Pain
+Z1H..11,45921,Managing pain,Pain
+Z1H1.11,59352,Relieving pain,Pain
+Z1H1.13,48323,Giving pain relief,Pain
+Z1H1100,59367,Preventing pain,Pain
+Z1H1200,53478,Minimising pain,Pain
+Z1H2.00,42197,Pain rehabilitation,Pain
+Z1H3.00,48922,Pain management programme,Pain
+Z1H3.11,97767,PMP - Pain management programme,Pain
+Z1H5.00,1015457,Natural pain relief,Pain
+Z237200,49639,Tender scar of gravid uterus,Pain
+Z237300,91736,Tender scar of upper uterine segment,Pain
+Z237400,57545,Tender scar of lower uterine segment,Pain
+Z23AN00,38591,Painful uterine contractions,Pain
+Z714200,37634,Back pain prevention training,Pain
+Z7CM300,92389,Agnosia for pain,Pain
+ZL17.00,32539,Under care of pain management specialist,Pain
+ZL22C00,46604,Under care of pain management nurse,Pain
+ZL58.00,13670,Referral to pain management specialist,Pain
+ZL62C00,51210,Referral to pain management nurse,Pain
+ZL98.00,12160,Seen by pain management specialist,Pain
+ZLA2C00,21965,Seen by pain management nurse,Pain
+ZLD2J00,43476,Discharge by pain management specialist,Pain
+ZLD7A00,61554,Discharge by pain management nurse,Pain
+ZLEB.00,32957,Discharge from pain management service,Pain
+ZQ33.00,25200,Pain assessment,Pain
+ZR3w.00,36715,Dallas pain questionnaire,Pain
+ZRVc.00,48318,London hospital pain chart assessment,Pain
+ZRVq.00,107905,McGill pain chart questionnaire,Pain
+ZRVq.11,104907,MPQ - McGill pain chart questionnaire,Pain
+ZRVq.12,96973,McGill pain questionnaire,Pain
+ZRVq100,60138,Short form McGill pain questionnaire,Pain
+ZRVq111,1017370,SFMPQ - Short form McGill pain questionnaire,Pain
+ZRau.00,71977,Oswestry pain questionnaire,Pain
+ZRb7.00,56780,Pain coping strategies questionnaire,Pain
+ZRb7.11,49082,CSQ - Pain coping strategies questionnaire,Pain
+ZRqS111,52213,UAB pain behaviour scale,Pain
+ZRqc.00,1017490,Varni-Thompson paediatric pain questionnaire,Pain
+ZRqc.11,64532,PPQ - Varni-Thompson paediatric pain questionnaire,Pain
+ZRrA100,42084,Visual analogue pain scale,Pain
+ZRrA111,42040,VAPS - Visual analogue pain scale,Pain
+14AP.00,30712,History of ventricular tachycardia,Palpitations_tachycardia
+14AQ.00,12375,History of supraventricular tachycardia,Palpitations_tachycardia
+181..00,326,Palpitations,Palpitations_tachycardia
+181..11,20692,Awareness of heartbeat,Palpitations_tachycardia
+181..12,10469,Fluttering of heart,Palpitations_tachycardia
+1812.00,2975,Palpitations,Palpitations_tachycardia
+1813.00,29469,'Bumping' of heart,Palpitations_tachycardia
+1814.00,16170,'Fluttering' of heart,Palpitations_tachycardia
+181Z.00,15616,Palpitations NOS,Palpitations_tachycardia
+2426.00,26716,O/E - pulse rate tachycardia,Palpitations_tachycardia
+2426.11,7128,O/E - tachycardia,Palpitations_tachycardia
+321C100,111065,"",Palpitations_tachycardia
+3282.00,4924,ECG: ventricular tachycardia,Palpitations_tachycardia
+8CMWH00,108171,Palpitations care pathway,Palpitations_tachycardia
+G56y000,34326,Lown-Ganong-Levine syndrome,Palpitations_tachycardia
+G570.00,4940,Paroxysmal supraventricular tachycardia,Palpitations_tachycardia
+G570000,1297,Paroxysmal atrial tachycardia,Palpitations_tachycardia
+G570100,23647,Paroxysmal atrioventricular tachycardia,Palpitations_tachycardia
+G570200,51845,Paroxysmal junctional tachycardia,Palpitations_tachycardia
+G570300,29491,Paroxysmal nodal tachycardia,Palpitations_tachycardia
+G570z00,35124,Paroxysmal supraventricular tachycardia NOS,Palpitations_tachycardia
+G571.00,3418,Paroxysmal ventricular tachycardia,Palpitations_tachycardia
+G571.11,7794,Ventricular tachycardia,Palpitations_tachycardia
+G572.00,25266,Paroxysmal tachycardia unspecified,Palpitations_tachycardia
+G572000,60047,Essential paroxysmal tachycardia,Palpitations_tachycardia
+G572100,70366,Bouveret-Hoffmann syndrome,Palpitations_tachycardia
+G572z00,1381,Paroxysmal tachycardia NOS,Palpitations_tachycardia
+G57y700,7005,Sinus tachycardia,Palpitations_tachycardia
+G57y900,1536,Supraventricular tachycardia NOS,Palpitations_tachycardia
+R050.00,1501,"[D]Tachycardia, unspecified",Palpitations_tachycardia
+R050.11,21955,[D]Rapid heart beat,Palpitations_tachycardia
+R051.00,4789,[D]Palpitations,Palpitations_tachycardia
+R051000,2825,[D]Awareness of heart beat,Palpitations_tachycardia
+R051z00,15998,[D]Palpitations NOS,Palpitations_tachycardia
+1B41.00,6287,Has pins and needles,Paraesthesia
+1B42.00,22292,Has prickling sensation,Paraesthesia
+1B43.00,5792,Has tingling sensation,Paraesthesia
+1B44.00,5809,Has numbness,Paraesthesia
+1B44200,26370,Numbness of limbs,Paraesthesia
+29B5.00,2221,O/E - paraesthesia present,Paraesthesia
+29B5000,4812,O/E - paraesthesia in hands,Paraesthesia
+2G2D.00,104136,Numbness of hand,Paraesthesia
+R020200,1760,[D]Pricking of skin,Paraesthesia
+R020300,275,[D]Tingling of skin,Paraesthesia
+R020600,651,[D]Numbness,Paraesthesia
+R020700,2012,[D]Paraesthesia,Paraesthesia
+1736.00,6434,Paroxysmal nocturnal dyspnoea,Paroxysmal_nocturnal_dyspnoea
+171..12,9807,Sputum - symptom,Phlegm
+1713.00,7706,Productive cough -clear sputum,Phlegm
+1714.00,7773,Productive cough -green sputum,Phlegm
+1715.00,7708,Productive cough-yellow sputum,Phlegm
+1716.00,1234,Productive cough NOS,Phlegm
+1716.11,3645,Coughing up phlegm,Phlegm
+172..00,4135,Blood in sputum - haemoptysis,Phlegm
+172..11,10013,Blood in sputum - symptom,Phlegm
+172..12,1610,Haemoptysis - symptom,Phlegm
+41D4.00,8287,Sputum sample obtained,Phlegm
+4E...00,14269,Sputum examination,Phlegm
+4E...11,40202,Mucoid sputum - O/E,Phlegm
+4E...12,22449,Phlegm examination,Phlegm
+4E1..00,35577,Sputum examination - general,Phlegm
+4E11.00,30904,Sputum sent for examination,Phlegm
+4E12.00,13618,Sputum examination: normal,Phlegm
+4E13.00,16026,Sputum examination: abnormal,Phlegm
+4E14.00,31417,Sputum - not infected,Phlegm
+4E1Z.00,49029,Sputum gen. exam. NOS,Phlegm
+4E2..00,56133,Sputum inspection,Phlegm
+4E21.00,29294,Sputum appears normal,Phlegm
+4E22.00,54177,Sputum: excessive - mucoid,Phlegm
+4E23.00,24181,Sputum: mucopurulent,Phlegm
+4E24.00,64096,Sputum: contains blood,Phlegm
+4E25.00,52806,Sputum: frothy/watery,Phlegm
+4E26.00,1001559,Sputum: fetid/offensive,Phlegm
+4E27.00,42573,Clear sputum,Phlegm
+4E28.00,30754,Yellow sputum,Phlegm
+4E29.00,36880,Green sputum,Phlegm
+4E29000,107359,Dark green sputum,Phlegm
+4E29100,109879,Pale green sputum,Phlegm
+4E2A.00,14273,Sputum appearance,Phlegm
+4E2C.00,100931,Brown sputum,Phlegm
+4E2D.00,100629,White sputum,Phlegm
+4E2E.00,100484,Volume of sputum,Phlegm
+4E2E000,100647,Copious sputum,Phlegm
+4E2E011,101782,Profuse sputum,Phlegm
+4E2E100,100524,Moderate sputum,Phlegm
+4E2E200,100523,No sputum,Phlegm
+4E2E300,104860,Scanty sputum,Phlegm
+4E2F.00,103209,Grey sputum,Phlegm
+4E2G.00,102351,Bloodstained sputum,Phlegm
+4E2Z.00,61079,Sputum inspection NOS,Phlegm
+4E3..00,14272,Sputum microscopy,Phlegm
+4E31.00,40201,Sputum microscopy: NAD,Phlegm
+4E32.00,63510,Sputum: eosinophilia,Phlegm
+4E32.11,31083,Eosinophils: sputum,Phlegm
+4E35.00,55936,Sputum: blood cells present,Phlegm
+4E36.00,49144,Sputum: pus cells present,Phlegm
+4E3A.00,107664,Acid-fast bacillus sputum smear negative,Phlegm
+4E3Z.00,23252,Sputum microscopy NOS,Phlegm
+4E3Z.11,43270,Sputum evidence of infection,Phlegm
+4E3Z.12,14804,Sputum appears infected,Phlegm
+4E4..00,14271,Sputum culture,Phlegm
+4EZ..00,43272,Sputum examination NOS,Phlegm
+4JF5.00,3727,Sputum sent for C/S,Phlegm
+4KC..00,14518,Sputum cytology,Phlegm
+7459400,86765,Clearance of secretions of respiratory tract,Phlegm
+R063.00,2244,[D]Haemoptysis,Phlegm
+R063000,8239,[D]Cough with haemorrhage,Phlegm
+R063z00,33742,[D]Haemoptysis NOS,Phlegm
+R064.00,1251,[D]Abnormal sputum,Phlegm
+R064000,20086,[D]Sputum abnormal - amount,Phlegm
+R064100,15430,[D]Sputum abnormal - colour,Phlegm
+R064200,44214,[D]Sputum abnormal - odour,Phlegm
+R064300,36515,[D]Abnormal sputum - tenacious,Phlegm
+R064z00,23582,[D]Abnormal sputum NOS,Phlegm
+R153100,8760,[D]Positive culture findings in sputum,Phlegm
+F481700,1300,Photophobia,Photophobia
+164..11,16682,Thirst symptom,Polydipsia
+1644.00,4947,Excessive thirst,Polydipsia
+1644.11,2822,Polydipsia,Polydipsia
+1645.11,6803,Polydipsia,Polydipsia
+16P..00,102365,Thirst,Polydipsia
+E275700,26395,Psychogenic polydipsia,Polydipsia
+E275711,45362,Compulsive water drinking,Polydipsia
+R035.00,29397,[D]Polydipsia,Polydipsia
+R035000,7367,[D]Excessive thirst,Polydipsia
+R035z00,55961,[D]Polydipsia NOS,Polydipsia
+1A1..00,6724,Micturition frequency,Polyuria
+1A1..11,4160,Frequency of micturition,Polyuria
+1A1..12,53830,Polyuria,Polyuria
+1A1..13,729,Urinary frequency,Polyuria
+1A12.00,22278,Frequency of micturition,Polyuria
+1A13.00,840,Nocturia,Polyuria
+1A1Z.00,28490,Micturition frequency NOS,Polyuria
+1AC2.00,4103,Polyuria,Polyuria
+R084.00,23662,[D]Micturition frequency and polyuria,Polyuria
+R084000,503,"[D]Frequency of micturition, unspecified",Polyuria
+R084100,16399,[D]Polyuria,Polyuria
+R084200,5579,[D]Nocturia,Polyuria
+R084z00,63898,[D]Frequency of micturition or polyuria NOS,Polyuria
+1S1..00,26251,Flashbacks,Post_traumatic_stress_disorder
+1S10.00,91242,Short duration flashbacks,Post_traumatic_stress_disorder
+1S11.00,109918,Long duration flashbacks,Post_traumatic_stress_disorder
+1S12.00,74001,Episodic flashbacks,Post_traumatic_stress_disorder
+1S13.00,1000461,Duplicative flashbacks,Post_traumatic_stress_disorder
+E283100,24847,Acute posttrauma stress state,Post_traumatic_stress_disorder
+E29y100,32387,Other post-traumatic stress disorder,Post_traumatic_stress_disorder
+Eu43100,4171,[X]Post - traumatic stress disorder,Post_traumatic_stress_disorder
+Eu43111,32182,[X]Traumatic neurosis,Post_traumatic_stress_disorder
+Z7CG400,11267,Flashbacks,Post_traumatic_stress_disorder
+1DA2.00,68902,Symptom occurs pre-menstrually,Premenstrual_syndrome
+Eu3y200,100211,[X]Premenstrual dysphoric disorder,Premenstrual_syndrome
+K584.00,603,Premenstrual tension syndrome,Premenstrual_syndrome
+1B5..11,5800,Dizziness symptom,Presyncope_dizziness
+1B5..12,5816,Giddiness symptom,Presyncope_dizziness
+1B53.00,6262,Dizziness present,Presyncope_dizziness
+1B54.00,23332,Giddiness present,Presyncope_dizziness
+1B55.00,18564,Dizziness on standing up,Presyncope_dizziness
+1B57.00,109360,Dizziness on lying still,Presyncope_dizziness
+1B68.00,163,Felt faint,Presyncope_dizziness
+38VD.00,1000816,Dizziness Handicap Inventory,Presyncope_dizziness
+F566.00,1006106,Persistent postural perceptual dizziness,Presyncope_dizziness
+R004.00,15909,[D]Dizziness and giddiness,Presyncope_dizziness
+R004000,132,[D]Dizziness,Presyncope_dizziness
+R004100,392,[D]Giddiness,Presyncope_dizziness
+R004200,4291,[D]Light-headedness,Presyncope_dizziness
+R004z00,15493,[D]Dizziness and giddiness NOS,Presyncope_dizziness
+1456.00,15417,H/O: purpura,Purpura_rash
+15J..00,107493,Vulval rash,Purpura_rash
+1D14.00,4703,C/O: a rash,Purpura_rash
+2227.00,6337,O/E - rash present,Purpura_rash
+2227.11,1243,O/E - allergic rash,Purpura_rash
+2227.12,4277,O/E - itchy rash,Purpura_rash
+2534.11,35436,O/E - purpura in mouth,Purpura_rash
+2535.00,52372,O/E - mouth - purpuric spots,Purpura_rash
+2536.00,17197,O/E - mouth rash,Purpura_rash
+2C6..00,57543,O/E - Hess test for purpura,Purpura_rash
+2C6Z.00,99272,O/E - Hess test NOS,Purpura_rash
+2F23.00,7280,O/E - petechiae present,Purpura_rash
+2FM0.00,12190,O/E - skin red,Purpura_rash
+2FS..00,6656,Petechiae,Purpura_rash
+2FU..00,9104,O/E - erythematous rash,Purpura_rash
+2FW0.00,10014,O/E - scalp rash,Purpura_rash
+2I14.00,4083,O/E - a rash,Purpura_rash
+2I1B.00,25702,Blanching rash,Purpura_rash
+2I1C.00,18607,Non-blanching rash,Purpura_rash
+A4y1.00,51002,Enteroviral exanthematous fever,Purpura_rash
+A5...00,5894,Viral diseases with exanthem,Purpura_rash
+A57..00,15153,Other viral exanthemata,Purpura_rash
+A57y.00,43630,Other specified viral exanthemata,Purpura_rash
+A57yz00,55393,Other specified viral exanthemata NOS,Purpura_rash
+A57z.00,16088,Other viral exanthemata NOS,Purpura_rash
+A57z.11,5041,Non specific viral rash,Purpura_rash
+A5y..00,53023,Other specified viral diseases with exanthemata,Purpura_rash
+A5z..00,20967,Viral diseases with exanthemata NOS,Purpura_rash
+AA41.00,12676,Erythema chronicum migrans,Purpura_rash
+AA41.11,110767,Erythema migrans,Purpura_rash
+D3...00,9143,Clotting and bleeding disorders,Purpura_rash
+D30..00,25786,Coagulation defects,Purpura_rash
+D30..11,5981,Bleeding disorders,Purpura_rash
+D303.00,46026,Congenital deficiency of other clotting factors,Purpura_rash
+D303y00,54725,Congenital deficiency of other clotting factor OS,Purpura_rash
+D303z00,57275,Congenital deficiency of other clotting factor NOS,Purpura_rash
+D30z.00,4414,Coagulation defect NOS,Purpura_rash
+D31..00,9503,Purpura and other haemorrhagic conditions,Purpura_rash
+D310.00,16556,Allergic purpura,Purpura_rash
+D310000,1459,Henoch-Schonlein purpura,Purpura_rash
+D310011,10637,Anaphylactoid purpura,Purpura_rash
+D310012,41784,Acute vascular purpura,Purpura_rash
+D310z00,35086,Allergic purpura NOS,Purpura_rash
+D312.00,52667,Other nonthrombocytopenic purpura,Purpura_rash
+D312.11,47794,Purpura simplex,Purpura_rash
+D312.12,50180,Gardner-Diamond syndrome,Purpura_rash
+D312000,8532,Senile purpura,Purpura_rash
+D312100,8495,Purpura,Purpura_rash
+D312z00,15001,Nonthrombocytopenic purpura NOS,Purpura_rash
+D313.12,5144,Idiopathic thrombocytopenic purpura,Purpura_rash
+D313.13,71257,Idiopathic purpura,Purpura_rash
+D313000,12234,Idiopathic thrombocytopenic purpura,Purpura_rash
+D313011,21604,Idiopathic purpura,Purpura_rash
+D313012,5181,ITP - idiopathic thrombocytopenic purpura,Purpura_rash
+D31X.00,21739,"Haemorrhagic condition, unspecified",Purpura_rash
+D31y.00,47203,Other specified haemorrhagic conditions,Purpura_rash
+D31yz00,47195,Other specified haemorrhagic condition NOS,Purpura_rash
+D31z.00,16445,Haemorrhagic condition NOS,Purpura_rash
+D3y..00,42421,Other specified disorders of clotting or bleeding,Purpura_rash
+D3z..00,11061,Clotting or bleeding disorder NOS,Purpura_rash
+Dyu3.00,1005868,"[X]Coagul defects, purpura & other haemorrhagic conditions",Purpura_rash
+Dyu3000,71106,[X]Other specified coagulation defects,Purpura_rash
+Dyu3100,97714,[X]Other nonthrombocytopenic purpura,Purpura_rash
+Dyu3300,58691,[X]Other specified haemorrhagic conditions,Purpura_rash
+Dyu3400,99362,"[X]Haemorrhagic condition, unspecified",Purpura_rash
+G752000,26860,Goodpasture's syndrome,Purpura_rash
+G756000,47260,Moschcowitz syndrome,Purpura_rash
+G756100,21697,Thrombotic thrombocytopenic purpura,Purpura_rash
+G8y0.00,1819,Haemorrhage NOS,Purpura_rash
+M130000,19289,Generalized skin eruption due to drugs and medicaments,Purpura_rash
+M130100,22040,Localized skin eruption due to drugs and medicaments,Purpura_rash
+M15..00,1434,Erythematous conditions,Purpura_rash
+M151.00,2411,Erythema multiforme,Purpura_rash
+M151.11,31454,Leyell's syndrome,Purpura_rash
+M151100,58930,Erythema iris,Purpura_rash
+M151700,2392,Stevens-Johnson syndrome,Purpura_rash
+M151900,64124,Nonbullous erythema multiforme,Purpura_rash
+M151y00,70591,Other specified erythema multiforme,Purpura_rash
+M151z00,48613,Erythema multiforme NOS,Purpura_rash
+M15y.00,43147,Other specified erythematous conditions,Purpura_rash
+M15yz00,14932,Other erythematous conditions NOS,Purpura_rash
+M15z.00,14864,Erythematous conditions NOS,Purpura_rash
+M182.00,1075,Prurigo,Purpura_rash
+M182z00,20024,Prurigo NOS,Purpura_rash
+M2y0100,37737,Purpura annularis telangiectodes,Purpura_rash
+M2y4200,18610,Vesicular eruption,Purpura_rash
+M2y4211,6293,Vesicular rash,Purpura_rash
+M2y4700,35318,Black heel,Purpura_rash
+Myu2A00,69754,[X]Other prurigo,Purpura_rash
+Myu4100,62642,[X]Other erythema multiforme,Purpura_rash
+Myu4300,49258,[X]Other specified erythematous conditions,Purpura_rash
+PH3y213,25927,Bullous eruption of hand,Purpura_rash
+R021.00,472,[D]Rash and other nonspecific skin eruption,Purpura_rash
+R021000,11209,[D]Exanthem,Purpura_rash
+R021100,19451,[D]Rash on genitals,Purpura_rash
+R021z00,149,[D]Rash and other nonspecific skin eruption NOS,Purpura_rash
+R021z11,907,[D]Spots,Purpura_rash
+R027000,4166,[D]Petechiae,Purpura_rash
+Ryu2.00,95692,[X]Symptoms & signs involving the skin & subcutaneous tiss,Purpura_rash
+Ryu7300,94146,"[X]Haemorrhage, not elsewhere classified",Purpura_rash
+SH31x00,67871,Superficial burn of multiple sites of the arm,Purpura_rash
+SH51x00,72692,Superficial burn of multiple sites of the leg,Purpura_rash
+SH61.00,25698,Superficial burn of multiple specified sites,Purpura_rash
+1486.00,8299,H/O: iritis,Red_watery_eye
+1B85.00,16453,Has a red eye,Red_watery_eye
+1B85.11,6057,Red eye symptom,Red_watery_eye
+1B87.00,5756,Has watering eyes,Red_watery_eye
+1B87.11,17951,C/O - excess tears,Red_watery_eye
+1B87.12,8806,C/O - watering eyes,Red_watery_eye
+1B87.13,1460,Watery eyes,Red_watery_eye
+1B87.14,29660,Tearing eyes,Red_watery_eye
+F400200,48128,Panophthalmitis,Red_watery_eye
+F401100,21685,Panuveitis,Red_watery_eye
+F432200,10999,Posterior uveitis NOS,Red_watery_eye
+F44..12,2703,Iridocyclitis,Red_watery_eye
+F440.00,10579,Acute and subacute iridocyclitis,Red_watery_eye
+F440.11,478,Iritis - acute,Red_watery_eye
+F440000,43159,Unspecified acute iridocyclitis,Red_watery_eye
+F440100,63210,Unspecified subacute iridocyclitis,Red_watery_eye
+F440200,69723,Primary iridocyclitis,Red_watery_eye
+F440300,21163,Recurrent iridocyclitis,Red_watery_eye
+F440z00,6849,Acute or subacute iritis NOS,Red_watery_eye
+F441.00,37140,Chronic iridocyclitis,Red_watery_eye
+F441.11,17480,Chronic iritis,Red_watery_eye
+F441000,38716,Unspecified chronic iridocyclitis,Red_watery_eye
+F441200,5556,Chronic anterior uveitis,Red_watery_eye
+F441z00,64804,Chronic iridocyclitis NOS,Red_watery_eye
+F442.00,72481,Certain types of iridocyclitis,Red_watery_eye
+F442z00,91596,Certain types of cyclitis NOS,Red_watery_eye
+F443.00,14731,Unspecified iridocyclitis,Red_watery_eye
+F443.11,477,Uveitis NOS,Red_watery_eye
+F443000,2245,Anterior uveitis,Red_watery_eye
+F443100,98094,Iritis,Red_watery_eye
+F4A..00,515,Keratitis,Red_watery_eye
+F4A..11,12131,Keratoconjunctivitis,Red_watery_eye
+F4A0.00,851,Corneal ulcer,Red_watery_eye
+F4A0000,43165,Unspecified corneal ulcer,Red_watery_eye
+F4A0z00,15341,Corneal ulcer NOS,Red_watery_eye
+F4A2.00,27545,Other superficial keratitis without conjunctivitis,Red_watery_eye
+F4A2000,56042,Unspecified superficial keratitis,Red_watery_eye
+F4A2100,5176,Punctate keratitis,Red_watery_eye
+F4A2111,35815,Keratitic precipitates,Red_watery_eye
+F4A2112,6749,Thygeson's superficial punctate keratitis,Red_watery_eye
+F4A2400,45610,Macular keratitis NOS,Red_watery_eye
+F4A2z00,20305,Other superficial keratitis without conjunctivitis NOS,Red_watery_eye
+F4A3.00,24948,Specific keratoconjunctivitis,Red_watery_eye
+F4A3000,16413,Phlyctenular keratoconjunctivitis,Red_watery_eye
+F4A3z00,44620,Specific keratoconjunctivitis NOS,Red_watery_eye
+F4A4.00,44027,Other keratoconjunctivitis,Red_watery_eye
+F4A4000,3581,Unspecified keratoconjunctivitis,Red_watery_eye
+F4A4100,94899,Keratitis or keratoconjunctivitis in other exanthemata,Red_watery_eye
+F4A4z00,15686,Other keratoconjunctivitis NOS,Red_watery_eye
+F4A5000,7287,Unspecified interstitial keratitis,Red_watery_eye
+F4A5200,20491,Sclerosing keratitis,Red_watery_eye
+F4Ay.00,35193,Other forms of keratitis,Red_watery_eye
+F4Az.00,27797,Keratitis NOS,Red_watery_eye
+F4B..00,35596,Corneal opacity and other disorders of cornea,Red_watery_eye
+F4B..11,5628,Corneal disorders,Red_watery_eye
+F4B1z00,35830,Corneal pigmentation or deposit NOS,Red_watery_eye
+F4B3.00,23687,Corneal membrane changes,Red_watery_eye
+F4B3000,63471,Unspecified corneal membrane changes,Red_watery_eye
+F4B3z00,57428,Corneal membrane changes NOS,Red_watery_eye
+F4B7.00,50722,Other corneal deformities,Red_watery_eye
+F4B7000,63231,Unspecified corneal deformity,Red_watery_eye
+F4B7z00,60577,Other corneal deformities NOS,Red_watery_eye
+F4By.00,37202,Other corneal disorders,Red_watery_eye
+F4Byz00,11304,Other corneal disorders NOS,Red_watery_eye
+F4Bz.00,7641,Corneal disorder NOS,Red_watery_eye
+F4C0.00,1864,Acute conjunctivitis,Red_watery_eye
+F4C0.12,174,Conjunctivitis,Red_watery_eye
+F4C0000,15083,Unspecified acute conjunctivitis,Red_watery_eye
+F4C0011,10679,Conjunctivitis,Red_watery_eye
+F4C0200,6198,Acute follicular conjunctivitis,Red_watery_eye
+F4C0300,12595,Acute mucopurulent conjunctivitis,Red_watery_eye
+F4C0400,20060,Catarrhal conjunctivitis,Red_watery_eye
+F4C0z00,15645,Acute conjunctivitis NOS,Red_watery_eye
+F4C1.00,2398,Chronic conjunctivitis,Red_watery_eye
+F4C1000,15102,Unspecified chronic conjunctivitis,Red_watery_eye
+F4C1100,29714,Simple chronic conjunctivitis,Red_watery_eye
+F4C1200,3498,Chronic follicular conjunctivitis,Red_watery_eye
+F4C1z00,19941,Chronic conjunctivitis NOS,Red_watery_eye
+F4C2.00,2168,Blepharoconjunctivitis,Red_watery_eye
+F4C2000,38351,Unspecified blepharoconjunctivitis,Red_watery_eye
+F4C2z00,28303,Blepharoconjunctivitis NOS,Red_watery_eye
+F4C3.00,17725,Other and unspecified conjunctivitis,Red_watery_eye
+F4C3000,29375,Unspecified conjunctivitis,Red_watery_eye
+F4C3100,30398,Rosacea conjunctivitis,Red_watery_eye
+F4C3z00,10202,Other conjunctivitis NOS,Red_watery_eye
+F4C7000,15342,Hyperaemia of conjunctiva,Red_watery_eye
+F4K0.00,15996,Scleritis and episcleritis,Red_watery_eye
+F4K0.11,136,Episcleritis,Red_watery_eye
+F4K0.12,5318,Scleritis,Red_watery_eye
+F4K0000,35599,Unspecified scleritis,Red_watery_eye
+F4K0100,47820,Episcleritis periodica fugax,Red_watery_eye
+F4K0200,6783,Nodular episcleritis,Red_watery_eye
+F4K0300,40365,Anterior scleritis,Red_watery_eye
+F4K0400,40647,Scleromalacia perforans,Red_watery_eye
+F4K0500,37665,Sclerokeratitis,Red_watery_eye
+F4K0600,51523,Brawny scleritis,Red_watery_eye
+F4K0700,28123,Posterior scleritis,Red_watery_eye
+F4K0z00,44859,Scleritis or episcleritis NOS,Red_watery_eye
+F4Kz400,571,Redness of eye NOS,Red_watery_eye
+F4Kz411,1080,Red eye NOS,Red_watery_eye
+FyuC000,52111,[X]Other acute conjunctivitis,Red_watery_eye
+FyuC100,53752,[X]Other conjunctivitis,Red_watery_eye
+FyuD100,72913,[X]Other superficial keratitis without conjunctivitis,Red_watery_eye
+FyuD200,72393,[X]Other keratitis,Red_watery_eye
+FyuD600,73260,[X]Other corneal deformities,Red_watery_eye
+FyuD700,72926,[X]Other specified disorders of cornea,Red_watery_eye
+FyuDA00,101578,[X]Keratitis+keratoconjunctivitis in other diseases CE,Red_watery_eye
+FyuDC00,110971,[X]Other iridocyclitis,Red_watery_eye
+FyuDH00,1006156,[X]Iridocyclitis in other diseases classified elsewhere,Red_watery_eye
+1B27.00,11505,Seizures in response to acute event,Seizures
+1B64.11,7808,Convulsion - symptom,Seizures
+667Q.00,26618,1 to 12 seizures a year,Seizures
+667R.00,13221,2 to 4 seizures a month,Seizures
+667S.00,19549,1 to 7 seizures a week,Seizures
+667T.00,18899,Daily seizures,Seizures
+667V.00,39160,Many seizures a day,Seizures
+667Y.00,110497,Observations of measures of seizures,Seizures
+E201500,16484,Hysterical seizures,Seizures
+E201511,33702,Fit - hysterical,Seizures
+Eu44500,56966,[X]Dissociative convulsions,Seizures
+Eu44511,11354,[X]Pseudoseizures,Seizures
+F132z12,8487,Myoclonic seizure,Seizures
+F251600,5668,Grand mal seizure,Seizures
+R003.00,1137,[D]Convulsions,Seizures
+R003100,27647,"[D]Convulsions, infantile",Seizures
+R003200,11025,[D]Fit,Seizures
+R003211,6721,[D]Fit (in non epileptic) NOS,Seizures
+R003y00,25865,[D]Other specified convulsion,Seizures
+R003z00,15077,[D]Convulsion NOS,Seizures
+R003z11,1306,[D]Seizure NOS,Seizures
+Ryu7100,72608,[X]Other and unspecified convulsions,Seizures
+1ABB.00,94821,Cannot get an erection,Sexual_dysfunction
+1ABC.00,94343,Cannot sustain an erection,Sexual_dysfunction
+1D1B.00,102274,C/O erectile dysfunction,Sexual_dysfunction
+67IA.00,10648,Advice about impotence,Sexual_dysfunction
+7A6G000,37391,Revascularisation for impotence,Sexual_dysfunction
+7A6G500,41382,Ligation of penile veins for impotence,Sexual_dysfunction
+7C25B00,20833,Penile injection to produce erection,Sexual_dysfunction
+7C25E00,12867,Treatment of erectile dysfunction NEC,Sexual_dysfunction
+7C25F00,81439,Operations on penis for erectile dysfunction NEC,Sexual_dysfunction
+8BB4.00,103966,Erect dysf unresponsiv to phosphodiesterase-5 inhibitor,Sexual_dysfunction
+8HTj.00,12790,Referral to erectile dysfunction clinic,Sexual_dysfunction
+8IE8.00,102859,Referral to erectile dysfunction clinic declined,Sexual_dysfunction
+E227.00,15649,Psychosexual dysfunction,Sexual_dysfunction
+E227.11,6362,Lack of libido,Sexual_dysfunction
+E227000,23534,Unspecified psychosexual dysfunction,Sexual_dysfunction
+E227100,2259,Inhibited sexual desire,Sexual_dysfunction
+E227200,809,Frigidity,Sexual_dysfunction
+E227300,710,Impotence,Sexual_dysfunction
+E227311,3838,Erectile dysfunction,Sexual_dysfunction
+E227400,19082,Inhibited female orgasm,Sexual_dysfunction
+E227500,27816,Inhibited male orgasm,Sexual_dysfunction
+E227600,4485,Premature ejaculation,Sexual_dysfunction
+E227z00,20133,Psychosexual dysfunction NOS,Sexual_dysfunction
+E227z11,24448,Fear of ejaculation,Sexual_dysfunction
+Eu52000,28283,[X]Lack or loss of sexual desire,Sexual_dysfunction
+Eu52011,48175,[X]Frigidity,Sexual_dysfunction
+Eu52012,56603,[X]Hypoactive sexual desire disorder,Sexual_dysfunction
+Eu52013,21122,[X] Lack of libido,Sexual_dysfunction
+Eu52212,12066,[X]Male erectile disorder,Sexual_dysfunction
+Eu52213,17639,[X]Psychogenic impotence,Sexual_dysfunction
+Eu52300,18332,[X]Orgasmic dysfunction,Sexual_dysfunction
+Eu52311,34336,[X]Inhibited orgasm,Sexual_dysfunction
+Eu52312,10550,[X]Psychogenic anorgasmy,Sexual_dysfunction
+Eu52400,22599,[X]Premature ejaculation,Sexual_dysfunction
+K273.00,20025,Priapism,Sexual_dysfunction
+K27y100,17894,Impotence of organic origin,Sexual_dysfunction
+Z9E9.00,92310,Provision of device for impotence,Sexual_dysfunction
+ZG43300,12065,Advice on technique for premature ejaculation,Sexual_dysfunction
+ZG43600,40725,Advice on technique for impotence,Sexual_dysfunction
+173..00,1429,Breathlessness,Shortness_of_breath
+173..11,5175,Breathlessness symptom,Shortness_of_breath
+173..12,5896,Dyspnoea - symptom,Shortness_of_breath
+173..13,5349,Shortness of breath symptom,Shortness_of_breath
+1732.00,6326,Breathless - moderate exertion,Shortness_of_breath
+1733.00,7932,Breathless - mild exertion,Shortness_of_breath
+1734.00,31143,Breathless - at rest,Shortness_of_breath
+1738.00,2931,Difficulty breathing,Shortness_of_breath
+1739.00,4822,Shortness of breath,Shortness_of_breath
+173B.00,4836,Nocturnal cough / wheeze,Shortness_of_breath
+173C.00,2575,Short of breath on exertion,Shortness_of_breath
+173C.11,53771,Dyspnoea on exertion,Shortness_of_breath
+173C.12,12474,SOBOE,Shortness_of_breath
+173D.00,18116,Nocturnal dyspnoea,Shortness_of_breath
+173F.00,22094,Short of breath dressing/undressing,Shortness_of_breath
+173G.00,24889,Breathless - strenuous exertion,Shortness_of_breath
+173H.00,19432,MRC Breathlessness Scale: grade 1,Shortness_of_breath
+173I.00,19427,MRC Breathlessness Scale: grade 2,Shortness_of_breath
+173J.00,19426,MRC Breathlessness Scale: grade 3,Shortness_of_breath
+173K.00,19430,MRC Breathlessness Scale: grade 4,Shortness_of_breath
+173L.00,19429,MRC Breathlessness Scale: grade 5,Shortness_of_breath
+173N.00,70818,"Borg Breathlessness Score: 0.5 very, very slight",Shortness_of_breath
+173P.00,68707,Borg Breathlessness Score: 1 very slight,Shortness_of_breath
+173Q.00,57759,Borg Breathlessness Score: 2 slight,Shortness_of_breath
+173R.00,57193,Borg Breathlessness Score: 3 moderate,Shortness_of_breath
+173S.00,59860,Borg Breathlessness Score: 4 somewhat severe,Shortness_of_breath
+173T.00,64049,Borg Breathlessness Score: 5 severe,Shortness_of_breath
+173V.00,42287,Borg Breathlessness Score: 6 severe (+),Shortness_of_breath
+173W.00,70061,Borg Breathlessness Score: 7 very severe,Shortness_of_breath
+173X.00,72334,Borg Breathlessness Score: 8 very severe (+),Shortness_of_breath
+173Y.00,67566,"Borg Breathlessness Score: 9 very, very sev (almost maximal)",Shortness_of_breath
+173Z.00,21801,Breathlessness NOS,Shortness_of_breath
+173a.00,101843,Borg Breathlessness Score: 10 maximal,Shortness_of_breath
+173f.00,107410,Anxiety about breathlessness,Shortness_of_breath
+173g.00,108650,Breathlessness causing difficulty eating,Shortness_of_breath
+173j.00,1000376,Modified Medical Research Council dyspnoea scale grade 1,Shortness_of_breath
+173k.00,1000377,Modified Medical Research Council dyspnoea scale grade 2,Shortness_of_breath
+173l.00,1000378,Modified Medical Research Council dyspnoea scale grade 3,Shortness_of_breath
+173m.00,1000379,Modified Medical Research Council dyspnoea scale grade 4,Shortness_of_breath
+2322.00,7000,O/E - dyspnoea,Shortness_of_breath
+2324.00,7534,O/E - respiratory distress,Shortness_of_breath
+232A.00,17512,O/E - hyperventilating,Shortness_of_breath
+2353.00,10114,O/E - tachypnoea,Shortness_of_breath
+R060100,2100,[D]Hyperventilation,Shortness_of_breath
+R060300,820,[D]Tachypnoea,Shortness_of_breath
+R060600,2563,[D]Respiratory distress,Shortness_of_breath
+R060700,9297,[D]Respiratory insufficiency,Shortness_of_breath
+R060800,741,[D]Shortness of breath,Shortness_of_breath
+R060A00,3092,[D]Dyspnoea,Shortness_of_breath
+R060D00,735,[D]Breathlessness,Shortness_of_breath
+1C9..00,5755,Sore throat symptom,Sore_throat
+1C9..11,404,Throat soreness,Sore_throat
+1C92.00,5553,Has a sore throat,Sore_throat
+1C93.00,12489,Persistent sore throat,Sore_throat
+1C9Z.00,15287,Sore throat symptom NOS,Sore_throat
+1CB3.00,386,Throat pain,Sore_throat
+1CB3.11,7366,Pain in throat,Sore_throat
+2DC3.00,14931,Inflamed throat,Sore_throat
+A34..00,54777,Streptococcal sore throat and scarlatina,Sore_throat
+A340.00,1765,Streptococcal sore throat,Sore_throat
+A340000,24176,Streptococcal angina,Sore_throat
+A340200,4902,Streptococcal pharyngitis,Sore_throat
+A340z00,16217,Streptococcal sore throat NOS,Sore_throat
+A34z.00,16184,Streptococcal sore throat with scarlatina NOS,Sore_throat
+H00..00,3260,Acute nasopharyngitis,Sore_throat
+H02..00,893,Acute pharyngitis,Sore_throat
+H02..11,6014,Sore throat NOS,Sore_throat
+H02..12,6466,Viral sore throat NOS,Sore_throat
+H02..13,310,Throat infection - pharyngitis,Sore_throat
+H023.00,17899,Acute bacterial pharyngitis,Sore_throat
+H024.00,4868,Acute viral pharyngitis,Sore_throat
+H025.00,6274,Allergic pharyngitis,Sore_throat
+H02z.00,407,Acute pharyngitis NOS,Sore_throat
+H121.00,4324,Chronic pharyngitis,Sore_throat
+H121.11,16814,Sore throat - chronic,Sore_throat
+H121000,47426,Simple chronic pharyngitis,Sore_throat
+H121z00,14926,Chronic pharyngitis NOS,Sore_throat
+H122.00,12667,Chronic nasopharyngitis,Sore_throat
+H12z.00,54657,Chronic pharyngitis and nasopharyngitis NOS,Sore_throat
+R041.00,15039,[D]Throat pain,Sore_throat
+R041.11,21060,[D]Throat discomfort,Sore_throat
+1653.00,47246,Fever with sweating,Sweating
+166..00,9251,Sweating symptom,Sweating
+1662.00,4314,Excessive sweating,Sweating
+1662.11,7055,Hyperhidrosis symptom,Sweating
+1662.12,1740,Night sweats,Sweating
+166Z.00,23747,Sweating symptom NOS,Sweating
+2223.00,5850,O/E - sweating,Sweating
+A782.00,19939,Sweating fever,Sweating
+A782.11,70858,Miliary fever,Sweating
+R008.00,1769,[D]Hyperhidrosis,Sweating
+R008000,27347,[D]Diaphoresis,Sweating
+R008100,5109,[D]Excessive sweating,Sweating
+R008300,6967,[D]Generalized hyperhidrosis,Sweating
+R008400,96946,[D]Night sweats,Sweating
+R008z00,15070,[D]Hyperhidrosis NOS,Sweating
+1692.00,5226,Swollen glands,Swelling_of_lymph_nodes
+2C3..00,8126,O/E - lymphadenopathy,Swelling_of_lymph_nodes
+2C3..11,2391,O/E - adenopathy,Swelling_of_lymph_nodes
+2C3..12,18146,O/E - enlarged lymph nodes,Swelling_of_lymph_nodes
+2C32.00,523,O/E -cervical lymphadenopathy,Swelling_of_lymph_nodes
+2C33.00,12032,O/E-sub-mental lymphadenopathy,Swelling_of_lymph_nodes
+2C34.00,22737,O/E-supraclav.lymphadenopathy,Swelling_of_lymph_nodes
+2C35.00,3446,O/E -axillary lymphadenopathy,Swelling_of_lymph_nodes
+2C36.00,7182,O/E - inguinal lymphadenopathy,Swelling_of_lymph_nodes
+2C37.00,24116,O/E -popliteal lymphadenopathy,Swelling_of_lymph_nodes
+2C38.00,25853,O/E - post-auricular lymphadenopathy,Swelling_of_lymph_nodes
+2C3Z.00,33427,O/E - lymphadenopathy NOS,Swelling_of_lymph_nodes
+2C41.00,15740,O/E - lymph nodes firm,Swelling_of_lymph_nodes
+2C42.00,50087,O/E - lymph nodes hard,Swelling_of_lymph_nodes
+2C43.00,1000644,O/E - lymph nodes tethered,Swelling_of_lymph_nodes
+2C44.00,42517,O/E - lymph nodes discrete,Swelling_of_lymph_nodes
+2C45.00,44408,O/E - lymph nodes fluctuant,Swelling_of_lymph_nodes
+2C46.00,15814,O/E - lymph nodes tender,Swelling_of_lymph_nodes
+A788200,69766,HIV infection with persistent generalised lymphadenopathy,Swelling_of_lymph_nodes
+D411.00,4252,Chronic lymphadenitis,Swelling_of_lymph_nodes
+D413.00,1480,"Unspecified lymphadenitis, excluding mesenteric lymphadenit",Swelling_of_lymph_nodes
+Gyu8800,97483,[X]Other nonspecific lymphadenitis,Swelling_of_lymph_nodes
+M04..00,8045,Acute lymphadenitis,Swelling_of_lymph_nodes
+M04..12,4407,Acute adenitis,Swelling_of_lymph_nodes
+M04..13,8068,Acute cervical adenitis,Swelling_of_lymph_nodes
+M040.00,5111,Acute lymphadenitis of trunk,Swelling_of_lymph_nodes
+M041.00,24916,Acute lymphadenitis of upper limb,Swelling_of_lymph_nodes
+M042.00,47436,Acute lymphadenitis of lower limb,Swelling_of_lymph_nodes
+M043.00,787,"Acute lymphadenitis of face, head and neck",Swelling_of_lymph_nodes
+Myu0000,68926,[X]Acute lymphadenitis of other sites,Swelling_of_lymph_nodes
+R056.00,6273,[D]Lymph node enlargement,Swelling_of_lymph_nodes
+R056000,1496,[D]Lymphadenopathy,Swelling_of_lymph_nodes
+R056100,3181,[D]Swollen glands,Swelling_of_lymph_nodes
+R056300,17458,[D]Generalized enlarged lymph nodes,Swelling_of_lymph_nodes
+R056400,20897,[D]Localized enlarged lymph nodes,Swelling_of_lymph_nodes
+R056500,101030,[D]Reactive lymphadenopathy,Swelling_of_lymph_nodes
+R056z00,15737,[D]Lymph node enlargement NOS,Swelling_of_lymph_nodes
+R056z11,1584,[D]Adenitis NOS,Swelling_of_lymph_nodes
+R056z12,21677,[D]Enlarged submandibular lymph gland,Swelling_of_lymph_nodes
+1C2..00,9927,Tinnitus symptoms,Tinnitus
+1C22.00,3494,Buzzing in ear,Tinnitus
+1C23.00,12809,Ringing in ear,Tinnitus
+1C24.00,17555,Hissing in ear,Tinnitus
+1C25.00,38400,Roaring in ear,Tinnitus
+1C2Z.00,36213,Tinnitus symptom NOS,Tinnitus
+F583.00,338,Tinnitus,Tinnitus
+F583.11,29299,Hearing noises,Tinnitus
+F583000,44714,Unspecified tinnitus,Tinnitus
+F583100,44519,Subjective tinnitus,Tinnitus
+F583200,59173,Objective tinnitus,Tinnitus
+F583z00,33737,Tinnitus NOS,Tinnitus
+Z911200,46011,Fit tinnitus masker,Tinnitus
+ZEB..00,45977,Observation of tinnitus,Tinnitus
+1B22.00,31695,Has a tremor,Tremors
+1B22.11,5912,Tremor symptom,Tremors
+1B22.12,2778,Shaking,Tremors
+2975.00,10653,O/E - fine tremor,Tremors
+2976.00,5604,O/E - coarse tremor - flapping,Tremors
+2976.11,9411,O/E - coarse tremor,Tremors
+2976.12,25488,O/E - flapping tremor,Tremors
+2977.00,20102,O/E - intention tremor,Tremors
+297B.00,53212,O/E - tremor outstretched hands,Tremors
+F131.00,6948,Essential and other specified forms of tremor,Tremors
+F131000,3051,Benign essential tremor,Tremors
+F131100,2512,Familial tremor,Tremors
+F131z00,34349,Essential and other specified forms of tremor NOS,Tremors
+Fyu2500,59082,[X]Other specified forms of tremor,Tremors
+R010300,2508,[D]Tremor NOS,Tremors
+1593.00,15918,H/O: stress incontinence,Urinary_incontinence
+16F..00,5196,Double incontinence,Urinary_incontinence
+16F0.00,109624,Functional urinary and faecal incontinence,Urinary_incontinence
+1A22.00,659,Enuresis,Urinary_incontinence
+1A22000,2213,Nocturnal enuresis,Urinary_incontinence
+1A22011,4631,Bedwetting,Urinary_incontinence
+1A23.00,6161,Incontinence of urine,Urinary_incontinence
+1A23000,110001,Functional urinary incontinence,Urinary_incontinence
+1A24.00,1929,Stress incontinence,Urinary_incontinence
+1A24.11,5844,Stress incontinence - symptom,Urinary_incontinence
+1A26.00,3887,Urge incontinence of urine,Urinary_incontinence
+317A.00,20728,Pad test for incontinence,Urinary_incontinence
+394..11,13424,Bladder-incontinence assessmnt,Urinary_incontinence
+3940.00,13421,Bladder: incontinent,Urinary_incontinence
+8D7..12,17637,Incontinence control,Urinary_incontinence
+8D71.00,48601,Incontinence control,Urinary_incontinence
+8HTX.00,25899,Referral to incontinence clinic,Urinary_incontinence
+8HTt.00,98187,Referral to enuresis clinic,Urinary_incontinence
+9No6.00,100168,Seen in enuresis clinic,Urinary_incontinence
+E276z00,35708,Non-organic enuresis NOS,Urinary_incontinence
+K198.00,3182,Stress incontinence,Urinary_incontinence
+K586.00,17620,Stress incontinence - female,Urinary_incontinence
+Kyu5A00,52763,[X]Other specified urinary incontinence,Urinary_incontinence
+R076z00,15555,[D]Incontinence of faeces NOS,Urinary_incontinence
+R083.00,3283,[D]Incontinence of urine,Urinary_incontinence
+R083000,4375,[D]Enuresis NOS,Urinary_incontinence
+R083100,31220,[D]Urethral sphincter incontinence,Urinary_incontinence
+R083200,17320,[D] Urge incontinence,Urinary_incontinence
+R083z00,15400,[D]Incontinence of urine NOS,Urinary_incontinence
+Z9EA111,28525,Provision of enuresis alarm,Urinary_incontinence
+1A32.00,5375,Cannot pass urine - retention,Urinary_retention
+1A32.11,5994,Retention - symptom,Urinary_retention
+1A33.00,9274,Micturition stream poor,Urinary_retention
+1A34.00,25649,Hesitancy,Urinary_retention
+1A34.11,7487,Hesitancy of micturition,Urinary_retention
+1AH0.00,32867,Incomplete emptying of bladder,Urinary_retention
+1AZ3.00,12727,Difficulty with micturition,Urinary_retention
+2644.00,14755,Bladder distended,Urinary_retention
+2AE3.00,1000620,O/E-mict.refl.abn-ret+overflow,Urinary_retention
+R082.00,1052,[D]Retention of urine,Urinary_retention
+R082200,3002,[D]Acute retention of urine,Urinary_retention
+R082300,28017,[D]Chronic retention of urine,Urinary_retention
+R082400,6158,[D]Retention of urine unspecified,Urinary_retention
+R085200,73726,[D]Deficient urine secretion,Urinary_retention
+R085300,63647,[D]Suppressed urine secretion,Urinary_retention
+R086.11,28788,[D]Difficulty with micturition,Urinary_retention
+R086000,5038,[D]Slowing of urinary stream,Urinary_retention
+R086300,41605,[D]Poor urinary stream,Urinary_retention
+Ryu4000,73228,[X]Other difficulties with micturition,Urinary_retention
+1591.00,14721,H/O: recurrent vaginal disch.,Vaginal_discharge
+1A7..00,3627,Vaginal discharge symptom,Vaginal_discharge
+1A72.00,8313,Vaginal discharge present,Vaginal_discharge
+1A7Z.00,16119,Vaginal discharge NOS,Vaginal_discharge
+26A..00,449,O/E - vaginal discharge,Vaginal_discharge
+26A2.00,25866,O/E - white vag. discharge,Vaginal_discharge
+26A3.00,50107,O/E - creamy vag. discharge,Vaginal_discharge
+26A4.00,51628,O/E - yellow vag. discharge,Vaginal_discharge
+26A5.00,52978,O/E - green vag. discharge,Vaginal_discharge
+26A6.00,1170,O/E - blood stained vag. disch,Vaginal_discharge
+26A7.00,25898,O/E - frothy vag. discharge,Vaginal_discharge
+26A8.00,48025,O/E - profuse vag. discharge,Vaginal_discharge
+26A9.00,28091,O/E - offensive vag. discharge,Vaginal_discharge
+26AZ.00,14668,O/E - vaginal discharge NOS,Vaginal_discharge
+K565.00,10516,Leukorrhoea unspecified,Vaginal_discharge
+K565.12,16189,Vaginal discharge NOS,Vaginal_discharge
+1AD..00,5244,Vaginal dryness,Vaginal_dryness
+1491.12,5934,H/O: vertigo,Vertigo
+1B56.00,108088,Vertigo,Vertigo
+A78y000,16165,Epidemic vertigo,Vertigo
+F560.00,674,Meniere's disease,Vertigo
+F560000,47541,Unspecified Meniere's disease,Vertigo
+F560z00,16334,Meniere's disease NOS,Vertigo
+F561.00,14681,Other and unspecified peripheral vertigo,Vertigo
+F561000,16504,Unspecified peripheral vertigo,Vertigo
+F561100,1957,Benign paroxysmal positional vertigo or nystagmus,Vertigo
+F561200,4025,Acute vestibular neuronitis,Vertigo
+F561400,5270,Otogenic vertigo,Vertigo
+F561411,39753,Aural vertigo,Vertigo
+F561500,105212,Benign paroxysmal positional vertigo,Vertigo
+F561z00,37336,Other peripheral vertigo NOS,Vertigo
+F562.00,16214,Vertigo of central origin,Vertigo
+F562100,85190,Malignant positional vertigo,Vertigo
+F562z00,38414,Vertigo of central origin NOS,Vertigo
+F56y.00,14766,Other labyrinth disorders,Vertigo
+F56z.00,14879,Vestibular disorders and vertiginous syndromes NOS,Vertigo
+FyuQ100,97369,[X]Other peripheral vertigo,Vertigo
+FyuQ200,70650,[X]Other disorders of vestibular function,Vertigo
+R004300,1114,[D]Vertigo NOS,Vertigo
+R004400,393,[D]Acute vertigo,Vertigo
+1622.00,1018,Weight increasing,Weight_gain
+1624.00,19208,Abnormal weight gain,Weight_gain
+1628.00,102856,Pattern of weight gain,Weight_gain
+1629.00,108351,Unintentional weight gain,Weight_gain
+R031.00,6533,[D]Abnormal weight gain,Weight_gain
+1623.00,654,Weight decreasing,Weight_loss
+1625.00,4663,Abnormal weight loss,Weight_loss
+1625.11,5812,Abnormal weight loss - symptom,Weight_loss
+1627.00,102563,Unintentional weight loss,Weight_loss
+1D1A.00,12398,Complaining of weight loss,Weight_loss
+22A8.00,37937,Weight loss from baseline weight,Weight_loss
+22A9.00,104002,Percentage weight loss,Weight_loss
+22K3.00,32914,Body Mass Index low K/M2,Weight_loss
+R032.00,3647,[D]Abnormal loss of weight,Weight_loss
+R2y4.00,24068,[D]Cachexia,Weight_loss
+R2y4z00,53801,[D]Cachexia NOS,Weight_loss
+1737.00,173,Wheezing,Wheezing
+1737.11,2891,Wheezing symptom,Wheezing
+1737000,107182,Constant wheezing,Wheezing
+1737100,109042,Wheezing in absence of colds,Wheezing
+173B.00,4836,Nocturnal cough / wheeze,Wheezing
+2326.00,5861,O/E - expiratory wheeze,Wheezing
+232H.00,102480,On examination - inspiratory wheeze,Wheezing
+23B6.00,21506,O/E - breath sounds abnormal,Wheezing
+23D..12,9062,O/E - crepitations,Wheezing
+23D2.00,4626,O/E - rhonchi present,Wheezing
+23D2.12,16957,O/E - rhonchi,Wheezing
+R060900,2210,[D]Wheezing,Wheezing
+R060E00,100954,[D]Mild wheeze,Wheezing
+R060F00,101037,[D]Moderate wheeze,Wheezing
+R060G00,101073,[D]Severe wheeze,Wheezing
+R060H00,101421,[D]Very severe wheeze,Wheezing
+R067200,36426,[D]Rales,Wheezing
