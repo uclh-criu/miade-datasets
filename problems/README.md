@@ -20,6 +20,8 @@ Epic problem list entries do not include metadata attributes such as 'suspected'
 
 - negated.csv = 'Absence of XXX' terms  (otherwise they should be ignored)
 
+- problem_blacklist.txt = List of SNOMED CT concept IDs (one per row) that should not be returned to NoteReader for presentation to the user. This consists of concepts that are too vague or generic to be useful.
+
 ## Script
 
 Generate_MiADE_SNOMED_problems_cdb_v5.R = R script

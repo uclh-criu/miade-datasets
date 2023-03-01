@@ -115,6 +115,10 @@ exclude_conceptId <- sort(unique(c(suspected, in_the_past, known_absent,
 write(as.character(exclude_conceptId),
 	file = 'MiADE/exclude_concepts.txt', ncolumns = 1)
 
+# Blacklist of ignorable concepts not to present as final output 
+write(as.character(ignore),
+	file = 'MiADE/problem_blacklist.txt', ncolumns = 1)
+
 #### FUNCTIONS FOR ADDING SPECIFIC SNOMED CT SYNONYMS ####
 
 # Add acronyms for SNOMED CT disorders, findings and events
