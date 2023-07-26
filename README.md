@@ -16,4 +16,6 @@ Folders:
 - problems - datasets for MiADE problem list algorithm
 - medication_and_allergies - datasets for MiADE medications and allergies algorithms
 - sample_notes - fake clinical notes for testing
+- Vocabularies - sets of word embeddings to build medcat models with
+  - wikipedia_vocab - an open vocabluary which has been trained on a wikipeda dump, and contains no other data.
 
