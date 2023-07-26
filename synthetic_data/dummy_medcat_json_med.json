@@ -1,0 +1,56 @@
+{
+    "projects": [
+        {
+            "name": "MiADE meds dummy sample",
+            "id": 14,
+            "cuis": "",
+            "tuis": "T047,T048",
+            "documents": [
+                {
+                    "id": 3204,
+                    "name": "1687",
+                    "text": "Intolerant of potassium which gave them indigestion.",
+                    "last_modified": "2020-03-29 14:43:25.537525+00:00",
+                    "annotations": [
+                        {
+                            "id": 45580,
+                            "user": "wish",
+                            "cui": "88480006",
+                            "value": "potassium",
+                            "start": 14,
+                            "end": 23,
+                            "validated": true,
+                            "correct": true,
+                            "deleted": false,
+                            "alternative": false,
+                            "killed": false,
+                            "last_modified": "2020-04-01 22:06:34.303633+00:00",
+                            "manually_created": false,
+                            "acc": 1.0,
+                            "meta_anns": [
+                                {
+                                    "name": "substance_category",
+                                    "value": "adverse reaction",
+                                    "acc": 1.0,
+                                    "validated": true
+                                },
+                                {
+                                    "name": "allergy_type",
+                                    "value": "intolerance",
+                                    "acc": 1.0,
+                                    "validated": true
+                                },
+                                {
+                                    "name": "severity",
+                                    "value": "unspecified",
+                                    "acc": 1.0,
+                                    "validated": true
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

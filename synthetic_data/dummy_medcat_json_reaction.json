@@ -1,0 +1,44 @@
+{
+    "projects": [
+        {
+            "name": "MiADE reaction dummy sample",
+            "id": 14,
+            "cuis": "",
+            "tuis": "T047,T048",
+            "documents": [
+                {
+                    "id": 3204,
+                    "name": "1687",
+                    "text": "Intolerant of potassium which gave them indigestion.",
+                    "last_modified": "2020-03-29 14:43:25.537525+00:00",
+                    "annotations": [
+                        {
+                            "id": 45581,
+                            "user": "wish",
+                            "cui": "162031009",
+                            "value": "indigestion",
+                            "start": 40,
+                            "end": 51,
+                            "validated": true,
+                            "correct": true,
+                            "deleted": false,
+                            "alternative": false,
+                            "killed": false,
+                            "last_modified": "2020-04-01 22:06:30.394941+00:00",
+                            "manually_created": false,
+                            "acc": 1.0,
+                            "meta_anns": [
+                                {
+                                    "name": "reaction_pos",
+                                    "value": "after",
+                                    "acc": 1.0,
+                                    "validated": true
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,605 @@
+text,m,r,m_meta_category,m_meta_allergytype,m_meta_severity,r_meta_reactionpos
+severe {m egg} allergy.,102263004 |Eggs (edible) (substance),,Adverse reaction,Allergy,Severe,
+feeling {r breathless} today.,,267036007 |Dyspnea (finding),,,,Not a reaction
+allergic to {m pineapple}.,256313003 |Pineapple (substance),,Adverse reaction,Allergy,Unspecified,
+meds: {m penicillin v} 500mg qds,39359008 |Product containing phenoxymethylpenicillin (medicinal product),,Taking,Unspecified,Unspecified,
+allergies: severe {r severe depression} with {m co-tenidone}.,18037411000001106 | Co-tenidone (product),310497006 | Severe depression (disorder),Adverse reaction,Allergy,Severe,Before
+allergies: severe {r liver palms} with {m cannabidiol}.,35022511000001100 | Cannabidiol (product),248413004 | Liver palms (disorder),Adverse reaction,Allergy,Severe,Before
+allergies: severe {r oral dyspraxia} with {m dapoxetine}.,17009111000001108 | Dapoxetine (product),361275004 | Oral dyspraxia (disorder),Adverse reaction,Allergy,Severe,Before
+allergies: severe {r postcholecystectomy diarrhea} with {m pneumococcal vaccine}.,9894911000001101 | Pneumococcal vaccine (product),53156005 | Postcholecystectomy diarrhea (disorder),Adverse reaction,Allergy,Severe,Before
+allergies: severe {r ménière's disease} with {m multivitamin capsules}.,10328511000001105 | Multivitamin capsules (product),13445001 | Ménière's disease (disorder),Adverse reaction,Allergy,Severe,Before
+allergies: severe {r anxiety disorder} with {m benzathine benzylpenicillin}.,13294901000001107 | Benzathine benzylpenicillin (product),197480006 | Anxiety disorder (disorder),Adverse reaction,Allergy,Severe,Before
+allergies: severe {r onychogryposis} with {m crizanlizumab}.,39950511000001101 | Crizanlizumab (product),52897009 | Onychogryposis (disorder),Adverse reaction,Allergy,Severe,Before
+allergies: severe {r depressive disorder} with {m sodium valproate}.,10049011000001109 | Sodium valproate (product),35489007 | Depressive disorder (disorder),Adverse reaction,Allergy,Severe,Before
+allergies: severe {r dyspnea} with {m glycerol phenylbutyrate}.,34610511000001109 | Glycerol phenylbutyrate (product),267036007 | Dyspnea (finding),Adverse reaction,Allergy,Severe,Before
+allergies: severe {r cochlear hydrops} with {m fremanezumab}.,37223811000001103 | Fremanezumab (product),70831000119103 | Cochlear hydrops (disorder),Adverse reaction,Allergy,Severe,Before
+allergies: severe {r persistent vomiting} with {m guar gum}.,13297801000001106 | Guar gum (product),196746003 | Persistent vomiting (disorder),Adverse reaction,Allergy,Severe,Before
+allergies: severe {r acute cheiropodopompholyx} with {m homeopathic sulphur}.,10258411000001104 | Homeopathic sulphur (product),238550003 | Acute cheiropodopompholyx (disorder),Adverse reaction,Allergy,Severe,Before
+allergies: severe {r parotid swelling} with {m polatuzumab vedotin}.,38221711000001102 | Polatuzumab vedotin (product),271613005 | Parotid swelling (finding),Adverse reaction,Allergy,Severe,Before
+allergies: severe {r hemorrhagic gastroenteritis} with {m inotuzumab ozogamicin}.,34665611000001104 | Inotuzumab ozogamicin (product),409506009 | Hemorrhagic gastroenteritis (disorder),Adverse reaction,Allergy,Severe,Before
+allergies: severe {r rubelliform eruption} with {m grass pollen}.,10568011000001108 | Grass pollen (product),297958004 | Rubelliform eruption (disorder),Adverse reaction,Allergy,Severe,Before
+allergies: severe {r palpitations} with {m toiletries gel}.,7527211000001104 | Toiletries gel (product),80313002 | Palpitations (finding),Adverse reaction,Allergy,Severe,Before
+allergies: severe {r lipedematous alopecia} with {m emulsifying ointment}.,14608311000001101 | Emulsifying ointment (product),238923001 | Lipedematous alopecia (disorder),Adverse reaction,Allergy,Severe,Before
+allergies: severe {r waterbrash} with {m magnesium chloride}.,15531411000001106 | Magnesium chloride (product),162030005 | Waterbrash (finding),Adverse reaction,Allergy,Severe,Before
+allergies: severe {r blurred vision} with {m semaglutide}.,36491911000001102 | Semaglutide (product),240091000000105 | Blurred vision (disorder),Adverse reaction,Allergy,Severe,Before
+allergies: severe {r acid reflux} with {m measles vaccine}.,11474211000001103 | Measles vaccine (product),698065002 | Acid reflux (finding),Adverse reaction,Allergy,Severe,Before
+adverse reaction to {m arginine} (intol) - mild {r tummy ache}.,9900511000001105 | Arginine (product),271681002 |Stomach ache (finding)|,Adverse reaction,Intolerance,Mild,After
+adverse reaction to {m susoctocog alfa} (intolerance) - mild {r tummy ache}.,32687311000001105 | Susoctocog alfa (product),271681002 |Stomach ache (finding)|,Adverse reaction,Intolerance,Mild,After
+adverse reaction to {m inclisiran} (intol) - mild {r tummy ache}.,39494511000001103 | Inclisiran (product),271681002 |Stomach ache (finding)|,Adverse reaction,Intolerance,Mild,After
+adverse reaction to {m potassium hydroxide} (intol) - mild {r tummy ache}.,22554111000001100 | Potassium hydroxide (product),271681002 |Stomach ache (finding)|,Adverse reaction,Intolerance,Mild,After
+adverse reaction to {m multinutrient tablets} (intol) - mild {r tummy ache}.,7525511000001105 | Multinutrient tablets (product),271681002 |Stomach ache (finding)|,Adverse reaction,Intolerance,Mild,After
+adverse reaction to {m lipoic acid} (intolerance) - mild {r tummy ache}.,10820011000001102 | Lipoic acid (product),271681002 |Stomach ache (finding)|,Adverse reaction,Intolerance,Mild,After
+adverse reaction to {m cenegermin} (intolerance) - mild {r tummy ache}.,34813411000001105 | Cenegermin (product),271681002 |Stomach ache (finding)|,Adverse reaction,Intolerance,Mild,After
+adverse reaction to {m eucalyptus oil} (intolerance) - mild {r tummy ache}.,427403004 | Eucalyptus oil (product),271681002 |Stomach ache (finding)|,Adverse reaction,Intolerance,Mild,After
+adverse reaction to {m dried yeast} (intolerance) - mild {r tummy ache}.,10569311000001100 | Dried yeast (product),271681002 |Stomach ache (finding)|,Adverse reaction,Intolerance,Mild,After
+adverse reaction to {m pine mistletoe} (intolerance) - mild {r tummy ache}.,11466811000001104 | Pine mistletoe (product),271681002 |Stomach ache (finding)|,Adverse reaction,Intolerance,Mild,After
+adverse reaction to {m neratinib} (intolerance) - mild {r tummy ache}.,37873311000001102 | Neratinib (product),271681002 |Stomach ache (finding)|,Adverse reaction,Intolerance,Mild,After
+adverse reaction to {m lactoperoxidase} (intol) - mild {r tummy ache}.,13644411000001108 | Lactoperoxidase (product),271681002 |Stomach ache (finding)|,Adverse reaction,Intolerance,Mild,After
+adverse reaction to {m zinc hyaluronate} (intol) - mild {r tummy ache}.,34247111000001106 | Zinc hyaluronate (product),271681002 |Stomach ache (finding)|,Adverse reaction,Intolerance,Mild,After
+adverse reaction to {m risedronate sodium} (intol) - mild {r tummy ache}.,36411811000001108 | Risedronate sodium (product),271681002 |Stomach ache (finding)|,Adverse reaction,Intolerance,Mild,After
+adverse reaction to {m hydrocortisone powder} (intolerance) - mild {r tummy ache}.,4317011000001107 | Hydrocortisone powder (product),271681002 |Stomach ache (finding)|,Adverse reaction,Intolerance,Mild,After
+adverse reaction to {m emulsifying ointment} (intolerance) - mild {r tummy ache}.,14608311000001101 | Emulsifying ointment (product),271681002 |Stomach ache (finding)|,Adverse reaction,Intolerance,Mild,After
+adverse reaction to {m avelumab} (intol) - mild {r tummy ache}.,34881111000001104 | Avelumab (product),271681002 |Stomach ache (finding)|,Adverse reaction,Intolerance,Mild,After
+adverse reaction to {m lusutrombopag} (intolerance) - mild {r tummy ache}.,37930811000001108 | Lusutrombopag (product),271681002 |Stomach ache (finding)|,Adverse reaction,Intolerance,Mild,After
+adverse reaction to {m diphencyprone} (intol) - mild {r tummy ache}.,14935411000001109 | Diphencyprone (product),271681002 |Stomach ache (finding)|,Adverse reaction,Intolerance,Mild,After
+adverse reaction to {m herbal cream} (intolerance) - mild {r tummy ache}.,7991911000001103 | Herbal cream (product),271681002 |Stomach ache (finding)|,Adverse reaction,Intolerance,Mild,After
+intolerant of {m larotrectinib} (moderate {r diarrhoea}).,37751311000001103 | Larotrectinib (product),62315008 |Diarrhea (finding)|,Adverse reaction,Intolerance,Moderate,After
+intolerant of {m nalmefene} (moderate {r diarrhoea}).,22404211000001106 | Nalmefene (product),62315008 |Diarrhea (finding)|,Adverse reaction,Intolerance,Moderate,After
+intolerant of {m sodium valproate} (moderate {r diarrhoea}).,10049011000001109 | Sodium valproate (product),62315008 |Diarrhea (finding)|,Adverse reaction,Intolerance,Moderate,After
+intolerant of {m solriamfetol} (moderate {r diarrhoea}).,38925811000001107 | Solriamfetol (product),62315008 |Diarrhea (finding)|,Adverse reaction,Intolerance,Moderate,After
+intolerant of {m idarucizumab} (moderate {r diarrhoea}).,31140111000001101 | Idarucizumab (product),62315008 |Diarrhea (finding)|,Adverse reaction,Intolerance,Moderate,After
+intolerant of {m apalutamide} (moderate {r diarrhoea}).,36792611000001105 | Apalutamide (product),62315008 |Diarrhea (finding)|,Adverse reaction,Intolerance,Moderate,After
+intolerant of {m raspberry syrup} (moderate {r diarrhoea}).,5212011000001106 | Raspberry syrup (product),62315008 |Diarrhea (finding)|,Adverse reaction,Intolerance,Moderate,After
+intolerant of {m formaldehyde solution} (moderate {r diarrhoea}).,5174211000001102 | Formaldehyde solution (product),62315008 |Diarrhea (finding)|,Adverse reaction,Intolerance,Moderate,After
+intolerant of {m didecyldimethylammonium chloride} (moderate {r diarrhoea}).,19447211000001102 | Didecyldimethylammonium chloride (product),62315008 |Diarrhea (finding)|,Adverse reaction,Intolerance,Moderate,After
+intolerant of {m catridecacog} (moderate {r diarrhoea}).,38078511000001109 | Catridecacog (product),62315008 |Diarrhea (finding)|,Adverse reaction,Intolerance,Moderate,After
+intolerant of {m typhoid vaccine} (moderate {r diarrhoea}).,9895511000001109 | Typhoid vaccine (product),62315008 |Diarrhea (finding)|,Adverse reaction,Intolerance,Moderate,After
+intolerant of {m sodium phenylbutyrate} (moderate {r diarrhoea}).,230391000001105 | Sodium phenylbutyrate (product),62315008 |Diarrhea (finding)|,Adverse reaction,Intolerance,Moderate,After
+intolerant of {m mycophenolate mofetil} (moderate {r diarrhoea}).,230381000001108 | Mycophenolate mofetil (product),62315008 |Diarrhea (finding)|,Adverse reaction,Intolerance,Moderate,After
+intolerant of {m axicabtagene ciloleucel} (moderate {r diarrhoea}).,36461111000001102 | Axicabtagene ciloleucel (product),62315008 |Diarrhea (finding)|,Adverse reaction,Intolerance,Moderate,After
+intolerant of {m pneumococcal vaccine} (moderate {r diarrhoea}).,9894911000001101 | Pneumococcal vaccine (product),62315008 |Diarrhea (finding)|,Adverse reaction,Intolerance,Moderate,After
+intolerant of {m wheat dextrin} (moderate {r diarrhoea}).,11788811000001107 | Wheat dextrin (product),62315008 |Diarrhea (finding)|,Adverse reaction,Intolerance,Moderate,After
+intolerant of {m fremanezumab} (moderate {r diarrhoea}).,37223811000001103 | Fremanezumab (product),62315008 |Diarrhea (finding)|,Adverse reaction,Intolerance,Moderate,After
+intolerant of {m garlic capsules} (moderate {r diarrhoea}).,7567211000001107 | Garlic capsules (product),62315008 |Diarrhea (finding)|,Adverse reaction,Intolerance,Moderate,After
+intolerant of {m hexaminolevulinate} (moderate {r diarrhoea}).,11390111000001102 | Hexaminolevulinate (product),62315008 |Diarrhea (finding)|,Adverse reaction,Intolerance,Moderate,After
+intolerant of {m colestilan} (moderate {r diarrhoea}).,23557511000001107 | Colestilan (product),62315008 |Diarrhea (finding)|,Adverse reaction,Intolerance,Moderate,After
+allergies: {m benzalkonium chloride} ({r anaphylaxis}),64686009 | Benzalkonium chloride (substance),39579001 |Anaphylaxis (disorder)|,Adverse reaction,Allergy,Severe,After
+allergies: {m copper compound} ({r anaphylaxis}),43268001 | Copper compound (substance),39579001 |Anaphylaxis (disorder)|,Adverse reaction,Allergy,Severe,After
+allergies: {m 4-hydroxybenzoate nonaprenyltransferase} ({r anaphylaxis}),130402001 | 4-hydroxybenzoate nonaprenyltransferase (substance),39579001 |Anaphylaxis (disorder)|,Adverse reaction,Allergy,Severe,After
+allergies: {m fuel oil} ({r anaphylaxis}),224763009 | Fuel oil (substance),39579001 |Anaphylaxis (disorder)|,Adverse reaction,Allergy,Severe,After
+allergies: {m captodiamine} ({r anaphylaxis}),4025009 | Captodiamine (substance),39579001 |Anaphylaxis (disorder)|,Adverse reaction,Allergy,Severe,After
+allergies: {m porcine heparin} ({r anaphylaxis}),412201008 | Porcine heparin (substance),39579001 |Anaphylaxis (disorder)|,Adverse reaction,Allergy,Severe,After
+allergies: {m aminosalicylate sodium} ({r anaphylaxis}),20231007 | Aminosalicylate sodium (substance),39579001 |Anaphylaxis (disorder)|,Adverse reaction,Allergy,Severe,After
+allergies: {m malt} ({r anaphylaxis}),710180001 | Malt (substance),39579001 |Anaphylaxis (disorder)|,Adverse reaction,Allergy,Severe,After
+allergies: {m inseparable antibody} ({r anaphylaxis}),65479000 | Inseparable antibody (substance),39579001 |Anaphylaxis (disorder)|,Adverse reaction,Allergy,Severe,After
+allergies: {m bentoquatam} ({r anaphylaxis}),412057007 | Bentoquatam (substance),39579001 |Anaphylaxis (disorder)|,Adverse reaction,Allergy,Severe,After
+allergies: {m calcium radioisotope} ({r anaphylaxis}),33137005 | Calcium radioisotope (substance),39579001 |Anaphylaxis (disorder)|,Adverse reaction,Allergy,Severe,After
+allergies: {m betanidine} ({r anaphylaxis}),418981008 | Betanidine (substance),39579001 |Anaphylaxis (disorder)|,Adverse reaction,Allergy,Severe,After
+allergies: {m maxatase} ({r anaphylaxis}),711141000 | Maxatase (substance),39579001 |Anaphylaxis (disorder)|,Adverse reaction,Allergy,Severe,After
+allergies: {m n-acetyl-beta-glucosaminidase} ({r anaphylaxis}),75982004 | N-Acetyl-beta-glucosaminidase (substance),39579001 |Anaphylaxis (disorder)|,Adverse reaction,Allergy,Severe,After
+allergies: {m titanium fumes} ({r anaphylaxis}),255745000 | Titanium fumes (substance),39579001 |Anaphylaxis (disorder)|,Adverse reaction,Allergy,Severe,After
+allergies: {m hemoglobin suan-dok} ({r anaphylaxis}),12465003 | Hemoglobin Suan-Dok (substance),39579001 |Anaphylaxis (disorder)|,Adverse reaction,Allergy,Severe,After
+allergies: {m gadoxetate disodium} ({r anaphylaxis}),440223009 | Gadoxetate disodium (substance),39579001 |Anaphylaxis (disorder)|,Adverse reaction,Allergy,Severe,After
+allergies: {m pamidronate monosodium} ({r anaphylaxis}),765348007 | Pamidronate monosodium (substance),39579001 |Anaphylaxis (disorder)|,Adverse reaction,Allergy,Severe,After
+allergies: {m fosphenytoin sodium} ({r anaphylaxis}),386843000 | Fosphenytoin sodium (substance),39579001 |Anaphylaxis (disorder)|,Adverse reaction,Allergy,Severe,After
+allergies: {m phytochrome} ({r anaphylaxis}),50068000 | Phytochrome (substance),39579001 |Anaphylaxis (disorder)|,Adverse reaction,Allergy,Severe,After
+intolerant of {m pridinol} which gave them {r indigestion}.,39045411000001102 | Pridinol (product),162031009 |Indigestion (finding)|,Adverse reaction,Intolerance,Unspecified,After
+intolerant of {m corticotropin} which gave him {r indigestion}.,36412111000001106 | Corticotropin (product),162031009 |Indigestion (finding)|,Adverse reaction,Intolerance,Unspecified,After
+intolerant of {m lithium chloride} which gave them {r indigestion}.,24662111000001101 | Lithium chloride (product),162031009 |Indigestion (finding)|,Adverse reaction,Intolerance,Unspecified,After
+intolerant of {m histamine} which gave him {r indigestion}.,17234811000001104 | Histamine (product),162031009 |Indigestion (finding)|,Adverse reaction,Intolerance,Unspecified,After
+intolerant of {m sotrovimab} which gave him {r indigestion}.,40384311000001103 | Sotrovimab (product),162031009 |Indigestion (finding)|,Adverse reaction,Intolerance,Unspecified,After
+intolerant of {m l-arginine powder} which caused him {r indigestion}.,328570003 | L-Arginine powder (product),162031009 |Indigestion (finding)|,Adverse reaction,Intolerance,Unspecified,After
+intolerant of {m ceftobiprole} which gave them {r indigestion}.,31009711000001109 | Ceftobiprole (product),162031009 |Indigestion (finding)|,Adverse reaction,Intolerance,Unspecified,After
+intolerant of {m larotrectinib} which caused her {r indigestion}.,37751311000001103 | Larotrectinib (product),162031009 |Indigestion (finding)|,Adverse reaction,Intolerance,Unspecified,After
+intolerant of {m homeopathic graphites} which gave her {r indigestion}.,9877111000001101 | Homeopathic graphites (product),162031009 |Indigestion (finding)|,Adverse reaction,Intolerance,Unspecified,After
+intolerant of {m selumetinib} which gave him {r indigestion}.,40125911000001101 | Selumetinib (product),162031009 |Indigestion (finding)|,Adverse reaction,Intolerance,Unspecified,After
+intolerant of {m glucose liquid} which gave him {r indigestion}.,39495011000001105 | Glucose liquid (product),162031009 |Indigestion (finding)|,Adverse reaction,Intolerance,Unspecified,After
+intolerant of {m thymol crystals} which gave them {r indigestion}.,5241911000001109 | Thymol crystals (product),162031009 |Indigestion (finding)|,Adverse reaction,Intolerance,Unspecified,After
+intolerant of {m tildrakizumab} which caused him {r indigestion}.,36440811000001106 | Tildrakizumab (product),162031009 |Indigestion (finding)|,Adverse reaction,Intolerance,Unspecified,After
+intolerant of {m methylnaltrexone bromide} which caused him {r indigestion}.,13807711000001105 | Methylnaltrexone bromide (product),162031009 |Indigestion (finding)|,Adverse reaction,Intolerance,Unspecified,After
+intolerant of {m alectinib} which gave him {r indigestion}.,34215011000001109 | Alectinib (product),162031009 |Indigestion (finding)|,Adverse reaction,Intolerance,Unspecified,After
+intolerant of {m typhoid vaccine} which gave them {r indigestion}.,9895511000001109 | Typhoid vaccine (product),162031009 |Indigestion (finding)|,Adverse reaction,Intolerance,Unspecified,After
+intolerant of {m co-beneldopa} which caused them {r indigestion}.,18036811000001106 | Co-beneldopa (product),162031009 |Indigestion (finding)|,Adverse reaction,Intolerance,Unspecified,After
+intolerant of {m citronella oil} which gave him {r indigestion}.,10640811000001101 | Citronella oil (product),162031009 |Indigestion (finding)|,Adverse reaction,Intolerance,Unspecified,After
+intolerant of {m hamamelis water} which caused him {r indigestion}.,5279411000001101 | Hamamelis water (product),162031009 |Indigestion (finding)|,Adverse reaction,Intolerance,Unspecified,After
+intolerant of {m creatine} which gave him {r indigestion}.,27945611000001103 | Creatine (product),162031009 |Indigestion (finding)|,Adverse reaction,Intolerance,Unspecified,After
+intolerant of {m larvae sterile} (severe {r nausea and vomiting}).,9003511000001109 | Larvae sterile (product),16932000 |Nausea and vomiting (disorder)|,Adverse reaction,Intolerance,Severe,After
+intolerant of {m catridecacog} (severe {r nausea and vomiting}).,38078511000001109 | Catridecacog (product),16932000 |Nausea and vomiting (disorder)|,Adverse reaction,Intolerance,Severe,After
+intolerant of {m fremanezumab} (severe {r nausea and vomiting}).,37223811000001103 | Fremanezumab (product),16932000 |Nausea and vomiting (disorder)|,Adverse reaction,Intolerance,Severe,After
+intolerant of {m belladonna tincture} (severe {r nausea and vomiting}).,5146011000001101 | Belladonna tincture (product),16932000 |Nausea and vomiting (disorder)|,Adverse reaction,Intolerance,Severe,After
+intolerant of {m amifampridine} (severe {r nausea and vomiting}).,72181000001101 | Amifampridine (product),16932000 |Nausea and vomiting (disorder)|,Adverse reaction,Intolerance,Severe,After
+intolerant of {m bezlotoxumab} (severe {r nausea and vomiting}).,34543511000001101 | Bezlotoxumab (product),16932000 |Nausea and vomiting (disorder)|,Adverse reaction,Intolerance,Severe,After
+intolerant of {m homeopathic graphites} (severe {r nausea and vomiting}).,9877111000001101 | Homeopathic graphites (product),16932000 |Nausea and vomiting (disorder)|,Adverse reaction,Intolerance,Severe,After
+intolerant of {m cranberry} (severe {r nausea and vomiting}).,13295601000001104 | Cranberry (product),16932000 |Nausea and vomiting (disorder)|,Adverse reaction,Intolerance,Severe,After
+intolerant of {m flutrimazole} (severe {r nausea and vomiting}).,18041211000001103 | Flutrimazole (product),16932000 |Nausea and vomiting (disorder)|,Adverse reaction,Intolerance,Severe,After
+intolerant of {m diphencyprone} (severe {r nausea and vomiting}).,14935411000001109 | Diphencyprone (product),16932000 |Nausea and vomiting (disorder)|,Adverse reaction,Intolerance,Severe,After
+intolerant of {m tetanus vaccine} (severe {r nausea and vomiting}).,9895311000001103 | Tetanus vaccine (product),16932000 |Nausea and vomiting (disorder)|,Adverse reaction,Intolerance,Severe,After
+intolerant of {m frovatriptan} (severe {r nausea and vomiting}).,36408211000001100 | Frovatriptan (product),16932000 |Nausea and vomiting (disorder)|,Adverse reaction,Intolerance,Severe,After
+intolerant of {m dl-methionine} (severe {r nausea and vomiting}).,23965611000001103 | DL-Methionine (product),16932000 |Nausea and vomiting (disorder)|,Adverse reaction,Intolerance,Severe,After
+intolerant of {m varicella vaccine} (severe {r nausea and vomiting}).,9895611000001108 | Varicella vaccine (product),16932000 |Nausea and vomiting (disorder)|,Adverse reaction,Intolerance,Severe,After
+intolerant of {m magnesium lactate} (severe {r nausea and vomiting}).,22122611000001109 | Magnesium lactate (product),16932000 |Nausea and vomiting (disorder)|,Adverse reaction,Intolerance,Severe,After
+intolerant of {m eluxadoline} (severe {r nausea and vomiting}).,34576311000001104 | Eluxadoline (product),16932000 |Nausea and vomiting (disorder)|,Adverse reaction,Intolerance,Severe,After
+intolerant of {m thymol crystals} (severe {r nausea and vomiting}).,5241911000001109 | Thymol crystals (product),16932000 |Nausea and vomiting (disorder)|,Adverse reaction,Intolerance,Severe,After
+intolerant of {m fructose powder} (severe {r nausea and vomiting}).,39713511000001106 | Fructose powder (product),16932000 |Nausea and vomiting (disorder)|,Adverse reaction,Intolerance,Severe,After
+intolerant of {m dabigatran etexilate} (severe {r nausea and vomiting}).,13568411000001103 | Dabigatran etexilate (product),16932000 |Nausea and vomiting (disorder)|,Adverse reaction,Intolerance,Severe,After
+intolerant of {m apple mistletoe} (severe {r nausea and vomiting}).,11466011000001105 | Apple mistletoe (product),16932000 |Nausea and vomiting (disorder)|,Adverse reaction,Intolerance,Severe,After
+allergic {m crufomate},1148829005 | Crufomate (substance),,Adverse reaction,Allergy,Unspecified,
+allerg : {m cholecystokinin receptor},26012000 | Cholecystokinin receptor (substance),,Adverse reaction,Allergy,Unspecified,
+allergic to- {m resistin},415292004 | Resistin (substance),,Adverse reaction,Allergy,Unspecified,
+allergy to:- {m nitroaniline},20296004 | Nitroaniline (substance),,Adverse reaction,Allergy,Unspecified,
+allergy to: {m turkey feathers},260166004 | Turkey feathers (substance),,Adverse reaction,Allergy,Unspecified,
+allergic to {m phosphoramidate-hexose phosphotransferase},47619009 | Phosphoramidate-hexose phosphotransferase (substance),,Adverse reaction,Allergy,Unspecified,
+"allerg : {m 1,2-epoxybutane}","259183002 | 1,2-epoxybutane (substance)",,Adverse reaction,Allergy,Unspecified,
+allergic - {m 11-oxycorticosteroid},103036003 | 11-oxycorticosteroid (substance),,Adverse reaction,Allergy,Unspecified,
+allerg to: {m noxious fumes},69526002 | Noxious fumes (substance),,Adverse reaction,Allergy,Unspecified,
+allerg : {m benzalkonium chloride},64686009 | Benzalkonium chloride (substance),,Adverse reaction,Allergy,Unspecified,
+allergy to: {m crotin},29461009 | Crotin (substance),,Adverse reaction,Allergy,Unspecified,
+allergic {m cortivazol},715389007 | Cortivazol (substance),,Adverse reaction,Allergy,Unspecified,
+allerg : {m endorphin receptor},44924004 | Endorphin receptor (substance),,Adverse reaction,Allergy,Unspecified,
+allerg to: {m potassium},88480006 | Potassium (substance),,Adverse reaction,Allergy,Unspecified,
+allerg : {m promethazine hydrochloride},9723911000001106 | Promethazine hydrochloride (product),,Adverse reaction,Allergy,Unspecified,
+allerg : {m difructose-anhydride synthase},130558007 | Difructose-anhydride synthase (substance),,Adverse reaction,Allergy,Unspecified,
+allerg : {m sodium-n-methyl dithiocarbamate},16927001 | Sodium-n-methyl dithiocarbamate (substance),,Adverse reaction,Allergy,Unspecified,
+allergy to- {m reserpine},387447004 | Reserpine (substance),,Adverse reaction,Allergy,Unspecified,
+allergy :- {m dexmethylphenidate hydrochloride},385555005 | Dexmethylphenidate hydrochloride (substance),,Adverse reaction,Allergy,Unspecified,
+allergies {m pemphigus antibody},259901002 | Pemphigus antibody (substance),,Adverse reaction,Allergy,Unspecified,
+they are allergic to {m aminoacyl-histidine dipeptidase},16480006 | Aminoacyl-histidine dipeptidase (substance),,Adverse reaction,Allergy,Unspecified,
+pat are allergic to {m pomfret},735052005 | Pomfret (substance),,Adverse reaction,Allergy,Unspecified,
+he has allergy to {m hemoglobin f-lodz},112181001 | Hemoglobin F-Lodz (substance),,Adverse reaction,Allergy,Unspecified,
+she is allergic to {m 3-hydroxyglutarate},115362009 | 3-hydroxyglutarate (substance),,Adverse reaction,Allergy,Unspecified,
+pat are allergic to {m eosinophil myeloperoxidase},259875006 | Eosinophil myeloperoxidase (substance),,Adverse reaction,Allergy,Unspecified,
+pat has allergy to {m sucroferric oxyhydroxide},28453911000001100 | Sucroferric oxyhydroxide (product),,Adverse reaction,Allergy,Unspecified,
+they is allergic to {m quercetin-3-sulfate 4'-sulfotransferase},130472000 | Quercetin-3-sulfate 4'-sulfotransferase (substance),,Adverse reaction,Allergy,Unspecified,
+pat has allergy to {m natural gas},2698003 | Natural gas (substance),,Adverse reaction,Allergy,Unspecified,
+pt are allergic to {m artemether},420578008 | Artemether (substance),,Adverse reaction,Allergy,Unspecified,
+pt has allergy to {m extracellular material},43314008 | Extracellular material (substance),,Adverse reaction,Allergy,Unspecified,
+they are allergic to {m purine nucleotide},304081006 | Purine nucleotide (substance),,Adverse reaction,Allergy,Unspecified,
+they has allergy to {m insect protein},710942001 | Insect protein (substance),,Adverse reaction,Allergy,Unspecified,
+they is allergic to {m arsenic compound},23217006 | Arsenic compound (substance),,Adverse reaction,Allergy,Unspecified,
+he is allergic to {m catechin},423247009 | Catechin (substance),,Adverse reaction,Allergy,Unspecified,
+he are allergic to {m dimethyl carbamate},33780005 | Dimethyl carbamate (substance),,Adverse reaction,Allergy,Unspecified,
+patient are allergic to {m ardeparin sodium},108990006 | Ardeparin sodium (substance),,Adverse reaction,Allergy,Unspecified,
+they are allergic to {m phosphorus compound},63793008 | Phosphorus compound (substance),,Adverse reaction,Allergy,Unspecified,
+she is allergic to {m colloid sulfur},25818006 | Colloid sulfur (substance),,Adverse reaction,Allergy,Unspecified,
+they are allergic to {m phenindamine tartrate},720960000 | Phenindamine tartrate (substance),,Adverse reaction,Allergy,Unspecified,
+pt is allergic to {m hirudin},414407009 | Hirudin (substance),,Adverse reaction,Allergy,Unspecified,
+they are intolerant of {m oxolamine},703553006 | Oxolamine (substance),,Adverse reaction,Intolerance,Unspecified,
+patient is intolerant of {m atrolysin e},130722003 | Atrolysin E (substance),,Adverse reaction,Intolerance,Unspecified,
+pt are intolerant of {m transformiminase},130071001 | Transformiminase (substance),,Adverse reaction,Intolerance,Unspecified,
+pat has intolerance to {m d-tryptophan n-acetyltransferase},112025009 | D-tryptophan N-acetyltransferase (substance),,Adverse reaction,Intolerance,Unspecified,
+he has intolerance of {m isoetarine},66004009 | Isoetarine (substance),,Adverse reaction,Intolerance,Unspecified,
+pat is intolerant to {m hemoglobin f-texas-i},63707003 | Hemoglobin F-Texas-I (substance),,Adverse reaction,Intolerance,Unspecified,
+patient are intolerant to {m hemoglobin beograd},79098003 | Hemoglobin Beograd (substance),,Adverse reaction,Intolerance,Unspecified,
+she is intolerant to {m tungsten-181},54804009 | Tungsten-181 (substance),,Adverse reaction,Intolerance,Unspecified,
+pat has intolerance of {m fucosidase},304269004 | Fucosidase (substance),,Adverse reaction,Intolerance,Unspecified,
+patient are intolerant to {m boiled potato},227279001 | Boiled potato (substance),,Adverse reaction,Intolerance,Unspecified,
+pat are intolerant of {m bee pollen},412583005 | Bee pollen (substance),,Adverse reaction,Intolerance,Unspecified,
+she has intolerance of {m 11-beta-hydroxysteroid dehydrogenase},46445002 | 11-beta-hydroxysteroid dehydrogenase (substance),,Adverse reaction,Intolerance,Unspecified,
+pt are intolerant to {m myocutaneous flap},261138003 | Myocutaneous flap (substance),,Adverse reaction,Intolerance,Unspecified,
+she is intolerant of {m hydroxylamine reductase},67910000 | Hydroxylamine reductase (substance),,Adverse reaction,Intolerance,Unspecified,
+he is intolerant to {m mouse epithelium},256419000 | Mouse epithelium (substance),,Adverse reaction,Intolerance,Unspecified,
+he has intolerance of {m 15-hydroxyicosatetraenoate dehydrogenase},129950006 | 15-hydroxyicosatetraenoate dehydrogenase (substance),,Adverse reaction,Intolerance,Unspecified,
+pt is intolerant of {m mercaptobenzothiazole zinc},96040004 | Mercaptobenzothiazole zinc (substance),,Adverse reaction,Intolerance,Unspecified,
+pt are intolerant to {m zirconium-93},1373009 | Zirconium-93 (substance),,Adverse reaction,Intolerance,Unspecified,
+pat are intolerant of {m punjabi puri},229909002 | Punjabi puri (substance),,Adverse reaction,Intolerance,Unspecified,
+they is intolerant to {m triiodobenzoic acid},76003004 | Triiodobenzoic acid (substance),,Adverse reaction,Intolerance,Unspecified,
+he had a reaction to {m free radical},39265005 | Free radical (substance),,Adverse reaction,Unspecified,Unspecified,
+he had reaction to {m lithocholic acid},54245005 | Lithocholic acid (substance),,Adverse reaction,Unspecified,Unspecified,
+they had a reaction to {m arginine glutamate},14139007 | Arginine glutamate (substance),,Adverse reaction,Unspecified,Unspecified,
+she had reaction with {m mannose isomerase},18328009 | Mannose isomerase (substance),,Adverse reaction,Unspecified,Unspecified,
+pt had a reaction to {m sulfaethoxypyridazine},96095005 | Sulfaethoxypyridazine (substance),,Adverse reaction,Unspecified,Unspecified,
+she had reaction to {m 1-pyrroline-5-carboxylate dehydrogenase},68803005 | 1-pyrroline-5-carboxylate dehydrogenase (substance),,Adverse reaction,Unspecified,Unspecified,
+he had reaction with {m krait venom},303307006 | Krait venom (substance),,Adverse reaction,Unspecified,Unspecified,
+patient reacted with {m folate-rich foods},229973002 | Folate-rich foods (substance),,Adverse reaction,Unspecified,Unspecified,
+they reacted to {m fibular flap},256845002 | Fibular flap (substance),,Adverse reaction,Unspecified,Unspecified,
+pt had reaction to {m banana},256307007 | Banana (substance),,Adverse reaction,Unspecified,Unspecified,
+"she had reaction with {m 1,2-epoxybutane}","259183002 | 1,2-epoxybutane (substance)",,Adverse reaction,Unspecified,Unspecified,
+pt had a reaction to {m pan-leukocyte antibody},28298004 | Pan-leukocyte antibody (substance),,Adverse reaction,Unspecified,Unspecified,
+pt reacted with {m iodinated hydrocarbon},300053007 | Iodinated hydrocarbon (substance),,Adverse reaction,Unspecified,Unspecified,
+they had reaction with {m crotin},29461009 | Crotin (substance),,Adverse reaction,Unspecified,Unspecified,
+he had a reaction with {m lochia flava},79249000 | Lochia flava (substance),,Adverse reaction,Unspecified,Unspecified,
+pt reacted with {m salmon},735009005 | Salmon (substance),,Adverse reaction,Unspecified,Unspecified,
+pat had a reaction to {m flecainide acetate},8886003 | Flecainide acetate (substance),,Adverse reaction,Unspecified,Unspecified,
+they had reaction with {m 6-pyruvoyltetrahydropterin 2'-reductase},129938000 | 6-pyruvoyltetrahydropterin 2'-reductase (substance),,Adverse reaction,Unspecified,Unspecified,
+he had a reaction with {m 3-hydroxyglutarate},115362009 | 3-hydroxyglutarate (substance),,Adverse reaction,Unspecified,Unspecified,
+he had a reaction to {m sulindac sulfide},725621002 | Sulindac sulfide (substance),,Adverse reaction,Unspecified,Unspecified,
+pt have {m trimebutine} allergy,698184001 | Trimebutine (substance),,Adverse reaction,Allergy,Unspecified,
+patient has a {m knickerbocker glory} allergy,227715001 | Knickerbocker glory (substance),,Adverse reaction,Allergy,Unspecified,
+she have a {m oregano} allergy,227407000 | Oregano (substance),,Adverse reaction,Allergy,Unspecified,
+she have a {m aquaporin-2} allergy,421359002 | Aquaporin-2 (substance),,Adverse reaction,Allergy,Unspecified,
+he has {m asian pastry} allergy,226676008 | Asian pastry (substance),,Adverse reaction,Allergy,Unspecified,
+he has {m cob(i)alamin adenosyltransferase} allergy,17603007 | Cob(I)alamin adenosyltransferase (substance),,Adverse reaction,Allergy,Unspecified,
+pat have a {m arylamine glucosyltransferase} allergy,70535004 | Arylamine glucosyltransferase (substance),,Adverse reaction,Allergy,Unspecified,
+they have a {m l-threonine 3-dehydrogenase} allergy,43365000 | L-threonine 3-dehydrogenase (substance),,Adverse reaction,Allergy,Unspecified,
+pt has a {m 1-acylglycerophosphocholine acyltransferase} allergy,35342009 | 1-acylglycerophosphocholine acyltransferase (substance),,Adverse reaction,Allergy,Unspecified,
+he have {m anthranilate 3-monooxygenase} allergy,74979000 | Anthranilate 3-monooxygenase (substance),,Adverse reaction,Allergy,Unspecified,
+pt has {m 3-hydroxypropionate dehydrogenase} allergy,35499002 | 3-hydroxypropionate dehydrogenase (substance),,Adverse reaction,Allergy,Unspecified,
+he has {m adenosylcobalamin} allergy,259509008 | Adenosylcobalamin (substance),,Adverse reaction,Allergy,Unspecified,
+pt have a {m central myelin} allergy,68326005 | Central myelin (substance),,Adverse reaction,Allergy,Unspecified,
+pt has a {m potassium isotope} allergy,14146003 | Potassium isotope (substance),,Adverse reaction,Allergy,Unspecified,
+pat has {m l-lysine 6-aminotransferase} allergy,26134001 | L-lysine 6-aminotransferase (substance),,Adverse reaction,Allergy,Unspecified,
+patient has {m lumpy food} allergy,228056005 | Lumpy food (substance),,Adverse reaction,Allergy,Unspecified,
+"they have {m beta-1,3-galactosyl-o-glycosyl-glycoprotein beta-1,6-n-acetylglucosaminyltransferase} allergy","10373001 | Beta-1,3-galactosyl-o-glycosyl-glycoprotein beta-1,6-N-acetylglucosaminyltransferase (substance)",,Adverse reaction,Allergy,Unspecified,
+she have a {m n-acetylglucosaminyldiphosphodolichol n-acetylglucosaminyltransferase} allergy,87924006 | N-Acetylglucosaminyldiphosphodolichol N-acetylglucosaminyltransferase (substance),,Adverse reaction,Allergy,Unspecified,
+pt have {m lipid} allergy,70106000 | Lipid (substance),,Adverse reaction,Allergy,Unspecified,
+pat have {m thymostimulin} allergy,717104005 | Thymostimulin (substance),,Adverse reaction,Allergy,Unspecified,
+mild {m limbus-based flap} allergy,261911009 | Limbus-based flap (substance),,Adverse reaction,Allergy,Mild,
+mild {m alpha-aminoadipic acid} allergy,95984008 | Alpha-aminoadipic acid (substance),,Adverse reaction,Allergy,Mild,
+mild {m alphaprodine hydrochloride} allergy,412079002 | Alphaprodine hydrochloride (substance),,Adverse reaction,Allergy,Mild,
+mild {m amyl nitrate} allergy,41153003 | Amyl nitrate (substance),,Adverse reaction,Allergy,Mild,
+mild {m sulfurated potash} allergy,20469411000001101 | Sulfurated potash (substance),,Adverse reaction,Allergy,Mild,
+mild {m alpha actinin} allergy,69662009 | Alpha actinin (substance),,Adverse reaction,Allergy,Mild,
+mild {m a*6802} allergy,256964009 | A*6802 (substance),,Adverse reaction,Allergy,Mild,
+mild {m ethacrynate sodium} allergy,75341007 | Ethacrynate sodium (substance),,Adverse reaction,Allergy,Mild,
+mild {m diiodotyrosine} allergy,80393001 | Diiodotyrosine (substance),,Adverse reaction,Allergy,Mild,
+"mild {m (2,3-dihydroxybenzoyl)adenylate synthase} allergy","130453000 | (2,3-dihydroxybenzoyl)adenylate synthase (substance)",,Adverse reaction,Allergy,Mild,
+mild {m zirconium-93} allergy,1373009 | Zirconium-93 (substance),,Adverse reaction,Allergy,Mild,
+mild {m beta-2 transferrin} allergy,115469004 | Beta-2 transferrin (substance),,Adverse reaction,Allergy,Mild,
+mild {m crufomate} allergy,1148829005 | Crufomate (substance),,Adverse reaction,Allergy,Mild,
+mild {m tryptophan 2-monooxygenase} allergy,65283003 | Tryptophan 2-monooxygenase (substance),,Adverse reaction,Allergy,Mild,
+mild {m mouse epithelium} allergy,256419000 | Mouse epithelium (substance),,Adverse reaction,Allergy,Mild,
+"mild {m 3,7-dimethylquercetin 4'-o-methyltransferase} allergy","130254008 | 3,7-dimethylquercetin 4'-O-methyltransferase (substance)",,Adverse reaction,Allergy,Mild,
+mild {m 2-deoxytetronate} allergy,708843003 | 2-deoxytetronate (substance),,Adverse reaction,Allergy,Mild,
+mild {m detomidine} allergy,782159009 | Detomidine (substance),,Adverse reaction,Allergy,Mild,
+mild {m o-desmethyltramadol} allergy,725713003 | O-desmethyltramadol (substance),,Adverse reaction,Allergy,Mild,
+mild {m creatine kinase} allergy,75828004 | Creatine kinase (substance),,Adverse reaction,Allergy,Mild,
+moderate {m dinitro-o-amyl phenol} allergy,20994009 | Dinitro-o-amyl phenol (substance),,Adverse reaction,Allergy,Moderate,
+mod {m colloid sulfur} allergy,25818006 | Colloid sulfur (substance),,Adverse reaction,Allergy,Moderate,
+mod {m pyridoxine 4-dehydrogenase} allergy,963005 | Pyridoxine 4-dehydrogenase (substance),,Adverse reaction,Allergy,Moderate,
+moderate {m muscle material} allergy,256668009 | Muscle material (substance),,Adverse reaction,Allergy,Moderate,
+moderate {m antinuclear antibody} allergy,45530001 | Antinuclear antibody (substance),,Adverse reaction,Allergy,Moderate,
+moderate {m glucomannan 4-beta-mannosyltransferase} allergy,37264002 | Glucomannan 4-beta-mannosyltransferase (substance),,Adverse reaction,Allergy,Moderate,
+mod {m 2-hydroxycyclohexanone 2-monooxygenase} allergy,130070000 | 2-hydroxycyclohexanone 2-monooxygenase (substance),,Adverse reaction,Allergy,Moderate,
+"moderate {m beta-1,3-galactosyl-o-glycosyl-glycoprotein beta-1,6-n-acetylglucosaminyltransferase} allergy","10373001 | Beta-1,3-galactosyl-o-glycosyl-glycoprotein beta-1,6-N-acetylglucosaminyltransferase (substance)",,Adverse reaction,Allergy,Moderate,
+mod {m recombinant protein} allergy,407073003 | Recombinant protein (substance),,Adverse reaction,Allergy,Moderate,
+moderate {m apple flavor} allergy,229775001 | Apple flavor (substance),,Adverse reaction,Allergy,Moderate,
+mod {m perchloric acid} allergy,54673002 | Perchloric acid (substance),,Adverse reaction,Allergy,Moderate,
+mod {m isophorone di-isocyanate} allergy,256125007 | Isophorone di-isocyanate (substance),,Adverse reaction,Allergy,Moderate,
+moderate {m respiratory fluid} allergy,410579004 | Respiratory fluid (substance),,Adverse reaction,Allergy,Moderate,
+mod {m loteprednol etabonate} allergy,387047007 | Loteprednol etabonate (substance),,Adverse reaction,Allergy,Moderate,
+"mod {m quercetin-3,3'-bissulfate 7-sulfotransferase} allergy","130473005 | Quercetin-3,3'-bissulfate 7-sulfotransferase (substance)",,Adverse reaction,Allergy,Moderate,
+moderate {m onasemnogene abeparvovec} allergy,39601611000001100 | Onasemnogene abeparvovec (product),,Adverse reaction,Allergy,Moderate,
+moderate {m rhamnulose-1-phosphate aldolase} allergy,24517002 | Rhamnulose-1-phosphate aldolase (substance),,Adverse reaction,Allergy,Moderate,
+moderate {m b*5103} allergy,257015007 | B*5103 (substance),,Adverse reaction,Allergy,Moderate,
+mod {m dopachrome isomerase} allergy,130890005 | Dopachrome isomerase (substance),,Adverse reaction,Allergy,Moderate,
+mod {m yeast plasmolysate} allergy,426063001 | Yeast plasmolysate (substance),,Adverse reaction,Allergy,Moderate,
+serious {m hemoglobin j-bangkok} allergy,32317008 | Hemoglobin J-Bangkok (substance),,Adverse reaction,Allergy,Severe,
+severe {m lumpy food} allergy,228056005 | Lumpy food (substance),,Adverse reaction,Allergy,Severe,
+bad {m punjabi puri} allergy,229909002 | Punjabi puri (substance),,Adverse reaction,Allergy,Severe,
+severe {m oligoclonal band} allergy,259810009 | Oligoclonal band (substance),,Adverse reaction,Allergy,Severe,
+serious {m lysine decarboxylase} allergy,79328003 | Lysine decarboxylase (substance),,Adverse reaction,Allergy,Severe,
+bad {m sweet pancake} allergy,227745003 | Sweet pancake (substance),,Adverse reaction,Allergy,Severe,
+serious {m leukotriene c} allergy,13841004 | Leukotriene C (substance),,Adverse reaction,Allergy,Severe,
+severe {m holo-[acyl-carrier-protein] synthase} allergy,51162007 | Holo-[acyl-carrier-protein] synthase (substance),,Adverse reaction,Allergy,Severe,
+serious {m benzyl cinnamate} allergy,256016003 | Benzyl cinnamate (substance),,Adverse reaction,Allergy,Severe,
+serious {m gastrin g17} allergy,259345007 | Gastrin G17 (substance),,Adverse reaction,Allergy,Severe,
+serious {m processed food} allergy,819010002 | Processed food (substance),,Adverse reaction,Allergy,Severe,
+bad {m abietic acid} allergy,255994007 | Abietic acid (substance),,Adverse reaction,Allergy,Severe,
+severe {m polyvinylidene chloride} allergy,62916003 | Polyvinylidene chloride (substance),,Adverse reaction,Allergy,Severe,
+serious {m loteprednol etabonate} allergy,387047007 | Loteprednol etabonate (substance),,Adverse reaction,Allergy,Severe,
+serious {m benzestrol} allergy,126184007 | Benzestrol (substance),,Adverse reaction,Allergy,Severe,
+"bad {m 2,5-diaminotoluene sulfate} allergy","255948009 | 2,5-diaminotoluene sulfate (substance)",,Adverse reaction,Allergy,Severe,
+bad {m bee pollen} allergy,412583005 | Bee pollen (substance),,Adverse reaction,Allergy,Severe,
+bad {m 4-alpha-glucanotransferase} allergy,53990002 | 4-alpha-Glucanotransferase (substance),,Adverse reaction,Allergy,Severe,
+serious {m mercuric cyanide} allergy,76178007 | Mercuric cyanide (substance),,Adverse reaction,Allergy,Severe,
+severe {m aspartoacylase} allergy,74849006 | Aspartoacylase (substance),,Adverse reaction,Allergy,Severe,
+feeling {r psychogenic vomiting} earlier,,37224001 | Psychogenic vomiting (disorder),,,,Not a reaction
+feeling {r wrist stiff} earlier,,249916005 | Wrist stiff (finding),,,,Not a reaction
+experiencing {r recurrent iridocyclitis} earlier,,6869001 | Recurrent iridocyclitis (disorder),,,,Not a reaction
+felt {r musculoskeletal pain} today,,279069000 | Musculoskeletal pain (finding),,,,Not a reaction
+felt {r irritant gastritis} yesterday,,42541005 | Irritant gastritis (disorder),,,,Not a reaction
+felt {r memory impairment} earlier,,386807006 | Memory impairment (finding),,,,Not a reaction
+experiences {r pityriasis alba} yesterday,,402296004 | Pityriasis alba (disorder),,,,Not a reaction
+felt {r flatulent dyspepsia} earlier,,249511005 | Flatulent dyspepsia (finding),,,,Not a reaction
+feeling {r telogen effluvium} earlier,,39479004 | Telogen effluvium (disorder),,,,Not a reaction
+experiencing {r exercise anaphylaxis} today,,241952007 | Exercise anaphylaxis (disorder),,,,Not a reaction
+experiences {r status migrainosus} yesterday,,230467008 | Status migrainosus (disorder),,,,Not a reaction
+felt {r reinke's edema} today,,232436000 | Reinke's edema (disorder),,,,Not a reaction
+had {r iritis} yesterday,,65074000 | Iritis (disorder),,,,Not a reaction
+experiences {r alopecia neurotica} yesterday,,201141003 | Alopecia neurotica (disorder),,,,Not a reaction
+felt {r sneezing symptom} yesterday,,162367006 | Sneezing symptom (finding),,,,Not a reaction
+experiences {r endogenous depression} earlier,,300706003 | Endogenous depression (disorder),,,,Not a reaction
+feeling {r alopecia totalis} yesterday,,19754005 | Alopecia totalis (disorder),,,,Not a reaction
+experiencing {r ophthalmoplegic migraine} earlier,,49605003 | Ophthalmoplegic migraine (disorder),,,,Not a reaction
+experiencing {r arthritis mutilans} earlier,,19514005 | Arthritis mutilans (disorder),,,,Not a reaction
+had {r abdominal pain} yesterday,,21522001 | Abdominal pain (finding),,,,Not a reaction
+medication {m tenofovir alafenamide} 5 grams,34974411000001109 | Tenofovir alafenamide (product),,Taking,Unspecified,Unspecified,
+med {m caffeine citrate} 5 tab,23428011000001108 | Caffeine citrate (product),,Taking,Unspecified,Unspecified,
+medication: {m homeopathic cinnabar} 5 tablets,11803111000001108 | Homeopathic cinnabar (product),,Taking,Unspecified,Unspecified,
+medication: {m ceftaroline fosamil} 1 gram,13293101000001107 | Ceftaroline fosamil (product),,Taking,Unspecified,Unspecified,
+medication:- {m etilefrine} 4 tablets,19678211000001104 | Etilefrine (product),,Taking,Unspecified,Unspecified,
+med {m diphencyprone} 2 grams,14935411000001109 | Diphencyprone (product),,Taking,Unspecified,Unspecified,
+medication {m lanadelumab} 4 milligram,37755411000001108 | Lanadelumab (product),,Taking,Unspecified,Unspecified,
+medication:- {m sodium dichloroacetate} 1 puff,40218311000001100 | Sodium dichloroacetate (product),,Taking,Unspecified,Unspecified,
+meds- {m promethazine teoclate} 4 mg,13868511000001100 | Promethazine teoclate (product),,Taking,Unspecified,Unspecified,
+medication- {m rotavirus vaccine} 5 capsule,10379911000001105 | Rotavirus vaccine (product),,Taking,Unspecified,Unspecified,
+med {m blackcurrant syrup} 4 mg,5172511000001109 | Blackcurrant syrup (product),,Taking,Unspecified,Unspecified,
+medication {m co-beneldopa} 4 tablet,18036811000001106 | Co-beneldopa (product),,Taking,Unspecified,Unspecified,
+meds {m cangrelor} 5 tab,30207611000001105 | Cangrelor (product),,Taking,Unspecified,Unspecified,
+medication- {m chlorocresol powder} 1 g,10561311000001104 | Chlorocresol powder (product),,Taking,Unspecified,Unspecified,
+medication:- {m pemigatinib} 4 capsule,39933711000001101 | Pemigatinib (product),,Taking,Unspecified,Unspecified,
+meds:- {m tivozanib} 2 tablet,35040611000001104 | Tivozanib (product),,Taking,Unspecified,Unspecified,
+medication:- {m dl-methionine} 5 capsules,23965611000001103 | DL-Methionine (product),,Taking,Unspecified,Unspecified,
+meds: {m cenobamate} 2 tablets,40200511000001106 | Cenobamate (product),,Taking,Unspecified,Unspecified,
+medication {m mifamurtide} 4 tablets,16699211000001107 | Mifamurtide (product),,Taking,Unspecified,Unspecified,
+med {m fluphenazine hydrochloride} 3 mg,13314711000001103 | Fluphenazine hydrochloride (product),,Taking,Unspecified,Unspecified,
+adverse reaction to {m tenofovir disoproxil} (intolerance) - mild {r tummy ache},30934411000001109 | Tenofovir disoproxil (product),271681002 |Stomach ache (finding)|,Adverse reaction,Intolerance,Mild,After
+adverse reaction to {m dl-methionine} (intolerance) - mild {r tummy ache},23965611000001103 | DL-Methionine (product),271681002 |Stomach ache (finding)|,Adverse reaction,Intolerance,Mild,After
+adverse reaction to {m botulinum antitoxin} (intolerance) - mild {r tummy ache},19317211000001100 | Botulinum antitoxin (product),271681002 |Stomach ache (finding)|,Adverse reaction,Intolerance,Mild,After
+adverse reaction to {m selinexor} (intolerance) - mild {r tummy ache},39119311000001105 | Selinexor (product),271681002 |Stomach ache (finding)|,Adverse reaction,Intolerance,Mild,After
+adverse reaction to {m vonicog alfa} (intolerance) - mild {r tummy ache},38721211000001100 | Vonicog alfa (product),271681002 |Stomach ache (finding)|,Adverse reaction,Intolerance,Mild,After
+adverse reaction to {m hyoscine butylbromide} (intolerance) - mild {r tummy ache},13868211000001103 | Hyoscine butylbromide (product),271681002 |Stomach ache (finding)|,Adverse reaction,Intolerance,Mild,After
+adverse reaction to {m allicin} (intolerance) - mild {r tummy ache},21202711000001109 | Allicin (product),271681002 |Stomach ache (finding)|,Adverse reaction,Intolerance,Mild,After
+adverse reaction to {m lixisenatide} (intolerance) - mild {r tummy ache},22020311000001105 | Lixisenatide (product),271681002 |Stomach ache (finding)|,Adverse reaction,Intolerance,Mild,After
+adverse reaction to {m lysine powder} (intolerance) - mild {r tummy ache},38717211000001101 | Lysine powder (product),271681002 |Stomach ache (finding)|,Adverse reaction,Intolerance,Mild,After
+adverse reaction to {m glucarpidase} (intolerance) - mild {r tummy ache},34200711000001104 | Glucarpidase (product),271681002 |Stomach ache (finding)|,Adverse reaction,Intolerance,Mild,After
+adverse reaction to {m pine mistletoe} (intolerance) - mild {r tummy ache},11466811000001104 | Pine mistletoe (product),271681002 |Stomach ache (finding)|,Adverse reaction,Intolerance,Mild,After
+adverse reaction to {m hydroquinidine} (intolerance) - mild {r tummy ache},33768011000001109 | Hydroquinidine (product),271681002 |Stomach ache (finding)|,Adverse reaction,Intolerance,Mild,After
+adverse reaction to {m secnidazole} (intolerance) - mild {r tummy ache},32632911000001103 | Secnidazole (product),271681002 |Stomach ache (finding)|,Adverse reaction,Intolerance,Mild,After
+adverse reaction to {m phenobarbital sodium} (intolerance) - mild {r tummy ache},13912111000001101 | Phenobarbital sodium (product),271681002 |Stomach ache (finding)|,Adverse reaction,Intolerance,Mild,After
+adverse reaction to {m tetanus vaccine} (intolerance) - mild {r tummy ache},9895311000001103 | Tetanus vaccine (product),271681002 |Stomach ache (finding)|,Adverse reaction,Intolerance,Mild,After
+adverse reaction to {m gadoteric acid} (intolerance) - mild {r tummy ache},29914411000001100 | Gadoteric acid (product),271681002 |Stomach ache (finding)|,Adverse reaction,Intolerance,Mild,After
+adverse reaction to {m potassium ascorbate} (intolerance) - mild {r tummy ache},19980411000001109 | Potassium ascorbate (product),271681002 |Stomach ache (finding)|,Adverse reaction,Intolerance,Mild,After
+adverse reaction to {m sodium cromoglicate} (intolerance) - mild {r tummy ache},36410311000001109 | Sodium cromoglicate (product),271681002 |Stomach ache (finding)|,Adverse reaction,Intolerance,Mild,After
+adverse reaction to {m co-codaprin} (intolerance) - mild {r tummy ache},18037811000001108 | Co-codaprin (product),271681002 |Stomach ache (finding)|,Adverse reaction,Intolerance,Mild,After
+adverse reaction to {m creatine} (intolerance) - mild {r tummy ache},27945611000001103 | Creatine (product),271681002 |Stomach ache (finding)|,Adverse reaction,Intolerance,Mild,After
+intolerant of {m nonacog gamma} moderate {r diarrhoea}.,32689111000001102 | Nonacog gamma (product),62315008 |Diarrhea (finding)|,Adverse reaction,Intolerance,Moderate,After
+intolerance to {m multimineral tablets} moderate {r diarrhoea}.,7594611000001100 | Multimineral tablets (product),62315008 |Diarrhea (finding)|,Adverse reaction,Intolerance,Moderate,After
+intolerant of {m potassium ascorbate} moderate {r diarrhoea}.,19980411000001109 | Potassium ascorbate (product),62315008 |Diarrhea (finding)|,Adverse reaction,Intolerance,Moderate,After
+intolerant to {m vernakalant} moderate {r diarrhoea}.,37238511000001107 | Vernakalant (product),62315008 |Diarrhea (finding)|,Adverse reaction,Intolerance,Moderate,After
+intolerant of {m filgotinib} moderate {r diarrhoea}.,39046711000001100 | Filgotinib (product),62315008 |Diarrhea (finding)|,Adverse reaction,Intolerance,Moderate,After
+intolerant to {m glucose powder} moderate {r diarrhoea}.,328302009 | Glucose powder (product),62315008 |Diarrhea (finding)|,Adverse reaction,Intolerance,Moderate,After
+intolerant to {m squill oxymel} moderate {r diarrhoea}.,5241411000001101 | Squill oxymel (product),62315008 |Diarrhea (finding)|,Adverse reaction,Intolerance,Moderate,After
+intolerance to {m laurilsulfate} moderate {r diarrhoea}.,17905911000001103 | Laurilsulfate (product),62315008 |Diarrhea (finding)|,Adverse reaction,Intolerance,Moderate,After
+intolerance of {m vinflunine} moderate {r diarrhoea}.,16698611000001100 | Vinflunine (product),62315008 |Diarrhea (finding)|,Adverse reaction,Intolerance,Moderate,After
+intolerant of {m lixisenatide} moderate {r diarrhoea}.,22020311000001105 | Lixisenatide (product),62315008 |Diarrhea (finding)|,Adverse reaction,Intolerance,Moderate,After
+intolerant of {m pneumococcal vaccine} moderate {r diarrhoea}.,9894911000001101 | Pneumococcal vaccine (product),62315008 |Diarrhea (finding)|,Adverse reaction,Intolerance,Moderate,After
+intolerant to {m water potable} moderate {r diarrhoea}.,9151311000001103 | Water potable (product),62315008 |Diarrhea (finding)|,Adverse reaction,Intolerance,Moderate,After
+intolerance to {m norethisterone enantate} moderate {r diarrhoea}.,13964211000001102 | Norethisterone enantate (product),62315008 |Diarrhea (finding)|,Adverse reaction,Intolerance,Moderate,After
+intolerance to {m guselkumab} moderate {r diarrhoea}.,35015511000001103 | Guselkumab (product),62315008 |Diarrhea (finding)|,Adverse reaction,Intolerance,Moderate,After
+intolerant to {m toiletries liquid} moderate {r diarrhoea}.,7821711000001101 | Toiletries liquid (product),62315008 |Diarrhea (finding)|,Adverse reaction,Intolerance,Moderate,After
+intolerant to {m nalmefene} moderate {r diarrhoea}.,22404211000001106 | Nalmefene (product),62315008 |Diarrhea (finding)|,Adverse reaction,Intolerance,Moderate,After
+intolerance of {m axicabtagene ciloleucel} moderate {r diarrhoea}.,36461111000001102 | Axicabtagene ciloleucel (product),62315008 |Diarrhea (finding)|,Adverse reaction,Intolerance,Moderate,After
+intolerant to {m glucosamine sulphate} moderate {r diarrhoea}.,10043411000001102 | Glucosamine sulphate (product),62315008 |Diarrhea (finding)|,Adverse reaction,Intolerance,Moderate,After
+intolerance to {m l-acetylcarnitine} moderate {r diarrhoea}.,10604811000001100 | L-acetylcarnitine (product),62315008 |Diarrhea (finding)|,Adverse reaction,Intolerance,Moderate,After
+intolerance to {m trastuzumab deruxtecan} moderate {r diarrhoea}.,39484111000001108 | Trastuzumab deruxtecan (product),62315008 |Diarrhea (finding)|,Adverse reaction,Intolerance,Moderate,After
+allergies: {m zinc insulin} -{r anaphylaxis},10329000 | Zinc insulin (substance),39579001 |Anaphylaxis (disorder)|,Adverse reaction,Allergy,Severe,After
+allergies: {m orotidine-5'-phosphate decarboxylase} - {r anaphylaxis},61243000 | Orotidine-5'-phosphate decarboxylase (substance),39579001 |Anaphylaxis (disorder)|,Adverse reaction,Allergy,Severe,After
+allergies: {m fresh peas} -{r anaphylaxis},227369001 | Fresh peas (substance),39579001 |Anaphylaxis (disorder)|,Adverse reaction,Allergy,Severe,After
+allergies: {m sultopride} - {r anaphylaxis},717107003 | Sultopride (substance),39579001 |Anaphylaxis (disorder)|,Adverse reaction,Allergy,Severe,After
+allergies: {m telotristat} - {r anaphylaxis},733734004 | Telotristat (substance),39579001 |Anaphylaxis (disorder)|,Adverse reaction,Allergy,Severe,After
+allergies: {m n-octanoylglycine} -{r anaphylaxis},707678002 | N-octanoylglycine (substance),39579001 |Anaphylaxis (disorder)|,Adverse reaction,Allergy,Severe,After
+allergies: {m egg white} -{r anaphylaxis},256443002 | Egg white (substance),39579001 |Anaphylaxis (disorder)|,Adverse reaction,Allergy,Severe,After
+allergies: {m free cortisol} - {r anaphylaxis},259344006 | Free cortisol (substance),39579001 |Anaphylaxis (disorder)|,Adverse reaction,Allergy,Severe,After
+allergies: {m dried fig} -{r anaphylaxis},227455000 | Dried fig (substance),39579001 |Anaphylaxis (disorder)|,Adverse reaction,Allergy,Severe,After
+allergies: {m n-acetylglucosamine-6-sulfatase} - {r anaphylaxis},15145009 | N-Acetylglucosamine-6-sulfatase (substance),39579001 |Anaphylaxis (disorder)|,Adverse reaction,Allergy,Severe,After
+allergies: {m cotinine} - {r anaphylaxis},115620009 | Cotinine (substance),39579001 |Anaphylaxis (disorder)|,Adverse reaction,Allergy,Severe,After
+allergies: {m dimethyl carbamate} -{r anaphylaxis},33780005 | Dimethyl carbamate (substance),39579001 |Anaphylaxis (disorder)|,Adverse reaction,Allergy,Severe,After
+allergies: {m 3-hydroxyglutarate} - {r anaphylaxis},115362009 | 3-hydroxyglutarate (substance),39579001 |Anaphylaxis (disorder)|,Adverse reaction,Allergy,Severe,After
+allergies: {m 2-enoate reductase} - {r anaphylaxis},14733001 | 2-enoate reductase (substance),39579001 |Anaphylaxis (disorder)|,Adverse reaction,Allergy,Severe,After
+allergies: {m ornipressin} - {r anaphylaxis},703839000 | Ornipressin (substance),39579001 |Anaphylaxis (disorder)|,Adverse reaction,Allergy,Severe,After
+allergies: {m arrhenius acid} - {r anaphylaxis},111063004 | Arrhenius acid (substance),39579001 |Anaphylaxis (disorder)|,Adverse reaction,Allergy,Severe,After
+allergies: {m dihydrocarbostyril derivative} -{r anaphylaxis},764429003 | Dihydrocarbostyril derivative (substance),39579001 |Anaphylaxis (disorder)|,Adverse reaction,Allergy,Severe,After
+allergies: {m interleukin-6} -{r anaphylaxis},30965005 | Interleukin-6 (substance),39579001 |Anaphylaxis (disorder)|,Adverse reaction,Allergy,Severe,After
+allergies: {m ribitol dehydrogenase} - {r anaphylaxis},61467006 | Ribitol dehydrogenase (substance),39579001 |Anaphylaxis (disorder)|,Adverse reaction,Allergy,Severe,After
+allergies: {m undecaprenyl-phosphate galactose-phosphotransferase} -{r anaphylaxis},112039009 | Undecaprenyl-phosphate galactose-phosphotransferase (substance),39579001 |Anaphylaxis (disorder)|,Adverse reaction,Allergy,Severe,After
+likes {m chocolate truffle},229883002 | Chocolate truffle (substance),,Irrelevant,Unspecified,Unspecified,
+eats {m ground ginger},227401004 | Ground ginger (substance),,Irrelevant,Unspecified,Unspecified,
+eats {m fried prawns},227153001 | Fried prawns (substance),,Irrelevant,Unspecified,Unspecified,
+eating {m fried haddock},227061009 | Fried haddock (substance),,Irrelevant,Unspecified,Unspecified,
+eating {m glace cherry},227461002 | Glace cherry (substance),,Irrelevant,Unspecified,Unspecified,
+eats {m vegetable bake},227967006 | Vegetable bake (substance),,Irrelevant,Unspecified,Unspecified,
+eating {m evaporated milk},226787009 | Evaporated milk (substance),,Irrelevant,Unspecified,Unspecified,
+likes {m fried plaice},227085001 | Fried plaice (substance),,Irrelevant,Unspecified,Unspecified,
+eating {m half-cream},226797000 | Half-cream (substance),,Irrelevant,Unspecified,Unspecified,
+likes {m whipping cream},226802006 | Whipping cream (substance),,Irrelevant,Unspecified,Unspecified,
+likes {m jam},227601008 | Jam (substance),,Irrelevant,Unspecified,Unspecified,
+eats {m leicester cheese},226836000 | Leicester cheese (substance),,Irrelevant,Unspecified,Unspecified,
+eating {m potato salad},227940000 | Potato salad (substance),,Irrelevant,Unspecified,Unspecified,
+likes {m chick peas},227346004 | Chick peas (substance),,Irrelevant,Unspecified,Unspecified,
+likes {m anise seed},227376006 | Anise seed (substance),,Irrelevant,Unspecified,Unspecified,
+eats {m passion fruit},227438004 | Passion fruit (substance),,Irrelevant,Unspecified,Unspecified,
+likes {m soya flour},229941008 | Soya flour (substance),,Irrelevant,Unspecified,Unspecified,
+eating {m tuna fish},227144008 | Tuna fish (substance),,Irrelevant,Unspecified,Unspecified,
+likes {m boal},227041003 | Boal (substance),,Irrelevant,Unspecified,Unspecified,
+likes {m fried liver},226992001 | Fried liver (substance),,Irrelevant,Unspecified,Unspecified,
+he is allergic to {m hemoglobin olympia}- {r swollen prostate},38810009 | Hemoglobin Olympia (substance),300533001 | Swollen prostate (finding),Adverse reaction,Allergy,Unspecified,After
+pt has allergy to {m technetium-93}- {r congenital elephantiasis},111085005 | Technetium-93 (substance),205545009 | Congenital elephantiasis (disorder),Adverse reaction,Allergy,Unspecified,After
+pat has allergy to {m lead-209}- {r bladder distention},47463009 | Lead-209 (substance),54768000 | Bladder distention (finding),Adverse reaction,Allergy,Unspecified,After
+patient has allergy to {m zinc insulin}- {r erythematosquamous dermatosis},10329000 | Zinc insulin (substance),54792008 | Erythematosquamous dermatosis (disorder),Adverse reaction,Allergy,Unspecified,After
+pat has allergy to {m thiohydroximate beta-d-glucosyltransferase}- {r ankle pain},130379008 | Thiohydroximate beta-D-glucosyltransferase (substance),247373008 | Ankle pain (finding),Adverse reaction,Allergy,Unspecified,After
+patient is allergic to {m quazepam}- {r anaphylaxis},108391004 | Quazepam (substance),39579001 | Anaphylaxis (disorder),Adverse reaction,Allergy,Unspecified,After
+he has allergy to {m promethazine hydrochloride}- {r rib pain},9723911000001106 | Promethazine hydrochloride (product),297217002 | Rib pain (finding),Adverse reaction,Allergy,Unspecified,After
+pat is allergic to {m benproperine} - {r nocturnal dyspnea},703110003 | Benproperine (substance),248548009 | Nocturnal dyspnea (finding),Adverse reaction,Allergy,Unspecified,After
+pt is allergic to {m gilteritinib fumarate}- {r nasal obstruction},37898311000001101 | Gilteritinib fumarate (substance),232209000 | Nasal obstruction (disorder),Adverse reaction,Allergy,Unspecified,After
+she has allergy to {m 3-ketovalidoxylamine c-n-lyase} - {r ventricular tachycardia},130860003 | 3-ketovalidoxylamine C-N-lyase (substance),25569003 | Ventricular tachycardia (disorder),Adverse reaction,Allergy,Unspecified,After
+pt is allergic to {m avelumab}- {r pustular bacterid},34881111000001104 | Avelumab (product),3533007 | Pustular bacterid (disorder),Adverse reaction,Allergy,Unspecified,After
+"pat is allergic to {m 4,4'-methylene-bis-(2-chloroaniline)} - {r inguinal pain}","115621008 | 4,4'-methylene-bis-(2-chloroaniline) (substance)",102570003 | Inguinal pain (finding),Adverse reaction,Allergy,Unspecified,After
+pt has allergy to {m agglutinogen}- {r chronic constipation},72358008 | Agglutinogen (substance),236069009 | Chronic constipation (disorder),Adverse reaction,Allergy,Unspecified,After
+pat is allergic to {m beta-fructofuranosidase}- {r brown sputum},68283002 | Beta-fructofuranosidase (substance),277910004 | Brown sputum (finding),Adverse reaction,Allergy,Unspecified,After
+he is allergic to {m bee pollen}- {r arthritis mutilans},412583005 | Bee pollen (substance),19514005 | Arthritis mutilans (disorder),Adverse reaction,Allergy,Unspecified,After
+he is allergic to {m anthranilate 3-monooxygenase} - {r chronic gastritis},74979000 | Anthranilate 3-monooxygenase (substance),8493009 | Chronic gastritis (disorder),Adverse reaction,Allergy,Unspecified,After
+pt is allergic to {m hemoglobin e-saskatoon} - {r persistent cough},36443006 | Hemoglobin E-Saskatoon (substance),284523002 | Persistent cough (finding),Adverse reaction,Allergy,Unspecified,After
+pt is allergic to {m quercetin-3-sulfate 3'-sulfotransferase} - {r generalized headache},130471007 | Quercetin-3-sulfate 3'-sulfotransferase (substance),162299003 | Generalized headache (finding),Adverse reaction,Allergy,Unspecified,After
+patient has allergy to {m calcium polycarbophil}- {r excessive sweating},412105005 | Calcium polycarbophil (substance),52613005 | Excessive sweating (finding),Adverse reaction,Allergy,Unspecified,After
+he has allergy to {m porcine heparin} - {r telogen effluvium},412201008 | Porcine heparin (substance),39479004 | Telogen effluvium (disorder),Adverse reaction,Allergy,Unspecified,After
+9 day history of {r cerebral edema},,2032001 | Cerebral edema (disorder),,,,Not a reaction
+2 hour hx of {r tachycardia},,3424008 | Tachycardia (finding),,,,Not a reaction
+2 hour history of {r tremor},,26079004 | Tremor (finding),,,,Not a reaction
+2 hour hist of {r flexural psoriasis},,238600001 | Flexural psoriasis (disorder),,,,Not a reaction
+2 day history of {r psoriasis universalis},,200974006 | Psoriasis universalis (disorder),,,,Not a reaction
+5 hour hist of {r carpopedal spasm},,75140002 | Carpopedal spasm (finding),,,,Not a reaction
+9 hour hist of {r racket nail},,51806005 | Racket nail (disorder),,,,Not a reaction
+4 hour history of {r diaper rash},,91487003 | Diaper rash (disorder),,,,Not a reaction
+9 day history of {r allergic rhinitis},,61582004 | Allergic rhinitis (disorder),,,,Not a reaction
+6 hour hist of {r dissociative convulsions},,191714002 | Dissociative convulsions (disorder),,,,Not a reaction
+12 hour history of {r immune-mediated conjunctivitis},,414463005 | Immune-mediated conjunctivitis (disorder),,,,Not a reaction
+12 hour hist of {r panic attack},,225624000 | Panic attack (finding),,,,Not a reaction
+1 hour hx of {r musculoskeletal pain},,279069000 | Musculoskeletal pain (finding),,,,Not a reaction
+6 day history of {r endolymphatic hydrops},,9794007 | Endolymphatic hydrops (disorder),,,,Not a reaction
+4 day history of {r increased appetite},,72405004 | Increased appetite (finding),,,,Not a reaction
+5 day hx of {r mazzotti reaction},,430479006 | Mazzotti reaction (disorder),,,,Not a reaction
+6 day hist of {r muscular headache},,398126006 | Muscular headache (disorder),,,,Not a reaction
+6 hour hist of {r pityriasis},,34630004 | Pityriasis (disorder),,,,Not a reaction
+4 hour hist of {r nightmares},,419145002 | Nightmares (finding),,,,Not a reaction
+1 hour hx of {r tonic-clonic seizure},,54200006 | Tonic-clonic seizure (finding),,,,Not a reaction
+had bad {r nonulcer dyspepsia} in the past every time he takes {m vinflunine},16698611000001100 | Vinflunine (product),3696007 | Nonulcer dyspepsia (disorder),Adverse reaction,Unspecified,Severe,Before
+had severe {r blanching rash} previously every time he takes {m co-amilofruse},34186711000001102 | Co-amilofruse (product),400990009 | Blanching rash (finding),Adverse reaction,Unspecified,Severe,Before
+had sev {r conjunctival edema} prev whenever she takes {m fructose powder},39713511000001106 | Fructose powder (product),84178004 | Conjunctival edema (disorder),Adverse reaction,Unspecified,Severe,Before
+had sev {r gastric hemorrhage} previously when taking {m vortioxetine},30730111000001104 | Vortioxetine (product),61401005 | Gastric hemorrhage (disorder),Adverse reaction,Unspecified,Severe,Before
+had sev {r breastfeeding painful} in the past every time he takes {m blackcurrant syrup},5172511000001109 | Blackcurrant syrup (product),200430001 | Breastfeeding painful (finding),Adverse reaction,Unspecified,Severe,Before
+had serious {r trigeminal neuralgia} in the past every time she takes {m diphencyprone},14935411000001109 | Diphencyprone (product),31681005 | Trigeminal neuralgia (disorder),Adverse reaction,Unspecified,Severe,Before
+had severe {r subconjunctival edema} previously whenever he takes {m corticotropin},36412111000001106 | Corticotropin (product),25334004 | Subconjunctival edema (disorder),Adverse reaction,Unspecified,Severe,Before
+had sev {r lightheadedness} prev whenever he takes {m sucroferric oxyhydroxide},28453911000001100 | Sucroferric oxyhydroxide (product),386705008 | Lightheadedness (finding),Adverse reaction,Unspecified,Severe,Before
+had bad {r allodynia} in the past every time he takes {m co-dydramol},18035211000001104 | Co-dydramol (product),247404004 | Allodynia (finding),Adverse reaction,Unspecified,Severe,Before
+had sev {r sore nipple} previously whenever she takes {m doxorubicin (liposomal)},13297201000001105 | Doxorubicin (liposomal) (product),247350000 | Sore nipple (finding),Adverse reaction,Unspecified,Severe,Before
+had sev {r prostatic pain} prev whenever she takes {m l-arginine powder},328570003 | L-Arginine powder (product),36729000 | Prostatic pain (finding),Adverse reaction,Unspecified,Severe,Before
+had severe {r conjunctival hyperemia} prev whenever she takes {m ioflupane [i-123]},39417211000001107 | Ioflupane [I-123] (product),193894004 | Conjunctival hyperemia (finding),Adverse reaction,Unspecified,Severe,Before
+had serious {r flatulent dyspepsia} previously every time he takes {m benralizumab},35299711000001103 | Benralizumab (product),249511005 | Flatulent dyspepsia (finding),Adverse reaction,Unspecified,Severe,Before
+had severe {r uveitis} in the past every time she takes {m thyme},29005011000001103 | Thyme (product),128473001 | Uveitis (disorder),Adverse reaction,Unspecified,Severe,Before
+had bad {r prurigo simplex} in the past whenever she takes {m cenobamate},40200511000001106 | Cenobamate (product),55608001 | Prurigo simplex (disorder),Adverse reaction,Unspecified,Severe,Before
+had severe {r sneezing symptom} in the past every time he takes {m ceftobiprole},31009711000001109 | Ceftobiprole (product),162367006 | Sneezing symptom (finding),Adverse reaction,Unspecified,Severe,Before
+had sev {r nocturia} in the past when taking {m axicabtagene ciloleucel},36461111000001102 | Axicabtagene ciloleucel (product),139394000 | Nocturia (finding),Adverse reaction,Unspecified,Severe,Before
+had severe {r racket nail} previously whenever he takes {m fluphenazine decanoate},13292101000001100 | Fluphenazine decanoate (product),51806005 | Racket nail (disorder),Adverse reaction,Unspecified,Severe,Before
+had severe {r swollen thumb} prev when taking {m copper ointment},7969511000001108 | Copper ointment (product),314916002 | Swollen thumb (finding),Adverse reaction,Unspecified,Severe,Before
+had sev {r idiopathic urticaria} prev whenever she takes {m cannabidiol},35022511000001100 | Cannabidiol (product),42265009 | Idiopathic urticaria (disorder),Adverse reaction,Unspecified,Severe,Before
+had {r diarrhoea} with {m macimorelin},40616211000001105 | Macimorelin (product),62315008 | Diarrhea (finding),Adverse reaction,Intolerance,,Before
+had {r diarrhoea} due to {m pegcetacoplan},40555711000001107 | Pegcetacoplan (product),62315008 | Diarrhea (finding),Adverse reaction,Intolerance,,Before
+experienced {r diarrhoea} with {m colfosceril palmitate},13292901000001102 | Colfosceril palmitate (product),62315008 | Diarrhea (finding),Adverse reaction,Intolerance,,Before
+experienced {r diarrhoea} with {m gadoteric acid},29914411000001100 | Gadoteric acid (product),62315008 | Diarrhea (finding),Adverse reaction,Intolerance,,Before
+had {r diarrhoea} due to {m fremanezumab},37223811000001103 | Fremanezumab (product),62315008 | Diarrhea (finding),Adverse reaction,Intolerance,,Before
+had {r diarrhoea} with {m niraparib},35018611000001105 | Niraparib (product),62315008 | Diarrhea (finding),Adverse reaction,Intolerance,,Before
+experienced {r diarrhoea} due to {m copper histidine},24682311000001102 | Copper histidine (product),62315008 | Diarrhea (finding),Adverse reaction,Intolerance,,Before
+had {r diarrhoea} due to {m ertugliflozin},36526211000001102 | Ertugliflozin (product),62315008 | Diarrhea (finding),Adverse reaction,Intolerance,,Before
+experienced {r diarrhoea} with {m hydrocortisone powder},4317011000001107 | Hydrocortisone powder (product),62315008 | Diarrhea (finding),Adverse reaction,Intolerance,,Before
+experienced {r diarrhoea} due to {m potassium permanganate},9722711000001101 | Potassium permanganate (product),62315008 | Diarrhea (finding),Adverse reaction,Intolerance,,Before
+experienced {r diarrhoea} with {m somatorelin},10049111000001105 | Somatorelin (product),62315008 | Diarrhea (finding),Adverse reaction,Intolerance,,Before
+experienced {r diarrhoea} with {m co-beneldopa},18036811000001106 | Co-beneldopa (product),62315008 | Diarrhea (finding),Adverse reaction,Intolerance,,Before
+had {r diarrhoea} due to {m sotrovimab},40384311000001103 | Sotrovimab (product),62315008 | Diarrhea (finding),Adverse reaction,Intolerance,,Before
+experienced {r diarrhoea} with {m emulsifying ointment},14608311000001101 | Emulsifying ointment (product),62315008 | Diarrhea (finding),Adverse reaction,Intolerance,,Before
+experienced {r diarrhoea} with {m nalmefene},22404211000001106 | Nalmefene (product),62315008 | Diarrhea (finding),Adverse reaction,Intolerance,,Before
+experienced {r diarrhoea} due to {m sucroferric oxyhydroxide},28453911000001100 | Sucroferric oxyhydroxide (product),62315008 | Diarrhea (finding),Adverse reaction,Intolerance,,Before
+experienced {r diarrhoea} due to {m venetoclax},33686611000001109 | Venetoclax (product),62315008 | Diarrhea (finding),Adverse reaction,Intolerance,,Before
+had {r diarrhoea} due to {m formaldehyde solution},5174211000001102 | Formaldehyde solution (product),62315008 | Diarrhea (finding),Adverse reaction,Intolerance,,Before
+experienced {r diarrhoea} due to {m supportan drink},17236411000001109 | Supportan drink (product),62315008 | Diarrhea (finding),Adverse reaction,Intolerance,,Before
+had {r diarrhoea} due to {m finerenone},40634211000001108 | Finerenone (product),62315008 | Diarrhea (finding),Adverse reaction,Intolerance,,Before
+experienced {r nausea and vomiting} due to {m co-proxamol},18037311000001104 | Co-proxamol (product),16932000 | Nausea and vomiting (disorder),Adverse reaction,Intolerance,,Before
+experienced {r nausea and vomiting} with {m pemigatinib},39933711000001101 | Pemigatinib (product),16932000 | Nausea and vomiting (disorder),Adverse reaction,Intolerance,,Before
+experienced {r nausea and vomiting} due to {m glycerol liquid},4217811000001106 | Glycerol liquid (product),16932000 | Nausea and vomiting (disorder),Adverse reaction,Intolerance,,Before
+experienced {r nausea and vomiting} due to {m emicizumab},35289511000001107 | Emicizumab (product),16932000 | Nausea and vomiting (disorder),Adverse reaction,Intolerance,,Before
+experienced {r nausea and vomiting} with {m ornithine powder},34878511000001107 | Ornithine powder (product),16932000 | Nausea and vomiting (disorder),Adverse reaction,Intolerance,,Before
+experienced {r nausea and vomiting} due to {m polyethylene oxide},22373711000001100 | Polyethylene oxide (product),16932000 | Nausea and vomiting (disorder),Adverse reaction,Intolerance,,Before
+had {r nausea and vomiting} due to {m haloperidol decanoate},13296101000001101 | Haloperidol decanoate (product),16932000 | Nausea and vomiting (disorder),Adverse reaction,Intolerance,,Before
+experienced {r nausea and vomiting} with {m pipobroman},20439311000001104 | Pipobroman (product),16932000 | Nausea and vomiting (disorder),Adverse reaction,Intolerance,,Before
+experienced {r nausea and vomiting} with {m onasemnogene abeparvovec},39601611000001100 | Onasemnogene abeparvovec (product),16932000 | Nausea and vomiting (disorder),Adverse reaction,Intolerance,,Before
+experienced {r nausea and vomiting} due to {m patiromer calcium},34740111000001102 | Patiromer calcium (product),16932000 | Nausea and vomiting (disorder),Adverse reaction,Intolerance,,Before
+experienced {r nausea and vomiting} due to {m pneumococcal vaccine},9894911000001101 | Pneumococcal vaccine (product),16932000 | Nausea and vomiting (disorder),Adverse reaction,Intolerance,,Before
+had {r nausea and vomiting} due to {m ocrelizumab},35058611000001103 | Ocrelizumab (product),16932000 | Nausea and vomiting (disorder),Adverse reaction,Intolerance,,Before
+experienced {r nausea and vomiting} with {m exametazime},39853211000001102 | Exametazime (product),16932000 | Nausea and vomiting (disorder),Adverse reaction,Intolerance,,Before
+experienced {r nausea and vomiting} due to {m glucose liquid},39495011000001105 | Glucose liquid (product),16932000 | Nausea and vomiting (disorder),Adverse reaction,Intolerance,,Before
+experienced {r nausea and vomiting} due to {m blackcurrant syrup},5172511000001109 | Blackcurrant syrup (product),16932000 | Nausea and vomiting (disorder),Adverse reaction,Intolerance,,Before
+experienced {r nausea and vomiting} due to {m phenytoin sodium},36408711000001107 | Phenytoin sodium (product),16932000 | Nausea and vomiting (disorder),Adverse reaction,Intolerance,,Before
+experienced {r nausea and vomiting} with {m tisopurine},29685511000001101 | Tisopurine (product),16932000 | Nausea and vomiting (disorder),Adverse reaction,Intolerance,,Before
+experienced {r nausea and vomiting} with {m pine mistletoe},11466811000001104 | Pine mistletoe (product),16932000 | Nausea and vomiting (disorder),Adverse reaction,Intolerance,,Before
+had {r nausea and vomiting} due to {m herbal tablets},7565711000001106 | Herbal tablets (product),16932000 | Nausea and vomiting (disorder),Adverse reaction,Intolerance,,Before
+had {r nausea and vomiting} with {m lusutrombopag},37930811000001108 | Lusutrombopag (product),16932000 | Nausea and vomiting (disorder),Adverse reaction,Intolerance,,Before
+had {r urticaria} due to {m terizidone},38723411000001102 | Terizidone (product),126485001 | Urticaria (disorder),Adverse reaction,,,Before
+experienced {r urticaria} due to {m talimogene laherparepvec},32455711000001105 | Talimogene laherparepvec (product),126485001 | Urticaria (disorder),Adverse reaction,,,Before
+had {r urticaria} due to {m l-ornithine-l-aspartate},23993111000001107 | L-Ornithine-L-Aspartate (product),126485001 | Urticaria (disorder),Adverse reaction,,,Before
+had {r urticaria} with {m cenobamate},40200511000001106 | Cenobamate (product),126485001 | Urticaria (disorder),Adverse reaction,,,Before
+experienced {r urticaria} due to {m penfluridol},27987311000001107 | Penfluridol (product),126485001 | Urticaria (disorder),Adverse reaction,,,Before
+experienced {r urticaria} with {m trastuzumab emtansine},24002411000001100 | Trastuzumab emtansine (product),126485001 | Urticaria (disorder),Adverse reaction,,,Before
+experienced {r urticaria} due to {m berotralstat},40227711000001107 | Berotralstat (product),126485001 | Urticaria (disorder),Adverse reaction,,,Before
+had {r urticaria} with {m cytarabine (liposomal)},13294701000001105 | Cytarabine (liposomal) (product),126485001 | Urticaria (disorder),Adverse reaction,,,Before
+had {r urticaria} with {m erythromycin lactobionate},36409511000001108 | Erythromycin lactobionate (product),126485001 | Urticaria (disorder),Adverse reaction,,,Before
+had {r urticaria} due to {m ocrelizumab},35058611000001103 | Ocrelizumab (product),126485001 | Urticaria (disorder),Adverse reaction,,,Before
+had {r urticaria} with {m frovatriptan},36408211000001100 | Frovatriptan (product),126485001 | Urticaria (disorder),Adverse reaction,,,Before
+experienced {r urticaria} due to {m tragacanth powder},5146211000001106 | Tragacanth powder (product),126485001 | Urticaria (disorder),Adverse reaction,,,Before
+had {r urticaria} due to {m apple mistletoe},11466011000001105 | Apple mistletoe (product),126485001 | Urticaria (disorder),Adverse reaction,,,Before
+had {r urticaria} due to {m hypochlorite},10047611000001107 | Hypochlorite (product),126485001 | Urticaria (disorder),Adverse reaction,,,Before
+had {r urticaria} due to {m dl-methionine},23965611000001103 | DL-Methionine (product),126485001 | Urticaria (disorder),Adverse reaction,,,Before
+had {r urticaria} due to {m grass pollen},10568011000001108 | Grass pollen (product),126485001 | Urticaria (disorder),Adverse reaction,,,Before
+had {r urticaria} with {m ravulizumab},38194311000001107 | Ravulizumab (product),126485001 | Urticaria (disorder),Adverse reaction,,,Before
+experienced {r urticaria} with {m cabozantinib},28013211000001109 | Cabozantinib (product),126485001 | Urticaria (disorder),Adverse reaction,,,Before
+had {r urticaria} due to {m urapidil},29693111000001108 | Urapidil (product),126485001 | Urticaria (disorder),Adverse reaction,,,Before
+had {r urticaria} due to {m co-cyprindiol},18036911000001101 | Co-cyprindiol (product),126485001 | Urticaria (disorder),Adverse reaction,,,Before
+had {r gi bleed} with {m norethisterone acetate},10568711000001105 | Norethisterone acetate (product),74474003 | Gastrointestinal hemorrhage (disorder),Adverse reaction,Intolerance,Severe,Before
+experienced {r gi bleed} due to {m mycophenolate mofetil},230381000001108 | Mycophenolate mofetil (product),74474003 | Gastrointestinal hemorrhage (disorder),Adverse reaction,Intolerance,Severe,Before
+had {r gi bleed} due to {m guar gum},13297801000001106 | Guar gum (product),74474003 | Gastrointestinal hemorrhage (disorder),Adverse reaction,Intolerance,Severe,Before
+had {r gi bleed} with {m dacomitinib},37248911000001101 | Dacomitinib (product),74474003 | Gastrointestinal hemorrhage (disorder),Adverse reaction,Intolerance,Severe,Before
+experienced {r gi bleed} due to {m calcium ascorbate},13296501000001106 | Calcium ascorbate (product),74474003 | Gastrointestinal hemorrhage (disorder),Adverse reaction,Intolerance,Severe,Before
+had {r gi bleed} with {m erenumab},35809611000001100 | Erenumab (product),74474003 | Gastrointestinal hemorrhage (disorder),Adverse reaction,Intolerance,Severe,Before
+experienced {r gi bleed} with {m pralidoxime chloride},13551311000001108 | Pralidoxime chloride (product),74474003 | Gastrointestinal hemorrhage (disorder),Adverse reaction,Intolerance,Severe,Before
+experienced {r gi bleed} due to {m mangafodipir},10202011000001102 | Mangafodipir (product),74474003 | Gastrointestinal hemorrhage (disorder),Adverse reaction,Intolerance,Severe,Before
+had {r gi bleed} due to {m crizanlizumab},39950511000001101 | Crizanlizumab (product),74474003 | Gastrointestinal hemorrhage (disorder),Adverse reaction,Intolerance,Severe,Before
+had {r gi bleed} due to {m aluminium acetate},14022211000001106 | Aluminium acetate (product),74474003 | Gastrointestinal hemorrhage (disorder),Adverse reaction,Intolerance,Severe,Before
+experienced {r gi bleed} due to {m sucroferric oxyhydroxide},28453911000001100 | Sucroferric oxyhydroxide (product),74474003 | Gastrointestinal hemorrhage (disorder),Adverse reaction,Intolerance,Severe,Before
+experienced {r gi bleed} due to {m cenegermin},34813411000001105 | Cenegermin (product),74474003 | Gastrointestinal hemorrhage (disorder),Adverse reaction,Intolerance,Severe,Before
+experienced {r gi bleed} with {m bromhexine},24617211000001106 | Bromhexine (product),74474003 | Gastrointestinal hemorrhage (disorder),Adverse reaction,Intolerance,Severe,Before
+experienced {r gi bleed} due to {m polatuzumab vedotin},38221711000001102 | Polatuzumab vedotin (product),74474003 | Gastrointestinal hemorrhage (disorder),Adverse reaction,Intolerance,Severe,Before
+had {r gi bleed} due to {m l-ornithine-l-aspartate},23993111000001107 | L-Ornithine-L-Aspartate (product),74474003 | Gastrointestinal hemorrhage (disorder),Adverse reaction,Intolerance,Severe,Before
+had {r gi bleed} due to {m ioflupane [i-123]},39417211000001107 | Ioflupane [I-123] (product),74474003 | Gastrointestinal hemorrhage (disorder),Adverse reaction,Intolerance,Severe,Before
+experienced {r gi bleed} with {m cranberry capsules},7597211000001109 | Cranberry capsules (product),74474003 | Gastrointestinal hemorrhage (disorder),Adverse reaction,Intolerance,Severe,Before
+experienced {r gi bleed} due to {m cholesterol powder},18518911000001109 | Cholesterol powder (product),74474003 | Gastrointestinal hemorrhage (disorder),Adverse reaction,Intolerance,Severe,Before
+had {r gi bleed} due to {m generic aquabar},7526511000001103 | Generic AquaBar (product),74474003 | Gastrointestinal hemorrhage (disorder),Adverse reaction,Intolerance,Severe,Before
+had {r gi bleed} due to {m belladonna tincture},5146011000001101 | Belladonna tincture (product),74474003 | Gastrointestinal hemorrhage (disorder),Adverse reaction,Intolerance,Severe,Before
+had {r anaphylaxis} with {m mepolizumab},31201911000001104 | Mepolizumab (product),39579001 | Anaphylaxis (disorder),Adverse reaction,Allergy,Severe,Before
+had {r anaphylaxis} due to {m coumarin},10565311000001102 | Coumarin (product),39579001 | Anaphylaxis (disorder),Adverse reaction,Allergy,Severe,Before
+had {r anaphylaxis} with {m inotuzumab ozogamicin},34665611000001104 | Inotuzumab ozogamicin (product),39579001 | Anaphylaxis (disorder),Adverse reaction,Allergy,Severe,Before
+had {r anaphylaxis} with {m pipobroman},20439311000001104 | Pipobroman (product),39579001 | Anaphylaxis (disorder),Adverse reaction,Allergy,Severe,Before
+experienced {r anaphylaxis} due to {m polyethylene oxide},22373711000001100 | Polyethylene oxide (product),39579001 | Anaphylaxis (disorder),Adverse reaction,Allergy,Severe,Before
+experienced {r anaphylaxis} due to {m benzathine benzylpenicillin},13294901000001107 | Benzathine benzylpenicillin (product),39579001 | Anaphylaxis (disorder),Adverse reaction,Allergy,Severe,Before
+experienced {r anaphylaxis} due to {m alanine powder},38716411000001104 | Alanine powder (product),39579001 | Anaphylaxis (disorder),Adverse reaction,Allergy,Severe,Before
+had {r anaphylaxis} due to {m wheat dextrin},11788811000001107 | Wheat dextrin (product),39579001 | Anaphylaxis (disorder),Adverse reaction,Allergy,Severe,Before
+experienced {r anaphylaxis} due to {m vonicog alfa},38721211000001100 | Vonicog alfa (product),39579001 | Anaphylaxis (disorder),Adverse reaction,Allergy,Severe,Before
+experienced {r anaphylaxis} with {m dupilumab},34952011000001109 | Dupilumab (product),39579001 | Anaphylaxis (disorder),Adverse reaction,Allergy,Severe,Before
+experienced {r anaphylaxis} with {m zinc hyaluronate},34247111000001106 | Zinc hyaluronate (product),39579001 | Anaphylaxis (disorder),Adverse reaction,Allergy,Severe,Before
+experienced {r anaphylaxis} due to {m dried yeast},10569311000001100 | Dried yeast (product),39579001 | Anaphylaxis (disorder),Adverse reaction,Allergy,Severe,Before
+experienced {r anaphylaxis} with {m tisagenlecleucel},38108211000001107 | Tisagenlecleucel (product),39579001 | Anaphylaxis (disorder),Adverse reaction,Allergy,Severe,Before
+had {r anaphylaxis} due to {m amifampridine},72181000001101 | Amifampridine (product),39579001 | Anaphylaxis (disorder),Adverse reaction,Allergy,Severe,Before
+experienced {r anaphylaxis} with {m icosapent},40337911000001103 | Icosapent (product),39579001 | Anaphylaxis (disorder),Adverse reaction,Allergy,Severe,Before
+experienced {r anaphylaxis} with {m romosozumab},38186711000001103 | Romosozumab (product),39579001 | Anaphylaxis (disorder),Adverse reaction,Allergy,Severe,Before
+had {r anaphylaxis} due to {m multivitamin capsules},10328511000001105 | Multivitamin capsules (product),39579001 | Anaphylaxis (disorder),Adverse reaction,Allergy,Severe,Before
+had {r anaphylaxis} due to {m homeopathic hamamelis},9873111000001109 | Homeopathic hamamelis (product),39579001 | Anaphylaxis (disorder),Adverse reaction,Allergy,Severe,Before
+had {r anaphylaxis} with {m larvae sterile},9003511000001109 | Larvae sterile (product),39579001 | Anaphylaxis (disorder),Adverse reaction,Allergy,Severe,Before
+experienced {r anaphylaxis} due to {m ipecacuanha tincture},5174811000001101 | Ipecacuanha tincture (product),39579001 | Anaphylaxis (disorder),Adverse reaction,Allergy,Severe,Before
+recently stopped taking {m isavuconazole},31010011000001101 | Isavuconazole (product),,Irrelevant,,,
+recently stopped taking {m lusutrombopag},37930811000001108 | Lusutrombopag (product),,Irrelevant,,,
+recently stopped taking {m eteplirsen},40584811000001109 | Eteplirsen (product),,Irrelevant,,,
+recently stopped taking {m besilesomab},39477711000001106 | Besilesomab (product),,Irrelevant,,,
+recently stopped taking {m perindopril tosilate},22209211000001106 | Perindopril tosilate (product),,Irrelevant,,,
+recently stopped taking {m chloroquine sulphate},13591011000001104 | Chloroquine sulphate (product),,Irrelevant,,,
+recently stopped taking {m herbal cream},7991911000001103 | Herbal cream (product),,Irrelevant,,,
+recently stopped taking {m l-ornithine-l-aspartate},23993111000001107 | L-Ornithine-L-Aspartate (product),,Irrelevant,,,
+recently stopped taking {m supportan drink},17236411000001109 | Supportan drink (product),,Irrelevant,,,
+recently stopped taking {m amifampridine},72181000001101 | Amifampridine (product),,Irrelevant,,,
+recently stopped taking {m calcium ascorbate},13296501000001106 | Calcium ascorbate (product),,Irrelevant,,,
+recently stopped taking {m sodium phenylbutyrate},230391000001105 | Sodium phenylbutyrate (product),,Irrelevant,,,
+recently stopped taking {m testosterone enantate},13570211000001109 | Testosterone enantate (product),,Irrelevant,,,
+recently stopped taking {m abemaciclib},36196311000001105 | Abemaciclib (product),,Irrelevant,,,
+recently stopped taking {m secretin pentahydrochloride},36505511000001101 | Secretin pentahydrochloride (product),,Irrelevant,,,
+recently stopped taking {m tenofovir disoproxil},30934411000001109 | Tenofovir disoproxil (product),,Irrelevant,,,
+recently stopped taking {m creatine},27945611000001103 | Creatine (product),,Irrelevant,,,
+recently stopped taking {m voretigene neparvovec},38008011000001107 | Voretigene neparvovec (product),,Irrelevant,,,
+recently stopped taking {m benzathine benzylpenicillin},13294901000001107 | Benzathine benzylpenicillin (product),,Irrelevant,,,
+recently stopped taking {m bempedoic},38924911000001101 | Bempedoic (product),,Irrelevant,,,
+not keen on taking {m squill oxymel},5241411000001101 | Squill oxymel (product),,Irrelevant,,,
+not keen on taking {m pegcetacoplan},40555711000001107 | Pegcetacoplan (product),,Irrelevant,,,
+not keen on taking {m haem arginate},13297901000001100 | Haem arginate (product),,Irrelevant,,,
+not keen on taking {m amifampridine},72181000001101 | Amifampridine (product),,Irrelevant,,,
+not keen on taking {m safinamide},32684811000001105 | Safinamide (product),,Irrelevant,,,
+not keen on taking {m didecyldimethylammonium chloride},19447211000001102 | Didecyldimethylammonium chloride (product),,Irrelevant,,,
+not keen on taking {m co-beneldopa},18036811000001106 | Co-beneldopa (product),,Irrelevant,,,
+not keen on taking {m emulsifying ointment},14608311000001101 | Emulsifying ointment (product),,Irrelevant,,,
+not keen on taking {m cannabidiol},35022511000001100 | Cannabidiol (product),,Irrelevant,,,
+not keen on taking {m glycerol liquid},4217811000001106 | Glycerol liquid (product),,Irrelevant,,,
+not keen on taking {m venetoclax},33686611000001109 | Venetoclax (product),,Irrelevant,,,
+not keen on taking {m sucroferric oxyhydroxide},28453911000001100 | Sucroferric oxyhydroxide (product),,Irrelevant,,,
+not keen on taking {m supportan drink},17236411000001109 | Supportan drink (product),,Irrelevant,,,
+not keen on taking {m sodium perchlorate},21864511000001101 | Sodium perchlorate (product),,Irrelevant,,,
+not keen on taking {m ajmaline},22466911000001109 | Ajmaline (product),,Irrelevant,,,
+not keen on taking {m alpelisib},38924711000001103 | Alpelisib (product),,Irrelevant,,,
+not keen on taking {m selpercatinib},39482711000001104 | Selpercatinib (product),,Irrelevant,,,
+not keen on taking {m kaolin poultices},14614411000001101 | Kaolin poultices (product),,Irrelevant,,,
+not keen on taking {m gilteritinib},37898211000001109 | Gilteritinib (product),,Irrelevant,,,
+not keen on taking {m metronidazole powder},10824711000001106 | Metronidazole powder (product),,Irrelevant,,,

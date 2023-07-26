@@ -1,0 +1,22 @@
+allergenType,adverseReactionType,adverseReactionId
+Food,Allergy,414285001
+Drug,Allergy,416098002
+Drug Class,Allergy,416098002
+Drug Ingredient,Allergy,416098002
+Chemical,Allergy,419199007
+Environmental,Allergy,426232007
+Animal,Allergy,426232007
+Food,Intolerance,235719002
+Drug,Intolerance,59037007
+Drug Class,Intolerance,59037007
+Drug Ingredient,Intolerance,59037007
+Chemical,Intolerance,418038007
+Environmental,Intolerance,420134006
+Animal,Intolerance,420134006
+Food,Unspecified,418471000
+Drug,Unspecified,419511003
+Drug Class,Unspecified,419511003
+Drug Ingredient,Unspecified,419511003
+Chemical,Unspecified,418038007
+Environmental,Unspecified,420134006
+Animal,Unspecified,420134006

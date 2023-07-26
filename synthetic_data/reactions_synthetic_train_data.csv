@@ -1,0 +1,362 @@
+text,cui,name,start,end,reaction_pos
+feeling breathless today.,267036007,dyspnea,8,18,none
+allergies: severe severe depression with co-tenidone.,310497006,severe depression,18,35,before
+allergies: severe liver palms with cannabidiol.,248413004,liver palms,18,29,before
+allergies: severe oral dyspraxia with dapoxetine.,361275004,oral dyspraxia,18,32,before
+allergies: severe postcholecystectomy diarrhea with pneumococcal vaccine.,53156005,postcholecystectomy diarrhea,18,46,before
+allergies: severe ménière's disease with multivitamin capsules.,13445001,ménière's disease,18,35,before
+allergies: severe anxiety disorder with benzathine benzylpenicillin.,197480006,anxiety disorder,18,34,before
+allergies: severe onychogryposis with crizanlizumab.,52897009,onychogryposis,18,32,before
+allergies: severe depressive disorder with sodium valproate.,35489007,depressive disorder,18,37,before
+allergies: severe dyspnea with glycerol phenylbutyrate.,267036007,dyspnea,18,25,before
+allergies: severe cochlear hydrops with fremanezumab.,70831000119103,cochlear hydrops,18,34,before
+allergies: severe persistent vomiting with guar gum.,196746003,persistent vomiting,18,37,before
+allergies: severe acute cheiropodopompholyx with homeopathic sulphur.,238550003,acute cheiropodopompholyx,18,43,before
+allergies: severe parotid swelling with polatuzumab vedotin.,271613005,parotid swelling,18,34,before
+allergies: severe hemorrhagic gastroenteritis with inotuzumab ozogamicin.,409506009,hemorrhagic gastroenteritis,18,45,before
+allergies: severe rubelliform eruption with grass pollen.,297958004,rubelliform eruption,18,38,before
+allergies: severe palpitations with toiletries gel.,80313002,palpitations,18,30,before
+allergies: severe lipedematous alopecia with emulsifying ointment.,238923001,lipedematous alopecia,18,39,before
+allergies: severe waterbrash with magnesium chloride.,162030005,waterbrash,18,28,before
+allergies: severe blurred vision with semaglutide.,240091000000105,blurred vision,18,32,before
+allergies: severe acid reflux with measles vaccine.,698065002,acid reflux,18,29,before
+adverse reaction to arginine (intol) - mild tummy ache.,271681002,stomach ache,44,54,after
+adverse reaction to susoctocog alfa (intolerance) - mild tummy ache.,271681002,stomach ache,57,67,after
+adverse reaction to inclisiran (intol) - mild tummy ache.,271681002,stomach ache,46,56,after
+adverse reaction to potassium hydroxide (intol) - mild tummy ache.,271681002,stomach ache,55,65,after
+adverse reaction to multinutrient tablets (intol) - mild tummy ache.,271681002,stomach ache,57,67,after
+adverse reaction to lipoic acid (intolerance) - mild tummy ache.,271681002,stomach ache,53,63,after
+adverse reaction to cenegermin (intolerance) - mild tummy ache.,271681002,stomach ache,52,62,after
+adverse reaction to eucalyptus oil (intolerance) - mild tummy ache.,271681002,stomach ache,56,66,after
+adverse reaction to dried yeast (intolerance) - mild tummy ache.,271681002,stomach ache,53,63,after
+adverse reaction to pine mistletoe (intolerance) - mild tummy ache.,271681002,stomach ache,56,66,after
+adverse reaction to neratinib (intolerance) - mild tummy ache.,271681002,stomach ache,51,61,after
+adverse reaction to lactoperoxidase (intol) - mild tummy ache.,271681002,stomach ache,51,61,after
+adverse reaction to zinc hyaluronate (intol) - mild tummy ache.,271681002,stomach ache,52,62,after
+adverse reaction to risedronate sodium (intol) - mild tummy ache.,271681002,stomach ache,54,64,after
+adverse reaction to hydrocortisone powder (intolerance) - mild tummy ache.,271681002,stomach ache,63,73,after
+adverse reaction to emulsifying ointment (intolerance) - mild tummy ache.,271681002,stomach ache,62,72,after
+adverse reaction to avelumab (intol) - mild tummy ache.,271681002,stomach ache,44,54,after
+adverse reaction to lusutrombopag (intolerance) - mild tummy ache.,271681002,stomach ache,55,65,after
+adverse reaction to diphencyprone (intol) - mild tummy ache.,271681002,stomach ache,49,59,after
+adverse reaction to herbal cream (intolerance) - mild tummy ache.,271681002,stomach ache,54,64,after
+intolerant of larotrectinib (moderate diarrhoea).,62315008,diarrhea,38,47,after
+intolerant of nalmefene (moderate diarrhoea).,62315008,diarrhea,34,43,after
+intolerant of sodium valproate (moderate diarrhoea).,62315008,diarrhea,41,50,after
+intolerant of solriamfetol (moderate diarrhoea).,62315008,diarrhea,37,46,after
+intolerant of idarucizumab (moderate diarrhoea).,62315008,diarrhea,37,46,after
+intolerant of apalutamide (moderate diarrhoea).,62315008,diarrhea,36,45,after
+intolerant of raspberry syrup (moderate diarrhoea).,62315008,diarrhea,40,49,after
+intolerant of formaldehyde solution (moderate diarrhoea).,62315008,diarrhea,46,55,after
+intolerant of didecyldimethylammonium chloride (moderate diarrhoea).,62315008,diarrhea,57,66,after
+intolerant of catridecacog (moderate diarrhoea).,62315008,diarrhea,37,46,after
+intolerant of typhoid vaccine (moderate diarrhoea).,62315008,diarrhea,40,49,after
+intolerant of sodium phenylbutyrate (moderate diarrhoea).,62315008,diarrhea,46,55,after
+intolerant of mycophenolate mofetil (moderate diarrhoea).,62315008,diarrhea,46,55,after
+intolerant of axicabtagene ciloleucel (moderate diarrhoea).,62315008,diarrhea,48,57,after
+intolerant of pneumococcal vaccine (moderate diarrhoea).,62315008,diarrhea,45,54,after
+intolerant of wheat dextrin (moderate diarrhoea).,62315008,diarrhea,38,47,after
+intolerant of fremanezumab (moderate diarrhoea).,62315008,diarrhea,37,46,after
+intolerant of garlic capsules (moderate diarrhoea).,62315008,diarrhea,40,49,after
+intolerant of hexaminolevulinate (moderate diarrhoea).,62315008,diarrhea,43,52,after
+intolerant of colestilan (moderate diarrhoea).,62315008,diarrhea,35,44,after
+allergies: benzalkonium chloride (anaphylaxis),39579001,anaphylaxis,34,45,after
+allergies: copper compound (anaphylaxis),39579001,anaphylaxis,28,39,after
+allergies: 4-hydroxybenzoate nonaprenyltransferase (anaphylaxis),39579001,anaphylaxis,52,63,after
+allergies: fuel oil (anaphylaxis),39579001,anaphylaxis,21,32,after
+allergies: captodiamine (anaphylaxis),39579001,anaphylaxis,25,36,after
+allergies: porcine heparin (anaphylaxis),39579001,anaphylaxis,28,39,after
+allergies: aminosalicylate sodium (anaphylaxis),39579001,anaphylaxis,35,46,after
+allergies: malt (anaphylaxis),39579001,anaphylaxis,17,28,after
+allergies: inseparable antibody (anaphylaxis),39579001,anaphylaxis,33,44,after
+allergies: bentoquatam (anaphylaxis),39579001,anaphylaxis,24,35,after
+allergies: calcium radioisotope (anaphylaxis),39579001,anaphylaxis,33,44,after
+allergies: betanidine (anaphylaxis),39579001,anaphylaxis,23,34,after
+allergies: maxatase (anaphylaxis),39579001,anaphylaxis,21,32,after
+allergies: n-acetyl-beta-glucosaminidase (anaphylaxis),39579001,anaphylaxis,42,53,after
+allergies: titanium fumes (anaphylaxis),39579001,anaphylaxis,27,38,after
+allergies: hemoglobin suan-dok (anaphylaxis),39579001,anaphylaxis,32,43,after
+allergies: gadoxetate disodium (anaphylaxis),39579001,anaphylaxis,32,43,after
+allergies: pamidronate monosodium (anaphylaxis),39579001,anaphylaxis,35,46,after
+allergies: fosphenytoin sodium (anaphylaxis),39579001,anaphylaxis,32,43,after
+allergies: phytochrome (anaphylaxis),39579001,anaphylaxis,24,35,after
+intolerant of pridinol which gave them indigestion.,162031009,indigestion,39,50,after
+intolerant of corticotropin which gave him indigestion.,162031009,indigestion,43,54,after
+intolerant of lithium chloride which gave them indigestion.,162031009,indigestion,47,58,after
+intolerant of histamine which gave him indigestion.,162031009,indigestion,39,50,after
+intolerant of sotrovimab which gave him indigestion.,162031009,indigestion,40,51,after
+intolerant of l-arginine powder which caused him indigestion.,162031009,indigestion,49,60,after
+intolerant of ceftobiprole which gave them indigestion.,162031009,indigestion,43,54,after
+intolerant of larotrectinib which caused her indigestion.,162031009,indigestion,45,56,after
+intolerant of homeopathic graphites which gave her indigestion.,162031009,indigestion,51,62,after
+intolerant of selumetinib which gave him indigestion.,162031009,indigestion,41,52,after
+intolerant of glucose liquid which gave him indigestion.,162031009,indigestion,44,55,after
+intolerant of thymol crystals which gave them indigestion.,162031009,indigestion,46,57,after
+intolerant of tildrakizumab which caused him indigestion.,162031009,indigestion,45,56,after
+intolerant of methylnaltrexone bromide which caused him indigestion.,162031009,indigestion,56,67,after
+intolerant of alectinib which gave him indigestion.,162031009,indigestion,39,50,after
+intolerant of typhoid vaccine which gave them indigestion.,162031009,indigestion,46,57,after
+intolerant of co-beneldopa which caused them indigestion.,162031009,indigestion,45,56,after
+intolerant of citronella oil which gave him indigestion.,162031009,indigestion,44,55,after
+intolerant of hamamelis water which caused him indigestion.,162031009,indigestion,47,58,after
+intolerant of creatine which gave him indigestion.,162031009,indigestion,38,49,after
+intolerant of larvae sterile (severe nausea and vomiting).,16932000,nausea and vomiting,37,56,after
+intolerant of catridecacog (severe nausea and vomiting).,16932000,nausea and vomiting,35,54,after
+intolerant of fremanezumab (severe nausea and vomiting).,16932000,nausea and vomiting,35,54,after
+intolerant of belladonna tincture (severe nausea and vomiting).,16932000,nausea and vomiting,42,61,after
+intolerant of amifampridine (severe nausea and vomiting).,16932000,nausea and vomiting,36,55,after
+intolerant of bezlotoxumab (severe nausea and vomiting).,16932000,nausea and vomiting,35,54,after
+intolerant of homeopathic graphites (severe nausea and vomiting).,16932000,nausea and vomiting,44,63,after
+intolerant of cranberry (severe nausea and vomiting).,16932000,nausea and vomiting,32,51,after
+intolerant of flutrimazole (severe nausea and vomiting).,16932000,nausea and vomiting,35,54,after
+intolerant of diphencyprone (severe nausea and vomiting).,16932000,nausea and vomiting,36,55,after
+intolerant of tetanus vaccine (severe nausea and vomiting).,16932000,nausea and vomiting,38,57,after
+intolerant of frovatriptan (severe nausea and vomiting).,16932000,nausea and vomiting,35,54,after
+intolerant of dl-methionine (severe nausea and vomiting).,16932000,nausea and vomiting,36,55,after
+intolerant of varicella vaccine (severe nausea and vomiting).,16932000,nausea and vomiting,40,59,after
+intolerant of magnesium lactate (severe nausea and vomiting).,16932000,nausea and vomiting,40,59,after
+intolerant of eluxadoline (severe nausea and vomiting).,16932000,nausea and vomiting,34,53,after
+intolerant of thymol crystals (severe nausea and vomiting).,16932000,nausea and vomiting,38,57,after
+intolerant of fructose powder (severe nausea and vomiting).,16932000,nausea and vomiting,38,57,after
+intolerant of dabigatran etexilate (severe nausea and vomiting).,16932000,nausea and vomiting,43,62,after
+intolerant of apple mistletoe (severe nausea and vomiting).,16932000,nausea and vomiting,38,57,after
+feeling psychogenic vomiting earlier,37224001,psychogenic vomiting,8,28,none
+feeling wrist stiff earlier,249916005,wrist stiff,8,19,none
+experiencing recurrent iridocyclitis earlier,6869001,recurrent iridocyclitis,13,36,none
+felt musculoskeletal pain today,279069000,musculoskeletal pain,5,25,none
+felt irritant gastritis yesterday,42541005,irritant gastritis,5,23,none
+felt memory impairment earlier,386807006,memory impairment,5,22,none
+experiences pityriasis alba yesterday,402296004,pityriasis alba,12,27,none
+felt flatulent dyspepsia earlier,249511005,flatulent dyspepsia,5,24,none
+feeling telogen effluvium earlier,39479004,telogen effluvium,8,25,none
+experiencing exercise anaphylaxis today,241952007,exercise anaphylaxis,13,33,none
+experiences status migrainosus yesterday,230467008,status migrainosus,12,30,none
+felt reinke's edema today,232436000,reinke's edema,5,19,none
+had iritis yesterday,65074000,iritis,4,10,none
+experiences alopecia neurotica yesterday,201141003,alopecia neurotica,12,30,none
+felt sneezing symptom yesterday,162367006,sneezing symptom,5,21,none
+experiences endogenous depression earlier,300706003,endogenous depression,12,33,none
+feeling alopecia totalis yesterday,19754005,alopecia totalis,8,24,none
+experiencing ophthalmoplegic migraine earlier,49605003,ophthalmoplegic migraine,13,37,none
+experiencing arthritis mutilans earlier,19514005,arthritis mutilans,13,31,none
+had abdominal pain yesterday,21522001,abdominal pain,4,18,none
+adverse reaction to tenofovir disoproxil (intolerance) - mild tummy ache,271681002,stomach ache,62,72,after
+adverse reaction to dl-methionine (intolerance) - mild tummy ache,271681002,stomach ache,55,65,after
+adverse reaction to botulinum antitoxin (intolerance) - mild tummy ache,271681002,stomach ache,61,71,after
+adverse reaction to selinexor (intolerance) - mild tummy ache,271681002,stomach ache,51,61,after
+adverse reaction to vonicog alfa (intolerance) - mild tummy ache,271681002,stomach ache,54,64,after
+adverse reaction to hyoscine butylbromide (intolerance) - mild tummy ache,271681002,stomach ache,63,73,after
+adverse reaction to allicin (intolerance) - mild tummy ache,271681002,stomach ache,49,59,after
+adverse reaction to lixisenatide (intolerance) - mild tummy ache,271681002,stomach ache,54,64,after
+adverse reaction to lysine powder (intolerance) - mild tummy ache,271681002,stomach ache,55,65,after
+adverse reaction to glucarpidase (intolerance) - mild tummy ache,271681002,stomach ache,54,64,after
+adverse reaction to pine mistletoe (intolerance) - mild tummy ache,271681002,stomach ache,56,66,after
+adverse reaction to hydroquinidine (intolerance) - mild tummy ache,271681002,stomach ache,56,66,after
+adverse reaction to secnidazole (intolerance) - mild tummy ache,271681002,stomach ache,53,63,after
+adverse reaction to phenobarbital sodium (intolerance) - mild tummy ache,271681002,stomach ache,62,72,after
+adverse reaction to tetanus vaccine (intolerance) - mild tummy ache,271681002,stomach ache,57,67,after
+adverse reaction to gadoteric acid (intolerance) - mild tummy ache,271681002,stomach ache,56,66,after
+adverse reaction to potassium ascorbate (intolerance) - mild tummy ache,271681002,stomach ache,61,71,after
+adverse reaction to sodium cromoglicate (intolerance) - mild tummy ache,271681002,stomach ache,61,71,after
+adverse reaction to co-codaprin (intolerance) - mild tummy ache,271681002,stomach ache,53,63,after
+adverse reaction to creatine (intolerance) - mild tummy ache,271681002,stomach ache,50,60,after
+intolerant of nonacog gamma moderate diarrhoea.,62315008,diarrhea,37,46,after
+intolerance to multimineral tablets moderate diarrhoea.,62315008,diarrhea,45,54,after
+intolerant of potassium ascorbate moderate diarrhoea.,62315008,diarrhea,43,52,after
+intolerant to vernakalant moderate diarrhoea.,62315008,diarrhea,35,44,after
+intolerant of filgotinib moderate diarrhoea.,62315008,diarrhea,34,43,after
+intolerant to glucose powder moderate diarrhoea.,62315008,diarrhea,38,47,after
+intolerant to squill oxymel moderate diarrhoea.,62315008,diarrhea,37,46,after
+intolerance to laurilsulfate moderate diarrhoea.,62315008,diarrhea,38,47,after
+intolerance of vinflunine moderate diarrhoea.,62315008,diarrhea,35,44,after
+intolerant of lixisenatide moderate diarrhoea.,62315008,diarrhea,36,45,after
+intolerant of pneumococcal vaccine moderate diarrhoea.,62315008,diarrhea,44,53,after
+intolerant to water potable moderate diarrhoea.,62315008,diarrhea,37,46,after
+intolerance to norethisterone enantate moderate diarrhoea.,62315008,diarrhea,48,57,after
+intolerance to guselkumab moderate diarrhoea.,62315008,diarrhea,35,44,after
+intolerant to toiletries liquid moderate diarrhoea.,62315008,diarrhea,41,50,after
+intolerant to nalmefene moderate diarrhoea.,62315008,diarrhea,33,42,after
+intolerance of axicabtagene ciloleucel moderate diarrhoea.,62315008,diarrhea,48,57,after
+intolerant to glucosamine sulphate moderate diarrhoea.,62315008,diarrhea,44,53,after
+intolerance to l-acetylcarnitine moderate diarrhoea.,62315008,diarrhea,42,51,after
+intolerance to trastuzumab deruxtecan moderate diarrhoea.,62315008,diarrhea,47,56,after
+allergies: zinc insulin -anaphylaxis,39579001,anaphylaxis,25,36,after
+allergies: orotidine-5'-phosphate decarboxylase - anaphylaxis,39579001,anaphylaxis,50,61,after
+allergies: fresh peas -anaphylaxis,39579001,anaphylaxis,23,34,after
+allergies: sultopride - anaphylaxis,39579001,anaphylaxis,24,35,after
+allergies: telotristat - anaphylaxis,39579001,anaphylaxis,25,36,after
+allergies: n-octanoylglycine -anaphylaxis,39579001,anaphylaxis,30,41,after
+allergies: egg white -anaphylaxis,39579001,anaphylaxis,22,33,after
+allergies: free cortisol - anaphylaxis,39579001,anaphylaxis,27,38,after
+allergies: dried fig -anaphylaxis,39579001,anaphylaxis,22,33,after
+allergies: n-acetylglucosamine-6-sulfatase - anaphylaxis,39579001,anaphylaxis,45,56,after
+allergies: cotinine - anaphylaxis,39579001,anaphylaxis,22,33,after
+allergies: dimethyl carbamate -anaphylaxis,39579001,anaphylaxis,31,42,after
+allergies: 3-hydroxyglutarate - anaphylaxis,39579001,anaphylaxis,32,43,after
+allergies: 2-enoate reductase - anaphylaxis,39579001,anaphylaxis,32,43,after
+allergies: ornipressin - anaphylaxis,39579001,anaphylaxis,25,36,after
+allergies: arrhenius acid - anaphylaxis,39579001,anaphylaxis,28,39,after
+allergies: dihydrocarbostyril derivative -anaphylaxis,39579001,anaphylaxis,42,53,after
+allergies: interleukin-6 -anaphylaxis,39579001,anaphylaxis,26,37,after
+allergies: ribitol dehydrogenase - anaphylaxis,39579001,anaphylaxis,35,46,after
+allergies: undecaprenyl-phosphate galactose-phosphotransferase -anaphylaxis,39579001,anaphylaxis,64,75,after
+he is allergic to hemoglobin olympia- swollen prostate,300533001,swollen prostate,38,54,after
+pt has allergy to technetium-93- congenital elephantiasis,205545009,congenital elephantiasis,33,57,after
+pat has allergy to lead-209- bladder distention,54768000,bladder distention,29,47,after
+patient has allergy to zinc insulin- erythematosquamous dermatosis,54792008,erythematosquamous dermatosis,37,66,after
+pat has allergy to thiohydroximate beta-d-glucosyltransferase- ankle pain,247373008,ankle pain,63,73,after
+patient is allergic to quazepam- anaphylaxis,39579001,anaphylaxis,33,44,after
+he has allergy to promethazine hydrochloride- rib pain,297217002,rib pain,46,54,after
+pat is allergic to benproperine - nocturnal dyspnea,248548009,nocturnal dyspnea,34,51,after
+pt is allergic to gilteritinib fumarate- nasal obstruction,232209000,nasal obstruction,41,58,after
+she has allergy to 3-ketovalidoxylamine c-n-lyase - ventricular tachycardia,25569003,ventricular tachycardia,52,75,after
+pt is allergic to avelumab- pustular bacterid,3533007,pustular bacterid,28,45,after
+"pat is allergic to 4,4'-methylene-bis-(2-chloroaniline) - inguinal pain",102570003,inguinal pain,58,71,after
+pt has allergy to agglutinogen- chronic constipation,236069009,chronic constipation,32,52,after
+pat is allergic to beta-fructofuranosidase- brown sputum,277910004,brown sputum,44,56,after
+he is allergic to bee pollen- arthritis mutilans,19514005,arthritis mutilans,30,48,after
+he is allergic to anthranilate 3-monooxygenase - chronic gastritis,8493009,chronic gastritis,49,66,after
+pt is allergic to hemoglobin e-saskatoon - persistent cough,284523002,persistent cough,43,59,after
+pt is allergic to quercetin-3-sulfate 3'-sulfotransferase - generalized headache,162299003,generalized headache,60,80,after
+patient has allergy to calcium polycarbophil- excessive sweating,52613005,excessive sweating,46,64,after
+he has allergy to porcine heparin - telogen effluvium,39479004,telogen effluvium,36,53,after
+9 day history of cerebral edema,2032001,cerebral edema,17,31,none
+2 hour hx of tachycardia,3424008,tachycardia,13,24,none
+2 hour history of tremor,26079004,tremor,18,24,none
+2 hour hist of flexural psoriasis,238600001,flexural psoriasis,15,33,none
+2 day history of psoriasis universalis,200974006,psoriasis universalis,17,38,none
+5 hour hist of carpopedal spasm,75140002,carpopedal spasm,15,31,none
+9 hour hist of racket nail,51806005,racket nail,15,26,none
+4 hour history of diaper rash,91487003,diaper rash,18,29,none
+9 day history of allergic rhinitis,61582004,allergic rhinitis,17,34,none
+6 hour hist of dissociative convulsions,191714002,dissociative convulsions,15,39,none
+12 hour history of immune-mediated conjunctivitis,414463005,immune-mediated conjunctivitis,19,49,none
+12 hour hist of panic attack,225624000,panic attack,16,28,none
+1 hour hx of musculoskeletal pain,279069000,musculoskeletal pain,13,33,none
+6 day history of endolymphatic hydrops,9794007,endolymphatic hydrops,17,38,none
+4 day history of increased appetite,72405004,increased appetite,17,35,none
+5 day hx of mazzotti reaction,430479006,mazzotti reaction,12,29,none
+6 day hist of muscular headache,398126006,muscular headache,14,31,none
+6 hour hist of pityriasis,34630004,pityriasis,15,25,none
+4 hour hist of nightmares,419145002,nightmares,15,25,none
+1 hour hx of tonic-clonic seizure,54200006,tonic-clonic seizure,13,33,none
+had bad nonulcer dyspepsia in the past every time he takes vinflunine,3696007,nonulcer dyspepsia,8,26,before
+had severe blanching rash previously every time he takes co-amilofruse,400990009,blanching rash,11,25,before
+had sev conjunctival edema prev whenever she takes fructose powder,84178004,conjunctival edema,8,26,before
+had sev gastric hemorrhage previously when taking vortioxetine,61401005,gastric hemorrhage,8,26,before
+had sev breastfeeding painful in the past every time he takes blackcurrant syrup,200430001,breastfeeding painful,8,29,before
+had serious trigeminal neuralgia in the past every time she takes diphencyprone,31681005,trigeminal neuralgia,12,32,before
+had severe subconjunctival edema previously whenever he takes corticotropin,25334004,subconjunctival edema,11,32,before
+had sev lightheadedness prev whenever he takes sucroferric oxyhydroxide,386705008,lightheadedness,8,23,before
+had bad allodynia in the past every time he takes co-dydramol,247404004,allodynia,8,17,before
+had sev sore nipple previously whenever she takes doxorubicin (liposomal),247350000,sore nipple,8,19,before
+had sev prostatic pain prev whenever she takes l-arginine powder,36729000,prostatic pain,8,22,before
+had severe conjunctival hyperemia prev whenever she takes ioflupane [i-123],193894004,conjunctival hyperemia,11,33,before
+had serious flatulent dyspepsia previously every time he takes benralizumab,249511005,flatulent dyspepsia,12,31,before
+had severe uveitis in the past every time she takes thyme,128473001,uveitis,11,18,before
+had bad prurigo simplex in the past whenever she takes cenobamate,55608001,prurigo simplex,8,23,before
+had severe sneezing symptom in the past every time he takes ceftobiprole,162367006,sneezing symptom,11,27,before
+had sev nocturia in the past when taking axicabtagene ciloleucel,139394000,nocturia,8,16,before
+had severe racket nail previously whenever he takes fluphenazine decanoate,51806005,racket nail,11,22,before
+had severe swollen thumb prev when taking copper ointment,314916002,swollen thumb,11,24,before
+had sev idiopathic urticaria prev whenever she takes cannabidiol,42265009,idiopathic urticaria,8,28,before
+had diarrhoea with macimorelin,62315008,diarrhea,4,13,before
+had diarrhoea due to pegcetacoplan,62315008,diarrhea,4,13,before
+experienced diarrhoea with colfosceril palmitate,62315008,diarrhea,12,21,before
+experienced diarrhoea with gadoteric acid,62315008,diarrhea,12,21,before
+had diarrhoea due to fremanezumab,62315008,diarrhea,4,13,before
+had diarrhoea with niraparib,62315008,diarrhea,4,13,before
+experienced diarrhoea due to copper histidine,62315008,diarrhea,12,21,before
+had diarrhoea due to ertugliflozin,62315008,diarrhea,4,13,before
+experienced diarrhoea with hydrocortisone powder,62315008,diarrhea,12,21,before
+experienced diarrhoea due to potassium permanganate,62315008,diarrhea,12,21,before
+experienced diarrhoea with somatorelin,62315008,diarrhea,12,21,before
+experienced diarrhoea with co-beneldopa,62315008,diarrhea,12,21,before
+had diarrhoea due to sotrovimab,62315008,diarrhea,4,13,before
+experienced diarrhoea with emulsifying ointment,62315008,diarrhea,12,21,before
+experienced diarrhoea with nalmefene,62315008,diarrhea,12,21,before
+experienced diarrhoea due to sucroferric oxyhydroxide,62315008,diarrhea,12,21,before
+experienced diarrhoea due to venetoclax,62315008,diarrhea,12,21,before
+had diarrhoea due to formaldehyde solution,62315008,diarrhea,4,13,before
+experienced diarrhoea due to supportan drink,62315008,diarrhea,12,21,before
+had diarrhoea due to finerenone,62315008,diarrhea,4,13,before
+experienced nausea and vomiting due to co-proxamol,16932000,nausea and vomiting,12,31,before
+experienced nausea and vomiting with pemigatinib,16932000,nausea and vomiting,12,31,before
+experienced nausea and vomiting due to glycerol liquid,16932000,nausea and vomiting,12,31,before
+experienced nausea and vomiting due to emicizumab,16932000,nausea and vomiting,12,31,before
+experienced nausea and vomiting with ornithine powder,16932000,nausea and vomiting,12,31,before
+experienced nausea and vomiting due to polyethylene oxide,16932000,nausea and vomiting,12,31,before
+had nausea and vomiting due to haloperidol decanoate,16932000,nausea and vomiting,4,23,before
+experienced nausea and vomiting with pipobroman,16932000,nausea and vomiting,12,31,before
+experienced nausea and vomiting with onasemnogene abeparvovec,16932000,nausea and vomiting,12,31,before
+experienced nausea and vomiting due to patiromer calcium,16932000,nausea and vomiting,12,31,before
+experienced nausea and vomiting due to pneumococcal vaccine,16932000,nausea and vomiting,12,31,before
+had nausea and vomiting due to ocrelizumab,16932000,nausea and vomiting,4,23,before
+experienced nausea and vomiting with exametazime,16932000,nausea and vomiting,12,31,before
+experienced nausea and vomiting due to glucose liquid,16932000,nausea and vomiting,12,31,before
+experienced nausea and vomiting due to blackcurrant syrup,16932000,nausea and vomiting,12,31,before
+experienced nausea and vomiting due to phenytoin sodium,16932000,nausea and vomiting,12,31,before
+experienced nausea and vomiting with tisopurine,16932000,nausea and vomiting,12,31,before
+experienced nausea and vomiting with pine mistletoe,16932000,nausea and vomiting,12,31,before
+had nausea and vomiting due to herbal tablets,16932000,nausea and vomiting,4,23,before
+had nausea and vomiting with lusutrombopag,16932000,nausea and vomiting,4,23,before
+had urticaria due to terizidone,126485001,urticaria,4,13,before
+experienced urticaria due to talimogene laherparepvec,126485001,urticaria,12,21,before
+had urticaria due to l-ornithine-l-aspartate,126485001,urticaria,4,13,before
+had urticaria with cenobamate,126485001,urticaria,4,13,before
+experienced urticaria due to penfluridol,126485001,urticaria,12,21,before
+experienced urticaria with trastuzumab emtansine,126485001,urticaria,12,21,before
+experienced urticaria due to berotralstat,126485001,urticaria,12,21,before
+had urticaria with cytarabine (liposomal),126485001,urticaria,4,13,before
+had urticaria with erythromycin lactobionate,126485001,urticaria,4,13,before
+had urticaria due to ocrelizumab,126485001,urticaria,4,13,before
+had urticaria with frovatriptan,126485001,urticaria,4,13,before
+experienced urticaria due to tragacanth powder,126485001,urticaria,12,21,before
+had urticaria due to apple mistletoe,126485001,urticaria,4,13,before
+had urticaria due to hypochlorite,126485001,urticaria,4,13,before
+had urticaria due to dl-methionine,126485001,urticaria,4,13,before
+had urticaria due to grass pollen,126485001,urticaria,4,13,before
+had urticaria with ravulizumab,126485001,urticaria,4,13,before
+experienced urticaria with cabozantinib,126485001,urticaria,12,21,before
+had urticaria due to urapidil,126485001,urticaria,4,13,before
+had urticaria due to co-cyprindiol,126485001,urticaria,4,13,before
+had gi bleed with norethisterone acetate,74474003,gastrointestinal hemorrhage,4,12,before
+experienced gi bleed due to mycophenolate mofetil,74474003,gastrointestinal hemorrhage,12,20,before
+had gi bleed due to guar gum,74474003,gastrointestinal hemorrhage,4,12,before
+had gi bleed with dacomitinib,74474003,gastrointestinal hemorrhage,4,12,before
+experienced gi bleed due to calcium ascorbate,74474003,gastrointestinal hemorrhage,12,20,before
+had gi bleed with erenumab,74474003,gastrointestinal hemorrhage,4,12,before
+experienced gi bleed with pralidoxime chloride,74474003,gastrointestinal hemorrhage,12,20,before
+experienced gi bleed due to mangafodipir,74474003,gastrointestinal hemorrhage,12,20,before
+had gi bleed due to crizanlizumab,74474003,gastrointestinal hemorrhage,4,12,before
+had gi bleed due to aluminium acetate,74474003,gastrointestinal hemorrhage,4,12,before
+experienced gi bleed due to sucroferric oxyhydroxide,74474003,gastrointestinal hemorrhage,12,20,before
+experienced gi bleed due to cenegermin,74474003,gastrointestinal hemorrhage,12,20,before
+experienced gi bleed with bromhexine,74474003,gastrointestinal hemorrhage,12,20,before
+experienced gi bleed due to polatuzumab vedotin,74474003,gastrointestinal hemorrhage,12,20,before
+had gi bleed due to l-ornithine-l-aspartate,74474003,gastrointestinal hemorrhage,4,12,before
+had gi bleed due to ioflupane [i-123],74474003,gastrointestinal hemorrhage,4,12,before
+experienced gi bleed with cranberry capsules,74474003,gastrointestinal hemorrhage,12,20,before
+experienced gi bleed due to cholesterol powder,74474003,gastrointestinal hemorrhage,12,20,before
+had gi bleed due to generic aquabar,74474003,gastrointestinal hemorrhage,4,12,before
+had gi bleed due to belladonna tincture,74474003,gastrointestinal hemorrhage,4,12,before
+had anaphylaxis with mepolizumab,39579001,anaphylaxis,4,15,before
+had anaphylaxis due to coumarin,39579001,anaphylaxis,4,15,before
+had anaphylaxis with inotuzumab ozogamicin,39579001,anaphylaxis,4,15,before
+had anaphylaxis with pipobroman,39579001,anaphylaxis,4,15,before
+experienced anaphylaxis due to polyethylene oxide,39579001,anaphylaxis,12,23,before
+experienced anaphylaxis due to benzathine benzylpenicillin,39579001,anaphylaxis,12,23,before
+experienced anaphylaxis due to alanine powder,39579001,anaphylaxis,12,23,before
+had anaphylaxis due to wheat dextrin,39579001,anaphylaxis,4,15,before
+experienced anaphylaxis due to vonicog alfa,39579001,anaphylaxis,12,23,before
+experienced anaphylaxis with dupilumab,39579001,anaphylaxis,12,23,before
+experienced anaphylaxis with zinc hyaluronate,39579001,anaphylaxis,12,23,before
+experienced anaphylaxis due to dried yeast,39579001,anaphylaxis,12,23,before
+experienced anaphylaxis with tisagenlecleucel,39579001,anaphylaxis,12,23,before
+had anaphylaxis due to amifampridine,39579001,anaphylaxis,4,15,before
+experienced anaphylaxis with icosapent,39579001,anaphylaxis,12,23,before
+experienced anaphylaxis with romosozumab,39579001,anaphylaxis,12,23,before
+had anaphylaxis due to multivitamin capsules,39579001,anaphylaxis,4,15,before
+had anaphylaxis due to homeopathic hamamelis,39579001,anaphylaxis,4,15,before
+had anaphylaxis with larvae sterile,39579001,anaphylaxis,4,15,before
+experienced anaphylaxis due to ipecacuanha tincture,39579001,anaphylaxis,12,23,before
