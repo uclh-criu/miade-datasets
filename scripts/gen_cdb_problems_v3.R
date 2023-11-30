@@ -4,6 +4,9 @@
 # Format of output file for MedCAT:
 # cui, name, ontologies, name_status
 
+# Version 3 (22 Nov 2023):
+# - Exclude concepts that resulted in too many false positives
+
 #### LOAD FILES ####
 
 # Create a script for conversion of Read to SNOMED
@@ -168,7 +171,6 @@ pid|pelvic inflammatory disease
 rapd|relative afferent pupillary defect
 nfa|no fixed abode
 tb|tuberculosis
-uc|ulcerative colitis
 aom|acute otitis media
 itp|immune thrombocytopenia
 nof|fracture of neck of femur
@@ -224,7 +226,8 @@ get_acronym <- function(terms){
 	# or vice versa
 	acronym <- rep(NA_character_, length(terms))
 	words <- strsplit(tolower(terms), split = ' ')
-	maybe_acronym <- sapply(words, length) >= 3 & terms %like% '^([[:alnum:]]+) - '
+	maybe_acronym <- sapply(words, length) >= 3 & terms %like%
+		'^([[:alnum:]]+) - '
 	stated_acronym <- strsplit(sapply(words, function(x) x[1]),
 		split = character(0))
 	stated_expansion <- sub('^([[:alnum:]]+) - (.*)$', '\\2', terms)
@@ -234,13 +237,34 @@ get_acronym <- function(terms){
 	
 	if (any(maybe_acronym)){
 		for (i in seq_along(acronym)[maybe_acronym == TRUE]){
-			if (((length(setdiff(stated_acronym[[i]], created_acronym[[i]])) <= 1 |
-				(length(setdiff(stated_acronym[[i]], created_acronym[[i]])) <= 2 &
-				length(stated_acronym[[i]]) > 1 & length(created_acronym[[i]]) > 1)) &
-				(length(setdiff(created_acronym[[i]], stated_acronym[[i]])) <= 1)) |
-				(nrow(ACRONYMS[acronym == words[[i]][1] &
+			# 1. Check list of prespecified acronyms
+			if ((nrow(ACRONYMS[acronym == words[[i]][1] &
 				expansion == stated_expansion[i]]) > 0)){
 				acronym[i] <- words[[i]][1]
+			# 2. Check for exact match
+			} else if (identical(stated_acronym[[i]], created_acronym[[i]])){
+				acronym[i] <- words[[i]][1]
+			# 3. Check for exact match for first part of the phrase
+			#    e.g. 'ica - internal carotid artery stenosis'
+			} else if (identical(stated_acronym[[i]],
+				created_acronym[[i]][1:length(stated_acronym[[i]])])){
+				acronym[i] <- paste(words[[i]][c(1,
+					(length(stated_acronym[[i]]) + 3):length(words[[i]]))],
+					collapse = ' ')
+			# 4. Allow leeway in match if acronym is longer than 3 characters
+			} else if (length(stated_acronym[[i]]) > 3 &
+				length(created_acronym[[i]]) > 2 & (stated_acronym[[i]][1] ==
+				created_acronym[[i]][1])) {
+				# allow up to one extra character in stated_acronym 
+				matches <- unlist(sapply(2:length(stated_acronym[[i]]), function(x){
+					ifelse(identical(stated_acronym[[i]][-x],
+						created_acronym[[i]]), TRUE, FALSE)
+				}))
+				if (any(matches)){
+					acronym[i] <- words[[i]][1]
+				}
+			} else {
+				# no acronym
 			}
 		}
 	}
@@ -249,14 +273,27 @@ get_acronym <- function(terms){
 }
 
 # Testing
+# Testing
 terms <- c('ca - cancer', 'nof - fracture of neck of femur',
 	'abc - aa bb cc dd', 'abc - aa bb', 'abc - def ghi', 'abc',
 	'ivdu - intravenous drug user', 'oe - fever',
-	'nstemi - non st elevation mi', 'non-venomous')
-print(get_acronym(terms))
-# should be 
-#[1] "ca"     "nof"    "abc"    "abc"    NA       NA       "ivdu"   NA      
-#[9] "nstemi"
+	'ica - internal carotid artery stenosis',
+	'nstemi - non st elevation myocardial infarct', 'non-venomous',
+	'pah - phenylalanine hydroxylase deficiency')
+print(cbind(terms, acronym = get_acronym(terms)))
+#      terms                                    acronym       
+# [1,] "ca - cancer"                            "ca"          
+# [2,] "nof - fracture of neck of femur"        "nof"         
+# [3,] "abc - aa bb cc dd"                      "abc dd"      
+# [4,] "abc - aa bb"                            NA         
+# [5,] "abc - def ghi"                          NA            
+# [6,] "abc"                                    NA            
+# [7,] "ivdu - intravenous drug user"           "ivdu"        
+# [8,] "oe - fever"                             NA            
+# [9,] "ica - internal carotid artery stenosis" "ica stenosis"
+#[10,] "nstemi - non st elevation mi"           "nstemi"      
+#[11,] "non-venomous"                           NA 
+#[12,] "pah"                                    NA 
 
 remove_stopwords2 <- function(terms,
 	stopwords = c('the', 'of', 'from', 'with')){
@@ -375,14 +412,17 @@ SCT2 <- SCT2[!duplicated(SCT2)]
 # Check that each concept has exactly one preferred term
 stopifnot(all(SCT2[, .(numP = sum(name_status == 'P')), by = conceptId]$numP) == 1)
 
-# Remove all one character terms and remove 2-3 character terms which
-# are common English words and not in the list of specified acronyms.
+# Remove:
+# - all one character terms
+# - 2 character terms which are not in the list of specified acronyms
+# - 3 character terms which are common English words
 BRIF <- fread('https://raw.githubusercontent.com/anoopshah/freetext-matching-algorithm-lookups/master/2of4brif.txt',
 	header = FALSE, col.names = 'word')
 
-SHORT <- SCT2[name_status == 'A' & nchar(term) < 4, .(conceptId, term)]
-SHORT <- SHORT[(term %in% BRIF[[1]] & !(term %in% ACRONYMS$acronym)) |
-	nchar(term) == 1]
+SHORT <- SCT2[name_status == 'A' & nchar(term) <= 3, .(conceptId, term)]
+SHORT <- SHORT[nchar(term) == 1 |
+	(nchar(term) == 2 & !(term %in% ACRONYMS$acronym)) |
+	(nchar(term) == 3 & (term %in% BRIF[[1]]))]
 SHORT[, full := description(conceptId)$term[1], by = conceptId]
 
 # Estimate words frequencies in SNOMED CT
@@ -398,11 +438,14 @@ SHORT <- SHORT[order(-wordfreq, term)]
 
 fwrite(SHORT, file = paste0(WORKING, 'short_terms_to_exclude.csv'))
 
-# Remove short terms not in the acronym list with 3 words and more than 10
-# frequency among SNOMED term descriptions, or 1-2 words regardless of
-# frequency.
-SCT2 <- SCT2[!(term %in% SHORT[wordfreq > 10 | nchar(term) <= 2]$term &
-	name_status == 'A')]
+# Remove short terms not in the acronym list with 3 characters and more than 10
+# frequency among SNOMED term descriptions, or 1-2 characters regardless of
+# frequency. - NOW REMOVE ALL SHORT TERMS ACCORDING TO CRITERIA ABOVE
+#SCT2 <- SCT2[!(term %in% SHORT[wordfreq > 10 | nchar(term) <= 2]$term &
+#	name_status == 'A')]
+
+# Remove short terms
+SCT2 <- SCT2[!(term %in% SHORT$term & name_status == 'A')]
 
 # Remove 'situation' concepts not in UCLH problem list subset
 SUBSET <- fread(paste0(REF, 'kawsar_snomed_subset.csv'))
@@ -453,11 +496,21 @@ regstatus <- SNOMEDconcept(c('On adult protection register',
 	'Registered deaf',
 	'Registered hearing impaired',
 	'Registered sight impaired'))
+
+# Remove general and normal findings
+general_findings <- setdiff(union(descendants(c('Evaluation finding',
+	'Colour finding', 'Patient condition finding'), include_self = TRUE),
+	SNOMEDconcept(c('General symptom', 'Complaining of a general symptom',
+	'Urine finding', 'Finding related to pregnancy', 'Delivery finding',
+	'Safety finding', 'Feeding finding', 'Finding of movement',
+	'Stool finding'))), disorders)
 normal <- SNOMEDconcept('^Normal| normal', exact = FALSE)
 normal <- normal[semanticType(normal) == 'finding']
+normal <- union(normal, descendants('No abnormality detected',
+	include_self = TRUE))
 
 SCT2 <- SCT2[!(conceptId %in% c(setdiff(admin, regstatus),
-	setdiff(social_history, housing_and_care), normal))]
+	setdiff(social_history, housing_and_care), normal, general_findings))]
 rm(admin)
 rm(housing_and_care)
 rm(social_history)
@@ -511,7 +564,7 @@ write(as.character(exclude_conceptId),
 blacklist <- intersect(c(ignore_findings, procedures), SCT2$conceptId)
 
 # Blacklist of ignorable concepts not to present as final output 
-write(as.character(sort(unique(blacklist)),
+write(as.character(sort(unique(blacklist))),
 	file = paste0(OUTPUT, 'problem_blacklist.csv'), ncolumns = 1)
 
 cat('\nDONE\n')
