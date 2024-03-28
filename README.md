@@ -18,4 +18,7 @@ Folders:
 - sample_notes - fake clinical notes for testing
 - Vocabularies - sets of word embeddings to build medcat models with
   - wikipedia_vocab - an open vocabluary which has been trained on a wikipeda dump, and contains no other data.
-
+  
+Folders for lookups and datasets currently in use:
+- cdb_and_model_files_sep_2023 - lookups used for MiADE Version 1 (for problems/diagnoses only, implemented in UCLH Feb 2024) and Version 2 (problems/diagnoses only, updated blacklist for corrections, to be implemented in UCLH Apr 2024). Based on UK SNOMED CT May 2022 version.
+- scripts - scripts used to generate files in cdb_and_model_files_sep_2023
