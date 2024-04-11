@@ -95,9 +95,7 @@ existing_cdb <- SNOMEDconcept(fread(
 
 # Set new blacklist
 new_blacklist <- union(existing_blacklist,
-	setdiff(intersect(existing_cdb,
-		c(findings, specific_errors)),
-	dont_exclude))
+	setdiff(c(findings, specific_errors), dont_exclude))
 
 # Export new blacklist
 fwrite(data.table(x = sort(unique(new_blacklist))),
