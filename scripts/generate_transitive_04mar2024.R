@@ -33,4 +33,4 @@ TRANSITIVE <- WORKING[childId %in% cdb_conceptIds &
 # Export transitive table
 fwrite(TRANSITIVE,
 	file = './cdb_and_model_files_sep_2023/lookups/transitive.csv',
-	col.names = FALSE)
+	col.names = TRUE)
