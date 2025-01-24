@@ -8,4 +8,4 @@ prior to rolling out live MiADE to all clinicians in trial.
 
 (Currently not extracting laterality)
 
-cdb_problems.csv upated 11 Oct 2024 to capitalise acronyms, exclude events and non-included findings, and also require disambiguation (name_status = 'N') for two and three character concepts.
+cdb_problems.csv upated 11 Oct 2024 to capitalise acronyms, exclude events and non-included findings, and also require disambiguation (name_status = 'N') for two and three character concepts. Paragraph chunking regex updated on 24 Jan 2025 to include an additional version ('relevant issues') used in some ward round notes.

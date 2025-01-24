@@ -1,5 +1,5 @@
 paragraph,regex
-prob,^(patient |)(current |final |hospital |active inpatient |complete |active |acute |inpatient |clinical |ongoing |in-patient |)(prob|probs|problem|problems|diag|diagnosis|diagnoses|issue|issues|this admission)( list|)
+prob,^(patient |)(relevant |current |final |hospital |active inpatient |complete |active |acute |inpatient |clinical |ongoing |in-patient |)(prob|probs|problem|problems|diag|diagnosis|diagnoses|issue|issues|this admission)( list|)
 pmh,^(hx|pmhx|pmh|background|clinical background|medical background|other background|past medical history|past psychiatric history|past surgical history|past issues this admission|past med hist|bg)
 med,^(home |current |active |outpatient |gp |current outpatient |)(med|meds|medications|drug|drugs|rx)
 allergy,^(drug |med |medication |)(allerg|allergies|allergies|allergies and intolerances|intolerances|adverse effects|adverse reactions|adverse reaction risk)
